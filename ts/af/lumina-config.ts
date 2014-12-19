@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="af">
 <context>
     <name>AppDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies Toepassing</translation>
     </message>
 </context>
 <context>
@@ -14,80 +14,81 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurskema Redigeerder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurskema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel nuwe kleur vir seleksie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="70"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stel handmatig waarde vir seleksie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="100"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="105"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="115"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="135"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="91"/>
         <source>Color Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur Bestaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="91"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierdie kleurskema bestaan alreeds.
+ Oorskryf dit?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="114"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="115"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies Kleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="135"/>
         <source>Color Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur Waarde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="135"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur:</translation>
     </message>
 </context>
 <context>
@@ -95,19 +96,21 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="14"/>
         <source>Key Press Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleuteldruk Opsporing</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
         <source>Press the keys you wish to assign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk die sleutels wat jy wil toewys.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="65"/>
         <source>Notes: 
 Special keys can only be detected if the proper keyboard driver is in use.
 Current keyboard bindings will also be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas:
+Spesiale sleutels kan slegs opgespoor word as die korrekte sleutelbord driver in gebruik is.
+Huidige sleutelbord bindings sal ook geïgnoreer word.</translation>
     </message>
 </context>
 <context>
@@ -115,82 +118,82 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Desktop Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Konfigurasie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="61"/>
         <source>Screen Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skerm Nommer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="159"/>
         <source>Single Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel Agtergrond</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="169"/>
         <source>Rotate Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Roteer Agtergrond</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="176"/>
         <source> Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minute</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="179"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Elke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="241"/>
         <source>Add Desktop Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg Desktop Plugins By</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="255"/>
         <source>Add the selected plugin to the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg die geselekteerde plugin by die desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="258"/>
         <source>Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="338"/>
         <source>Panel #1</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneel #1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="383"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="610"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkoms</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="392"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligging:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="409"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="636"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grootte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="419"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="646"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleur:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="437"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="664"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorbeeld</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="447"/>
@@ -198,44 +201,44 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1063"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1073"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="456"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="683"/>
         <source>Auto-hide Panel </source>
-        <translation type="unfinished"></translation>
+        <translation>Outo-verberg Paneel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="472"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="699"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="568"/>
         <source>Panel #2</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneel #2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="890"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Aksie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="895"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutelbordkortpad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="918"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder Kortpad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="941"/>
         <source>Change Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander Kortpad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="966"/>
@@ -245,107 +248,107 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="993"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Web Blaaier:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1016"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Pos Kliënt:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1043"/>
         <source>File Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lêerbestuurder:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1056"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtuele Terminaal:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1092"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Spesifieke Lêer Tipes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1129"/>
         <source>Group/Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Groep/Extension</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1134"/>
         <source>Default Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstek Toepassing</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1139"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrywing</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1149"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1172"/>
         <source>Set App</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel App</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1182"/>
         <source>Set Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel Binary</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1210"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1216"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1230"/>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Font Grootte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1237"/>
         <source> point</source>
-        <translation type="unfinished"></translation>
+        <translation>punt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1244"/>
         <source>Theme Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Sjabloon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1260"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep/Redigeer &apos;n tema sjabloon (Gevorderd)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1275"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurskema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1291"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep/Redigeer &apos;n kleurskema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1309"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoon Pakket:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1317"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemeen Opsies</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1323"/>
@@ -355,193 +358,193 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1330"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speel deuntjies tydens startup</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1337"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speel deuntjies tydens exit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1358"/>
         <source>Startup Routine</source>
-        <translation type="unfinished"></translation>
+        <translation>Startup Roetine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1400"/>
         <source>bin</source>
-        <translation type="unfinished"></translation>
+        <translation>bin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
         <source>file</source>
-        <translation type="unfinished"></translation>
+        <translation>lêer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Window Stelsel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1425"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal Werkruimtes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1442"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuwe Vensterplasing</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1452"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus Beleid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1462"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Window Tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1480"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Window Tema Voorskou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1525"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1820"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen Voorskou Beskikbaar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1568"/>
         <source>Save Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor Wysigings</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1571"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1610"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1639"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1642"/>
         <source>Desktop Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Voorkoms</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1650"/>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Panele</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1653"/>
         <source>Panel Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneel Konfigurasie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1661"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1664"/>
         <source>Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessie Opsies</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1672"/>
         <source>Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstekwaardes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1675"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Verstek Toepassings</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1683"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortpaaie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1686"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutelbord Kortpaaie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1694"/>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1697"/>
         <source>Desktop Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Menu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Onder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Regs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="234"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik om te Fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="235"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiewe Muis Fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="236"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Streng Muis Fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="238"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel op in &apos;n Ry</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel op in &apos;n Kolom</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="240"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaskade</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="241"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Onder Muis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
@@ -1057,12 +1060,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kanselleer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stoor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
