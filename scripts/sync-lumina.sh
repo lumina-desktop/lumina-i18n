@@ -37,6 +37,20 @@ do
 
   cd ${PROGDIR}/ts
   echo "Updating: $TSNAME "
+
+  # Check if this file exists in the repo yet
+  for i in `ls`
+  do
+     if [ -e "$i/${TSNAME}.ts" ] ; then continue ; fi
+     echo "Creating ${PROGDIR}/ts/${i}/${TSNAME}.ts"
+     cd $TMODULE
+     pro=`ls *.pro`
+     /usr/local/lib/qt5/bin/lupdate -silent -no-obsolete -ts ${PROGDIR}/ts/$i/${TSNAME}.ts -pro $pro 2>/dev/null
+     cd ${PROGDIR}/ts
+  done
+
+  cd ${PROGDIR}/ts
+
   # Now run on each file in each language
   for i in `find . | grep "/${TSNAME}.ts"`
   do
