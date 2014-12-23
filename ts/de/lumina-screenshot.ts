@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="de">
 <context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="14"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmfoto erstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>

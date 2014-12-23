@@ -72,62 +72,80 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="138"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="14"/>
+        <source>Calculating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="153"/>
         <source>Calculating...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Overwrite Files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Do you want to overwrite the existing files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="161"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
+        <source>Invalid Move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
+        <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
+
+Old Location: %1
+New Location: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="208"/>
         <source>Removing: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="211"/>
         <source>Copying: %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="174"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="232"/>
         <source>Moving: %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="185"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="244"/>
         <source>Could not remove these files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="186"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="245"/>
         <source>Could not copy these files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="187"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="246"/>
         <source>Could not restore these files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="247"/>
         <source>Could not move these files:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="189"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="248"/>
         <source>File Errors</source>
         <translation type="unfinished"></translation>
     </message>
@@ -702,37 +720,37 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1115"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>Verify Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1115"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1115"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>Are you sure you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1140"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1147"/>
         <source>Rename File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1140"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1147"/>
         <source>New Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1154"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1161"/>
         <source>Overwrite File?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1154"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1161"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
