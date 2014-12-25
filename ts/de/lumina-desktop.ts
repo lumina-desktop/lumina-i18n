@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="de">
 <context>
     <name>AppLauncherPlugin</name>
     <message>
@@ -69,22 +69,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Büro</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wissenschaft</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">System</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unsortiert</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="92"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="21"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
@@ -512,37 +512,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="209"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Büro</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="210"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Wissenschaft</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="211"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="212"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="213"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Hilfsprogramme</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="214"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="215"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsortiert</translation>
     </message>
 </context>
 </TS>

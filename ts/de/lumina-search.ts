@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="de">
 <context>
     <name>MainUI</name>
     <message>
@@ -41,24 +41,24 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="109"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="112"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="115"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildschirmfoto speichern</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="118"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="123"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="126"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="131"/>
@@ -76,17 +76,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="39"/>
         <source>Searching: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="59"/>
         <source>Starting Search: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginne mit der Suche: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="100"/>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche beendet</translation>
     </message>
 </context>
 </TS>
