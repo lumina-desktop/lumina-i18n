@@ -11,22 +11,22 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Noch kein Bildschirmfoto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Bildschirmfoto-Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="55"/>
         <source> Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Sekunden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Delay </source>
-        <translation type="unfinished"></translation>
+        <translation>Verzögerung </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>
@@ -70,22 +70,22 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Fangen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Momentaufnahme machen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG-Dateien (*.png);;Alle Dateien (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
         <source>Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenster:</translation>
     </message>
 </context>
 </TS>

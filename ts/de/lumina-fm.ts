@@ -59,12 +59,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateioperationen ausführen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="39"/>
         <source>%v/%m</source>
-        <translation type="unfinished">%v/%m</translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="74"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweis: Sonst wird nur eine Nummer an den Dateinamen angehängt.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
         <source>Invalid Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Verschieben</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
@@ -107,7 +107,10 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist nicht möglich, ein Verzeichnis in sich selbst zu verschieben. Bitte eine Kopie des Verzeichnisses stattdessen erstellen.
+
+Alte Position: %1
+Neue Position: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="208"/>
@@ -179,39 +182,39 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="221"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="224"/>
         <source>Rename item</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt umbenennen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="250"/>
         <source>Cut items</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt ausschneiden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="253"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte ausschneiden (zur Zwischenablage hinzufügen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="272"/>
         <source>Copy items</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte kopieren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="275"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="294"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="297"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte aus der Zwischenablage einfügen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="323"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="326"/>
         <source>Delete Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekte löschen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="388"/>
@@ -231,12 +234,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="416"/>
         <source>Play any multimedia files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Multimediadateien in diesem Verzeichnis abspielen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="419"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiedergabe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="422"/>
@@ -363,17 +366,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="930"/>
         <source>Restore Selected Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewähltes Element wiederherstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="933"/>
         <source>&amp;Restore Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl wiederhe&amp;rstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="936"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="959"/>
@@ -423,12 +426,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1050"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1053"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1061"/>

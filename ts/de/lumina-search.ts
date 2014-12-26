@@ -6,37 +6,37 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen nach …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingeben, um zu suchen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Stop Active Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchvorgang anhalten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="44"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
         <source>Files or Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien und Verzeichnisse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="78"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="98"/>
         <source>Launch Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Element starten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="109"/>
@@ -63,12 +63,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="131"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Fangen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="134"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Momentaufnahme machen</translation>
     </message>
 </context>
 <context>

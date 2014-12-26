@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
         <source>Set this application as the default </source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Anwendung als Standardanwendung verwenden </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="257"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführbare Anwendung finden</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>
 </context>
 </TS>
