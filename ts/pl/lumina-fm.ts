@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="pl">
 <context>
     <name>BMMDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzaj zakładkami</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="40"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń zakładkę</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę zakładki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakończono</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę zakładki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowa nazwa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taka zakładka już istnieje. Proszę wybrać inną.</translation>
     </message>
 </context>
 <context>
@@ -59,42 +59,42 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykonywanie operacji na plikach</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="39"/>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="74"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="14"/>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Obliczanie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="153"/>
         <source>Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obliczanie...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Overwrite Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisać pliki?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Do you want to overwrite the existing files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadpisać istniejący pliki?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: Zostanie dodana liczba to nazwy pliku.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
@@ -514,7 +514,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1143"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarządzaj zakładkami</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1157"/>
@@ -610,18 +610,18 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="668"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="722"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nazwa:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="673"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="731"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nieprawidłowa nazwa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="673"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Taka zakładka już istnieje. Proszę wybrać inną.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="722"/>
@@ -707,7 +707,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="992"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakończono</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1014"/>
