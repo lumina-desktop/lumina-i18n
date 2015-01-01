@@ -166,47 +166,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="114"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="128"/>
         <source>Window List</source>
         <translation>Lista Okien</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="181"/>
         <source>Lumina Desktop</source>
         <translation>Pulpit Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="182"/>
         <source>Workspace %1</source>
         <translation>Przestrzeń robocza %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="178"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="192"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="179"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="193"/>
         <source>Browse System</source>
         <translation>Przeglądaj System</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="199"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="213"/>
         <source>Lock Desktop</source>
         <translation>Zablokuj Pulpit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="200"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="214"/>
         <source>Snap Plugins to Grid</source>
         <translation>Przeciągnij wtyczki do siatki</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="215"/>
         <source>Unlock Desktop</source>
         <translation>Odblokuj Pulpit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="203"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="217"/>
         <source>Log Out</source>
         <translation>Wyloguj</translation>
     </message>
@@ -273,7 +273,17 @@
 <context>
     <name>LTaskButton</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="127"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="132"/>
+        <source>Minimize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="133"/>
+        <source>Maximize Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="134"/>
         <source>Close Window</source>
         <translation>Zamknij Okno</translation>
     </message>
