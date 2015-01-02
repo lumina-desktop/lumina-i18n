@@ -127,24 +127,24 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="147"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="149"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="155"/>
         <source>Audio Volume %1%</source>
         <translation>Lautstärke %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="170"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="172"/>
         <source>Screen Brightness %1%</source>
         <translation>Bildschirmhelligkeit %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="323"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="325"/>
         <source>Application Error</source>
         <translation>Anwendungsfehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="323"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="325"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>
