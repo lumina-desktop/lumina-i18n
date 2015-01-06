@@ -49,77 +49,87 @@
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
+        <source>(Email Link)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
+        <source>(Internet URL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>
         <source>Audio</source>
         <translation>Áudio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="110"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="112"/>
         <source>Video</source>
         <translation>Vídeo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="113"/>
         <source>Multimedia</source>
         <translation>Multimédia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="112"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="114"/>
         <source>Development</source>
         <translation>Desenvolvimento</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="115"/>
         <source>Education</source>
         <translation>Educação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="114"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="116"/>
         <source>Game</source>
         <translation>Jogo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="115"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Graphics</source>
         <translation>Gráficos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Network</source>
         <translation>Rede</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Office</source>
         <translation>Escritório</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Science</source>
         <translation>Ciência</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Settings</source>
         <translation>Definições</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Utilities</source>
         <translation>Utilitários</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Other</source>
         <translation>Outros</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="257"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="259"/>
         <source>Find Application Binary</source>
         <translation>Encontrar binário da aplicação</translation>
     </message>
@@ -139,12 +149,12 @@
         <translation>Brilho do Ecrã %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="325"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="329"/>
         <source>Application Error</source>
         <translation>Erro da Aplicação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="325"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="329"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>A seguinte aplicação encontrou um erro e teve de ser terminada:</translation>
     </message>
