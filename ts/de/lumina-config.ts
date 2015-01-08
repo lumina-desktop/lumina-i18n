@@ -750,7 +750,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="85"/>
         <source>Battery Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Akku-Überwachung</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="86"/>
@@ -760,12 +760,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="92"/>
         <source>Time/Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit/Datum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>View the current time and date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Zeit und Datum anzeigen.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="99"/>
@@ -780,7 +780,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="106"/>
         <source>Task Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozeßverwaltung</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
@@ -860,7 +860,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="170"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiverwaltung</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="171"/>
@@ -890,17 +890,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="191"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="192"/>
         <source>Show the desktop settings menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsplatzeinstellungsmenü anzeigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="198"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Fensterliste</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="199"/>
@@ -970,7 +970,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
         <source>Primary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Primärfarbe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
