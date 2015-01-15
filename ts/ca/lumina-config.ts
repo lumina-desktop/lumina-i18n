@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ca">
 <context>
     <name>AppDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una aplicació</translation>
     </message>
 </context>
 <context>
@@ -14,23 +14,23 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de la paleta de colors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de colors:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Establiu un nou color per seleccionar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="70"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
@@ -198,7 +198,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1063"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1073"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="456"/>
@@ -330,7 +330,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1275"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esquema de colors:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1291"/>
