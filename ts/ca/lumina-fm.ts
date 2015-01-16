@@ -249,7 +249,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="438"/>
         <source>View Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualitza la presentació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="441"/>
@@ -299,7 +299,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="694"/>
         <source>Go to Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés al començament</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="697"/>
@@ -307,40 +307,40 @@ Localització nova: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="786"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="802"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="700"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="83"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Majúscules + Esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="710"/>
         <source>Go to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés a l&apos;anterior</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="716"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="839"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="749"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="783"/>
         <source>Go to Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés a següent</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="789"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="888"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="799"/>
@@ -436,52 +436,52 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1061"/>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Preferències</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1066"/>
         <source>UpDir</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori Amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1069"/>
         <source>Go up one directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés un directori amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1072"/>
         <source>Alt+Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1077"/>
         <source>&amp;Home</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1080"/>
         <source>Go to your home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés al directori de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1083"/>
         <source>Alt+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1094"/>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra els fitxers ocults</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1099"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Enrere</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1102"/>
         <source>Back to directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna al directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1105"/>
@@ -532,47 +532,47 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="56"/>
         <source>Basic List</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista bàsica</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="57"/>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Icones</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="85"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="86"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="87"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="88"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="118"/>
         <source>Invalid Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Directoris no vàlids</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="118"/>
         <source>The following directories are invalid and could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Els directoris següents no són vàlids i no s&apos;han pogut obrir:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="311"/>
         <source>Filesystem: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de fitxers: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="326"/>
@@ -624,47 +624,47 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="673"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished">Aquest nom de marcador ja existeix. Trieu-ne un altre.</translation>
+        <translation>Aquest nom de marcador ja existeix. Trieu-ne un altre.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="722"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori nou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="731"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja existeix un fitxer o directori amb aquest mateix nom, utilitzeu-ne un altre.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="735"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en crear el directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="735"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear el directori. Si us plau, assegureu-vos que teniu els permisos corresponents per modificar el directori actual.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="803"/>
         <source>Open in new tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre en una pestanya nova</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="806"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre amb...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Reanomena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="813"/>
@@ -690,72 +690,73 @@ Localització nova: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>Currently on clipboard:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment al porta-retalls:
+%1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="936"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Correcte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="936"/>
         <source>Successfully restored selection</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha restaurat la selecció correctament</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="963"/>
         <source>Error Playing File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en reproduir el fitxer: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="992"/>
         <source>Finished</source>
-        <translation type="unfinished">Acabat</translation>
+        <translation>Acabat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1014"/>
         <source>Playing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduint:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1020"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Aturat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>Verify Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificació de la supressió</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>AVÍS: això suprimirà permanentment el fitxer o fitxers del sistema!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu continuar?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1147"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Reanomena el fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1147"/>
         <source>New Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom nou:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1161"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu sobreescriure el fitxer?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1161"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se substituirà un fitxer existent amb el mateix nom. Esteu segur que voleu continuar?</translation>
     </message>
 </context>
 <context>
@@ -763,17 +764,17 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="43"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="45"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="47"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicació</translation>
     </message>
 </context>
 </TS>
