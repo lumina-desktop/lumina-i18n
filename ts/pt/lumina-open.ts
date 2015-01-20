@@ -149,12 +149,12 @@
         <translation>Brilho do Ecrã %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="329"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
         <source>Application Error</source>
         <translation>Erro da Aplicação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="329"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>A seguinte aplicação encontrou um erro e teve de ser terminada:</translation>
     </message>

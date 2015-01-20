@@ -138,27 +138,27 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="185"/>
         <source> Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="188"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Cada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="250"/>
         <source>Add Desktop Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix connectors d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="264"/>
         <source>Add the selected plugin to the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix el connector seleccionat a l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="267"/>
         <source>Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Connector</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="347"/>
@@ -169,25 +169,25 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="392"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="629"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparença</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="401"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="638"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicació:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="418"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="655"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="428"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="665"/>
         <source>Custom Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Color personalitzat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="446"/>
@@ -213,7 +213,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="472"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="709"/>
         <source>Follow Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Segueix el tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="491"/>
@@ -249,32 +249,32 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="995"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: les associacions de tecles actuals s&apos;han de netejar i desar abans que es puguin reutilitzar.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1022"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador web:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1045"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>Client de correu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1072"/>
         <source>File Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestor de fitxers:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1085"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal virtual:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1121"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de fitxers específics</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1158"/>
@@ -369,12 +369,12 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1366"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodueix una melodia en sortir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1387"/>
         <source>Startup Routine</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutina d&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1429"/>
@@ -425,37 +425,37 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1606"/>
         <source>Save Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa els canvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1609"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1648"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra d&apos;eines</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1677"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1680"/>
         <source>Desktop Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparença de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1688"/>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Plafons</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1691"/>
         <source>Panel Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració del plafó</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1699"/>
@@ -545,17 +545,17 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="242"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="243"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Sota el ratolí</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="264"/>
         <source>Select Panel Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu el color del plafó</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="281"/>
@@ -605,32 +605,32 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="739"/>
         <source>Find Background Image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Troba imatges de fons</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="981"/>
         <source>New Menu Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Nou connector del menú</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="981"/>
         <source>Plugin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Connector:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1047"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de l&apos;àudio amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1048"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de l&apos;àudio avall</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1049"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Brillantor de la pantalla amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1050"/>
@@ -743,17 +743,17 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="78"/>
         <source>Invisible spacer to separate plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaiador invisible per separar connectors.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="84"/>
         <source>Desktop Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviador d&apos;espai de treball</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="85"/>
         <source>Controls for switching between the various virtual desktops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Controls per canviar entre escriptoris virtuals.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="91"/>
@@ -803,32 +803,32 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="120"/>
         <source>View and control any running application windows (every window has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vegeu i controleu qualsevol finestra d&apos;aplicació en execució (cada finestra té un botó)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="126"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Safata del sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="127"/>
         <source>Display area for dockable system applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;àrea per a aplicacions de sistema acoblables</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="133"/>
         <source>Home Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botó de la carpeta d&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="134"/>
         <source>Hide all open windows and show the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Amaga totes les finestres i mostra l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="144"/>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Calendari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="145"/>
@@ -903,47 +903,47 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="198"/>
         <source>Show the system applications menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra el menú de les aplicacions de sistema.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="205"/>
         <source>Static horizontal line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Línia horitzontal estàtica.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="211"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="212"/>
         <source>Show the desktop settings menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra el menú de paràmetres de l&apos;escriptori.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
         <source>List the open application windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista les finestres de les aplicacions obertes.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>Custom App</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicació personalitzada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Start a custom application</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia una aplicació personalitzada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="236"/>
@@ -993,47 +993,47 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
         <source>Main background color for widgets that list or display collections of items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Color de fons principal per a ginys que llisten o mostres col·leccions d&apos;ítems.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="266"/>
         <source>Primary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color primari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="267"/>
         <source>Dominant color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Color dominant per al tema.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="272"/>
         <source>Primary Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Color primari (inhabilitat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="273"/>
         <source>Dominant color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Color dominant per al tema (més suau).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="278"/>
         <source>Secondary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color secundari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="279"/>
         <source>Alternate color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Color alternatiu per al tema.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="284"/>
         <source>Secondary Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Color secundari (inhabilitat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="285"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Color alternatiu per al tema (més suau).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
@@ -1081,38 +1081,39 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="14"/>
         <source>Theme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor del tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="28"/>
         <source>Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del tema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="51"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>color</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·la</translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished">Desa</translation>
+        <translation>Desa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
         <source>Theme Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>El tema ja existeix</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
         <source>This theme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest tema ja existeix.
+Voleu sobreescriure&apos;l?</translation>
     </message>
 </context>
 </TS>

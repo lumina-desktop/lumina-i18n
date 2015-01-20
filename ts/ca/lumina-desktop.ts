@@ -311,52 +311,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="66"/>
         <source>Clear Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Neteja la llista de reproducció</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
         <source>Shuffle Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordena aleatòriament la llista de reproducció</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="69"/>
         <source>Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix fitxers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="70"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix un directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="71"/>
         <source>Add URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="97"/>
         <source>Select Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu fitxers multimèdia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="108"/>
         <source>Select a Multimedia Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un directori multimèdia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="122"/>
         <source>Multimedia URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL multimèdia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="122"/>
         <source>Enter a valid URL for a multimedia file or stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu un URL vàlid per a un fitxer multimèdia o reproducció en línia</translation>
     </message>
 </context>
 <context>
