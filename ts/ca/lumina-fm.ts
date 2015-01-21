@@ -299,17 +299,17 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="694"/>
         <source>Delete this image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix aquest fitxer d&apos;imatge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="714"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Gira aquest fitxer d&apos;imatge cap a l&apos;esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="727"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Gira aquest fitxer d&apos;imatge cap a la dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="803"/>
