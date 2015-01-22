@@ -184,42 +184,42 @@
         <translation>Llista de finestres</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="181"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="182"/>
         <source>Lumina Desktop</source>
         <translation>Escriptori Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="182"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="183"/>
         <source>Workspace %1</source>
         <translation>Espai de treball %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="192"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="193"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="193"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="194"/>
         <source>Browse System</source>
         <translation>Navegueu pel sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="213"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="214"/>
         <source>Lock Desktop</source>
         <translation>Bloqueig de l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="214"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="215"/>
         <source>Snap Plugins to Grid</source>
         <translation>Ajusta els connectors a la graella</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="215"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="216"/>
         <source>Unlock Desktop</source>
         <translation>Desbloca l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="217"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="218"/>
         <source>Log Out</source>
         <translation>Surt</translation>
     </message>
