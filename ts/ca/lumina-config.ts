@@ -374,22 +374,22 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1375"/>
         <source>Change User Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia la icona de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1422"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Reestableix els paràmetres de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1441"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna als valors per defecte del sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1448"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna als valors per defecte del Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1472"/>
@@ -735,22 +735,22 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1901"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una imatge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1902"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatges</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1906"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Reestableix la imatge de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1906"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu reestablir la imatge de l&apos;usuari la predeterminada del sistema?</translation>
     </message>
 </context>
 <context>
@@ -868,12 +868,12 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="140"/>
         <source>Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú d&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="141"/>
         <source>This provides instant-access to application that are installed on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporciona accés instantani a aplicacions que estan instal·lades al sistema.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="151"/>
