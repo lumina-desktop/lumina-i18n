@@ -51,12 +51,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Odnośnik email)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Adres URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>

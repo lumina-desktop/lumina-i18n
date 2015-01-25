@@ -99,7 +99,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
         <source>Invalid Move</source>
-        <translation type="unfinished">Nieprawidłowe przeniesienie</translation>
+        <translation>Nieprawidłowa operacja przenieszenia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
@@ -299,17 +299,17 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="694"/>
         <source>Delete this image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń obraz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="714"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Obróć o 90 stopni w lewo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="727"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Obróć o 90 stopni w prawo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="803"/>
@@ -456,7 +456,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
         <source>UpDir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UpDir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
@@ -496,7 +496,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1211"/>
         <source>Back to directory</source>
-        <translation type="unfinished">Katalog wstecz</translation>
+        <translation>Katalog wstecz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1214"/>
@@ -602,7 +602,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="412"/>
         <source>Limited Access Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog z ograniczonymi uprawnieniami</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="500"/>
@@ -612,7 +612,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>Verify Quit</source>
-        <translation type="unfinished">Potwierdzenie zamknięcia</translation>
+        <translation>Potwierdzenie zamknięcia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
