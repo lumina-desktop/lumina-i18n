@@ -587,12 +587,12 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="320"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="326"/>
         <source>%1 (Type: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Tipus: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="330"/>
