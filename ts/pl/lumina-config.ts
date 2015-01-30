@@ -735,22 +735,22 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1901"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1902"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1906"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj obraz użytkownika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1906"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcesz przywrócić obraz użytkownika do systemowych ustawień domyślnych?</translation>
     </message>
 </context>
 <context>
@@ -833,17 +833,17 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="113"/>
         <source>View and control any running application windows (every application has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeglądaj i kontroluj uruchomione okna aplikacji (każda aplikacja posiada przycisk)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="119"/>
         <source>Task Manager (No Groups)</source>
-        <translation type="unfinished"></translation>
+        <translation>Menedżer zadań (brak grupowania)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="120"/>
         <source>View and control any running application windows (every window has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeglądaj i kontroluj uruchomione okna aplikacji (każde okno posiada przycisk)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="126"/>
@@ -858,22 +858,22 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="133"/>
         <source>Home Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycisk domowy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="134"/>
         <source>Hide all open windows and show the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalizuje wszystkie otwarte okna i wyświetla pulpit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="140"/>
         <source>Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Start</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="141"/>
         <source>This provides instant-access to application that are installed on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia szybki dostęp do zainstalowanych aplikacji. </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="151"/>
@@ -918,12 +918,12 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="179"/>
         <source>Audio Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzacz audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="180"/>
         <source>Play through lists of audio files</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzaj pliki audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="190"/>
@@ -1063,7 +1063,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="280"/>
         <source>Dominant color for the theme (more subdued).</source>
-        <translation type="unfinished">Kolor dominujący w zestawie (bardziej przygaszony).</translation>
+        <translation>Kolor dominujący w zestawie (przygaszony).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="285"/>
@@ -1083,12 +1083,12 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="292"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation type="unfinished">Kolor alternatywny dla zestawu (bardziej przygaszony).</translation>
+        <translation>Kolor alternatywny dla zestawu (przygaszony).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="297"/>
         <source>Accent Color</source>
-        <translation type="unfinished">Kolor akcentowy</translation>
+        <translation>Kolor akcentowy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="298"/>
@@ -1103,7 +1103,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="304"/>
         <source>Color used for borders or other accents (more subdued).</source>
-        <translation>Kolor używany do krawędzi i innych subtelnych obiektów (bardziej przygaszony).</translation>
+        <translation>Kolor używany do krawędzi i innych subtelnych obiektów (przygaszony).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="309"/>
@@ -1123,7 +1123,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="316"/>
         <source>Color used for highlighting an item (more subdued).</source>
-        <translation>Kolor używany do podświetlania obiektów (bardziej przygaszony).</translation>
+        <translation>Kolor używany do podświetlania obiektów (przygaszony).</translation>
     </message>
 </context>
 <context>
