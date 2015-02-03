@@ -443,77 +443,77 @@ Huidige sleutelbord bindings sal ook geïgnoreer word.</translation>
         <translation>Geen Voorskou Beskikbaar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1691"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1694"/>
         <source>Save Changes</source>
         <translation>Stoor Wysigings</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1694"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1697"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1733"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1736"/>
         <source>toolBar</source>
         <translation>toolBar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1762"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
         <source>Desktop</source>
         <translation>Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1768"/>
         <source>Desktop Appearance</source>
         <translation>Desktop Voorkoms</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1773"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1776"/>
         <source>Panels</source>
         <translation>Panele</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1776"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1779"/>
         <source>Panel Configuration</source>
         <translation>Paneel Konfigurasie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1784"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1787"/>
         <source>Session</source>
         <translation>Sessie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1787"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1790"/>
         <source>Session Options</source>
         <translation>Sessie Opsies</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1795"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1798"/>
         <source>Defaults</source>
         <translation>Verstekwaardes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1798"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1801"/>
         <source>Default Applications</source>
         <translation>Verstek Toepassings</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1806"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1809"/>
         <source>Shortcuts</source>
         <translation>Kortpaaie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1809"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1812"/>
         <source>Keyboard Shortcuts</source>
         <translation>Sleutelbord Kortpaaie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1817"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1820"/>
         <source>Menu</source>
         <translation>Menu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1820"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1823"/>
         <source>Desktop Menu</source>
         <translation>Desktop Menu</translation>
     </message>
@@ -1154,12 +1154,19 @@ Huidige sleutelbord bindings sal ook geïgnoreer word.</translation>
         <translation type="unfinished">Stoor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="78"/>
         <source>Theme Exists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="78"/>
         <source>This theme already exists.
  Overwrite it?</source>
         <translation type="unfinished"></translation>

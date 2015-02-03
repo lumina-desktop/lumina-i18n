@@ -443,77 +443,77 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <translation>Podgląd niedostępny</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1691"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1694"/>
         <source>Save Changes</source>
         <translation>Zapisz zmiany</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1694"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1697"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1733"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1736"/>
         <source>toolBar</source>
         <translation type="unfinished">pasekNarzędzi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1762"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
         <source>Desktop</source>
         <translation>Pulpit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1768"/>
         <source>Desktop Appearance</source>
         <translation>Wygląd pulpitu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1773"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1776"/>
         <source>Panels</source>
         <translation>Panele</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1776"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1779"/>
         <source>Panel Configuration</source>
         <translation>Konfiguracja panelu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1784"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1787"/>
         <source>Session</source>
         <translation>Sesja</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1787"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1790"/>
         <source>Session Options</source>
         <translation>Opcje sesji</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1795"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1798"/>
         <source>Defaults</source>
         <translation>Domyślne</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1798"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1801"/>
         <source>Default Applications</source>
         <translation>Domyślne aplikacje</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1806"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1809"/>
         <source>Shortcuts</source>
         <translation>Skróty</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1809"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1812"/>
         <source>Keyboard Shortcuts</source>
         <translation>Skróty klawiszowe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1817"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1820"/>
         <source>Menu</source>
         <translation>Menu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1820"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1823"/>
         <source>Desktop Menu</source>
         <translation>Menu pulpitu</translation>
     </message>
@@ -1154,12 +1154,19 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <translation>Zapisz</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="78"/>
         <source>Theme Exists</source>
         <translation>Motyw istnieje</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="78"/>
         <source>This theme already exists.
  Overwrite it?</source>
         <translation>Motyw już istnieje.
