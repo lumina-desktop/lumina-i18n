@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="hu">
 <context>
     <name>LFileDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás ezzel...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferált</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Elérhető</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
         <source>Binary Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtatható program helye</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
         <source>Set this application as the default </source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás beállítása alapértelmezettnek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(E-mail link)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Internet URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audió</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="112"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Videó</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="113"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="114"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="115"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Oktatás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="116"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Játék</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Iroda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudomány</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Segédeszközök</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéb</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="259"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Futtatható alkalmazás keresése</translation>
     </message>
 </context>
 <context>
@@ -140,23 +140,23 @@
         <location filename="../../lumina-git/lumina-open/main.cpp" line="149"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="155"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangerő: %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="172"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyő fényessége: %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás hiba</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alkalmazás hibát észlelt, és bezárandó:</translation>
     </message>
 </context>
 </TS>

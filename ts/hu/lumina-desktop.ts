@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="hu">
 <context>
     <name>AppLauncherPlugin</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="36"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattintás a beállításhoz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="57"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="57"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Név:</translation>
     </message>
 </context>
 <context>
@@ -24,87 +24,87 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="41"/>
         <source>Open Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Saját könyvtár megnyitása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="45"/>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások telepítése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="50"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vezérlőpult</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="60"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="61"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="62"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Oktatás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="63"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="64"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="65"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Iroda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudomány</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Segédeszközök</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem rendszerezett</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="93"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások</translation>
     </message>
 </context>
 <context>
@@ -112,12 +112,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások gyors indítása vagy fájlok megnyitása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
         <source>Start Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kezdje itt!</translation>
     </message>
 </context>
 <context>
@@ -125,12 +125,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="83"/>
         <source>%1 % (Charging)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (Töltés)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (%2 fennmaradó)</translation>
     </message>
 </context>
 <context>
@@ -138,42 +138,42 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="51"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="62"/>
         <source>Favorite Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc mappák</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="70"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audió</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="74"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Videó</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="78"/>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Képek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="82"/>
         <source>Other Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéb fájlok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="85"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentumok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="92"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc fájlok</translation>
     </message>
 </context>
 <context>
@@ -181,47 +181,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="128"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablaklista</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="182"/>
         <source>Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="183"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 munkaterület</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="193"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminál</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="194"/>
         <source>Browse System</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer böngészése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="214"/>
         <source>Lock Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal zárolása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="215"/>
         <source>Snap Plugins to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Pluginek rácspontokhoz igazítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="216"/>
         <source>Unlock Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal zárolásának feloldása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="218"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelentkezés</translation>
     </message>
 </context>
 <context>
@@ -230,7 +230,7 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="123"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="131"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 munkaterület</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="42"/>
         <source>System Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszeráttekintés</translation>
     </message>
 </context>
 <context>
@@ -251,44 +251,44 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
         <source>System Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer hangereje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
         <source>Launch Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hangkeverő indítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
         <source>Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyő világosság</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="228"/>
         <source>Battery Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkumulátor állapota</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="293"/>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Munkaterület</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="370"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelentkezés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="77"/>
         <source>connected</source>
-        <translation type="unfinished"></translation>
+        <translation>kapcsolódva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="95"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="131"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="140"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
 </context>
 <context>
@@ -296,27 +296,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="142"/>
         <source>Activate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak aktiválása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="145"/>
         <source>Minimize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak minimalizálása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="147"/>
         <source>Restore Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak visszaállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="149"/>
         <source>Maximize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak maximalizálása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="152"/>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak bezárása</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="35"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások gyors indítása vagy fájlok megnyitása</translation>
     </message>
 </context>
 <context>
@@ -332,27 +332,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="109"/>
         <source>Note Files (*.note)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jegyzetfájlok (*.note)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="109"/>
         <source>Text Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szövegfájlok (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="110"/>
         <source>Open a note file</source>
-        <translation type="unfinished"></translation>
+        <translation>Jegyzet fájl megnyitása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="147"/>
         <source>New Note Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Új jegyzet neve:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="149"/>
         <source>Create a new note</source>
-        <translation type="unfinished"></translation>
+        <translation>Új jegyzet létrehozása</translation>
     </message>
 </context>
 <context>
@@ -365,42 +365,42 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
         <source>Clear Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszólista törlése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="68"/>
         <source>Shuffle Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejátszólista keverése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="70"/>
         <source>Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok hozzáadása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="71"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Könyvtár hozzáadása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="72"/>
         <source>Add URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL hozzáadása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="100"/>
         <source>Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia fájlok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="101"/>
         <source>Select Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia fájlok kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="128"/>
         <source>Select Multimedia Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia könyvtár kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="157"/>
@@ -410,7 +410,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia URL</translation>
     </message>
 </context>
 <context>
@@ -418,32 +418,32 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="21"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Screensaver</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyővédő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="28"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="33"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablaktéma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="43"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vezérlőpult</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="49"/>
         <source>About Lumina</source>
-        <translation type="unfinished"></translation>
+        <translation>A Lumina névjegye</translation>
     </message>
 </context>
 <context>
@@ -451,32 +451,32 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="14"/>
         <source>System Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer opciók</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="46"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelentkezés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="62"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Újraindítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="78"/>
         <source>Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Leállítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="138"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyő lezárása</translation>
     </message>
 </context>
 <context>
@@ -484,22 +484,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="26"/>
         <source>Go Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissza</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="93"/>
         <source>Remove Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsindító eltávolítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="96"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl törlése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="103"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsindító létrehozása</translation>
     </message>
 </context>
 <context>
@@ -513,173 +513,173 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="24"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="27"/>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvencek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="65"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
         <source>Favorite Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc könyvtárak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
         <source>Favorite FIles</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedvenc fájlok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="142"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>System Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="243"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Saját könyvtár</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
         <source>Home Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Saját könyvtár</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="325"/>
         <source>Go back to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissza a saját könyvtárra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="394"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Könyvtár megnyitása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="433"/>
         <source>Config</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="436"/>
         <source>Desktop Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal beállításai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="448"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vezérlőpult</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="470"/>
         <source>Desktop Appearance/Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal megjelenése / pluginek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="492"/>
         <source>Application Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások megjelenése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="514"/>
         <source>Screensaver Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyővédő beállításai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="556"/>
         <source>About the Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>A Lumina Desktop névjegye</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="204"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Mind</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="205"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="206"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="207"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Oktatás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="208"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="209"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="210"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="211"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Iroda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="212"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudomány</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="213"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="214"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="215"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Segédprogramok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="216"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="217"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem rendszerezett</translation>
     </message>
 </context>
 </TS>
