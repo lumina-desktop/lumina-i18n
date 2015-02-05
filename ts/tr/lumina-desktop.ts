@@ -89,7 +89,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Utility</source>
-        <translation>Yardımcı Yazılım</translation>
+        <translation>Gereç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
@@ -487,17 +487,17 @@
         <translation>Geri Git</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="95"/>
         <source>Remove Shortcut</source>
         <translation>Kısayolu Kaldır</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="98"/>
         <source>Delete File</source>
         <translation>Dosyayı Sil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="103"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="105"/>
         <source>Create Shortcut</source>
         <translation>Kısayol Oluştur</translation>
     </message>
@@ -669,7 +669,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="215"/>
         <source>Utilities</source>
-        <translation>Yardımcı Yazılımlar</translation>
+        <translation>Gereçler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="216"/>

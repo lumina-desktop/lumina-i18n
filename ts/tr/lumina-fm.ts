@@ -120,12 +120,12 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="211"/>
         <source>Copying: %1 to %2</source>
-        <translation>Kopyalanıyor: %1 kaynağından %2 hedefine</translation>
+        <translation>Kopyalanıyor: %1 %2 hedefine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="232"/>
         <source>Moving: %1 to %2</source>
-        <translation>Taşınıyor: %1 kaynağından %2 hedefine</translation>
+        <translation>Taşınıyor: %1 %2 hedefine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="244"/>

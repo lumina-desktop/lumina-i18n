@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation>Kişisel</translation>
+        <translation>Özel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Utilities</source>
-        <translation>Yardımcı Yazılımlar</translation>
+        <translation>Gereçler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
