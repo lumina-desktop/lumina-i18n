@@ -224,7 +224,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="436"/>
         <source>Ctrl+N</source>
-        <translation>Ctrl+N</translation>
+        <translation type="unfinished">Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="455"/>
@@ -244,7 +244,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="464"/>
         <source>Ctrl+P, Ctrl+S</source>
-        <translation>Ctrl+P, Ctrl+S</translation>
+        <translation type="unfinished">Ctrl+P, Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="480"/>
@@ -259,12 +259,12 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="486"/>
         <source>&amp;Slideshow</source>
-        <translation>&amp;Slayt Gösterisi</translation>
+        <translation>Slayt &amp;Gösterisi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="489"/>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="505"/>
@@ -284,7 +284,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="514"/>
         <source>Ctrl+B</source>
-        <translation>Ctrl+B</translation>
+        <translation type="unfinished">Ctrl+B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="541"/>
@@ -328,7 +328,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="809"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="85"/>
         <source>Shift+Left</source>
-        <translation>Shift+Sol Yön Tuşu</translation>
+        <translation type="unfinished">Shift+Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="819"/>
@@ -339,7 +339,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="825"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="948"/>
         <source>Left</source>
-        <translation>Sol Yön Tuşu</translation>
+        <translation type="unfinished">Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="858"/>
@@ -355,7 +355,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="898"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="997"/>
         <source>Right</source>
-        <translation>Sağ Yön Tuşu</translation>
+        <translation type="unfinished">Right</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="908"/>
@@ -366,7 +366,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="914"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="86"/>
         <source>Shift+Right</source>
-        <translation>Shift+Sağ Yön Tuşu</translation>
+        <translation type="unfinished">Shift+Right</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="945"/>
@@ -386,12 +386,12 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1042"/>
         <source>&amp;Restore Selection</source>
-        <translation>Seçimi &amp;Geri Yükle</translation>
+        <translation>Seçimi Ge&amp;ri Yükle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1045"/>
         <source>Ctrl+R</source>
-        <translation>Ctrl+R</translation>
+        <translation type="unfinished">Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1068"/>
@@ -401,7 +401,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1071"/>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation type="unfinished">Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1094"/>
@@ -436,7 +436,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1154"/>
         <source>Ctrl+T</source>
-        <translation>Ctrl+T</translation>
+        <translation type="unfinished">Ctrl+T</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1159"/>
@@ -446,12 +446,12 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1162"/>
         <source>Ctrl+Q</source>
-        <translation>Ctrl+Q</translation>
+        <translation type="unfinished">Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1170"/>
         <source>&amp;Preferences</source>
-        <translation>&amp;Seçenekler</translation>
+        <translation>&amp;Tercihler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
@@ -481,7 +481,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1192"/>
         <source>Alt+H</source>
-        <translation>Alt+H</translation>
+        <translation type="unfinished">Alt+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1203"/>
@@ -502,7 +502,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1214"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1244"/>
         <source>Alt+Left</source>
-        <translation>Alt+Sol Yön Tuşu</translation>
+        <translation type="unfinished">Alt+Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1219"/>
@@ -517,7 +517,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1225"/>
         <source>Ctrl+D</source>
-        <translation>Ctrl+D</translation>
+        <translation type="unfinished">Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1230"/>
@@ -557,17 +557,17 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="87"/>
         <source>Ctrl+W</source>
-        <translation>Ctrl+W</translation>
+        <translation type="unfinished">Ctrl+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="88"/>
         <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
+        <translation type="unfinished">Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="89"/>
         <source>Ctrl+V</source>
-        <translation>Ctrl+V</translation>
+        <translation type="unfinished">Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="90"/>
@@ -617,7 +617,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="511"/>
         <source>Click Play to Start</source>
-        <translation>Başlatmak için Oynat&apos;a tıklatın</translation>
+        <translation>Başlatmak için Oynat&apos;a tıkla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="593"/>

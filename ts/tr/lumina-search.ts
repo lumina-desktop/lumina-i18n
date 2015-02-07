@@ -52,7 +52,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="118"/>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="unfinished">Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="123"/>

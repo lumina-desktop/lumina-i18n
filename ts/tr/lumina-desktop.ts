@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="36"/>
         <source>Click to Set</source>
-        <translation>Ayarlamak için Tıklat</translation>
+        <translation>Ayarlamak için Tıkla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="57"/>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="436"/>
         <source>Desktop Preferences</source>
-        <translation>Masaüstü Seçenekleri</translation>
+        <translation>Masaüstü Tercihleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="448"/>
