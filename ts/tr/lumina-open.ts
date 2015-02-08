@@ -140,13 +140,13 @@
         <location filename="../../lumina-git/lumina-open/main.cpp" line="149"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="155"/>
         <source>Audio Volume %1%</source>
-        <translation>Ses Düzeyi %%1</translation>
+        <translation>Ses Düzeyi %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="172"/>
         <source>Screen Brightness %1%</source>
-        <translation>Ekran Parlaklığı %%1</translation>
+        <translation>Ekran Parlaklığı %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="331"/>
