@@ -214,7 +214,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="683"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="880"/>
         <source>Auto-hide Panel </source>
-        <translation>Paneli kendiliğinden gizle </translation>
+        <translation>Paneli otomatik gizle </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="690"/>
@@ -1069,7 +1069,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
         <source>Area for automatically showing desktop icons</source>
-        <translation>Masaüstü simgelerinin kendiliğinden gösterilme alanı</translation>
+        <translation>Masaüstü simgelerinin otomatik olarak gösterilme alanı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="172"/>

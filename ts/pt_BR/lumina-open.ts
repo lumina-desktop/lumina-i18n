@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
@@ -51,12 +51,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Link de e-mail)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Endereço da internet)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>

@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação do Lumina Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="59"/>
@@ -41,12 +41,12 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="173"/>
         <source>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Abrir no navegador web&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="191"/>
         <source>View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver informações</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="214"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="269"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colaboradores:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="282"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Abrir no navegador web&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>

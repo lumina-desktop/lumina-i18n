@@ -84,12 +84,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Overwrite Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir arquivos?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
         <source>Do you want to overwrite the existing files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja substituir os arquivos existentes?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
@@ -99,7 +99,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
         <source>Invalid Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Movimento inválido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
@@ -167,7 +167,7 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="212"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="215"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir item (selecionar aplicativo)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="241"/>
@@ -216,7 +216,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
         <source>Create a new subdirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar um novo subdiretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="436"/>
@@ -301,12 +301,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="714"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotacionar este arquivo de imagem no sentido anti-horário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="727"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotacionar este arquivo de imagem no sentido horário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="803"/>
@@ -458,12 +458,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
         <source>Go up one directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Subir um diretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1181"/>
         <source>Alt+Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Cima</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
@@ -473,7 +473,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1189"/>
         <source>Go to your home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a sua pasta pessoal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1192"/>
@@ -574,17 +574,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="120"/>
         <source>Invalid Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretórios inválidos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="120"/>
         <source>The following directories are invalid and could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Os seguintes diretórios são inválidos e não podem ser abertos:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="320"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="326"/>
@@ -604,12 +604,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="345"/>
         <source>You do not have permission to edit this directory!</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não tem permissão para editar este diretório!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="423"/>
         <source>Limited Access Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diretório com acesso limitado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="511"/>
@@ -624,7 +624,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="593"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você possui várias abas abertas. Deseja realmente sair?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
@@ -651,7 +651,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="743"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo diretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="752"/>
@@ -712,7 +712,8 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="858"/>
         <source>Currently on clipboard:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualmente na área de transferência:
+%1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
@@ -772,7 +773,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir arquivo?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
@@ -785,7 +786,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="43"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="45"/>
