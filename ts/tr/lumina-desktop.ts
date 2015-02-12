@@ -322,7 +322,7 @@
 <context>
     <name>LUserButtonPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="35"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="36"/>
         <source>Quickly launch applications or open files</source>
         <translation>Hızlı bir şekilde uygulama başlatın ya da dosya açın</translation>
     </message>
