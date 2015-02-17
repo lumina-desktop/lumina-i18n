@@ -118,37 +118,37 @@ Nowa lokalizacja: %2</translation>
         <translation>Usuwanie: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="211"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="212"/>
         <source>Copying: %1 to %2</source>
         <translation>Kopiowanie: %1 do %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="232"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="235"/>
         <source>Moving: %1 to %2</source>
         <translation>Przenoszenie: %1 do %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="244"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="248"/>
         <source>Could not remove these files:</source>
         <translation>Nie można usunąć plików:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="245"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="249"/>
         <source>Could not copy these files:</source>
         <translation>Nie można skopiować plików:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="250"/>
         <source>Could not restore these files:</source>
         <translation>Nie można przywrócić plików:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="251"/>
         <source>Could not move these files:</source>
         <translation>Nie można przenieść plików:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="248"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="252"/>
         <source>File Errors</source>
         <translation>Błędy pliku</translation>
     </message>
@@ -719,67 +719,67 @@ Nowa lokalizacja: %2</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1013"/>
         <source>Success</source>
         <translation>Sukces</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1013"/>
         <source>Successfully restored selection</source>
         <translation>Z powodzeniem przywrócono zaznaczenie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1033"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1040"/>
         <source>Error Playing File: %1</source>
         <translation>Wystąpił błąd podczas odtwarzania pliku: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1062"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1069"/>
         <source>Finished</source>
         <translation>Zakończono</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1091"/>
         <source>Playing:</source>
         <translation>Odtwarzanie:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1090"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1097"/>
         <source>Stopped</source>
         <translation>Zatrzymano</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1190"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1197"/>
         <source>Verify Removal</source>
         <translation>Potwierdź usuwanie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1190"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1197"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>OSTRZEŻENIE: Ta operacja trwale usunie plik(i) z systemu!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1190"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1197"/>
         <source>Are you sure you want to continue?</source>
         <translation>Na pewno kontynuować?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1217"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1224"/>
         <source>Rename File</source>
         <translation>Zmień nazwę pliku</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1217"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1224"/>
         <source>New Name:</source>
         <translation>Nowa nazwa:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1238"/>
         <source>Overwrite File?</source>
         <translation>Nadpisać plik?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1238"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Istniejący plik o tej samej nazwie zostanie nadpisany. Na pewno kontynuować?</translation>
     </message>
