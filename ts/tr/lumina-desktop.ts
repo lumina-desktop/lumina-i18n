@@ -246,7 +246,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="14"/>
         <source>Form</source>
-        <translation>Biçim</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="145"/>
         <source>Minimize Window</source>
-        <translation>Pencereyi Simge Durumuna Küçült</translation>
+        <translation>Pencereyi Küçült</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="147"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.ui" line="14"/>
         <source>Form</source>
-        <translation>Biçim</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="72"/>
         <source>Add URL</source>
-        <translation>İnternet Bağlantısı Ekle</translation>
+        <translation>URL Ekle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="100"/>
@@ -405,12 +405,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="157"/>
         <source>Enter a valid URL for a multimedia file or stream:</source>
-        <translation>Bir çoklu ortam dosyası ya da akışı için geçerli bir internet bağlantısı girin:</translation>
+        <translation>Bir çoklu ortam dosyası ya da akışı için geçerli bir URL girin:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation>Çoklu ortam bağlantısı</translation>
+        <translation>Çoklu ortam URL</translation>
     </message>
 </context>
 <context>
@@ -533,7 +533,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation>Dizinler</translation>
+        <translation>Yerler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>

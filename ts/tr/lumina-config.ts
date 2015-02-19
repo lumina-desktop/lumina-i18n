@@ -35,7 +35,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation>Seçili öğe için değeri el ile gir</translation>
+        <translation>Seçili öğe için değeri el ile ayarla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
@@ -546,12 +546,12 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1942"/>
         <source>Interface</source>
-        <translation>Arayüz</translation>
+        <translation>Arabirim</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1945"/>
         <source>Interface Configuration</source>
-        <translation>Arayüz Yapılandırması</translation>
+        <translation>Arabirim Yapılandırması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="381"/>

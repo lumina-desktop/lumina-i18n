@@ -72,85 +72,88 @@
         <translation>Dur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="14"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="15"/>
         <source>Calculating</source>
         <translation>Hesaplanıyor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="153"/>
-        <source>Calculating...</source>
-        <translation>Hesaplanıyor...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Overwrite Files?</source>
         <translation>Dosyaların üzerine yazılsın mı?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Do you want to overwrite the existing files?</source>
         <translation>Mevcut dosyaların üzerine yazmak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation>Not: Aksi durumda dosya adına bir sayı eklenecek.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
-        <source>Invalid Move</source>
-        <translation>Geçersiz Taşıma</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="196"/>
-        <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
-
-Old Location: %1
-New Location: %2</source>
-        <translation>Bir dizini kendi içine taşımak mümkün değil. Bunun yerine lütfen dizinin bir kopyasını alın.
-
-Eski Konum: %1
-Yeni Konum: %2</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="208"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="125"/>
         <source>Removing: %1</source>
         <translation>Kaldırılıyor: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="212"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="126"/>
         <source>Copying: %1 to %2</source>
         <translation>Kopyalanıyor: %1 %2 hedefine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="235"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="127"/>
+        <source>Restoring: %1 as %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
         <source>Moving: %1 to %2</source>
         <translation>Taşınıyor: %1 %2 hedefine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="248"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="141"/>
         <source>Could not remove these files:</source>
         <translation>Bu dosyalar kaldırılamadı:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="249"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="142"/>
         <source>Could not copy these files:</source>
         <translation>Bu dosyalar kopyalanamadı:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="143"/>
         <source>Could not restore these files:</source>
         <translation>Bu dosyalar geri yüklenemedi:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="251"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="144"/>
         <source>Could not move these files:</source>
         <translation>Bu dosyalar taşınamadı:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="252"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="145"/>
         <source>File Errors</source>
         <translation>Dosya Hataları</translation>
+    </message>
+</context>
+<context>
+    <name>FOWorker</name>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="287"/>
+        <source>Invalid Move</source>
+        <translation type="unfinished">Geçersiz Taşıma</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="287"/>
+        <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
+
+Old Location: %1
+New Location: %2</source>
+        <translation type="unfinished">Bir dizini kendi içine taşımak mümkün değil. Bunun yerine lütfen dizinin bir kopyasını alın.
+
+Eski Konum: %1
+Yeni Konum: %2</translation>
     </message>
 </context>
 <context>
@@ -224,7 +227,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="436"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished">Ctrl+N</translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="455"/>
@@ -244,7 +247,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="464"/>
         <source>Ctrl+P, Ctrl+S</source>
-        <translation type="unfinished">Ctrl+P, Ctrl+S</translation>
+        <translation>Ctrl+P, Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="480"/>
@@ -264,7 +267,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="489"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="505"/>
@@ -284,7 +287,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="514"/>
         <source>Ctrl+B</source>
-        <translation type="unfinished">Ctrl+B</translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="541"/>
@@ -326,9 +329,9 @@ Yeni Konum: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="809"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="85"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
         <source>Shift+Left</source>
-        <translation type="unfinished">Shift+Left</translation>
+        <translation>Shift+Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="819"/>
@@ -339,7 +342,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="825"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="948"/>
         <source>Left</source>
-        <translation type="unfinished">Left</translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="858"/>
@@ -355,7 +358,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="898"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="997"/>
         <source>Right</source>
-        <translation type="unfinished">Right</translation>
+        <translation>Sağ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="908"/>
@@ -364,9 +367,9 @@ Yeni Konum: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="914"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="86"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="98"/>
         <source>Shift+Right</source>
-        <translation type="unfinished">Shift+Right</translation>
+        <translation>Shift+Sağ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="945"/>
@@ -391,7 +394,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1045"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished">Ctrl+R</translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1068"/>
@@ -401,7 +404,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1071"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished">Ctrl+O</translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1094"/>
@@ -436,7 +439,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1154"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+T</translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1159"/>
@@ -446,7 +449,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1162"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished">Ctrl+Q</translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1170"/>
@@ -466,7 +469,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1181"/>
         <source>Alt+Up</source>
-        <translation>Alt+Yukarı Yön Tuşu</translation>
+        <translation>Alt+Yukarı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
@@ -481,7 +484,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1192"/>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+H</translation>
+        <translation>Alt+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1203"/>
@@ -502,7 +505,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1214"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1244"/>
         <source>Alt+Left</source>
-        <translation type="unfinished">Alt+Left</translation>
+        <translation>Alt+Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1219"/>
@@ -517,7 +520,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1225"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished">Ctrl+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1230"/>
@@ -540,248 +543,248 @@ Yeni Konum: %2</translation>
         <translation>Eylem Düğmelerini Göster</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="57"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="67"/>
         <source>Detailed List</source>
         <translation>Ayrıntılı Liste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="58"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="68"/>
         <source>Basic List</source>
         <translation>Temel Liste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="59"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="69"/>
         <source>Icons</source>
         <translation>Simgeler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="87"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="99"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished">Ctrl+W</translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="88"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="100"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="89"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="101"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="90"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="102"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="139"/>
         <source>Invalid Directories</source>
         <translation>Geçersiz Dizinler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="139"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>İzleyen dizinler geçersiz ve açılamadı:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="320"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="339"/>
         <source>Root</source>
         <translation>Kök</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="326"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="345"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Tür: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="330"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="349"/>
         <source>Filesystem: %1</source>
         <translation>Dosya Sistemi: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="345"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
         <source>Invalid Permissions</source>
         <translation>Geçersiz Yetki</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="345"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
         <source>You do not have permission to edit this directory!</source>
         <translation>Bu dizini düzenlemek için yetkiniz yok!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="423"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="443"/>
         <source>Limited Access Directory</source>
         <translation>Sınırlı Erişim Dizini</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="515"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="541"/>
         <source>Click Play to Start</source>
         <translation>Başlatmak için Oynat&apos;a tıkla</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="597"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="623"/>
         <source>Verify Quit</source>
         <translation>Çıkışı Doğrula</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="597"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="623"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Açık birden çok sekmeniz mevcut. Çıkmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="692"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="718"/>
         <source>New Bookmark</source>
         <translation>Yeni Yer İmi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="692"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="747"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="718"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="773"/>
         <source>Name:</source>
         <translation>Ad:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="697"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="756"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="723"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
         <source>Invalid Name</source>
         <translation>Geçersiz Ad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="697"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="723"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Bu yer imi adı zaten mevcut. Lütfen başka bir ad seçin.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="747"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="773"/>
         <source>New Directory</source>
         <translation>Yeni Dizin</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="756"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation>Bu adda bir dosya ya da dizin zaten mevcut! Lütfen başka bir ad seçin.</translation>
+        <translation>Bu ad ile bir dosya ya da dizin zaten mevcut! Lütfen başka bir ad seçin.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="760"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="786"/>
         <source>Error Creating Directory</source>
         <translation>Dizin Oluşturmada Hata</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="760"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="786"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>Dizin oluşturulamadı. Lütfen geçerli dizini düzenlemek için uygun yetkiye sahip olduğunuza emin olun.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="828"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="854"/>
         <source>Open in new tab</source>
         <translation>Yeni sekmede aç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="830"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="856"/>
         <source>Open</source>
         <translation>Aç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="831"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="857"/>
         <source>Open With...</source>
         <translation>Birlikte Aç...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="833"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="859"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="838"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>Cut Selection</source>
         <translation>Seçimi Kes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
         <source>Copy Selection</source>
         <translation>Seçimi Kopyala</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="840"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="842"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="868"/>
         <source>Delete Selection</source>
         <translation>Seçimi Sil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="862"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="888"/>
         <source>Currently on clipboard:
 %1</source>
         <translation>Şu anda pano içeriği:
 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1017"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1036"/>
         <source>Success</source>
         <translation>Başarılı</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1017"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1036"/>
         <source>Successfully restored selection</source>
         <translation>Seçim başarıyla geri yüklendi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1044"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1063"/>
         <source>Error Playing File: %1</source>
         <translation>Dosya Oynatmada Hata: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1073"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1092"/>
         <source>Finished</source>
         <translation>Bitti</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1095"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1114"/>
         <source>Playing:</source>
         <translation>Oynatılıyor:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1101"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1120"/>
         <source>Stopped</source>
         <translation>Durdu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1201"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1220"/>
         <source>Verify Removal</source>
         <translation>Kaldırmayı Doğrula</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1201"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1220"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>UYARI: Bu dosya ya da dosyaları sistemden kalıcı olarak silecektir!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1201"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1220"/>
         <source>Are you sure you want to continue?</source>
         <translation>Devam etmek istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1228"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1247"/>
         <source>Rename File</source>
         <translation>Dosyayı Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1228"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1247"/>
         <source>New Name:</source>
         <translation>Yeni Ad:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1242"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1261"/>
         <source>Overwrite File?</source>
         <translation>Dosyanın Üzerine Yazılsın Mı?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1242"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1261"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
-        <translation>Aynı adda mevcut bir dosya yenisiyle değiştirilecek. İlerlemek istediğinize emin misiniz?</translation>
+        <translation>Aynı ada sahip mevcut bir dosya yenisiyle değiştirilecek. İlerlemek istediğinize emin misiniz?</translation>
     </message>
 </context>
 <context>

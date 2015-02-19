@@ -2,6 +2,39 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
+    <name>ConfigUI</name>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="14"/>
+        <source>Search Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
+        <source>Start Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
+        <source>Excluded Directories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="40"/>
+        <source>Select Search Directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="53"/>
+        <source>Exclude Directories</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
@@ -15,58 +48,63 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
+        <source>Configure search parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
         <source>Stop Active Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="44"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
         <source>Applications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="64"/>
         <source>Files or Directories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="78"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="98"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="109"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="119"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="112"/>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="115"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="122"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="125"/>
         <source>Save Screenshot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="118"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="128"/>
         <source>Ctrl+S</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="123"/>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="126"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="133"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="136"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="131"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="141"/>
         <source>Snap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="134"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
         <translation type="unfinished"></translation>
     </message>
@@ -79,12 +117,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="59"/>
+        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="60"/>
         <source>Starting Search: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="100"/>
+        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="101"/>
         <source>Search Finished</source>
         <translation type="unfinished"></translation>
     </message>
