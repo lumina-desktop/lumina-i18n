@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="eu">
 <context>
     <name>MainUI</name>
     <message>
@@ -70,22 +70,22 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaptura</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaptura berria egin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG fitxategiak (*.png);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
         <source>Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoa:</translation>
     </message>
 </context>
 </TS>
