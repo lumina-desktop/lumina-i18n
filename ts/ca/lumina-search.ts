@@ -6,32 +6,32 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="14"/>
         <source>Search Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de la cerca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la cerca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Directoris exclosos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="40"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona Cerca un directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="53"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou directoris</translation>
     </message>
 </context>
 <context>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura els paràmetres de cerca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
