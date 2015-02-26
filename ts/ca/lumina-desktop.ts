@@ -433,7 +433,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="31"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de la pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="36"/>
@@ -604,7 +604,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="492"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de la pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="514"/>
