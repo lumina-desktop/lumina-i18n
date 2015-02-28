@@ -59,77 +59,77 @@
         <translation>(Internet URL)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Audio</source>
         <translation>Audió</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="112"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Video</source>
         <translation>Videó</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Multimedia</source>
         <translation>Multimédia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="114"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Development</source>
         <translation>Fejlesztés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="115"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Education</source>
         <translation>Oktatás</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Game</source>
         <translation>Játék</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Graphics</source>
         <translation>Grafika</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Network</source>
         <translation>Hálózat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Office</source>
         <translation>Iroda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Science</source>
         <translation>Tudomány</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>System</source>
         <translation>Rendszer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>Utilities</source>
         <translation>Segédeszközök</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Other</source>
         <translation>Egyéb</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="259"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="265"/>
         <source>Find Application Binary</source>
         <translation>Futtatható alkalmazás keresése</translation>
     </message>
