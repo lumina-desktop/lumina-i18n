@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="et">
 <context>
     <name>LFileDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava programmiga...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Eelistatud</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Saadaval</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohandatud</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
         <source>Binary Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmi asukoht</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
         <source>Set this application as the default </source>
-        <translation type="unfinished"></translation>
+        <translation>Määra vaikeprogrammiks </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Olgu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Loobu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(E-posti link)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Interneti URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Heli</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimeedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Arendus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Haridus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Mäng</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Graafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Võrk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Teadus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sätted</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Tööriistad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Muu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="265"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Leia programm</translation>
     </message>
 </context>
 <context>
@@ -140,23 +140,23 @@
         <location filename="../../lumina-git/lumina-open/main.cpp" line="151"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="157"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Helitugevus %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="165"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="174"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekraani heledus %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="333"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmi viga</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="333"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation>See rakendus sulgus, kuna esines viga:</translation>
     </message>
 </context>
 </TS>
