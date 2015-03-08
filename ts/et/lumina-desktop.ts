@@ -24,7 +24,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="41"/>
         <source>Open Home</source>
-        <translation>Ava kodukaust</translation>
+        <translation>Ava kodukataloog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="45"/>
@@ -569,12 +569,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
         <source>Home Directory</source>
-        <translation>Kodukaust</translation>
+        <translation>Kodukataloog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="325"/>
         <source>Go back to home directory</source>
-        <translation>Mine tagasi kodukausta</translation>
+        <translation>Mine tagasi kodukataloogi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="394"/>
