@@ -6,66 +6,66 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="14"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantaila-argazkia egin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantaila-argazkirik ez oraindik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantaila-argazkiko ezarpen berriak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="55"/>
         <source> Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Segundu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Delay </source>
-        <translation type="unfinished"></translation>
+        <translation>Atzerapena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>
         <source>Entire Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantaila osoa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="75"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
         <source>Select Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehioa hautatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tresna barra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantaila-argazkia gorde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ktrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="143"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Irten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
