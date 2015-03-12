@@ -818,17 +818,17 @@ New Location: %2</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="47"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="55"/>
         <source>Directory</source>
         <translation>Diretório</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="49"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="57"/>
         <source>Unknown</source>
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="51"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="59"/>
         <source>Application</source>
         <translation>Aplicativo</translation>
     </message>

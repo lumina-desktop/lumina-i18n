@@ -821,17 +821,17 @@ Yeni Konum: %2</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="47"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="55"/>
         <source>Directory</source>
         <translation>Dizin</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="49"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="57"/>
         <source>Unknown</source>
         <translation>Bilinmeyen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="51"/>
+        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="59"/>
         <source>Application</source>
         <translation>Uygulama</translation>
     </message>

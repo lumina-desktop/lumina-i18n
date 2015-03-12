@@ -108,6 +108,39 @@
     </message>
 </context>
 <context>
+    <name>DesktopViewPlugin</name>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
+        <source>Increase Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
+        <source>Decrease Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="38"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LAppMenuPlugin</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>

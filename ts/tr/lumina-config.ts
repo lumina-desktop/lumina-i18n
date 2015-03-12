@@ -524,7 +524,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1815"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1897"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1898"/>
         <source>No Preview Available</source>
         <translation>Kullanılabilir Önizleme Yok</translation>
     </message>
@@ -732,13 +732,13 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1631"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1859"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1860"/>
         <source>Select Binary</source>
         <translation>İkili Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1638"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1862"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1863"/>
         <source>Invalid Binary</source>
         <translation>Geçersiz İkili</translation>
     </message>
@@ -750,171 +750,171 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1747"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1761"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1920"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1946"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1921"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1947"/>
         <source>Local</source>
         <translation>Yerel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1754"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1768"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1927"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1953"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1928"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1954"/>
         <source>System</source>
         <translation>Sistem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1859"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1860"/>
         <source>Application Binaries (*)</source>
         <translation>Uygulama İkilileri (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1862"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1863"/>
         <source>The selected file is not executable!</source>
         <translation>Seçili dosya çalıştırılabilir değil!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1874"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1875"/>
         <source>Select File</source>
         <translation>Dosya Seç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1874"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1875"/>
         <source>All Files (*)</source>
         <translation>Tüm Dosyalar (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1965"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1966"/>
         <source>Select an image</source>
         <translation>Bir resim seç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1966"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1967"/>
         <source>Images</source>
         <translation>Görüntüler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1970"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1971"/>
         <source>Reset User Image</source>
         <translation>Kullanıcı Resmini Sıfırla</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1970"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1971"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation>Kullanıcı resmini sistem varsayılanına sıfırlamak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2010"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2011"/>
         <source>Valid Time Codes:</source>
         <translation>Geçerli Zaman Kodları:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2011"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2012"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>%1: Ön sıfırsız saat (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2012"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2013"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: Ön sıfırlı saat (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2013"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2014"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: Ön sıfırsız dakika (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2014"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2015"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: Ön sıfırlı dakika (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2015"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2016"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: Ön sıfırsız saniye (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2016"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2017"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: Ön sıfırlı saniye (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2017"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2018"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation>%1: AM/PM (12 saat) biçimi (büyük ya da küçük harf)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2018"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2019"/>
         <source>%1: Timezone</source>
         <translation>%1: Zaman dilimi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2019"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2020"/>
         <source>Time Codes</source>
         <translation>Zaman Kodları</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2034"/>
         <source>Valid Date Codes:</source>
         <translation>Geçerli Zaman Kodları:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2034"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2035"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>%1: Ön sıfırsız sayısal gün (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2035"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2036"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation>%1: Ön sıfırlı sayısal gün (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2036"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2037"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: Kısaltma şeklinde gün (yerelleştirilmiş)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2037"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
         <source>%1: Day as full name (localized)</source>
         <translation>%1: Tam adıyla gün (yerelleştirilmiş)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation>%1: Ön sıfırsız sayısal ay (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2040"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation>%1: Ön sıfırlı sayısal ay (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2040"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2041"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: Kısaltma şeklinde ay (yerelleştirilmiş)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2041"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2042"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: Tam adıyla ay (yerelleştirilmiş)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2042"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2043"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation>%1: 2 haneli sayı şeklinde yıl (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2043"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2044"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: 4 haneli sayı şeklinde yıl (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2044"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2045"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation>Değiştirmeleri görmezden gelmek için metin tek tırnak içine alınabilir</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2045"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2046"/>
         <source>Date Codes</source>
         <translation>Zaman Kodları</translation>
     </message>
