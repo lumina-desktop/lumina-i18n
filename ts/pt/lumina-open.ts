@@ -137,24 +137,59 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="151"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="157"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
+        <source>File Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
         <source>Audio Volume %1%</source>
         <translation>Volume do Som %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="165"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="174"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="184"/>
         <source>Screen Brightness %1%</source>
         <translation>Brilho do Ecrã %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="333"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
+        <source>Invalid file or URL: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
+        <source>File could not be opened: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="240"/>
+        <source>URL shortcut is missing the URL: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
+        <source>Directory shortcut is missing the path to the directory: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
+        <source>Unknown type of shortcut : %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
         <source>Application Error</source>
         <translation>Erro da Aplicação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="333"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>A seguinte aplicação encontrou um erro e teve de ser terminada:</translation>
     </message>
