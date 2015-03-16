@@ -6,12 +6,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="16"/>
         <source>Increase Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaina handitu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="17"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaina txikiagotu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="37"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikazioa hautatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izena:</translation>
     </message>
 </context>
 <context>
@@ -39,52 +39,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="45"/>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikazioak instalatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="50"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol-panela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="60"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="61"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Garapena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="62"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Heziketa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="63"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Jokoak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="64"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafikoak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="65"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarea</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulegoa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Zientzia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
@@ -137,17 +137,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
         <source>Increase Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonoak handitu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
         <source>Decrease Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonoak txikiagotu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="38"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezabatu</translation>
     </message>
 </context>
 <context>
@@ -160,7 +160,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
         <source>Start Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemen hasi</translation>
     </message>
 </context>
 <context>
@@ -168,12 +168,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="83"/>
         <source>%1 % (Charging)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (Kargatzen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (%2 Faltan)</translation>
     </message>
 </context>
 <context>
@@ -181,7 +181,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="51"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Gogoko aplikazioak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="62"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="70"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audioa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="74"/>
@@ -206,7 +206,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="82"/>
         <source>Other Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Beste fitxategiak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="85"/>
@@ -216,7 +216,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="92"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Gogoko fitxategiak</translation>
     </message>
 </context>
 <context>
@@ -224,47 +224,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="136"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoen zerrenda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="190"/>
         <source>Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Mahaigaina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="191"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 laneko area</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
         <source>Browse System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema arakatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="222"/>
         <source>Lock Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahaigaina blokeatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="223"/>
         <source>Snap Plugins to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehigarriak saretara atxiki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="224"/>
         <source>Unlock Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahaigaina desblokeatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="226"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Saioa amaitu</translation>
     </message>
 </context>
 <context>
@@ -273,7 +273,7 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="123"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="131"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Laneko area %1</translation>
     </message>
 </context>
 <context>
@@ -281,7 +281,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="42"/>
         <source>System Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemako aginte panela</translation>
     </message>
 </context>
 <context>
@@ -289,12 +289,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Inprimakia</translation>
+        <translation>Inprimakia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
         <source>System Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemaren bolumena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
@@ -309,29 +309,29 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="228"/>
         <source>Battery Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Bateriaren egoera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="293"/>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Laneko area</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="370"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Saioa amaitu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="77"/>
         <source>connected</source>
-        <translation type="unfinished"></translation>
+        <translation>konektatuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="95"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="131"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="140"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
 </context>
 <context>
@@ -339,27 +339,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="142"/>
         <source>Activate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehioa aktibatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="145"/>
         <source>Minimize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoa minimizatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="147"/>
         <source>Restore Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoa leheneratu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="149"/>
         <source>Maximize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoa maximizatu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="152"/>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Leihoa itxi</translation>
     </message>
 </context>
 <context>
@@ -486,7 +486,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="46"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrol-panela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="52"/>
@@ -504,7 +504,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="46"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Saioa amaitu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="62"/>
@@ -566,7 +566,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="65"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gogoko aplikazioak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
@@ -637,7 +637,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="448"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrol-panela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="470"/>
@@ -672,42 +672,42 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="217"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="218"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Garapena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="219"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heziketa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="220"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jokoak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="221"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grafikoak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="222"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sarea</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="223"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bulegoa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="224"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zientzia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="225"/>
@@ -717,7 +717,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="226"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="227"/>

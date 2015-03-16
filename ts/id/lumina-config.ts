@@ -529,7 +529,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1835"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1937"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1971"/>
         <source>No Preview Available</source>
         <translation>Tak ada pratilik yang tersedia.</translation>
     </message>
@@ -674,65 +674,65 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="746"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="756"/>
         <source>No Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="746"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="756"/>
         <source>(use system default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="757"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="767"/>
         <source>File does not exist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="793"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="803"/>
         <source>Find Background Image(s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1120"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1154"/>
         <source>Audio Volume Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1121"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1155"/>
         <source>Audio Volume Down</source>
         <translation>Audio Volume Turun</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1122"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1156"/>
         <source>Screen Brightness Up</source>
         <translation>kecerahan layar naik</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1123"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1157"/>
         <source>Screen Brightness Down</source>
         <translation>kecerahan layar turun</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1124"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1158"/>
         <source>Take Screenshot</source>
         <translation>Ambil Cuplikan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1225"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1256"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1288"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1319"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1348"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1370"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1392"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1414"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1259"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1290"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1322"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1353"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1382"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1404"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1426"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1448"/>
         <source>Click to Set</source>
         <translation>Klik untuk set</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="288"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1448"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1482"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -742,190 +742,190 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1654"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1899"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1688"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1933"/>
         <source>Select Binary</source>
         <translation>pilih binari</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1661"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1902"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1695"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1936"/>
         <source>Invalid Binary</source>
         <translation>binari tak valid</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1661"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1695"/>
         <source>The selected binary is not executable!</source>
         <translation>Biner yang dipilih tidak dieksekusi!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1778"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1792"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1960"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1986"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1812"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1826"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1994"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2020"/>
         <source>Local</source>
         <translation>Lokal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1785"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1799"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1967"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1993"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1819"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1833"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2001"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
         <source>System</source>
         <translation>Sistem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1899"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1933"/>
         <source>Application Binaries (*)</source>
         <translation>Aplikasi Bineri (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1902"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1936"/>
         <source>The selected file is not executable!</source>
         <translation>Berkas yang dipilih bukan merupakan dieksekusi!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1914"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1948"/>
         <source>Select File</source>
         <translation>Pilih Berkas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1914"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1948"/>
         <source>All Files (*)</source>
         <translation>Semua Berkas (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
         <source>Select an image</source>
         <translation>Pilih gambar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2006"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2040"/>
         <source>Images</source>
         <translation>Gambar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2010"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2044"/>
         <source>Reset User Image</source>
         <translation>mulai ulang gambar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2010"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2044"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation type="unfinished">mulai ulang sistem to gambar sistem default?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2050"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2084"/>
         <source>Valid Time Codes:</source>
         <translation>Kode Waktu:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2051"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2085"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>% 1: Jam tanpa nol (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2052"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2086"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: Jam dengan (leading) nol terkemuka (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2053"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2087"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: Menit tanpa (leading) nol (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2054"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2088"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: Menit dengan (leading) nol (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2055"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2089"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: detik tanpa (leading) nol (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2056"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2090"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: detik dengan (leading) nol (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2057"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2091"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation type="unfinished">%1: AM/PM (12-jam) jam dinding (atas atau bawah kasus)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2058"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2092"/>
         <source>%1: Timezone</source>
         <translation>%1: zona Waktu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2059"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2093"/>
         <source>Time Codes</source>
         <translation>Kode waktu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2073"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2107"/>
         <source>Valid Date Codes:</source>
         <translation>Sah Tanggal Kode:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2074"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2108"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>% 1: hari numerik tanpa nol (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2075"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2109"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2076"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2110"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2077"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2111"/>
         <source>%1: Day as full name (localized)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2078"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2112"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2079"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2113"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2080"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2114"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: Bulan sebagai singkatan (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2081"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2115"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: Bulan nama lengkap (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2082"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2116"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation type="unfinished">%1: Tahun nomor 2 digit (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2083"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2117"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: Tahun empat digit angka (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2084"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2118"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation type="unfinished">Teks dapat terkandung dalam tanda kutip tunggal untuk mengabaikan pengganti</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2085"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2119"/>
         <source>Date Codes</source>
         <translation>Tanggal Kode</translation>
     </message>
@@ -1053,252 +1053,258 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="158"/>
         <source>Calendar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="152"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="159"/>
         <source>Display a calendar on the desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="158"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="165"/>
         <source>Application Launcher</source>
         <translation>Peluncur Aplikasi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="159"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
+        <source>Pin an application shortcut directly to the panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
         <source>Desktop button for launching an application</source>
         <translation>Desktop tombol untuk meluncurkan aplikasi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="165"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="172"/>
         <source>Desktop Icons View</source>
         <translation>Desktop Icons pandangan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="173"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>Daerah untuk secara otomatis menampilkan ikon desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="179"/>
         <source>Note Pad</source>
         <translation>buku catatan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="180"/>
         <source>Keep simple text notes on your desktop</source>
         <translation type="unfinished">Menyimpan catatan teks sederhana di desktop Anda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="179"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="186"/>
         <source>Audio Player</source>
         <translation>Pemutar Audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="180"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="187"/>
         <source>Play through lists of audio files</source>
         <translation>Bermain melalui daftar file audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="190"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="197"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="198"/>
         <source>Start the default system terminal.</source>
         <translation>Mulai terminal sistem default</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="197"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
         <source>File Manager</source>
         <translation>Manajer Berkas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="198"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="205"/>
         <source>Browse the system with the default file manager.</source>
         <translation>Ramban sistem dengan manajer berkas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="211"/>
         <source>Applications</source>
         <translation>Aplikasi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="205"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="212"/>
         <source>Show the system applications menu.</source>
         <translation>Tampilkan menu aplikasi sistem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="211"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
         <source>Separator</source>
         <translation>Pemisah</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="212"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
         <source>Static horizontal line.</source>
         <translation>Garis horizontal statis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Show the desktop settings menu.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Window List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
         <source>List the open application windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Custom App</source>
         <translation>aplikasi untuk kustom</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
         <source>Start a custom application</source>
         <translation>Mulai aplikasi kustom</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="243"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="250"/>
         <source>Text</source>
         <translation>Teks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="244"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="251"/>
         <source>Color to use for all visible text.</source>
         <translation>Warna digunakan untuk semua teks yang terlihat.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="249"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="256"/>
         <source>Text (Disabled)</source>
         <translation>teks (dinonaktifkan)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="257"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>Warna teks untuk item cacat atau tidak aktif.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="255"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="262"/>
         <source>Text (Highlighted)</source>
         <translation>(Sorot) Teks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="263"/>
         <source>Text color when selection is highlighted.</source>
         <translation>Teks warna saat seleksi disorot.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="268"/>
         <source>Base Window Color</source>
         <translation>Basis Jendela Warna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="262"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="269"/>
         <source>Main background color for the window/dialog.</source>
         <translation type="unfinished">background warna utama untuk jendela / dialog.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="267"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="274"/>
         <source>Base Window Color (Alternate)</source>
         <translation>Jendela warna dasar (Alternatif)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="268"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="275"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation type="unfinished">Main warna latar belakang untuk widget yang daftar atau tampilan koleksi item.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="273"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="280"/>
         <source>Primary Color</source>
         <translation>Warna utama</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="274"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="281"/>
         <source>Dominant color for the theme.</source>
         <translation>Warna dominan untuk tema.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="279"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="286"/>
         <source>Primary Color (Disabled)</source>
         <translation>Warna primer (Dinonaktifkan)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="280"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="287"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>Warna dominan untuk tema (lebih tenang).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="285"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="292"/>
         <source>Secondary Color</source>
         <translation>Warna sekunder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="286"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="293"/>
         <source>Alternate color for the theme.</source>
         <translation>Warna alternatif untuk tema.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="291"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="298"/>
         <source>Secondary Color (Disabled)</source>
         <translation>Warna sekunder (Dinonaktifkan)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="292"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="299"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>Warna alternatif untuk tema (lebih tenang).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="297"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="304"/>
         <source>Accent Color</source>
         <translation>Accent Warna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="298"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="305"/>
         <source>Color used for borders or other accents.</source>
         <translation>Warna yang digunakan untuk perbatasan atau aksen lainnya.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="303"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="310"/>
         <source>Accent Color (Disabled)</source>
         <translation>Aksen warna (Dinonaktifkan)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="304"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="311"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>Warna yang digunakan untuk perbatasan atau aksen lain (lebih tenang).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="309"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="316"/>
         <source>Highlight Color</source>
         <translation>Warna Sorot</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="310"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="317"/>
         <source>Color used for highlighting an item.</source>
         <translation>Warna yang digunakan untuk menyoroti item.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="315"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="322"/>
         <source>Highlight Color (Disabled)</source>
         <translation>warna menyoroti (dinonaktifkan)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="316"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="323"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>Warna yang digunakan untuk menyoroti item (lebih tenang).</translation>
     </message>

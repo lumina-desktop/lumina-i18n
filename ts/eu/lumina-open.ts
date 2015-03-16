@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxategiko akatsa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
@@ -156,32 +156,32 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxategi edo URL okerra: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezin izan da fitxategia ireki: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikazioko lasterbideak ez dauka abiarazteko informazioa (lasterbide okerra): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="240"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URLko lasterbideak ez dauka URLa: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktorioko lasterbideak ez dauka direktorioroko bide izena: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasterbide mota ezezaguna: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
