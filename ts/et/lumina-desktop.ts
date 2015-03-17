@@ -2,6 +2,34 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="et">
 <context>
+    <name>AppLaunchButtonPlugin</name>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="31"/>
+        <source>Click to assign an application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="37"/>
+        <source>Launch %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="44"/>
+        <source>Open %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
+        <source>Select Application</source>
+        <translation type="unfinished">Vali rakendus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nimi:</translation>
+    </message>
+</context>
+<context>
     <name>AppLauncherPlugin</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="16"/>

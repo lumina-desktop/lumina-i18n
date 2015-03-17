@@ -728,7 +728,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="941"/>
         <source>View Checksums</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra les sumes de verificació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="946"/>
@@ -825,7 +825,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1501"/>
         <source>File Checksums</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de sumes de verificació</translation>
     </message>
 </context>
 <context>

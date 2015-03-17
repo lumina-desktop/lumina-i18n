@@ -470,7 +470,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1640"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona Waktu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1668"/>
@@ -520,12 +520,12 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1763"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>jendela tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1781"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>jendela pratinjau tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1835"/>
@@ -621,7 +621,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="264"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>fokus tikus aktif</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="265"/>
@@ -671,32 +671,32 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="489"/>
         <source>Screen Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolusi Layar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="756"/>
         <source>No Background</source>
-        <translation type="unfinished"></translation>
+        <translation>tidak ada latar belakang</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="756"/>
         <source>(use system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(menggunakan sistem standar)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="767"/>
         <source>File does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>berkas tidak ada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="803"/>
         <source>Find Background Image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>menemukan gambar latar belakang</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1154"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>audio volume atas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1155"/>
@@ -739,7 +739,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="299"/>
         <source>System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu sistem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1688"/>
@@ -877,17 +877,17 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2109"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Numeric hari dengan nol (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2110"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hari sebagai singkatan (lokal)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2111"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hari nama lengkap (lokal)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2112"/>
@@ -980,27 +980,27 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="92"/>
         <source>Keep track of your battery status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Melacak status baterai Anda.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="98"/>
         <source>Time/Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu / Tanggal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="99"/>
         <source>View the current time and date.</source>
-        <translation type="unfinished"></translation>
+        <translation>pandangan waktu dan tanggal sekarang</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="105"/>
         <source>System Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>sistem dasbor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="106"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihat atau mengubah sistem pengaturan (audio volume, kecerahan layar, daya tahan baterai, virtual desktops).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="112"/>
@@ -1050,17 +1050,17 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="141"/>
         <source>This provides instant-access to application that are installed on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini menyediakan instan-akses ke aplikasi yang diinstal pada sistem.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="158"/>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="159"/>
         <source>Display a calendar on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilan kalender pada desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="147"/>
@@ -1071,7 +1071,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
         <source>Pin an application shortcut directly to the panel</source>
-        <translation type="unfinished"></translation>
+        <translation>memasang shortcut aplikasi langsung ke panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
@@ -1156,17 +1156,17 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Show the desktop settings menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan menu pengaturan desktop.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Daftar Jendela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
         <source>List the open application windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Daftar jendela aplikasi yang terbuka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
