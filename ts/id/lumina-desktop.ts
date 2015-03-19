@@ -365,27 +365,27 @@
 <context>
     <name>LTaskButton</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="142"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="143"/>
         <source>Activate Window</source>
         <translation>Aktifkan jendela</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="146"/>
         <source>Minimize Window</source>
         <translation>Minimalkan Window</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
         <source>Restore Window</source>
         <translation>Kembalikan Ukuran jendela</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="149"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="150"/>
         <source>Maximize Window</source>
         <translation>Maksimalkan Ukuran Jendela</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="152"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
         <source>Close Window</source>
         <translation>Tutup Jendela</translation>
     </message>
