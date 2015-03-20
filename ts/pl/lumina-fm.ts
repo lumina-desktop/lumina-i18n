@@ -104,7 +104,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="127"/>
         <source>Restoring: %1 as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywracanie: %1 jako %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="287"/>
         <source>Invalid Move</source>
-        <translation type="unfinished">Nieprawidłowa operacja przenieszenia</translation>
+        <translation>Nieprawidłowa operacja przenoszenia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="287"/>
