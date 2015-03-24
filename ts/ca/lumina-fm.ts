@@ -760,7 +760,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1041"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>AVÍS: això suprimirà permanentment el fitxer del sistema!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1132"/>
