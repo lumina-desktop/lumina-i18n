@@ -184,12 +184,12 @@
         <translation>Nieznany błąd skrótu: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="337"/>
         <source>Application Error</source>
         <translation>Błąd aplikacji</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="337"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Aplikacja napotkała błąd i musi zostać zamknięta:</translation>
     </message>

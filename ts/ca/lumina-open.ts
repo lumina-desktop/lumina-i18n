@@ -184,12 +184,12 @@
         <translation>Tipus de drecera desconegut: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="337"/>
         <source>Application Error</source>
         <translation>Error de l&apos;aplicació</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="337"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>L&apos;aplicació següent ha tingut un error i s&apos;ha hagut de tancar:</translation>
     </message>
