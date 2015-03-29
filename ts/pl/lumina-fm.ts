@@ -59,43 +59,43 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
         <source>TB</source>
-        <translation type="unfinished"></translation>
+        <translation>TB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="111"/>
         <source>Total size: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Całkowity rozmiar: %1 %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="116"/>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="117"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojemność: %1</translation>
     </message>
 </context>
 <context>
@@ -194,7 +194,7 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished">Nie można przenieść katalogu do samego siebie. Proszę zrobić kopię katalogu.
+        <translation>Nie można przenieść katalogu do tego samego katalogu. Proszę zrobić kopię katalogu.
 
 Poprzednia lokalizacja: %1
 Nowa lokalizacja: %2</translation>
@@ -266,12 +266,12 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nowy plik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
         <source>New &amp;file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy &amp;plik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="449"/>
@@ -483,7 +483,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1149"/>
         <source>toolBar</source>
-        <translation type="unfinished">Pasek narzędzi</translation>
+        <translation>pasekNarzędzi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1171"/>
@@ -513,7 +513,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1195"/>
         <source>UpDir</source>
-        <translation type="unfinished">UpDir</translation>
+        <translation>PoziomWyżej</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1198"/>
@@ -528,7 +528,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1206"/>
         <source>&amp;Home</source>
-        <translation type="unfinished">&amp;Katalog domowy</translation>
+        <translation>&amp;Katalog główny</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1209"/>
@@ -599,7 +599,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1297"/>
         <source>Load Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytaj miniatury</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="72"/>
@@ -649,12 +649,12 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="351"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog główny</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="357"/>
         <source>%1 (Type: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Wpisz: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="361"/>
@@ -679,7 +679,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="602"/>
         <source>Click Play to Start</source>
-        <translation type="unfinished">Kliknij tutaj, aby rozpocząć</translation>
+        <translation>Kliknij Play, aby rozpocząć</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="684"/>
@@ -718,7 +718,7 @@ Nowa lokalizacja: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
         <source>Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="859"/>
@@ -743,17 +743,17 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="879"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy dokument</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="889"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas tworzenia dokumentu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="889"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument nie mógł zostać utworzony. Upewnij się, że masz odpowiednie uprawnienia.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="957"/>
@@ -778,7 +778,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="963"/>
         <source>View Checksums</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobacz sumę kontrolną</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="968"/>
@@ -803,7 +803,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
         <source>Items selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrane elementy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="997"/>
@@ -815,7 +815,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1068"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>UWAGA: Spowoduje to permanentne usunięcie pliku z systemu!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1159"/>
@@ -887,7 +887,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1532"/>
         <source>File Checksums</source>
-        <translation type="unfinished"></translation>
+        <translation>Suma kontrolna pliku</translation>
     </message>
 </context>
 <context>

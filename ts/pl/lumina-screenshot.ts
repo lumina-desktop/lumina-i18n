@@ -42,7 +42,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
         <source>toolBar</source>
-        <translation type="unfinished">Pasek narzędzi</translation>
+        <translation>pasekNarzędzi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>

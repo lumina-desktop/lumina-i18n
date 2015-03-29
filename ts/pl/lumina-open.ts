@@ -166,17 +166,17 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrót do aplikacji nie posiada odpowiednich informacji do uruchomienia (niewłaściwy skrót): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="240"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>W skrócie URL brak adresu URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>W skrócie do folderu brak ścieżki do folderu: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>

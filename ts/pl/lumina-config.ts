@@ -281,7 +281,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1345"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Określone typy plików</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1387"/>
@@ -372,53 +372,53 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="457"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzia osadzone</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="484"/>
         <source>Add Utility to Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj narzędzie do ekranu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="512"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Note:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Modifying or removing embedded utilities is performed from the desktop itself. Each screen may be individually unlocked (allowing modifications) from the quick-access menu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Uwaga:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Modyfikacja lub usuwanie osadzonych narzędzi odbywa się bezpośrednio z pulpitu. Każdy ekran może być indywidualnie odblokowany (co pozwala na modyfikacje) przy pomocy menu szybkiego dostępu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="610"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="807"/>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1147"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-start</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1175"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1185"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik binarny</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1195"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1215"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślne ustawienia pliku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1382"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ/Grupa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
@@ -448,29 +448,29 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1549"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format czasu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1561"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1588"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejrzyj kody formatowania</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1576"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format daty</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1623"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1630"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykład:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1640"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Strefa czasowa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1668"/>
@@ -490,12 +490,12 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1984"/>
         <source>Applications</source>
-        <translation type="unfinished">Aplikacje</translation>
+        <translation>Aplikacje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1987"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie aplikacjami</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1718"/>
@@ -546,17 +546,17 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1923"/>
         <source>toolBar</source>
-        <translation type="unfinished">pasekNarzędzi</translation>
+        <translation>pasekNarzędzi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1962"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfejs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1965"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja interfejsu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="381"/>
@@ -626,7 +626,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="265"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścisłe skupienie kursora myszki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="267"/>
@@ -739,7 +739,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="299"/>
         <source>System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas systemowy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1699"/>
@@ -817,117 +817,117 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2095"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprawne kody czasu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2096"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Godzina bez zera z przodu (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2097"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Godzina z zerem z przodu (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2098"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Minuty bez zera z przodu (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2099"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Minuty z zerem z przodu (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2100"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Sekundy bez zera z przodu (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2101"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Sekundy z zerem z przodu (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2102"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: AM/PM zegar 12-godzinny (duża lub mała litera)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2103"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Strefa czasowa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2104"/>
         <source>Time Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kody czasu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2118"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poprawne formaty daty:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2119"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Data w formie numerycznej bez zera z przodu (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2120"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Data w formie numerycznej z zerem z przodu (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2121"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Dzień w formie skróconej (lzlokalizowany)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2122"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Pełna nazwa dnia (zlokalizowana)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2123"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Miesiąc w formie numerycznej bez zera z przodu (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2124"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Miesiąc w formie numerycznej z zerem z przodu (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2125"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Miesiąc w formie skróconej (zlokalizowany)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2126"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Pełna nazwa miesiąca (zlokalizowana)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2127"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Rok w formie dwucyfrowej (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2128"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Rok w formie czterocyfrowej (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2129"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst może być zamknięty w pojedynczym cudzysłowie by zignorować zamienniki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2130"/>
         <source>Date Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kody daty</translation>
     </message>
 </context>
 <context>
@@ -1071,7 +1071,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
         <source>Pin an application shortcut directly to the panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypnij skrót do aplikacji bezpośrednio do panelu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
@@ -1339,7 +1339,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
