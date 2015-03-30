@@ -60,87 +60,87 @@
 <context>
     <name>AppMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="41"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="42"/>
         <source>Open Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="45"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="46"/>
         <source>Install Applications</source>
         <translation>Instalar aplicativos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="50"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="51"/>
         <source>Control Panel</source>
         <translation>Painel de controle</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="60"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="61"/>
         <source>Multimedia</source>
         <translation>Multimídia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="62"/>
         <source>Development</source>
         <translation>Desenvolvimento</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="62"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="63"/>
         <source>Education</source>
         <translation>Educação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="63"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="64"/>
         <source>Games</source>
         <translation>Jogos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="64"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="65"/>
         <source>Graphics</source>
         <translation>Gráficos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="65"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
         <source>Network</source>
         <translation>Redes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Office</source>
         <translation>Escritório</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Science</source>
         <translation>Ciências</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Utility</source>
         <translation>Utilitários</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Wine</source>
         <translation>Wine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Unsorted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="94"/>
         <source>Applications</source>
         <translation>Aplicativos</translation>
     </message>

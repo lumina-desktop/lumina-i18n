@@ -164,22 +164,22 @@
         <translation>No s&apos;ha pogut obrir el fitxer: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>La drecera de l&apos;aplicació no té la informació de llançament (drecera malformada): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>La drecera de l&apos;URL no té l&apos;URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>La drecera del directori no té el camí cap al directori: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Tipus de drecera desconegut: %1</translation>
     </message>

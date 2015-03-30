@@ -164,22 +164,22 @@
         <translation>Berkas tidak dapat dibuka: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Aplikasi shortcut yang hilang informasi meluncurkan (jelek cacat): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL shortcut hilang URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished">Direktori shortcut yang hilang path ke direktori: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Jenis diketahui shortcut: %1</translation>
     </message>
