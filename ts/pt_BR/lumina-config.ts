@@ -101,12 +101,12 @@
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um plugin:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="77"/>
@@ -392,7 +392,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1147"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciado automaticamente</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1175"/>
@@ -447,29 +447,29 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1549"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de Hora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1561"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1588"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar códigos de formatação</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1576"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de Data:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1623"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1630"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Amostra:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1640"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso Horário:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1668"/>
@@ -489,7 +489,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1984"/>
         <source>Applications</source>
-        <translation type="unfinished">Aplicativos</translation>
+        <translation>Aplicativos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1987"/>
@@ -509,7 +509,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1743"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nova Localização da Janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1753"/>
@@ -555,12 +555,12 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1965"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração da Interface</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="381"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambiente de Trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1954"/>
@@ -640,7 +640,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascata</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="270"/>
