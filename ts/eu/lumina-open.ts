@@ -49,87 +49,87 @@
         <translation>Ezeztatu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="38"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Email Link)</source>
         <translation>(Posta elektronikoko esteka)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Internet URL)</source>
         <translation>(Interneteko URLa)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Audio</source>
         <translation>Audioa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Video</source>
         <translation>Bideoa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Multimedia</source>
         <translation>Multimedia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Development</source>
         <translation>Garapena</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Education</source>
         <translation>Hezkuntza</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Game</source>
         <translation>Jokoa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Graphics</source>
         <translation>Grafikoak</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Network</source>
         <translation>Sarea</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Office</source>
         <translation>Bulegoa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Science</source>
         <translation>Zientzia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Settings</source>
         <translation>Ezarpenak</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
         <translation>Tresnak</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Other</source>
         <translation>Beste bat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
         <translation>Azplikazioko binarioa bilatu</translation>
     </message>
