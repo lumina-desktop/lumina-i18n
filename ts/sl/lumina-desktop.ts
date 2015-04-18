@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sl">
 <context>
     <name>AppLaunchButtonPlugin</name>
     <message>
@@ -11,22 +11,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="37"/>
         <source>Launch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaženi %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="44"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi program</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime:</translation>
     </message>
 </context>
 <context>
@@ -49,12 +49,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi program</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime:</translation>
     </message>
 </context>
 <context>
@@ -67,32 +67,32 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="46"/>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Namesti programe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="51"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadzorna plošča</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="61"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Večpredstavnost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="62"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Razvoj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="63"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Izobraževanje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="64"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Igre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="65"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Omrežje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
@@ -112,12 +112,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znanost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavitve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="94"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Programi</translation>
     </message>
 </context>
 <context>
@@ -150,17 +150,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="31"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Izreži</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="34"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
@@ -175,7 +175,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="39"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši</translation>
     </message>
 </context>
 <context>
@@ -229,7 +229,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="78"/>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="82"/>
@@ -239,12 +239,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="85"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="92"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Priljubljene datoteke</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="136"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam oken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="190"/>
@@ -267,7 +267,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
@@ -332,12 +332,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
         <source>Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlost zaslona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="228"/>
         <source>Battery Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanje baterije</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="293"/>
@@ -387,7 +387,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri okno</translation>
     </message>
 </context>
 <context>
@@ -451,7 +451,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="71"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj mapo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="72"/>
@@ -461,7 +461,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="100"/>
         <source>Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Večpredstavnostne datoteke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="101"/>
@@ -489,12 +489,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="21"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Screensaver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohranjevalnik zaslona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="28"/>
@@ -514,7 +514,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="46"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadzorna plošča</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="52"/>
@@ -570,12 +570,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="98"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši datoteko</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="105"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari bližnjico</translation>
     </message>
 </context>
 <context>
@@ -599,7 +599,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Programi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
@@ -629,7 +629,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>System Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemski programi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
@@ -665,7 +665,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="448"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadzorna plošča</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="470"/>
@@ -685,7 +685,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="536"/>
         <source>Screensaver Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve ohranjevalnika zaslona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="578"/>
@@ -700,22 +700,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="217"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Večpredstavnost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="218"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razvoj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="219"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izobraževanje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="220"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Igre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="221"/>
@@ -725,7 +725,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="222"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Omrežje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="223"/>
@@ -735,12 +735,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="224"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Znanost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="225"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="226"/>
@@ -755,7 +755,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="228"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="229"/>
