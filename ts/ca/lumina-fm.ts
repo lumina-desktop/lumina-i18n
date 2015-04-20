@@ -57,43 +57,43 @@
 <context>
     <name>BackgroundWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
         <source>B</source>
         <translation>B</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
         <source>KB</source>
         <translation>KB</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
         <source>MB</source>
         <translation>MB</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
         <source>GB</source>
         <translation>GB</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
         <source>TB</source>
         <translation>TB</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>%1: %2</source>
-        <translation>%1: %2</translation>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="113"/>
+        <source>%1: %2 / %3: %4</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="117"/>
         <source>Total size: %1 %2</source>
         <translation>Mida total: %1 %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="116"/>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="123"/>
         <source>Capacity: %1</source>
         <translation>Capacitat: %1</translation>
     </message>
@@ -715,12 +715,6 @@ Localització nova: %2</translation>
         <translation>Aquest nom de marcador ja existeix. Trieu-ne un altre.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
-        <source>Items</source>
-        <translation>Ítems</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="859"/>
         <source>New Directory</source>
         <translation>Directori nou</translation>
@@ -801,11 +795,6 @@ Localització nova: %2</translation>
         <translation>Suprimeix la selecció</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
-        <source>Items selected</source>
-        <translation>Ítems seleccionats</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="997"/>
         <source>Currently on clipboard:
 %1</source>
@@ -863,6 +852,24 @@ Localització nova: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1343"/>
         <source>Are you sure you want to continue?</source>
         <translation>Esteu segur que voleu continuar?</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
+        <source>Folders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
+        <source>Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
+        <source>Selected Folders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1370"/>

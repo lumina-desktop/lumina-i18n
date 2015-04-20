@@ -356,8 +356,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="99"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="141"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="150"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="155"/>
         <source>%1 of %2</source>
         <translation>%1 / %2</translation>
     </message>
@@ -530,29 +530,34 @@
         <translation>Rendszer opciók</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="46"/>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="55"/>
         <source>Log Out</source>
         <translation>Kijelentkezés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="62"/>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="71"/>
         <source>Restart</source>
         <translation>Újraindítás</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="78"/>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="87"/>
         <source>Shutdown</source>
         <translation>Leállítás</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="118"/>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="127"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="138"/>
-        <source>Lock Screen</source>
-        <translation>Képernyő lezárása</translation>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="156"/>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="172"/>
+        <source>Suspend</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
