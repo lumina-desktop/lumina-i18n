@@ -178,7 +178,7 @@
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="41"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="42"/>
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
@@ -355,14 +355,14 @@
         <translation>Wyloguj</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="81"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="80"/>
         <source>connected</source>
         <translation>połączono</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="99"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="146"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="155"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="98"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="152"/>
         <source>%1 of %2</source>
         <translation>%1 z %2</translation>
     </message>

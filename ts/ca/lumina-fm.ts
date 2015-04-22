@@ -795,104 +795,109 @@ Localització nova: %2</translation>
         <translation>Suprimeix la selecció</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="997"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="975"/>
+        <source>File Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1001"/>
         <source>Currently on clipboard:
 %1</source>
         <translation>Actualment al porta-retalls:
 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1068"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1072"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
         <translation>AVÍS: això suprimirà permanentment el fitxer del sistema!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1159"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1163"/>
         <source>Success</source>
         <translation>Correcte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1159"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1163"/>
         <source>Successfully restored selection</source>
         <translation>S&apos;ha restaurat la selecció correctament</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1186"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1190"/>
         <source>Error Playing File: %1</source>
         <translation>Error en reproduir el fitxer: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1215"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1219"/>
         <source>Finished</source>
         <translation>Acabat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1237"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1241"/>
         <source>Playing:</source>
         <translation>Reproduint:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1243"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1247"/>
         <source>Stopped</source>
         <translation>Aturat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1068"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1343"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1072"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1347"/>
         <source>Verify Removal</source>
         <translation>Verificació de la supressió</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1343"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1347"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>AVÍS: això suprimirà permanentment el fitxer o fitxers del sistema!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1068"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1343"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1072"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1347"/>
         <source>Are you sure you want to continue?</source>
         <translation>Esteu segur que voleu continuar?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="991"/>
         <source>Folders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="990"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="991"/>
         <source>Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="990"/>
         <source>Selected Folders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1370"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1374"/>
         <source>Rename File</source>
         <translation>Reanomena el fitxer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1370"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1374"/>
         <source>New Name:</source>
         <translation>Nom nou:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1384"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
         <source>Overwrite File?</source>
         <translation>Voleu sobreescriure el fitxer?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1384"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Se substituirà un fitxer existent amb el mateix nom. Esteu segur que voleu continuar?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1532"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1546"/>
         <source>File Checksums</source>
         <translation>Fitxer de sumes de verificació</translation>
     </message>
