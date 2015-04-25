@@ -505,7 +505,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1705"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de visualització</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1736"/>
@@ -744,22 +744,22 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="281"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora (data com a ajuda informativa)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="282"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Data (hora com a ajuda informativa)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="283"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer l&apos;hora, després la data</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="284"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Primer la data, després l&apos;hora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="307"/>

@@ -255,47 +255,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="136"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="171"/>
         <source>Window List</source>
         <translation>Lista de janelas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="190"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="228"/>
         <source>Lumina Desktop</source>
         <translation type="unfinished">Lumina Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="229"/>
         <source>Workspace %1</source>
         <translation>Espaço de trabalho %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="239"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="240"/>
         <source>Browse System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
         <source>Lock Desktop</source>
         <translation>Bloquear área de trabalho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="223"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
         <source>Snap Plugins to Grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Unlock Desktop</source>
         <translation>Desbloquear área de trabalho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Log Out</source>
         <translation type="unfinished">Encerrar a sessão</translation>
     </message>

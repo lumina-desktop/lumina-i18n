@@ -180,7 +180,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="42"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats</translation>
     </message>
 </context>
 <context>
@@ -255,47 +255,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="136"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="171"/>
         <source>Window List</source>
         <translation>Llista de finestres</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="190"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="228"/>
         <source>Lumina Desktop</source>
         <translation>Escriptori Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="229"/>
         <source>Workspace %1</source>
         <translation>Espai de treball %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="239"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="240"/>
         <source>Browse System</source>
         <translation>Navegueu pel sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
         <source>Lock Desktop</source>
         <translation>Bloqueig de l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="223"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
         <source>Snap Plugins to Grid</source>
         <translation>Ajusta els connectors a la graella</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Unlock Desktop</source>
         <translation>Desbloca l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Log Out</source>
         <translation>Surt</translation>
     </message>
@@ -557,12 +557,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="156"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura temporalment</translation>
     </message>
 </context>
 <context>

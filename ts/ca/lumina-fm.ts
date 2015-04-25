@@ -84,7 +84,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="113"/>
         <source>%1: %2 / %3: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 / %3: %4</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="117"/>
@@ -792,7 +792,7 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="972"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propietats del fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="998"/>
@@ -857,19 +857,19 @@ Localització nova: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="988"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="853"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="988"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="987"/>
         <source>Selected Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetes seleccionades</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1373"/>

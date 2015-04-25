@@ -255,47 +255,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="136"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="171"/>
         <source>Window List</source>
         <translation>Pencere Listesi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="190"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="228"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Masaüstü</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="229"/>
         <source>Workspace %1</source>
         <translation>Çalışma Alanı %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="201"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="239"/>
         <source>Terminal</source>
         <translation>Uçbirim</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="240"/>
         <source>Browse System</source>
         <translation>Sisteme Gözat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
         <source>Lock Desktop</source>
         <translation>Masaüstünü Kilitle</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="223"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
         <source>Snap Plugins to Grid</source>
         <translation>Eklentileri Kılavuza Çek</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Unlock Desktop</source>
         <translation>Masaüstü Kilidini Aç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Log Out</source>
         <translation>Oturumu Kapat</translation>
     </message>
