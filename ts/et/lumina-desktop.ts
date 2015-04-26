@@ -255,47 +255,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="171"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="183"/>
         <source>Window List</source>
         <translation>Akende loend</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="237"/>
         <source>Lumina Desktop</source>
         <translation>Lumina töölaud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="229"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="238"/>
         <source>Workspace %1</source>
         <translation>Tööruum %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="248"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="249"/>
         <source>Browse System</source>
         <translation>Sirvi faile</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="269"/>
         <source>Lock Desktop</source>
         <translation>Lukusta töölaud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="270"/>
         <source>Snap Plugins to Grid</source>
         <translation>Kinnita pluginad ruudustikule</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="271"/>
         <source>Unlock Desktop</source>
         <translation>Võta töölaud lukust lahti</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="264"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="273"/>
         <source>Log Out</source>
         <translation>Logi välja</translation>
     </message>

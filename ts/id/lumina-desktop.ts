@@ -255,47 +255,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="171"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="183"/>
         <source>Window List</source>
         <translation>Daftar Jendela</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="237"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="229"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="238"/>
         <source>Workspace %1</source>
         <translation>Ruang kerja %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="248"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="249"/>
         <source>Browse System</source>
         <translation>Jelajahi Sistem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="269"/>
         <source>Lock Desktop</source>
         <translation>Desktop kunci</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="270"/>
         <source>Snap Plugins to Grid</source>
         <translation>Jepret ke kisi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="271"/>
         <source>Unlock Desktop</source>
         <translation>membuka desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="264"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="273"/>
         <source>Log Out</source>
         <translation>Log Keluar</translation>
     </message>
