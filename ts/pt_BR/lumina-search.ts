@@ -24,12 +24,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="40"/>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
+        <source>Save as Defaults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="53"/>
+        <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
         <translation type="unfinished"></translation>
     </message>
@@ -107,6 +112,21 @@
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
         <translation>Criar nova imagem</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
+        <source>Search: %1 -- Smart: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <source>On</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
