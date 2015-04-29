@@ -184,12 +184,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="344"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="345"/>
         <source>Application Error</source>
         <translation>Anwendungsfehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="344"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="345"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>
