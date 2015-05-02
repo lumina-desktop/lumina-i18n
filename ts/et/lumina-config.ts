@@ -406,37 +406,37 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="727"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Joondamine:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1221"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaatkäivitus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1249"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakendus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1259"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivitatav fail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1269"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1289"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Faili vaikeväärtused</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1456"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüüp/grupp</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1541"/>
@@ -466,29 +466,29 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1665"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajavorming:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1677"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1704"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuva vormingu koodid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1692"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuupäevavorming</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1739"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1746"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Näide:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1756"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajavöönd:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1608"/>
@@ -523,7 +523,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1779"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvavorming</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1810"/>
@@ -574,12 +574,12 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2046"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Liides</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2049"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Liidese seadistus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="381"/>
@@ -609,32 +609,32 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2079"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiirklahvid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2082"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaviatuuri kiirklahvid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleval</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>All</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Vasakul</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Right</source>
-        <translation type="unfinished">Paremale</translation>
+        <translation>Paremal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="273"/>
@@ -762,59 +762,59 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="266"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="267"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleval/vasakul</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="268"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>All/paremal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="290"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kellaaeg (kuupäev kohtspikrina)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="291"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuupäev (kellaaeg kohtspikrina)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="292"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Enne kellaaeg, siis kuupäev</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="293"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Enne kuupäev, siis kellaaeg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="316"/>
         <source>System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteemi aeg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1741"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1989"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali käivitatav fail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1748"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1992"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Vigane käivitatav fail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1748"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitud fail ei ole käivitatav!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1867"/>
@@ -822,7 +822,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2050"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2076"/>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohalik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1874"/>
@@ -830,17 +830,17 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2057"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2083"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1989"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenduse käivitusfailid (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1992"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitud fail pole käivitatav!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
@@ -875,7 +875,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2140"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lubatud ajakoodid:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2141"/>
