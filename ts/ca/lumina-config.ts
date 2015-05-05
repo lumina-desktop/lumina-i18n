@@ -394,19 +394,19 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="692"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="926"/>
         <source> pixels thick</source>
-        <translation type="unfinished"></translation>
+        <translation>píxels de gruix</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="702"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="936"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% de longitud</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="727"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alineació:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1221"/>
@@ -762,17 +762,17 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="266"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="267"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>A dalt a l&apos;esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="268"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>A baixa a la dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="290"/>
