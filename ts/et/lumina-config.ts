@@ -1189,7 +1189,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="211"/>
         <source>Applications</source>
-        <translation type="unfinished">Rakendused</translation>
+        <translation>Rakendused</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="212"/>
@@ -1239,12 +1239,12 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="250"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="251"/>
         <source>Color to use for all visible text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nähtava teksti värv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="256"/>
@@ -1387,30 +1387,31 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Loobu</translation>
+        <translation>Loobu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished">Salvesta</translation>
+        <translation>Salvesta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>Theme Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Teema on olemas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>This theme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>See teema on juba olemas.
+ Kas kirjutada see üle?</translation>
     </message>
 </context>
 </TS>

@@ -119,7 +119,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="14"/>
         <source>Key Press Detection</source>
-        <translation type="unfinished">Pressione a tecla de Detecção</translation>
+        <translation type="unfinished">Detecção de pressionamento de tecla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
@@ -165,7 +165,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="201"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1076"/>
@@ -381,7 +381,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="512"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Note:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Modifying or removing embedded utilities is performed from the desktop itself. Each screen may be individually unlocked (allowing modifications) from the quick-access menu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Nota:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;A ação de modificar ou remover utilitários embarcados é realizada a partir do próprio desktop. Cada tela pode ser desbloqueada individualmente (permitindo modificações) a partir do menu de acesso rápido.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="610"/>
@@ -399,13 +399,13 @@ ligações de teclado atuais também serão ignorados.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="702"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="936"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">% comprimento</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="727"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinhamento:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1221"/>
@@ -435,7 +435,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1449"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo/Grupo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1534"/>
@@ -465,7 +465,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1658"/>
         <source>Time Format:</source>
-        <translation>Formato de Hora:</translation>
+        <translation>Formato de hora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1670"/>
@@ -522,7 +522,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1772"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de exibição</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1803"/>
@@ -532,7 +532,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1820"/>
         <source>New Window Placement</source>
-        <translation type="unfinished">Nova Localização da Janela</translation>
+        <translation type="unfinished">Posicionamento da nova janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1830"/>
@@ -588,12 +588,12 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2031"/>
         <source>Desktop Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aparência da área de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="537"/>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Painéis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2050"/>
@@ -638,7 +638,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="274"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicar para obter o foco</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="275"/>
@@ -653,12 +653,12 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="278"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alinhar em uma linha</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="279"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alinhar em uma coluna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="280"/>
@@ -698,7 +698,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="799"/>
         <source>No Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem fundo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="799"/>
@@ -718,17 +718,17 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1208"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aumentar volume do áudio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1209"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diminuir volume do áudio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1210"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aumentar o brilho da tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1211"/>
