@@ -106,32 +106,32 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciências</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitários</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Outros</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Encontrar binário do aplicativo</translation>
     </message>
 </context>
 <context>
@@ -139,13 +139,13 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro de arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume do som %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
