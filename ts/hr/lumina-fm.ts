@@ -57,43 +57,43 @@
 <context>
     <name>BackgroundWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>B</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>KB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>MB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>GB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="106"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>TB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="115"/>
         <source>%1: %2 / %3: %4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="119"/>
         <source>Total size: %1 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="122"/>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="123"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="124"/>
+        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="125"/>
         <source>Capacity: %1</source>
         <translation type="unfinished"></translation>
     </message>
