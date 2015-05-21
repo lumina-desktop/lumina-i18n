@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako domyślne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
@@ -116,17 +116,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeszukaj: %1 -- Smart: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Włączone</translation>
     </message>
 </context>
 <context>

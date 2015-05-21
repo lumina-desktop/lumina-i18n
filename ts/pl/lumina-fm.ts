@@ -84,7 +84,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="115"/>
         <source>%1: %2 / %3: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 / %3: %4</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="119"/>
@@ -604,12 +604,12 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1303"/>
         <source>Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeszukaj katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="72"/>
@@ -802,12 +802,12 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości pliku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="991"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom terminal w tym miejscu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1017"/>
@@ -872,19 +872,19 @@ Nowa lokalizacja: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1007"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1007"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
         <source>Selected Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrane katalogi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1386"/>

@@ -804,7 +804,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="510"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="884"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Color sòlid: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1777"/>
