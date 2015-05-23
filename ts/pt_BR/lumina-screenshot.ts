@@ -11,12 +11,12 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished">Ainda não há captura de tela</translation>
+        <translation>Ainda sem captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished">Configurações da nova captura de tela</translation>
+        <translation>Configurações da nova captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="55"/>
@@ -70,12 +70,12 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturar nova imagem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>

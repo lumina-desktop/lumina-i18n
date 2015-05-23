@@ -6,37 +6,37 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="14"/>
         <source>Search Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração da pesquisa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar a pesquisa:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretórios excluídos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como padrão</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um diretório de pesquisa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir diretórios</translation>
     </message>
 </context>
 <context>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar parâmetros de pesquisa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
@@ -116,17 +116,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pesquisa: %1 -- Smart: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligado</translation>
     </message>
 </context>
 <context>

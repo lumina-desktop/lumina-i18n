@@ -16,12 +16,12 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
         <source>Desktop Version:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versão:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>
         <source>OS Build:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="120"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="249"/>
         <source>Project Lead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Líder do projeto:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
