@@ -96,7 +96,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation>Selecione um plugin</translation>
+        <translation>Selecionar plugin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="14"/>
         <source>Key Press Detection</source>
-        <translation type="unfinished">Detecção de pressionamento de tecla</translation>
+        <translation>Detecção da pressão de tecla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
@@ -131,8 +131,9 @@
         <source>Notes: 
 Special keys can only be detected if the proper keyboard driver is in use.
 Current keyboard bindings will also be ignored.</source>
-        <translation>Teclas especiais só podem ser detectadas se o driver do teclado adequada estiver em uso.
-ligações de teclado atuais também serão ignorados.</translation>
+        <translation>Observações: 
+Teclas especiais só podem ser detectadas se o driver apropriado para o teclado estiver em uso.
+As atuais vinculações de teclado também serão ignoradas.</translation>
     </message>
 </context>
 <context>
@@ -371,7 +372,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="464"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitários incorporados</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="491"/>
@@ -381,7 +382,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="519"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Note:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Modifying or removing embedded utilities is performed from the desktop itself. Each screen may be individually unlocked (allowing modifications) from the quick-access menu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Nota:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;A ação de modificar ou remover utilitários embarcados é realizada a partir do próprio desktop. Cada tela pode ser desbloqueada individualmente (permitindo modificações) a partir do menu de acesso rápido.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Nota:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;A ação de modificar ou remover os utilitários incorporados é realizada a partir do próprio desktop. Cada tela pode ser desbloqueada individualmente (permitindo modificações) a partir do menu de acesso rápido.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="617"/>
@@ -450,12 +451,12 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1556"/>
         <source>Play chimes on startup</source>
-        <translation>Tocar sinos na inicialização</translation>
+        <translation>Reproduzir som durante a inicialização</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1563"/>
         <source>Play chimes on exit</source>
-        <translation>Tocar sinos na saída</translation>
+        <translation>Reproduzir som ao sair</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1572"/>
@@ -476,18 +477,18 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1692"/>
         <source>Date Format:</source>
-        <translation>Formato de Data:</translation>
+        <translation>Formato de data:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1739"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1746"/>
         <source>Sample:</source>
-        <translation>Amostra:</translation>
+        <translation>Exemplo:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1756"/>
         <source>Time Zone:</source>
-        <translation>Fuso Horário:</translation>
+        <translation>Fuso horário:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1608"/>
@@ -583,7 +584,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="388"/>
         <source>Desktop</source>
-        <translation>Ambiente de Trabalho</translation>
+        <translation>Área de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2038"/>
@@ -628,12 +629,12 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="265"/>
         <source>Left</source>
-        <translation>Esquerdo</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="265"/>
         <source>Right</source>
-        <translation>Direito</translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="276"/>
@@ -674,7 +675,7 @@ ligações de teclado atuais também serão ignorados.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="333"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="334"/>
         <source>Select Panel Color</source>
-        <translation type="unfinished">Selecione a cor do painel</translation>
+        <translation>Selecione a cor do painel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="480"/>
@@ -689,7 +690,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="509"/>
         <source>System Default</source>
-        <translation>Padrão do Sistema</translation>
+        <translation>Padrão do sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="518"/>
@@ -751,7 +752,7 @@ ligações de teclado atuais também serão ignorados.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1515"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1537"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para definir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="308"/>
@@ -861,7 +862,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2192"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma imagem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2193"/>
@@ -1014,7 +1015,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="71"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
-        <translation>Isso oferece atalhos para tudo na pasta da área de trabalho - permitindo acesso fácil a todos os seus arquivos/aplicativos favoritos.</translation>
+        <translation>Oferece atalhos para tudo que está na pasta da área de trabalho - permitindo acesso fácil a todos os seus arquivos/aplicativos favoritos.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="77"/>
@@ -1024,7 +1025,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="78"/>
         <source>Invisible spacer to separate plugins.</source>
-        <translation>Espaçador invisível para plugins separados.</translation>
+        <translation>Espaçador invisível para separar plugins.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="84"/>
@@ -1064,7 +1065,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="106"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
-        <translation>Visualizar ou alterar as configurações do sistema (volume do áudio, brilho da tela, duração da bateria e áreas de trabalho virtuais).</translation>
+        <translation>Visualize ou altere as configurações do sistema (volume do áudio, brilho da tela, duração da bateria e áreas de trabalho virtuais).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="112"/>
@@ -1074,7 +1075,7 @@ ligações de teclado atuais também serão ignorados.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="113"/>
         <source>View and control any running application windows (every application has a button)</source>
-        <translation>Visualizar e controlar todas as janelas dos aplicativos que estão em execução (cada aplicativo tem um botão)</translation>
+        <translation>Visualize e controle todas as janelas dos aplicativos que estão em execução (cada aplicativo tem um botão)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="119"/>
