@@ -1131,7 +1131,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="147"/>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="165"/>
         <source>Application Launcher</source>
-        <translation>Lançador de aplicativos</translation>
+        <translation>Lançador de aplicativo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
@@ -1146,12 +1146,12 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="172"/>
         <source>Desktop Icons View</source>
-        <translation type="unfinished">Visualizador de icones da área de trabalho</translation>
+        <translation>Visualizador de ícones da área de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="173"/>
         <source>Area for automatically showing desktop icons</source>
-        <translation type="unfinished">Área que exibe automaticamente os ícones da área de trabalho</translation>
+        <translation>Área que exibe ícones da área de trabalho automaticamente</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="179"/>
@@ -1161,7 +1161,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="180"/>
         <source>Keep simple text notes on your desktop</source>
-        <translation>Mantenha notas de texto simples em sua área de trabalho</translation>
+        <translation>Mantém notas de texto simples em sua área de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="186"/>
@@ -1176,12 +1176,12 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="193"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor do sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="194"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acompanhe as estatísticas do sistema, como o uso do CPU/memória e temperatura do processador.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
@@ -1261,7 +1261,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="258"/>
         <source>Color to use for all visible text.</source>
-        <translation type="unfinished">Cor a ser usada para todos os textos visíveis</translation>
+        <translation>Cor a ser usada para todos os textos visíveis.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="263"/>
@@ -1286,22 +1286,22 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="275"/>
         <source>Base Window Color</source>
-        <translation type="unfinished">Cor de base da janela</translation>
+        <translation>Cor base da janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="276"/>
         <source>Main background color for the window/dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo principal para janela/diálogo.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="281"/>
         <source>Base Window Color (Alternate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor base da janela (Alternado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="282"/>
         <source>Main background color for widgets that list or display collections of items.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor principal para widgets que listam ou exibem coleção de itens.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="287"/>
@@ -1316,32 +1316,32 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="293"/>
         <source>Primary Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor primária (Desabilitado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="294"/>
         <source>Dominant color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor dominante para o tema (mais suave).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="299"/>
         <source>Secondary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor secundária</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="300"/>
         <source>Alternate color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor alternativa para o tema.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="305"/>
         <source>Secondary Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor secundária (Desabilitado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="306"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cor alternativa para o tema (mais suave).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="311"/>
@@ -1366,17 +1366,17 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="323"/>
         <source>Highlight Color</source>
-        <translation type="unfinished">Cor do realce</translation>
+        <translation>Cor do realce</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="324"/>
         <source>Color used for highlighting an item.</source>
-        <translation type="unfinished">Cor usada ao realçar um item.</translation>
+        <translation>Cor usada ao realçar um item.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="329"/>
         <source>Highlight Color (Disabled)</source>
-        <translation type="unfinished">Cor do realce (desabilitado)</translation>
+        <translation>Cor do realce (Desabilitado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="330"/>

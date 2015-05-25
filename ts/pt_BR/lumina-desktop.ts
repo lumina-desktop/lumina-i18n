@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="31"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clique para atribuir um aplicativo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="37"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="37"/>
         <source>Click to Set</source>
-        <translation type="unfinished">Clique para definir</translation>
+        <translation>Clique para definir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="42"/>
         <source>Open Home</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir pasta de usuário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="46"/>
@@ -165,12 +165,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Checking User Settings...</source>
-        <translation>Verificando configurações de usuário...</translation>
+        <translation>Verificando as configurações de usuário...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Registering System Tray...</source>
-        <translation type="unfinished">Registrando bandeja do sistema...</translation>
+        <translation>Registrando a área de notificação...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
@@ -180,12 +180,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting System Applications...</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectando os aplicativos do sistema...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Initializing Desktop(s)...</source>
-        <translation type="unfinished">Inicializando área(s) de trabalho...</translation>
+        <translation>Inicializando área(s) de trabalho...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
@@ -466,7 +466,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Resumo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>

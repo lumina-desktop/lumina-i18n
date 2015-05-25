@@ -129,7 +129,7 @@
         <translation>Altres</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
         <source>Find Application Binary</source>
         <translation>Troba el binari de l&apos;aplicació</translation>
     </message>

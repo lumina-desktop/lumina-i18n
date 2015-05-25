@@ -132,17 +132,17 @@
 <context>
     <name>Worker</name>
     <message>
-        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="39"/>
+        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
         <translation>Arıyor: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="60"/>
+        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
         <translation>Aramaya Başlıyor: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
         <translation>Arama Bitti</translation>
     </message>

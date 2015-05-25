@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
@@ -129,9 +129,9 @@
         <translation>Outros</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished">Encontrar binário do aplicativo</translation>
+        <translation>Encontrar binário do aplicativo</translation>
     </message>
 </context>
 <context>
@@ -156,12 +156,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Arquivo ou endereço inválido: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não pôde ser aberto: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
@@ -181,7 +181,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de atalho desconhecido: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>

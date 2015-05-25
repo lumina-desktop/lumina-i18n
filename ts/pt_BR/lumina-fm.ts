@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation>Gerenciar favoritos</translation>
+        <translation>Gerenciar marcadores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation>Remover favorito</translation>
+        <translation>Remover marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation>Renomear favorito</translation>
+        <translation>Renomear marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation>Renomear favorito</translation>
+        <translation>Renomear marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation>Este nome de favorito já existe. Por favor, escolha outro.</translation>
+        <translation>Este nome de marcador já existe. Por favor, escolha outro.</translation>
     </message>
 </context>
 <context>
@@ -263,7 +263,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
         <source>Create a new file</source>
-        <translation>Criar um novo arquivo</translation>
+        <translation>Cria um novo arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
@@ -273,7 +273,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="449"/>
         <source>Create a new subdirectory</source>
-        <translation>Criar um novo subdiretório</translation>
+        <translation>Cria um novo subdiretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="455"/>
@@ -288,7 +288,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="477"/>
         <source>Play any multimedia files in this directory</source>
-        <translation>Reproduzir todos os arquivos multimídia neste diretório</translation>
+        <translation>Reproduz quaisquer arquivos multimídia neste diretório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="480"/>
@@ -308,7 +308,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="502"/>
         <source>View all the images in this directory as a slideshow</source>
-        <translation>Visualizar todas as imagens deste diretório como uma apresentação de slides</translation>
+        <translation>Visualiza todas as imagens deste diretório como uma apresentação de slides</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="505"/>
@@ -333,12 +333,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="530"/>
         <source>&amp;Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Backups</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="533"/>
         <source>Ctrl+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="560"/>
@@ -450,12 +450,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1087"/>
         <source>&amp;Overwrite Existing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;obrescrever o arquivo existente</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1090"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1113"/>
@@ -465,12 +465,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1122"/>
         <source>View</source>
-        <translation>Visualizar</translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1131"/>
         <source>Bookmarks</source>
-        <translation>Favoritos</translation>
+        <translation>Marcadores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1137"/>
@@ -586,7 +586,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1273"/>
         <source>Manage Bookmarks</source>
-        <translation>Gerenciar favoritos</translation>
+        <translation>Gerenciar marcadores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1287"/>
@@ -626,7 +626,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="104"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="105"/>
@@ -666,12 +666,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="362"/>
         <source>Filesystem: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de arquivos: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="377"/>
         <source>Invalid Permissions</source>
-        <translation>Premissões inválidas</translation>
+        <translation>Permissões inválidas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="377"/>
@@ -686,7 +686,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="612"/>
         <source>Click Play to Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique Reproduzir para iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="698"/>
@@ -701,7 +701,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
         <source>New Bookmark</source>
-        <translation>Novo favorito</translation>
+        <translation>Novo marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
@@ -719,7 +719,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation>Este nome de favorito já existe. Por favor, escolha outro.</translation>
+        <translation>Este nome de marcador já existe. Por favor, escolha outro.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>

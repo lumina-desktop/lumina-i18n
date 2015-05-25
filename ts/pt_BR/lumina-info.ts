@@ -16,7 +16,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
         <source>Desktop Version:</source>
-        <translation type="unfinished">Versão:</translation>
+        <translation>Versão do ambiente:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="173"/>
         <source>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Abrir no navegador web&lt;/a&gt;</translation>
+        <translation>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Abrir no navegador&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="191"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Abrir no navegador web&lt;a&gt;</translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Abrir no navegador&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
