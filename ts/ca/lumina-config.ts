@@ -1176,12 +1176,12 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="193"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor del sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="194"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de les estadístiques del sistema com ara l&apos;ús de la CPU i la mèmòria i les temperatures de la CPU.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
