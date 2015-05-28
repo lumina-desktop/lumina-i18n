@@ -146,37 +146,37 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーン番号:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="188"/>
         <source>Single Background</source>
-        <translation type="unfinished"></translation>
+        <translation>背景をひとつ選ぶ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="198"/>
         <source>Rotate Background</source>
-        <translation type="unfinished"></translation>
+        <translation>背景をローテーションさせる</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="205"/>
         <source> Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation> 分</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="208"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>毎 </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1083"/>
         <source>Panel #1</source>
-        <translation type="unfinished"></translation>
+        <translation>パネル #1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2035"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外観</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="626"/>
@@ -231,7 +231,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="578"/>
         <source>Panel #2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">パネル #2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1131"/>
