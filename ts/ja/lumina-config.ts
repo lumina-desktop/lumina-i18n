@@ -182,19 +182,19 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="626"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="860"/>
         <source>Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>場所:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="727"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>サイズ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="643"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="877"/>
         <source>Custom Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>色の指定:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="661"/>
@@ -208,166 +208,167 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1390"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1400"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="680"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="914"/>
         <source>Auto-hide Panel </source>
-        <translation type="unfinished"></translation>
+        <translation>パネルを自動的に隠す </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="687"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="921"/>
         <source>Follow Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマに追従する</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="753"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="987"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグイン</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="578"/>
         <source>Panel #2</source>
-        <translation type="unfinished">パネル #2</translation>
+        <translation>パネル #2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1131"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>アクション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1136"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>キーボードショートカット</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1159"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカットを消去</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1182"/>
         <source>Change Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカットを変更</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1207"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意: 現在のキー割り当てを消去して新しい設定を使えるようにするには保存する必要があります。</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1320"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Webブラウザー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1343"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>メールクライアント:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1370"/>
         <source>File Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルマネージャー:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1383"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>仮想端末:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1419"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルの関連付け</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1461"/>
         <source>Default Application</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトのアプリケーション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1466"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1476"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>消去</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1499"/>
         <source>Set App</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションを指定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1509"/>
         <source>Set Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>バイナリーを指定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="264"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="123"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>壁紙</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="270"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>フォント:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="284"/>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>フォントサイズ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="291"/>
         <source> point</source>
-        <translation type="unfinished"></translation>
+        <translation> ポイント</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="298"/>
         <source>Theme Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマのテンプレート:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="314"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマのテンプレートを作成/編集(上級者向け)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="354"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished">配色:</translation>
+        <translation>配色:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>配色を作成/編集</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコン集:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="448"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>固有名詞っぽいのでカタカナにするだけ</translatorcomment>
+        <translation>クイックアクセスメニュー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="464"/>
