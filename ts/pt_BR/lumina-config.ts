@@ -1100,7 +1100,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="133"/>
         <source>Home Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Botão iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="134"/>
