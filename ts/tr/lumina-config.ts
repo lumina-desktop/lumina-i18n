@@ -394,19 +394,19 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="699"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="933"/>
         <source> pixels thick</source>
-        <translation type="unfinished"></translation>
+        <translation> piksel kalınlık</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="709"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="943"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% uzunluk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="734"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="968"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hizalama:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1228"/>
@@ -488,7 +488,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1756"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaman Dilimi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1608"/>
@@ -523,7 +523,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1779"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm Biçimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1810"/>
@@ -763,48 +763,48 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="270"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst/Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="271"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt/Sağ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="293"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat (Tarih araç ipucu olarak)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarih (Saat araç ipucu olarak)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="295"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Önce Saat sonra Tarih</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="296"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Önce Tarih sonra Saat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="319"/>
         <source>System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Saati</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="510"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="884"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Düz Renk: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1777"/>
@@ -1136,7 +1136,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
         <source>Pin an application shortcut directly to the panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir uygulama kısayolunu doğrudan panele sabitle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="166"/>
@@ -1176,12 +1176,12 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="193"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem İzleme</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="194"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU/Bellek kullanımı ve CPU sıcaklıkları gibi sistem istatistiklerini izle.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>

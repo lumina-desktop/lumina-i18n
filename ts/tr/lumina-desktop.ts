@@ -6,27 +6,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="31"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir uygulama atamak için tıkla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="37"/>
         <source>Launch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 öğesini başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="44"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 öğesini aç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Select Application</source>
-        <translation type="unfinished">Uygulama Seç</translation>
+        <translation>Uygulama Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Name:</source>
-        <translation type="unfinished">Ad:</translation>
+        <translation>Ad:</translation>
     </message>
 </context>
 <context>
@@ -34,12 +34,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="16"/>
         <source>Increase Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyutu Artır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="17"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Boyutu Azalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="37"/>
@@ -155,47 +155,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturum Başlatılıyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar Yükleniyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Checking User Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Ayarları Denetleniyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Registering System Tray...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildirim Alanı Kaydediliyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere Yöneticisi Başlatılıyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting System Applications...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Uygulamaları Algılanıyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Initializing Desktop(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü (Masaüstleri) Başlatılıyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Initializing System Menu(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Menüsü (Menüleri) Başlatılıyor...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Performing Final Checks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Denetimler Gerçekleştiriliyor...</translation>
     </message>
 </context>
 <context>
@@ -203,37 +203,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Aç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
         <source>Increase Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Simge Boyutunu Artır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
         <source>Decrease Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Simge Boyutunu Azalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="38"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="41"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Özellikler</translation>
     </message>
 </context>
 <context>
@@ -466,32 +466,32 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Özet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU Sıcaklığı:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU Kullanımı:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bellek Kullanımı:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>CPU Log</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU Günlüğü</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="90"/>
         <source>Memory Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Bellek Günlüğü</translation>
     </message>
 </context>
 <context>
@@ -600,7 +600,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="31"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran Yapılandırması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="36"/>
@@ -648,12 +648,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="156"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Askıya Al</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="322"/>
         <source>Search this Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu Dizini Ara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="375"/>
@@ -781,7 +781,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="517"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran Yapılandırması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>

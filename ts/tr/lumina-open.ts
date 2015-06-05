@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Hatası</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
@@ -156,32 +156,32 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz Dosya ya da URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya açılamadı: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama kısayolunda başlatma bilgisi eksik (hatalı kısayol): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URL kısayolunda URL eksik: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizin kısayolunda dizin yolu eksik: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinmeyen kısayol türü: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>

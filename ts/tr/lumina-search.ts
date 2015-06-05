@@ -6,37 +6,37 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="14"/>
         <source>Search Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Arama Yapılandırması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aramayı Başlat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Hariç tutulan Dizinler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılanlar olarak kaydet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Arama Dizinini Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizinleri Hariç Tut</translation>
     </message>
 </context>
 <context>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Arama parametrelerini yapılandır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
@@ -121,12 +121,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık</translation>
     </message>
 </context>
 <context>
