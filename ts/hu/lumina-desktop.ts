@@ -308,47 +308,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="204"/>
         <source>Window List</source>
         <translation>Ablaklista</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="245"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="258"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="259"/>
         <source>Workspace %1</source>
         <translation>%1 munkaterület</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="269"/>
         <source>Terminal</source>
         <translation>Terminál</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="257"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="270"/>
         <source>Browse System</source>
         <translation>Rendszer böngészése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="290"/>
         <source>Lock Desktop</source>
         <translation>Asztal zárolása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="291"/>
         <source>Snap Plugins to Grid</source>
         <translation>Pluginek rácspontokhoz igazítása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="292"/>
         <source>Unlock Desktop</source>
         <translation>Asztal zárolásának feloldása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="281"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="294"/>
         <source>Log Out</source>
         <translation>Kijelentkezés</translation>
     </message>
