@@ -150,52 +150,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formularz</translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpoczynanie sesji...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation> Ładowanie ustawień...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Checking User Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie ustawień użytkownika...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Registering System Tray...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rejestruję zasobnik systemowy...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchamianie menedżera okien...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting System Applications...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykrywanie aplikacji systemowych...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Initializing Desktop(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicjalizacja pulpitu(ów)..</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Initializing System Menu(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicjalizacja menu systemowego...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Performing Final Checks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykonywanie ostatecznych testów...</translation>
     </message>
 </context>
 <context>
@@ -461,37 +461,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formularz</translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Podsumowanie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura procesora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykorzystanie procesora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykorzystanie pamięci:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>CPU Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziennik procesora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="90"/>
         <source>Memory Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziennik wykorzystania pamięci</translation>
     </message>
 </context>
 <context>

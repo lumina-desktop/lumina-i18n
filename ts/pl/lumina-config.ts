@@ -394,19 +394,19 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="699"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="933"/>
         <source> pixels thick</source>
-        <translation type="unfinished"></translation>
+        <translation>  grubość piksela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="709"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="943"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>długość</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="734"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="968"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyrównanie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1228"/>
@@ -523,7 +523,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1779"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wyświetlania</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1810"/>
@@ -763,37 +763,37 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Środkowanie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="270"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Górny/Lewy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="271"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolny/Prawy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="293"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Godzina (Data jako podpowiedź)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Data (Godzina jako podpowiedź)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="295"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Najpierw godzina, a następnie data</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="296"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Najpierw data, a następnie godzina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="319"/>
@@ -804,7 +804,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="510"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="884"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednolity kolor: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1777"/>
@@ -1176,12 +1176,12 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="193"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor systemu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="194"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachowuj dane statystyczne obciążenia systemu takie jak użycie procesora, pamięci i temperaturę procesora.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
