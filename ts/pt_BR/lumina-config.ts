@@ -644,12 +644,12 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="277"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished">Foco ativo do mouse</translation>
+        <translation>Foco ativo do mouse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="278"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished">Foco restrito do mouse</translation>
+        <translation>Foco restrito do mouse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="280"/>
@@ -1321,7 +1321,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="294"/>
         <source>Dominant color for the theme (more subdued).</source>
-        <translation type="unfinished">Cor dominante para o tema (mais suave).</translation>
+        <translation>Cor dominante para o tema (mais suave).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="299"/>
@@ -1341,27 +1341,27 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="306"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation type="unfinished">Cor alternativa para o tema (mais suave).</translation>
+        <translation>Cor alternativa para o tema (mais suave).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="311"/>
         <source>Accent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de destaque</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="312"/>
         <source>Color used for borders or other accents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor usada para bordas ou outros destaques.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="317"/>
         <source>Accent Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de destaque (desabilitado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="318"/>
         <source>Color used for borders or other accents (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor usada para bordas e outros destaques (mais suave).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="323"/>
@@ -1381,7 +1381,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="330"/>
         <source>Color used for highlighting an item (more subdued).</source>
-        <translation type="unfinished">Cor usada ao realçar um item (mais suave).</translation>
+        <translation>Cor usada para realçar um item (mais suave).</translation>
     </message>
 </context>
 <context>

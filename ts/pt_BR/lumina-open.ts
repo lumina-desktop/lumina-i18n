@@ -156,7 +156,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished">Arquivo ou endereço inválido: %1</translation>
+        <translation>Arquivo ou URL inválido: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>

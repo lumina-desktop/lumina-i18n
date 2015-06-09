@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="133"/>
         <source>Source Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repositório Fonte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="166"/>

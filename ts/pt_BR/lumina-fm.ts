@@ -485,12 +485,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1172"/>
         <source>New &amp;Tab</source>
-        <translation type="unfinished">Nova a&amp;ba</translation>
+        <translation>Nova &amp;aba</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished">Ctrl+B</translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1180"/>
