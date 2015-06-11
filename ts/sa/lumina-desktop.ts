@@ -485,12 +485,7 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
-        <source>CPU Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="90"/>
-        <source>Memory Log</source>
+        <source>Disk Usage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
