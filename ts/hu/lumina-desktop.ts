@@ -32,27 +32,33 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="16"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="88"/>
         <source>Increase Size</source>
         <translation>Méret növelése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="17"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="89"/>
         <source>Decrease Size</source>
         <translation>Méret csökkentése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="37"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="36"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="62"/>
         <source>Click to Set</source>
         <translation>Kattintás a beállításhoz</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="91"/>
+        <source>Delete File</source>
+        <translation type="unfinished">Fájl törlése</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
         <source>Select Application</source>
         <translation>Alkalmazás kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
         <source>Name:</source>
         <translation>Név:</translation>
     </message>
@@ -265,42 +271,42 @@
 <context>
     <name>LDeskBarPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="57"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="58"/>
         <source>Favorite Applications</source>
         <translation>Kedvenc alkalmazások</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="68"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="69"/>
         <source>Favorite Folders</source>
         <translation>Kedvenc mappák</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="76"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="77"/>
         <source>Audio</source>
         <translation>Audió</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="80"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="81"/>
         <source>Video</source>
         <translation>Videó</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="84"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="85"/>
         <source>Pictures</source>
         <translation>Képek</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="88"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="89"/>
         <source>Other Files</source>
         <translation>Egyéb fájlok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="91"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="92"/>
         <source>Documents</source>
         <translation>Dokumentumok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="98"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="99"/>
         <source>Favorite Files</source>
         <translation>Kedvenc fájlok</translation>
     </message>
@@ -308,47 +314,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="204"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="210"/>
         <source>Window List</source>
         <translation>Ablaklista</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="265"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="259"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
         <source>Workspace %1</source>
         <translation>%1 munkaterület</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="269"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="276"/>
         <source>Terminal</source>
         <translation>Terminál</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="270"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
         <source>Browse System</source>
         <translation>Rendszer böngészése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="290"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="297"/>
         <source>Lock Desktop</source>
         <translation>Asztal zárolása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="291"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="298"/>
         <source>Snap Plugins to Grid</source>
         <translation>Pluginek rácspontokhoz igazítása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="292"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="299"/>
         <source>Unlock Desktop</source>
         <translation>Asztal zárolásának feloldása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="294"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="301"/>
         <source>Log Out</source>
         <translation>Kijelentkezés</translation>
     </message>
@@ -492,27 +498,27 @@
 <context>
     <name>NotePadPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="92"/>
         <source>Note Files (*.note)</source>
         <translation>Jegyzetfájlok (*.note)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="92"/>
         <source>Text Files (*)</source>
         <translation>Szövegfájlok (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="110"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
         <source>Open a note file</source>
         <translation>Jegyzet fájl megnyitása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="130"/>
         <source>New Note Name:</source>
         <translation>Új jegyzet neve:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="149"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="132"/>
         <source>Create a new note</source>
         <translation>Új jegyzet létrehozása</translation>
     </message>
