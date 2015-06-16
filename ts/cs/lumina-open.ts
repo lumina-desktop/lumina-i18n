@@ -1,132 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="cs">
 <context>
     <name>LFileDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít pomocí...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferované</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>K dispozici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastní</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
         <source>Binary Location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Místo v binárním kódu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
         <source>Set this application as the default </source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavit tuto aplikaci jako výchozí </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Odkaz na e-mail)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Internet URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Výuka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Síť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kancelář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Věda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systém</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utility</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatní</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
@@ -139,59 +139,59 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba souboru</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlasitost zvuku %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="184"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Jas obrazovky %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný soubor nebo URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor nelze otevřít: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Application shortcut is missing the launching information (malformed shortcut): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URL shortcut is missing the URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Directory shortcut is missing the path to the directory: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámý typ zkratky: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Následující aplikace ohlašují chybu a musí být ukončeny:</translation>
     </message>
 </context>
 </TS>
