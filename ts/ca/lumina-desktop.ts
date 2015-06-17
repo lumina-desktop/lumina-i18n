@@ -50,7 +50,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="91"/>
         <source>Delete File</source>
-        <translation type="unfinished">Suprimeix el fitxer</translation>
+        <translation>Suprimeix el fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
@@ -492,7 +492,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Ús del disc</translation>
     </message>
 </context>
 <context>
