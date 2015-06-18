@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="37"/>
         <source>Launch %1</source>
-        <translation>Spustit %s</translation>
+        <translation>Spustit %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="44"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Unsorted</source>
-        <translation>Nezařazeno</translation>
+        <translation type="unfinished">Nezařazeno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="94"/>
@@ -209,17 +209,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
@@ -247,7 +247,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
         <source>Quickly launch applications or open files</source>
-        <translation>Rychlé spuštění aplikace nebo otevření souboru</translation>
+        <translation type="unfinished">Rychlé spuštění aplikace nebo otevření souboru</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
@@ -260,12 +260,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="83"/>
         <source>%1 % (Charging)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (Nabíjení)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (%2 zbývá)</translation>
     </message>
 </context>
 <context>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="265"/>
         <source>Lumina Desktop</source>
-        <translation type="unfinished">prostředí Lumina</translation>
+        <translation>prostředí Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="301"/>
         <source>Log Out</source>
-        <translation type="unfinished">Odhlásit se</translation>
+        <translation>Odhlásit se</translation>
     </message>
 </context>
 <context>
@@ -381,7 +381,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
@@ -472,12 +472,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrnutí</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teplota CPU:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
@@ -606,7 +606,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Window Theme</source>
-        <translation type="unfinished">Vzhled okna</translation>
+        <translation>Vzhled okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="46"/>
@@ -629,17 +629,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="55"/>
         <source>Log Out</source>
-        <translation type="unfinished">Odhlásit se</translation>
+        <translation>Odhlásit se</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="71"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Restartovat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="87"/>
         <source>Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypnout</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="127"/>
@@ -654,7 +654,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation type="unfinished">Uspat do paměti</translation>
+        <translation>Uspat do paměti</translation>
     </message>
 </context>
 <context>
@@ -662,7 +662,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="29"/>
         <source>Go Back</source>
-        <translation type="unfinished">Zpět</translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="113"/>
@@ -672,12 +672,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="118"/>
         <source>Delete File</source>
-        <translation>Vymazání souboru</translation>
+        <translation>Vymazat soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="124"/>
         <source>Create Shortcut</source>
-        <translation>Vytvořit zkratku</translation>
+        <translation type="unfinished">Vytvořit zkratku</translation>
     </message>
 </context>
 <context>
@@ -706,12 +706,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
         <source>Favorite Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblíbené složky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Místa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
@@ -721,23 +721,23 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="142"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>System Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Systémové aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="272"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Domů</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
@@ -787,22 +787,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>
         <source>Application Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzhled aplikací</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="561"/>
         <source>Screensaver Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení spořiče obrazovky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="603"/>
         <source>About the Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>O prostředí Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="233"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vše</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="234"/>

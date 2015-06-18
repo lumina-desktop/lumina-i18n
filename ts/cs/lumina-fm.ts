@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="cs">
 <context>
     <name>BMMDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat záložky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="40"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit záložku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat záložku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotovo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat záložku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné jméno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložka s tímto názvem již existuje. Zvolte jiný název.</translation>
     </message>
 </context>
 <context>
@@ -59,43 +59,43 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>TB</source>
-        <translation type="unfinished"></translation>
+        <translation>TB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="115"/>
         <source>%1: %2 / %3: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 / %3: %4</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="119"/>
         <source>Total size: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Celková velikost: %1 %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="124"/>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="125"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapacita: %1</translation>
     </message>
 </context>
 <context>
@@ -158,12 +158,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="141"/>
         <source>Could not remove these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze smazat tyto soubory:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="142"/>
         <source>Could not copy these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze kopírovat tyto soubory:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="143"/>
@@ -586,7 +586,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1273"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spravovat záložky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1287"/>
@@ -708,18 +708,18 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="893"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jméno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatné jméno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záložka s tímto názvem již existuje. Zvolte jiný název.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>
@@ -835,7 +835,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1229"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hotovo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1251"/>
