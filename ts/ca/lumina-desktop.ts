@@ -351,12 +351,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="302"/>
         <source>Tile Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Enrajolat de connectors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="303"/>
         <source>Cascade Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Cascada de connectors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="304"/>

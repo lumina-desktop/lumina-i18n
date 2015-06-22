@@ -382,7 +382,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="513"/>
         <source>Auto-Create Desktop Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea automàticament dreceres d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="526"/>
