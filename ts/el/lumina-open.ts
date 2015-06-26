@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="el">
 <context>
     <name>LFileDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα με...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Προτιμώμενη</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμα</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
@@ -31,22 +31,22 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
         <source>Set this application as the default </source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός αυτής της εφαρμογής ως προεπιλεγμένης</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
@@ -61,17 +61,17 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Βίντεο</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Πολυμέσα</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
@@ -86,12 +86,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Παιχνίδια</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραφικά</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
@@ -139,19 +139,19 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα αρχείου</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Ένταση ήχου %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="184"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Φωτεινότητα οθόνης %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
@@ -161,7 +161,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία ανοίγματος αρχείου%1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>

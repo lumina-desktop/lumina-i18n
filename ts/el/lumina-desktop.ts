@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="el">
 <context>
     <name>AppLaunchButtonPlugin</name>
     <message>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλογή εφαρμογής</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Όνομα:</translation>
     </message>
 </context>
 <context>
@@ -55,12 +55,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="117"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή εφαρμογής</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="117"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα:</translation>
     </message>
 </context>
 <context>

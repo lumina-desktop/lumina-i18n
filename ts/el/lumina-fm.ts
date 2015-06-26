@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="el">
 <context>
     <name>BMMDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση σελιδοδεικτών</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="40"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαδρομή</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση σελιδοδείκτη</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία σελιδοδείκτη</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Ολοκληρώθηκε</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία σελιδοδείκτη</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο όνομα</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
@@ -59,43 +59,43 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>KB</source>
-        <translation type="unfinished"></translation>
+        <translation>KB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
         <source>TB</source>
-        <translation type="unfinished"></translation>
+        <translation>TB</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="115"/>
         <source>%1: %2 / %3: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 / %3: %4</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="119"/>
         <source>Total size: %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνολικό μέγεθος: %1 %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="124"/>
         <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="125"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Χωρητικότητα: %1</translation>
     </message>
 </context>
 <context>
@@ -148,12 +148,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="127"/>
         <source>Restoring: %1 as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά: %1 σαν %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
         <source>Moving: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μετακίνηση: %1 σε %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="141"/>
@@ -258,12 +258,12 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="368"/>
         <source>Delete Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή αντικειμένων</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία νέου αρχείου</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
@@ -586,7 +586,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1273"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Διαχείριση σελιδοδεικτών</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1287"/>
@@ -708,13 +708,13 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="893"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Όνομα:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Μη έγκυρο όνομα</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
@@ -835,7 +835,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1229"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ολοκληρώθηκε</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1251"/>

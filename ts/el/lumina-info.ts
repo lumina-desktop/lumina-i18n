@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="el">
 <context>
     <name>MainUI</name>
     <message>
@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="59"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="120"/>
         <source>Qt Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Έκδοση Qt:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="133"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="166"/>
         <source>Documentation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τεκμηρίωση:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="173"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="214"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Άδεια χρήσης</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="231"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="282"/>
         <source>Sponsors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χορηγοί</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
 </context>
 </TS>

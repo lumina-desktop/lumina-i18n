@@ -614,7 +614,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2086"/>
         <source>Shortcuts</source>
-        <translation>Ярлыки</translation>
+        <translation>Клавиши</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="2089"/>
