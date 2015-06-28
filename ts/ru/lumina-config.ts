@@ -892,108 +892,108 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="95"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="116"/>
         <source>Screen Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Край экрана:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="126"/>
         <source>Size:</source>
-        <translation type="unfinished">Размер:</translation>
+        <translation>Размер:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="133"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation> толстый пиксель(и)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="149"/>
         <source>% length</source>
-        <translation type="unfinished">% длина</translation>
+        <translation>% длина</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="175"/>
         <source>Alignment:</source>
-        <translation type="unfinished">Выравнивание:</translation>
+        <translation>Выравнивание:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="194"/>
         <source>Appearance</source>
-        <translation type="unfinished">Оформление</translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="212"/>
         <source>Auto-hide Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически скрываемая панель</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="219"/>
         <source>Use Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать пользовательских цвет</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="240"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="247"/>
         <source>Sample</source>
-        <translation type="unfinished">Пример</translation>
+        <translation>Пример</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="282"/>
         <source>Plugins</source>
-        <translation type="unfinished">Плагины</translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished">Верх/Лево</translation>
+        <translation>Верх/Лево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="26"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished">Низ/Право</translation>
+        <translation>Низ/Право</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="27"/>
         <source>Top</source>
-        <translation type="unfinished">Вверху</translation>
+        <translation>Вверху</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="28"/>
         <source>Bottom</source>
-        <translation type="unfinished">Внизу</translation>
+        <translation>Внизу</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="29"/>
         <source>Left</source>
-        <translation type="unfinished">Налево</translation>
+        <translation>Налево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="30"/>
         <source>Right</source>
-        <translation type="unfinished">Направо</translation>
+        <translation>Направо</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="49"/>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="109"/>
         <source>Panel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель %1</translation>
     </message>
 </context>
 <context>
