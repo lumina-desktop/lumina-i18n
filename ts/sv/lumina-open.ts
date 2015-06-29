@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>LFileDialog</name>
     <message>
@@ -41,42 +41,42 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
         <source>(Email Link)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Email Länk)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Internet URL)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Internet Länk)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljud</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Utveckling</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
@@ -121,17 +121,17 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Annat </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta Programmets Binär </translation>
     </message>
 </context>
 <context>
@@ -139,29 +139,29 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Filfel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudvolym %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="184"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmljusstyrka %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
         <source>Invalid file or URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig fil eller URL %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
         <source>File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen kunde inte öppnas: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>

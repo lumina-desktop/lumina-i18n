@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>MainUI</name>
     <message>
@@ -26,46 +26,46 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Delay </source>
-        <translation type="unfinished"></translation>
+        <translation>Fördröjning  </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>
         <source>Entire Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela skärmen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="75"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
         <source>Select Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Fönster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Verktygsrad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara skärmbild</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="143"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Avsluta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>

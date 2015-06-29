@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>ConfigUI</name>
     <message>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sök katalog </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
@@ -44,37 +44,37 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök efter...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv för att söka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera sök parametrar </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
         <source>Stop Active Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppa aktiv sökning </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Program</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="64"/>
         <source>Files or Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer eller Kataloger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
@@ -111,22 +111,22 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta en skärmbild</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök: %1 -- Smart %2 </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Av</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>På</translation>
     </message>
 </context>
 <context>
@@ -134,17 +134,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökning: %1 </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Börjar sökning: %1 </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökning avslutad </translation>
     </message>
 </context>
 </TS>

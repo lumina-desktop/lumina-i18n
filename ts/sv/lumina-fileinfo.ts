@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>Dialog</name>
     <message>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
@@ -41,37 +41,37 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senast ändrad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="122"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="129"/>
         <source>MimeType:</source>
-        <translation type="unfinished"></translation>
+        <translation>MIME-typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="164"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filstorlek:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="179"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="202"/>
         <source>Working dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="236"/>
         <source>Use startup notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd uppstartsnotifiering</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="250"/>
@@ -127,17 +127,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Example: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Exempel: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="100"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="110"/>
         <source>Working dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
@@ -152,17 +152,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="152"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="153"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dold %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
@@ -204,19 +204,19 @@ Please note that this process will update the file called:</source>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="275"/>
         <source>Working Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
         <source>Problem to write to disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem att skriva till disk </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
@@ -232,7 +232,7 @@ Please note that this process will update the file called:</source>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild Filer (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sv">
 <context>
     <name>AppDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj program</translation>
     </message>
 </context>
 <context>
@@ -14,80 +14,81 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschemaeditor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ny färg för markering</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="70"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sätt värde för markering manuellt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="100"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Värde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="105"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Exempel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="115"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="135"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
         <source>Color Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg Existerar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Färschemat finns redan.
+ Vill du skriva över det?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="117"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="118"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="138"/>
         <source>Color Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgvärde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="138"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg:</translation>
     </message>
 </context>
 <context>
@@ -95,17 +96,17 @@
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj insticksprogram</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj insticksprogram:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="77"/>
@@ -163,48 +164,48 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="208"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Varje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1544"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="899"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="909"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="640"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="645"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortkommando</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="668"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollställ Genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="691"/>
         <source>Change Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra Genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="716"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notera: Nuvarande kortkommandon måste nollställas och sparas innan de kan återanvändas.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="829"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Webbläsare:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="852"/>
@@ -254,48 +255,48 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="264"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="123"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivbordsbakgrund</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="270"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Typsnitt:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="284"/>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Teckenstorlek:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="291"/>
         <source> point</source>
-        <translation type="unfinished"></translation>
+        <translation> punkt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="298"/>
         <source>Theme Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temamall:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="314"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa/Ändra en temamall (Avancerat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="354"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Färgschema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
@@ -345,47 +346,47 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="768"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="778"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="798"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil standarder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="965"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ/Grupp</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1050"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänna inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1058"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera numlock vid uppstart</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1065"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp ljud vid uppstart</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1072"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Spela upp ljud vid avslut</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1081"/>
         <source>Change User Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra användarikon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1174"/>
@@ -437,17 +438,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1580"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Programhanterare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1311"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönstersystem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1288"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsformat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1319"/>
@@ -457,28 +458,28 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1336"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny Fönsterplacering</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1346"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuspolicy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1356"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönstertema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1374"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsvisning av Fönstertema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1428"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2156"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen förhandsvisning tillgänglig</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1474"/>
@@ -528,22 +529,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1569"/>
         <source>Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessionsinställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1588"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Genvägar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1591"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortkommandon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="280"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="281"/>
@@ -558,12 +559,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="284"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera radvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="285"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera kolumnvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="286"/>
@@ -614,7 +615,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="838"/>
         <source>File does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen finns inte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="875"/>
@@ -624,7 +625,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1275"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ljudvolym</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1276"/>
@@ -644,7 +645,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1279"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta skärmdump</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1380"/>
@@ -662,7 +663,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="312"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1603"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="297"/>
@@ -699,18 +700,18 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1809"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2114"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1816"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2117"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1816"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda filen är inte körbar.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1948"/>
@@ -718,7 +719,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2179"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2205"/>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1955"/>
@@ -726,7 +727,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2186"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2212"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2114"/>
@@ -736,17 +737,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2117"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Den valda filen är inte körbar.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2131"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2131"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2224"/>
@@ -889,22 +890,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="95"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="116"/>
         <source>Screen Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmkant:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="126"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Storlek:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="133"/>
@@ -914,17 +915,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="149"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% längd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="175"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrangemang:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="194"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="212"/>
@@ -934,22 +935,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="219"/>
         <source>Use Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd anpassad färger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="240"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="247"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exempel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="282"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmoduler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
@@ -990,7 +991,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="49"/>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="109"/>
         <source>Panel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel %1</translation>
     </message>
 </context>
 <context>
@@ -1038,7 +1039,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="91"/>
         <source>Battery Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Batteriövervakare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="92"/>
@@ -1053,7 +1054,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="99"/>
         <source>View the current time and date.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa aktuell tid och aktuellt datum.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="105"/>
@@ -1068,7 +1069,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="112"/>
         <source>Task Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivitetshanterare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="113"/>
@@ -1088,7 +1089,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="126"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Systembricka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="127"/>
@@ -1098,17 +1099,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="133"/>
         <source>Home Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemknapp</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="134"/>
         <source>Hide all open windows and show the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj alla fönster och visa skrivbordet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="140"/>
         <source>Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Startmeny</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="141"/>
@@ -1118,12 +1119,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="158"/>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="159"/>
         <source>Display a calendar on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa en kalender på skrivbordet </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="147"/>
@@ -1164,7 +1165,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="186"/>
         <source>Audio Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudspelare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="187"/>
@@ -1174,7 +1175,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="193"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemövervakare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="194"/>
@@ -1184,7 +1185,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="204"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="205"/>
@@ -1224,7 +1225,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
@@ -1234,7 +1235,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönsterlista</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
@@ -1254,7 +1255,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="257"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="258"/>
@@ -1304,7 +1305,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="287"/>
         <source>Primary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Primär färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="288"/>
@@ -1364,7 +1365,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="323"/>
         <source>Highlight Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringsfärg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="324"/>
@@ -1392,33 +1393,33 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="28"/>
         <source>Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temanamn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="51"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkställ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>Theme Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Temat finns</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
