@@ -144,12 +144,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕编号：</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="188"/>
         <source>Single Background</source>
-        <translation type="unfinished"></translation>
+        <translation>单一背景</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="198"/>
@@ -225,7 +225,8 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="928"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Specific文件类型</translatorcomment>
+        <translation>Specific文件类型</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="970"/>
@@ -423,12 +424,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1136"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>返回系统默认值</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1143"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>返回到Lumina默认值</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1577"/>
@@ -544,12 +545,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="280"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>点击聚焦</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="281"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>活动鼠标焦点</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="282"/>
@@ -559,7 +560,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="284"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>排成一排</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="285"/>
@@ -580,7 +581,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="337"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="338"/>
         <source>Select Panel Color</source>
-        <translation type="unfinished"></translation>
+        <translation>选择面板颜色</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="484"/>
@@ -1089,7 +1090,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="126"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>系统托盘</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="127"/>
@@ -1099,7 +1100,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="133"/>
         <source>Home Button</source>
-        <translation type="unfinished"></translation>
+        <translation>home按钮</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="134"/>
@@ -1109,7 +1110,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="140"/>
         <source>Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>开始菜单</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="141"/>
@@ -1119,18 +1120,18 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="158"/>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>日历</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="159"/>
         <source>Display a calendar on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>显示日历在桌面</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="147"/>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="165"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>程序启动器</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="148"/>
@@ -1145,7 +1146,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="172"/>
         <source>Desktop Icons View</source>
-        <translation type="unfinished"></translation>
+        <translation>查看桌面图标</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="173"/>
@@ -1195,7 +1196,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="211"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>文件管理器</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="212"/>
@@ -1215,7 +1216,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>分隔符</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
@@ -1225,7 +1226,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
@@ -1235,7 +1236,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>窗口列表</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
@@ -1255,7 +1256,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="257"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="258"/>
