@@ -50,7 +50,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="101"/>
         <source>Delete File</source>
-        <translation type="unfinished">Excluir arquivo</translation>
+        <translation>Excluir arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="117"/>
@@ -68,7 +68,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="42"/>
         <source>Open Home</source>
-        <translation type="unfinished">Abrir pasta de usuário</translation>
+        <translation>Abrir pasta de usuário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="46"/>
@@ -487,22 +487,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished">Temp. do CPU:</translation>
+        <translation>Temp. do CPU:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished">Uso do CPU:</translation>
+        <translation>Uso do CPU:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished">Uso da mem.:</translation>
+        <translation>Uso da mem.:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso do disco</translation>
     </message>
 </context>
 <context>
