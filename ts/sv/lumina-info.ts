@@ -6,32 +6,32 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Skrivbords Information</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="59"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
         <source>Desktop Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivbords Version:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>
         <source>OS Build:</source>
-        <translation type="unfinished"></translation>
+        <translation>OS Bygge:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="120"/>
         <source>Qt Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-version:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="133"/>
         <source>Source Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkods Repository:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="166"/>
@@ -81,12 +81,12 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Öppnas i en webbläsare&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 </TS>

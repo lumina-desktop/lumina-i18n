@@ -6,27 +6,27 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Filinformation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Filegenskaper</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ägare:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupp:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Behörigheter:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
@@ -76,17 +76,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="250"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="257"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="264"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="298"/>
@@ -96,28 +96,28 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="305"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="312"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="349"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="356"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkställ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
@@ -142,12 +142,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>The filename cannot start with a &quot;-&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnamnet kan inte börja med ett &quot;-&quot;.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="151"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG Genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="152"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>Read/Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs/Skriv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>

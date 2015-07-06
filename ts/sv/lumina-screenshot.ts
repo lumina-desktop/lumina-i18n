@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="55"/>
         <source> Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Sekunder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
@@ -75,17 +75,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ta Ny skärmdump</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG Filer (*.png);; Alla Filer (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
         <source>Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fönster:</translation>
     </message>
 </context>
 </TS>
