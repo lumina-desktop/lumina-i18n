@@ -53,12 +53,12 @@
         <translation>删除文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
         <source>Select Application</source>
         <translation>选择程序</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
         <source>Name:</source>
         <translation>名称：</translation>
     </message>
@@ -207,37 +207,37 @@
 <context>
     <name>DesktopViewPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="29"/>
         <source>Open</source>
         <translation>打开</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="31"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="34"/>
         <source>Increase Icons</source>
         <translation>放大图标</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
         <source>Decrease Icons</source>
         <translation>减少图标</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="38"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="37"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="41"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="40"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
@@ -314,57 +314,57 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="213"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Window List</source>
         <translation>窗口列表</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="268"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="317"/>
         <source>Lumina Desktop</source>
         <translation>Lumina桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="269"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="318"/>
         <source>Workspace %1</source>
         <translation>工作空间 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="328"/>
         <source>Terminal</source>
         <translation>终端</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="280"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="329"/>
         <source>Browse System</source>
         <translation>浏览系统</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="300"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
         <source>Lock Desktop</source>
         <translation>锁定 桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="301"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="350"/>
         <source>Snap Plugins to Grid</source>
         <translation>单元插件到网格</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="302"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="351"/>
         <source>Tile Plugins</source>
         <translation>Tile 插件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="303"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="352"/>
         <source>Cascade Plugins</source>
         <translation>Cascade插件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="304"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="353"/>
         <source>Unlock Desktop</source>
         <translation>解锁桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="306"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="355"/>
         <source>Log Out</source>
         <translation>注销</translation>
     </message>
