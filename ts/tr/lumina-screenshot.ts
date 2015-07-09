@@ -40,40 +40,40 @@
         <translation>Pencere Seç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="103"/>
         <source>toolBar</source>
         <translation>Araç Çubuğu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>Save Screenshot</source>
         <translation>Ekran Görüntüsünü Kaydet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="141"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="143"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="149"/>
         <source>Quit</source>
         <translation>Çık</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Snap</source>
         <translation>Çek</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="157"/>
         <source>Take new snapshot</source>
         <translation>Yeni görüntü al</translation>
     </message>

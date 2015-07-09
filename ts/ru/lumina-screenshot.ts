@@ -40,40 +40,40 @@
         <translation>Выберите Окно</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="103"/>
         <source>toolBar</source>
         <translation>Панель Инструментов</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>Save Screenshot</source>
         <translation>Сохранить Снимок</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="141"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="143"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="149"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Snap</source>
         <translation>Снимок</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="157"/>
         <source>Take new snapshot</source>
         <translation>Сделать Новый Снимок</translation>
     </message>

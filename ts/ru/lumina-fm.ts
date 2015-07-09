@@ -480,133 +480,133 @@ New Location: %2</source>
         <translation>Внешние устройства</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1150"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1153"/>
         <source>toolBar</source>
         <translation>Панель Инструментов</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1172"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
         <source>New &amp;Tab</source>
         <translation>Новая вкладка &amp;T</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1180"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
         <source>Exit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1191"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1194"/>
         <source>&amp;Preferences</source>
         <translation>Настройка &amp;P</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1196"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>
         <source>UpDir</source>
         <translation>Вверх</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1202"/>
         <source>Go up one directory</source>
         <translation>Вверх на одну папку</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1202"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1205"/>
         <source>Alt+Up</source>
         <translation>Alt+Вверх</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1207"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1210"/>
         <source>&amp;Home</source>
         <translation>Дом &amp;h</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1210"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1213"/>
         <source>Go to your home directory</source>
         <translation>Перейти в домашний каталог</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1213"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1216"/>
         <source>Alt+H</source>
         <translation>Alt+H</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1224"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1227"/>
         <source>Show Hidden Files</source>
         <translation>Показать скрытые файлы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1229"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1232"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1232"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1235"/>
         <source>Back to directory</source>
         <translation>Назад в папку</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1235"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1265"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1238"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1268"/>
         <source>Alt+Left</source>
         <translation>Alt+Влево</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1240"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1243"/>
         <source>Bookmark</source>
         <translation>Закладка</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1243"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1246"/>
         <source>Bookmark this directory</source>
         <translation>Добавить в Закладки эту папку</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1246"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1249"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1251"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1254"/>
         <source>Scan for Devices</source>
         <translation>Поиск устройств</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1262"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1265"/>
         <source>Back to the system</source>
         <translation>Вернуться в систему</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1273"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1276"/>
         <source>Manage Bookmarks</source>
         <translation>Управление закладками</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1287"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1290"/>
         <source>Show Action Buttons</source>
         <translation>Показывать кнопки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1298"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1301"/>
         <source>Load Thumbnails</source>
         <translation>Загрузить миниатюры</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1303"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
         <source>Search Directory</source>
         <translation>Поиск папки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1309"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>

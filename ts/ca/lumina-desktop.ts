@@ -32,33 +32,33 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="98"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="104"/>
         <source>Increase Size</source>
         <translation>Augmenta&apos;n la mida</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="99"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="105"/>
         <source>Decrease Size</source>
         <translation>Disminueix-ne la mida</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="43"/>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="69"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="46"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="72"/>
         <source>Click to Set</source>
         <translation>Cliqueu per establir-ho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
         <source>Delete File</source>
         <translation>Suprimeix el fitxer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="121"/>
         <source>Select Application</source>
         <translation>Seleccioneu l&apos;aplicació</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="121"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
@@ -314,57 +314,57 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
         <source>Window List</source>
         <translation>Llista de finestres</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="317"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="316"/>
         <source>Lumina Desktop</source>
         <translation>Escriptori Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="318"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="317"/>
         <source>Workspace %1</source>
         <translation>Espai de treball %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="328"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="327"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="329"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="328"/>
         <source>Browse System</source>
         <translation>Navegueu pel sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="348"/>
         <source>Lock Desktop</source>
         <translation>Bloqueig de l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
         <source>Snap Plugins to Grid</source>
         <translation>Ajusta els connectors a la graella</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="351"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="350"/>
         <source>Tile Plugins</source>
         <translation>Enrajolat de connectors</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="352"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="351"/>
         <source>Cascade Plugins</source>
         <translation>Cascada de connectors</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="353"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="352"/>
         <source>Unlock Desktop</source>
         <translation>Desbloca l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="354"/>
         <source>Log Out</source>
         <translation>Surt</translation>
     </message>

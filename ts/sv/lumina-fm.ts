@@ -478,133 +478,133 @@ New Location: %2</source>
         <translation>Externa enheter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1150"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1153"/>
         <source>toolBar</source>
         <translation>verktygsrad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1172"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
         <source>New &amp;Tab</source>
         <translation>Ny &amp;flik</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1180"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
         <source>Exit</source>
         <translation>Avsluta</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1191"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1194"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Inställningar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1196"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>
         <source>UpDir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1202"/>
         <source>Go up one directory</source>
         <translation>Gå upp en katalog</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1202"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1205"/>
         <source>Alt+Up</source>
         <translation>Alt+Upp</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1207"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1210"/>
         <source>&amp;Home</source>
         <translation>&amp;Hem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1210"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1213"/>
         <source>Go to your home directory</source>
         <translation>Gå till din hemkatalog</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1213"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1216"/>
         <source>Alt+H</source>
         <translation>Alt+H</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1224"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1227"/>
         <source>Show Hidden Files</source>
         <translation>Visa dolda filer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1229"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1232"/>
         <source>Back</source>
         <translation>Bakåt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1232"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1235"/>
         <source>Back to directory</source>
         <translation>Tillbaka till katalog </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1235"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1265"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1238"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1268"/>
         <source>Alt+Left</source>
         <translation>Alt+Vänster</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1240"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1243"/>
         <source>Bookmark</source>
         <translation>Bokmärk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1243"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1246"/>
         <source>Bookmark this directory</source>
         <translation>Bokmärk denna katalog</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1246"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1249"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1251"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1254"/>
         <source>Scan for Devices</source>
         <translation>Sök efter enheter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1262"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1265"/>
         <source>Back to the system</source>
         <translation>Tillbaka till systemet </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1273"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1276"/>
         <source>Manage Bookmarks</source>
         <translation>Hantera bokmärken</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1287"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1290"/>
         <source>Show Action Buttons</source>
         <translation>Visa aktiva knappar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1298"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1301"/>
         <source>Load Thumbnails</source>
         <translation>Ladda Miniatyrbilder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1303"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
         <source>Search Directory</source>
         <translation>Sök Katalog</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1309"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>

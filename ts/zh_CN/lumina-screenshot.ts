@@ -41,40 +41,40 @@
         <translation>选择窗口</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="100"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="103"/>
         <source>toolBar</source>
         <translation>工具栏</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
         <source>Save Screenshot</source>
         <translation>保存截图</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="141"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="143"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="149"/>
         <source>Quit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="151"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Snap</source>
         <translation>捕捉</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="157"/>
         <source>Take new snapshot</source>
         <translation>抓取截图</translation>
     </message>
