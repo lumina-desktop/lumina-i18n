@@ -32,33 +32,33 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="104"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="106"/>
         <source>Increase Size</source>
         <translation>Suurenda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="105"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
         <source>Decrease Size</source>
         <translation>Vähenda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="46"/>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="47"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="73"/>
         <source>Click to Set</source>
         <translation>Klõpsa määramiseks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="107"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="109"/>
         <source>Delete File</source>
         <translation>Kustuta fail</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="123"/>
         <source>Select Application</source>
         <translation>Vali rakendus</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="123"/>
         <source>Name:</source>
         <translation>Nimi:</translation>
     </message>
@@ -314,57 +314,57 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="275"/>
         <source>Window List</source>
         <translation>Akende loend</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="316"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="330"/>
         <source>Lumina Desktop</source>
         <translation>Lumina töölaud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="317"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="331"/>
         <source>Workspace %1</source>
         <translation>Tööruum %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="327"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="341"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="328"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="342"/>
         <source>Browse System</source>
         <translation>Sirvi faile</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="348"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="362"/>
         <source>Lock Desktop</source>
         <translation>Lukusta töölaud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="363"/>
         <source>Snap Plugins to Grid</source>
         <translation>Kinnita pluginad ruudustikule</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="364"/>
         <source>Tile Plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="351"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
         <source>Cascade Plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="352"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Unlock Desktop</source>
         <translation>Võta töölaud lukust lahti</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="354"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="368"/>
         <source>Log Out</source>
         <translation>Logi välja</translation>
     </message>
@@ -508,27 +508,27 @@
 <context>
     <name>NotePadPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="92"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
         <source>Note Files (*.note)</source>
         <translation>Märkmefailid (*.note)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="92"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
         <source>Text Files (*)</source>
         <translation>Tekstifailid (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="94"/>
         <source>Open a note file</source>
         <translation>Ava märkmefail</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="131"/>
         <source>New Note Name:</source>
         <translation>Uue märkme nimi:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="132"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="133"/>
         <source>Create a new note</source>
         <translation>Loo uus märge</translation>
     </message>
