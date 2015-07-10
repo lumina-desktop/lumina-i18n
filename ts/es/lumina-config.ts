@@ -182,7 +182,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar Enlaces de Escritorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
@@ -328,240 +328,240 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="716"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio Automático</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicación</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="747"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binario</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="757"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones Predeterminadas de Archivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="944"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo/Grupo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1029"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones Generales</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1037"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Bloq Num al iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1044"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir sonido al iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1051"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir sonido al salir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1060"/>
         <source>Change User Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Icono del Usuario</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1153"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de Hora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1165"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1192"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver códigos de formato</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1180"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de Fecha:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1227"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1234"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Muestra:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1244"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona Horaria:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1096"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Reestablecer Preferencias del Escritorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1115"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a los valores predeterminados del sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1122"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a los valores predeterminados de Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1546"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicaciones</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1549"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Administración de Aplicaciones</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de Ventanas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Formato</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1298"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Áreas de Trabajo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1315"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva Ubicación de la Ventana</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1325"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Política de Foco</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1335"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema de la Ventana</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1353"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsualización del Tema de la Ventana</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1770"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista Previa No Disponible</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1453"/>
         <source>Save Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Cambios</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1456"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1485"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de Herramientas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1524"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1527"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Interfaz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="388"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Escritorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1516"/>
         <source>Desktop Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Apariencia del Escritorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="530"/>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1535"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesión</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
         <source>Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de la Sesión</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1557"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesos Directos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1560"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajos de Teclado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="211"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Presione Para Focalizar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="212"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Focalizado Activo del Ratón</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="213"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Focalizado Estricto del Ratón</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="215"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en una Fila</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="216"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Alinear en una Columna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="217"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>En Cascada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="218"/>
@@ -1066,7 +1066,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
         <source>Task Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrador de Tareas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
@@ -1076,7 +1076,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
         <source>Task Manager (No Groups)</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrador de Tareas (Sin Grupos)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
@@ -1192,17 +1192,17 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrador de Archivos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Browse the system with the default file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegue el sisterma con el administrador de archivos predeterminado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplicaciones</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>

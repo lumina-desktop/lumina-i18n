@@ -350,21 +350,11 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="364"/>
-        <source>Tile Plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
-        <source>Cascade Plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Unlock Desktop</source>
         <translation>Desbloquear Área de Trabalho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="368"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Log Out</source>
         <translation>Sair</translation>
     </message>

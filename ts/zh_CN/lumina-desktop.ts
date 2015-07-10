@@ -350,21 +350,11 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="364"/>
-        <source>Tile Plugins</source>
-        <translation>Tile 插件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
-        <source>Cascade Plugins</source>
-        <translation>Cascade插件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Unlock Desktop</source>
         <translation>解锁桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="368"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Log Out</source>
         <translation>注销</translation>
     </message>

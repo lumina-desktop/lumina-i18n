@@ -350,21 +350,11 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="364"/>
-        <source>Tile Plugins</source>
-        <translation>Enrajolat de connectors</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
-        <source>Cascade Plugins</source>
-        <translation>Cascada de connectors</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Unlock Desktop</source>
         <translation>Desbloca l&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="368"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Log Out</source>
         <translation>Surt</translation>
     </message>
