@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obs: Tiden en fil skapades kan vara nyare än den tid ändras om filrättigheterna ändrades nyligen.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="298"/>
         <source>Run in terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör i terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="305"/>
@@ -172,22 +172,22 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
         <source>Read Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivskyddad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
         <source>Write Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast skriva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
         <source>No Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen åtkomst</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>There are some issues with this file !!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns vissa problem med den här filen !!!!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
@@ -199,7 +199,7 @@ Please note that this process will update the file called:</source>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Open command</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kommando</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
@@ -227,7 +227,7 @@ Please note that this process will update the file called:</source>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
         <source>We have a problem to execute the following command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi har ett problem att köra följande kommando:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
@@ -238,17 +238,17 @@ Please note that this process will update the file called:</source>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
         <source>By modifying this value, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Genom att modifiera detta värde, kommer du att förlora alla översatta versioner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Fält: namnet har översatts i flera andra språk. Om du vill fortsätta, kommer du att förlora alla översatta versioner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Fältet Kommentar sätts i flera andra språk. Om du vill fortsätta, kommer du att förlora alla översatta versioner</translation>
     </message>
 </context>
 </TS>

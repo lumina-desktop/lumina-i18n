@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna med...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
@@ -171,7 +171,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished">URL genväg saknas URL:% 1</translation>
+        <translation>URL genväg saknas URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
@@ -186,12 +186,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Program fel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation>Följande program upplevde ett fel och behövde stängas:</translation>
     </message>
 </context>
 </TS>

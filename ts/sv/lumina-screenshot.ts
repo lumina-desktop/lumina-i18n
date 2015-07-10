@@ -6,17 +6,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="14"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta skärmdump</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga skärmdumpar än</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny skärmdumps inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="55"/>
@@ -70,12 +70,12 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Ögonblicksbild</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="157"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished">Ta Ny skärmdump</translation>
+        <translation>Ta ny Skärmdump</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
