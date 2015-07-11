@@ -51,7 +51,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="129"/>
         <source>MimeType:</source>
-        <translation>MIME-Typ</translation>
+        <translation>MIME-Typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="164"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="100"/>
         <source>URL</source>
-        <translation>Adresse (URL)</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="110"/>
@@ -200,7 +200,7 @@ Bitte beachte, dass dieser Prozess die folgende Datei aktualisiert:</translation
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Open command</source>
-        <translation type="unfinished">Neuer Befehl</translation>
+        <translation>Öffne Befehl</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
@@ -222,7 +222,7 @@ Bitte beachte, dass dieser Prozess die folgende Datei aktualisiert:</translation
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
-        <translation>Kann bearbeitete Desktop Datei nicht auf Festplatte schreiben. Kannst du die Datei nochmals modifizieren nachdem du das Prblem mit der Festplatte gelöst hast?</translation>
+        <translation>Kann bearbeitete Desktop Datei nicht auf Festplatte schreiben. Kannst du die Datei nochmals modifizieren nachdem du das Prblem mit der Festplatte gelöst hast ?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
@@ -239,17 +239,17 @@ Bitte beachte, dass dieser Prozess die folgende Datei aktualisiert:</translation
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
         <source>By modifying this value, you will loose all translated versions</source>
-        <translation>Wenn du diesen Wert änderst, verlierst du alle übersetzten Versionen.</translation>
+        <translation>Wenn du diesen Wert änderst, verlierst du alle übersetzten Versionen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation>Das Feld: Name ist übersetzt in mehrere andere Sprachen. Wenn du weitermachen willst, verlierst du alle übersetzten Versionen.</translation>
+        <translation>Das Feld: Name ist übersetzt in mehrere andere Sprachen. Wenn du weitermachen willst, verlierst du alle übersetzten Versionen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation>Das Feld: Kommentar ist übersetzt in mehrere andere Sprachen. Wenn du weitermachen willst, verlierst du alle übersetzten Versionen. </translation>
+        <translation>Das Feld: Kommentar ist übersetzt in mehrere andere Sprachen. Wenn du weitermachen willst, verlierst du alle übersetzten Versionen</translation>
     </message>
 </context>
 </TS>

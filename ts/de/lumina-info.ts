@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>
         <source>OS Build:</source>
-        <translation type="unfinished"></translation>
+        <translation>OS Build Version:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="120"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="133"/>
         <source>Source Repository:</source>
-        <translation type="unfinished"></translation>
+        <translation>Quell-Repository:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="166"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="249"/>
         <source>Project Lead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektleitung:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Im Web-Browser öffnen&lt;a&gt;</translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Im Web-Browser öffnen&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
