@@ -182,7 +182,7 @@ Gegenwärtige Verknüpfungen der Tastatur werden auch ignoriert werden.</transla
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>generiere Desktop Link</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
