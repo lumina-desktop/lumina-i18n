@@ -182,7 +182,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Generera Skrivbords Länkar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
@@ -691,7 +691,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="893"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Lås skärm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1423"/>
