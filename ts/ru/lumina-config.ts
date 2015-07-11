@@ -690,7 +690,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="893"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Экран блокировки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1423"/>
