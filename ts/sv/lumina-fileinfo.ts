@@ -122,7 +122,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Lumina-fileinfo requires inputs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina-Fileinfo kräver input:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
@@ -193,7 +193,8 @@
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antingen kan du korrigera detta själv med en texteditor, eller så kan du börja om från början med hjälp av länken eller en program mall.
+Observera att denna process kommer att uppdatera en fil som heter:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
@@ -221,7 +222,7 @@ Please note that this process will update the file called:</source>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi har ett problem att skriva anpassade skrivbords-filen till disken. Kan du åter försöka ändringen efter att ha löst problemet med skivan?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>

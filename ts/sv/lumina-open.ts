@@ -166,7 +166,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Program genväg saknar startinformation (missbildad genväg): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
@@ -176,7 +176,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Genvägen till katalogen saknar sökvägen till katalogen :%1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
