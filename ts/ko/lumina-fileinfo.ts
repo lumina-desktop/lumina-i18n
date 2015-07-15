@@ -31,12 +31,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
         <source>Created:</source>
-        <translation>생성됨:</translation>
+        <translation>생성:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation>비고: 파일의 권한이 최근 바뀌었다면 파일의 생성 시간이 수정 시간보다 나중일 수 있습니다.</translation>
+        <translation>주의: 파일의 권한이 최근 바뀌었다면 파일의 생성 시간이 수정 시간보다 나중일 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="153"/>
         <source>Binary</source>
-        <translation>실행파일</translation>
+        <translation>실행 파일</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
@@ -187,13 +187,13 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>There are some issues with this file !!!!</source>
-        <translation>이 파일에 문제가 있습니다 !!!!</translation>
+        <translation>이 파일에 문제가 있습니다!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
-        <translation>이 파일을 사용자가 직접 에디터로 고치거나, 또는 링크나 프로그램 템플릿을 사용하여 처음부터 다시 만드십시요.
+        <translation>이 파일을 사용자가 직접 편집기로 고치거나, 또는 링크나 프로그램 템플릿을 사용하여 처음부터 다시 만드십시요.
 이 과정은 다음 파일을 업데이트합니다:</translation>
     </message>
     <message>
@@ -233,7 +233,7 @@ Please note that this process will update the file called:</source>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
-        <translation>이미지 파일 (*.png *.jpg *.bmp)</translation>
+        <translation>그림 파일 (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>

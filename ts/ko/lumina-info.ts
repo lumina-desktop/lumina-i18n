@@ -16,7 +16,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
         <source>Desktop Version:</source>
-        <translation>데스크톱 버전:</translation>
+        <translation>데스크탑 버전:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>

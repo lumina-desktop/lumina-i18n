@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
         <source>Binary Location</source>
-        <translation>바이너리 위치</translation>
+        <translation>실행 파일 위치</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Office</source>
-        <translation>오피스</translation>
+        <translation>업무</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
@@ -116,12 +116,12 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>System</source>
-        <translation>시스템 도구</translation>
+        <translation>시스템</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation>보조 프로그램</translation>
+        <translation>도구</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
         <source>Find Application Binary</source>
-        <translation>프로그램 실행파일 찾기</translation>
+        <translation>프로그램 실행 파일 찾기</translation>
     </message>
 </context>
 <context>
