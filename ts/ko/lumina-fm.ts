@@ -266,7 +266,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
         <source>Create a new file</source>
-        <translation>새 파일 생성</translation>
+        <translation>새 파일 만들기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
@@ -664,7 +664,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="358"/>
         <source>%1 (Type: %2)</source>
-        <translation>%1 (형식: %2)</translation>
+        <translation>%1 (종류: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="362"/>
@@ -807,7 +807,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="991"/>
         <source>Open Terminal here</source>
-        <translation>이곳에 터미널 열기</translation>
+        <translation>여기서 터미널 열기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1017"/>

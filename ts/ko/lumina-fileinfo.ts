@@ -31,12 +31,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
         <source>Created:</source>
-        <translation>생성:</translation>
+        <translation>만든 시간:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation>주의: 파일의 권한이 최근 바뀌었다면 파일의 생성 시간이 수정 시간보다 나중일 수 있습니다.</translation>
+        <translation>주의: 파일의 권한이 최근 바뀌었다면 파일을 만든 시간이 수정 시간보다 나중일 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="122"/>
         <source>Type:</source>
-        <translation>형식:</translation>
+        <translation>종류:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="129"/>
@@ -187,7 +187,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>There are some issues with this file !!!!</source>
-        <translation>이 파일에 문제가 있습니다!</translation>
+        <translation>파일에 문제가 있습니다!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>

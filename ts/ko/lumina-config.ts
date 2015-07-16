@@ -19,7 +19,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation>색상 표:</translation>
+        <translation>색상 구성:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
@@ -72,8 +72,8 @@
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
-        <translation>이 색 조합은 이미 있습니다.
- 덮어쓰기를 할까요?</translation>
+        <translation>이 색상 구성은 이미 있습니다.
+ 덮어쓸까요?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="117"/>
@@ -296,7 +296,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="314"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation>테마 템플릿 제작/편집 (고급)</translation>
+        <translation>테마 템플릿 제작과 편집 (고급)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
@@ -307,12 +307,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
         <source>Color Scheme:</source>
-        <translation>색상 표:</translation>
+        <translation>색상 구성표:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
         <source>Create/Edit a color scheme</source>
-        <translation>생상 표 제작/편집</translation>
+        <translation>색상 구성 제작과 편집</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
@@ -357,7 +357,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="944"/>
         <source>Type/Group</source>
-        <translation>형식/그룹</translation>
+        <translation>종류/그룹</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1029"/>
@@ -1181,7 +1181,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation>CPU/메모리 사용량과 CPU 온도와 같은 시스템 통계를 추적.</translation>
+        <translation>CPU와 메모리 사용량과 CPU 온도와 같은 시스템 통계를 추적.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
@@ -1291,7 +1291,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
         <source>Main background color for the window/dialog.</source>
-        <translation>창/대화창을 위한 주 바탕색.</translation>
+        <translation>창과 대화창을 위한 주 바탕색.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="295"/>

@@ -49,7 +49,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation>검색할 단어를 입력하십시오</translation>
+        <translation>검색할 단어를 입력</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>

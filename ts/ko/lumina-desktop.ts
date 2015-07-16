@@ -148,7 +148,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="94"/>
         <source>Applications</source>
-        <translation>응용 프로그램</translation>
+        <translation>프로그램</translation>
     </message>
 </context>
 <context>
@@ -701,7 +701,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <source>Applications</source>
-        <translation>응용 프로그램</translation>
+        <translation>프로그램</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
@@ -711,7 +711,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation>장소</translation>
+        <translation>위치</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
@@ -726,7 +726,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation>보조 프로그램</translation>
+        <translation>프로그램</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
@@ -777,7 +777,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="495"/>
         <source>Desktop Appearance/Plugins</source>
-        <translation>바탕 화면 모양/플러그인</translation>
+        <translation>바탕 화면 모양과 플러그인</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="517"/>

@@ -41,7 +41,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="173"/>
         <source>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;웹브라우저로 열기&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;웹 브라우저로 열기&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="191"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="249"/>
         <source>Project Lead:</source>
-        <translation>프로젝트 리더:</translation>
+        <translation>프로젝트 리드:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;웹브라우저로 열기&lt;a&gt;</translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;웹 브라우저로 열기&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
