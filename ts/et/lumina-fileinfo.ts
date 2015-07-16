@@ -127,57 +127,57 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Example: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Näide: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="100"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="110"/>
         <source>Working dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Töökataloog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>The filename cannot start with a &quot;-&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failinimi ei saa alata märgiga &quot;-&quot;.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="151"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG otsetee</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="152"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="153"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivitatav fail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Peidetud %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>Read/Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Lugemine/Kirjutamine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
         <source>Read Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainult lugemine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
         <source>Write Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Ainult kirjutamine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
