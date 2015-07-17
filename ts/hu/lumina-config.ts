@@ -24,18 +24,18 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Állítson be új színt a kijelöléshez.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="70"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelölés értékének kézi beállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="115"/>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="135"/>
@@ -96,22 +96,22 @@
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Bővítmény kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Válasszon ki egy bővítményt:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
         <source>Cancel</source>
-        <translation type="unfinished">Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="77"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás</translation>
     </message>
 </context>
 <context>
@@ -124,14 +124,16 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
         <source>Press the keys you wish to assign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyomja meg a hozzárendelni kívánt billentyűt!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="65"/>
         <source>Notes: 
 Special keys can only be detected if the proper keyboard driver is in use.
 Current keyboard bindings will also be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjegyzés: 
+A speciális billentyűk csak a megfelelő billentyűzet-illesztő program használatával érhetők el.
+A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     </message>
 </context>
 <context>
@@ -149,12 +151,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="188"/>
         <source>Single Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyetlen háttér</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="198"/>
         <source>Rotate Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Háttér forgatása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="205"/>
@@ -169,134 +171,134 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1513"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelenés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="878"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="888"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztali parancsikonok létrehozása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Művelet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="624"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsbillentyű</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="647"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikon törlése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="670"/>
         <source>Change Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Hivatkozás megváltoztatása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="695"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished"></translation>
+        <translation>A jelenlegi billentyű-kapcsolatok törölni és menteni szükséges újabb használat előtt.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="808"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Webböngésző:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>Levelezőkliens:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="858"/>
         <source>File Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlkezelő:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="871"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtuális terminál:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="907"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott fájltípusok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="949"/>
         <source>Default Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett alkalmazás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="954"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Leírás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="964"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="987"/>
         <source>Set App</source>
-        <translation type="unfinished"></translation>
+        <translation>App-alkalmazás beállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="997"/>
         <source>Set Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>bináris beállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="264"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="123"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Háttérkép</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="270"/>
         <source>Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Betűtípus:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="284"/>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Betűméret:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="291"/>
         <source> point</source>
-        <translation type="unfinished"></translation>
+        <translation> pont</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="298"/>
         <source>Theme Template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Témasablon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="314"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished"></translation>
+        <translation>Témasablon létrehozása/szerkesztése (Haladó!)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="354"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
@@ -306,205 +308,205 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Színséma létrehozása/szerkesztése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikoncsomag:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="400"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorshozzáférés menü</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="423"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Beágyazott segédprogramok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="716"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatikusan elindul</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="747"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Bináris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="757"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl alapértelmezései</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="944"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Típus/Csoport</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1029"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Általános lehetőségek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1037"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>NumLock bekapcsolva indításkor </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1044"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Üdvözlő hang lejátszása indításkor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1051"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Elköszönő hang lejátszása kilépéskor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1060"/>
         <source>Change User Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználói avatár-kép cseréje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1153"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Időformátum:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1165"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1192"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formátumkódok megtekintése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1180"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátumformátum:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1227"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1234"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minta:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1244"/>
         <source>Time Zone:</source>
-        <translation type="unfinished"></translation>
+        <translation>Időzóna:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1096"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett asztalbeállítások visszaállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1115"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>A rendszer alapbeállításainak visszaállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1122"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Vissza a Lumina alapértékekhez</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1546"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1549"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazáskezelés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablakkezelő rendszer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelző formátuma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1298"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtuális asztalok száma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1315"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Új ablak elhelyezése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1325"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fókuszálási szabály</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1335"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak témája</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1353"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak téma előnézete</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1770"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem áll rendelkezésre előnézet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1453"/>
         <source>Save Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Változások mentése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1456"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1485"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>eszközTár</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1524"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatlakozási felület</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1527"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatlakozási lehetőségek beállítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="388"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>(Munka)asztal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1516"/>
         <source>Desktop Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>(Munka)asztal megjelenése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="530"/>
@@ -514,52 +516,52 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1535"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Munkamenet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
         <source>Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Munkamenet beállítási lehetőségek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1557"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsbillentyűk/Parancsikonok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1560"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyorsbillentyűk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="211"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattintás a fókuszra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="212"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktív Egér-Fókusz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="213"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Szigorú Egér-Fókusz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="215"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorba Rendezés </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="216"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlopba rendezés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="217"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Lépcsőzetes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="218"/>
@@ -570,72 +572,72 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="268"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Select Panel Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Panelszín kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="399"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Változtatások mentése?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="399"/>
         <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelenleg nincsenek mentve a képernyő változásai. Szeretné előbb menteni?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="428"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer alapértelmezés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="438"/>
         <source>Screen Resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyő felbontása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="609"/>
         <source>No Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs háttér</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="609"/>
         <source>(use system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(rendszer alapértelmezésének használata)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="626"/>
         <source>File does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl nem létezik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="663"/>
         <source>Find Background Image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Háttérkép(ek) keresése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="888"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>(FEL)Hangosítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="889"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>(LE)Halkítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="890"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Fényerő növelése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="891"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Fényerő csökkentése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="892"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyőkép készítése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="994"/>
@@ -647,66 +649,66 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1161"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1183"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattintson a beállításhoz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="243"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1217"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Idő (Dátum, tippként)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="229"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum (Idő, tippként)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="230"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>IDŐ előbb, majd Dátum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="231"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum előbb, majd Idő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
         <source>System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszeridő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="429"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="683"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Homogén szín: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="893"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyő lezárása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1423"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1728"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Bináris kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1430"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1731"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen bináris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1430"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott bináris nem futtatható</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1562"/>
@@ -714,7 +716,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1793"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1819"/>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1569"/>
@@ -722,152 +724,152 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1800"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1826"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1728"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás Binárisok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1731"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott fájl nem futtatható!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1745"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl kiválasztása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1745"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden fájl (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1838"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy kép kijelölése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1839"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Képek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1843"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználói kép nullázása (alapértelmezett sablonra)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1843"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Szeretné visszaállítani a felhasználói (profil)képet a rendszer alapértelmezett képére?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1891"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvényes időkódok:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1892"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Óra, vezető nulla nélkül (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1893"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Óra, vezető nullával (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1894"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Percek, vezető nulla nélkül (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1895"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Percek, vezető nullával (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1896"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Másodpercek, vezető nulla nélkül (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1897"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Másodpercek, vezető nullával (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1898"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: de/du (12-órás) óra (nagy- vagy kisbetűkkel)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1899"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Időzóna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1900"/>
         <source>Time Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Időkódok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1914"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvényes dátum-kódok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1915"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Számban megadott nap vezető nulla nélkül (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1916"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Számokkal megadott nap vezető nullával (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1917"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Nap, rövidítve (helyileg)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1918"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Nap teljes névvel (helyileg)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1919"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hónap számokkal, vezető nulla nélkül (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1920"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hónap számokkal, vezető nullával (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1921"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hónap rövidítve (helyileg)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1922"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Hónap, teljes névvel (helyileg)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1923"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Évszám utolsó két számjegye (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1924"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Évszám négyjegyűen (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1925"/>
@@ -877,7 +879,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1926"/>
         <source>Date Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum-kódok</translation>
     </message>
 </context>
 <context>
@@ -885,17 +887,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="95"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Hely</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="116"/>
         <source>Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Él:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="133"/>
@@ -905,7 +907,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="140"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation>képpont(ok) mérete</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="156"/>
@@ -920,7 +922,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="208"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megjelenés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="226"/>
@@ -950,43 +952,43 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Felül/Baloldalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Középen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="26"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alul/Jobboldalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="27"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Fent</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="28"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Lent</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="29"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Bal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="30"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobb</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="49"/>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="109"/>
         <source>Panel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 számú panel</translation>
     </message>
 </context>
 <context>
@@ -994,7 +996,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="65"/>
         <source>User Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználó gombja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="66"/>
@@ -1034,47 +1036,47 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Battery Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Akkumulátorfigyelő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Keep track of your battery status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kövesse nyomon akkumulátora állpotát.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Time/Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Idő/Dátum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="101"/>
         <source>View the current time and date.</source>
-        <translation type="unfinished"></translation>
+        <translation>A pontos idő és dátum megjelenítése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
         <source>System Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>A rendszer műszerfala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="108"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszerbállítások megtekintése vagy megváltoztatása (hangerő, fényerősség, akkumulátor élettartama, virtuális munkaasztalok).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
         <source>Task Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Feladatkezelő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
         <source>View and control any running application windows (every application has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valamely futó alkalmazás-ablak megtekintése és felügyelete (minden alkalmazásnak saját gombja van) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
         <source>Task Manager (No Groups)</source>
-        <translation type="unfinished"></translation>
+        <translation>Feladatkezelő (Nincsenek csoportok)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
@@ -1125,47 +1127,47 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="167"/>
         <source>Application Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazásindító</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
         <source>Pin an application shortcut directly to the panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Szúrjon be egy alkalmazás gyorshivatkozást közvetlenül a panelhez.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="168"/>
         <source>Desktop button for launching an application</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztali gomb egy alkalmazás betöltéséhez</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
         <source>Desktop Icons View</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztali ikonok nézet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="175"/>
         <source>Area for automatically showing desktop icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatikusan mutatandó asztali ikonok területe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="181"/>
         <source>Note Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Jegyzettömb</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
         <source>Keep simple text notes on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tartsa az egyszerű szöveges jegyzeteket a munkaasztalán</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
         <source>Audio Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Hanglejátszó</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
         <source>Play through lists of audio files</source>
-        <translation type="unfinished"></translation>
+        <translation>Játssza hanglistán keresztül (pl. m3u)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
@@ -1200,7 +1202,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>

@@ -143,7 +143,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Unsorted</source>
-        <translation>Nem rendszerezett</translation>
+        <translation>Rendezés nélkül</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="94"/>
@@ -265,7 +265,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation>%1 % (%2 fennmaradó)</translation>
+        <translation>%1 % (%2 hátralévő)</translation>
     </message>
 </context>
 <context>
@@ -423,7 +423,7 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="143"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="152"/>
         <source>%1 of %2</source>
-        <translation>%1 / %2</translation>
+        <translation>%1 / %2 (összes)</translation>
     </message>
 </context>
 <context>
@@ -596,7 +596,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="28"/>
         <source>Desktop</source>
-        <translation>Asztal</translation>
+        <translation>Asztali környezet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="31"/>
@@ -667,7 +667,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="119"/>
         <source>Remove Shortcut</source>
-        <translation>Gyorsindító eltávolítása</translation>
+        <translation>Közvetlen hivatkozás eltávolítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="124"/>
@@ -677,7 +677,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="130"/>
         <source>Create Shortcut</source>
-        <translation>Gyorsindító létrehozása</translation>
+        <translation>Közvetlen hivatkozás létrehozása</translation>
     </message>
 </context>
 <context>
@@ -706,7 +706,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
         <source>Favorite Directories</source>
-        <translation>Kedvenc könyvtárak</translation>
+        <translation>Kedvenc könyvtárak/mappák</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
