@@ -450,17 +450,17 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1315"/>
         <source>New Window Placement</source>
-        <translation>Nova postavitev okna</translation>
+        <translation>Postavitev novega okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1325"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravilo fokusiranja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1335"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okenska tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1353"/>
