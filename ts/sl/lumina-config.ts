@@ -119,19 +119,21 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="14"/>
         <source>Key Press Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznavanje pritsnjene tipke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
         <source>Press the keys you wish to assign.</source>
-        <translation type="unfinished">Pritisni tipke, ki jih želiš določiti.</translation>
+        <translation>Pritisni tipke, ki jih želiš določiti.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="65"/>
         <source>Notes: 
 Special keys can only be detected if the proper keyboard driver is in use.
 Current keyboard bindings will also be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opomba: 
+Posebne tipke je moč zaznati zgolj ob pravilno naloženih gonilnikih za tipkovnico.
+Current keyboard bindings will also be ignored.</translation>
     </message>
 </context>
 <context>
@@ -139,37 +141,37 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Desktop Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitev namizja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Številka zaslona:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="188"/>
         <source>Single Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Enotno ozadje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="198"/>
         <source>Rotate Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotiraj ozadje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="205"/>
         <source> Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation> minut(e)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="208"/>
         <source>Every </source>
-        <translation type="unfinished"></translation>
+        <translation>Vsakih </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1513"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Videz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="878"/>
@@ -180,42 +182,42 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari namizne povezave</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejanje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="624"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipkovna bližnjica</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="647"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi bližnjico</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="670"/>
         <source>Change Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni bližnjico</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="695"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opomba: Trenutne tipkovne bližnjice je potrebno razveljaviti in shraniti predno jih lahko ponovno uporabimo.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="808"/>
         <source>Web Browser:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spletni brskalnik:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>Odjemalec elektronske pošte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="858"/>
@@ -296,37 +298,37 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="354"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished">Barvna shema</translation>
+        <translation>Barvna shema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvari/uredi barvno shemo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket ikon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="400"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitro-dostopni meni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="423"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Vgrajena orodja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="716"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno zagnano</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
@@ -346,12 +348,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>File Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Privzete vrednosti datoteke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="944"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip/skupina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1029"/>
@@ -418,37 +420,37 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1122"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lumina privzete nastavitve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1546"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Programi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1549"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje programov</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Okenski sistem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblika prikaza</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1298"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Število delovnih površin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1315"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova postavitev okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1325"/>
@@ -920,7 +922,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="208"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Videz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="226"/>
@@ -1200,7 +1202,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Programi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
