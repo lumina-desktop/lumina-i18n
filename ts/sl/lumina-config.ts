@@ -536,48 +536,48 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="211"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik za fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="212"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus aktivne miši</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="213"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus striktne miši</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="215"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj v vrsto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="216"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj v stolpec</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="217"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaskada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="218"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Pod miško</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="268"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Select Panel Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Izber barvo panela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="399"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Shranim spremembe?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="399"/>
@@ -622,22 +622,22 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="889"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmanjšaj glasnost zvoka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="890"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj svetlost zaslona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="891"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomanjšaj svetlost zaslona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="892"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Zajemi zaslonsko sliko</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="994"/>
@@ -649,28 +649,28 @@ Current keyboard bindings will also be ignored.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1161"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1183"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite za nastavitev</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="243"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1217"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas (datum kot namig)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="229"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum (čas kot namig)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="230"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas nato datum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="231"/>
@@ -729,47 +729,47 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1728"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Binarne datoteke aplikacij (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1731"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbrana datoteka ni izvedljiv program!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1745"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izberi datoteko</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1745"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vse datoteke (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1838"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbor slike</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1839"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1843"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi sliko uporabnika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1843"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi uporabnikovo sliko na sistemske prednastavitve?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1891"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veljavne oznake za čas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1892"/>
@@ -819,47 +819,47 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1914"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veljavne oznake za datum:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1915"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: numerični dan brez spremljajoče ničle (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1916"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: numerični dan s spremljajočo ničlo (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1917"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: dan kot okrajšava (lokalizirano)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1918"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: dan kot polno ime (lokalizirano)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1919"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: numerični mesec brez spremljajoče ničle (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1920"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: numerični mesec s spremljajočo ničlo (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1921"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: mesec kot okrajšava (lokalizirano)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1922"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: mesec s polnim imenom (lokalizirano)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1923"/>
@@ -912,47 +912,47 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="156"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% dolžina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="182"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnava:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="208"/>
         <source>Appearance</source>
-        <translation type="unfinished">Videz</translation>
+        <translation>Videz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="226"/>
         <source>Auto-hide Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno skrij panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="233"/>
         <source>Use Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi barve po meri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="254"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="261"/>
         <source>Sample</source>
-        <translation type="unfinished">Vzorec</translation>
+        <translation>Vzorec</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="296"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Vtičniki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgoraj/levo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="25"/>
@@ -1006,7 +1006,7 @@ Current keyboard bindings will also be ignored.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Desktop Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Namizna vrstica</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
