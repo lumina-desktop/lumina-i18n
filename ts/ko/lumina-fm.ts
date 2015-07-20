@@ -643,271 +643,276 @@ New Location: %2</source>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="107"/>
+        <source>Ctrl+X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="108"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="145"/>
         <source>Invalid Directories</source>
         <translation>잘못된 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="145"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>다음의 디렉터리가 잘못되어 열 수 없습니다:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="352"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="354"/>
         <source>Root</source>
         <translation>루트</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="358"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="360"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (종류: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
         <source>Filesystem: %1</source>
         <translation>파일시스템: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="377"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="379"/>
         <source>Invalid Permissions</source>
         <translation>잘못된 권한</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="377"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="379"/>
         <source>You do not have permission to edit this directory!</source>
         <translation>디렉터리를 변경할 권한이 없습니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="471"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="473"/>
         <source>Limited Access Directory</source>
         <translation>접근이 제한된 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="612"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="614"/>
         <source>Click Play to Start</source>
         <translation>재생을 눌러 시작</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="698"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
         <source>Verify Quit</source>
         <translation>종료 확인</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="698"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>여러 탭이 열려 있습니다. 종료하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="807"/>
         <source>New Bookmark</source>
         <translation>새 책갈피</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="893"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="875"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="895"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="812"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
         <source>Invalid Name</source>
         <translation>잘못된 이름</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="810"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="812"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>책갈피 이름이 이미 사용중입니다. 다른 이름을 선택하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="873"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="875"/>
         <source>New Directory</source>
         <translation>새 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>같은 이름의 파일이나 디렉터리가 이미 있습니다! 다른 이름을 쓰십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="886"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="888"/>
         <source>Error Creating Directory</source>
         <translation>디렉터리 만드는 중 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="886"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="888"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>디렉터리를 만들 수 없습니다. 현재 디렉터리를 변경하는데 필요한 권한이 있는 지 확인하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="893"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="895"/>
         <source>New Document</source>
         <translation>새 문서</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="903"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="905"/>
         <source>Error Creating Document</source>
         <translation>문서 만드는 중 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="903"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="905"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>문서를 만들 수 없습니다. 필요한 권한이 있는 지 확인하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="970"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="972"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="971"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="973"/>
         <source>Open With...</source>
         <translation>다른 프로그램으로 열기...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="973"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="975"/>
         <source>Rename</source>
         <translation>이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="974"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="976"/>
         <source>View Checksums</source>
         <translation>체크섬 보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="979"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="981"/>
         <source>Cut Selection</source>
         <translation>선택 항목 삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="980"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="982"/>
         <source>Copy Selection</source>
         <translation>선택 항목 복사</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="981"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="983"/>
         <source>Paste</source>
         <translation>붙여 넣기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="983"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="985"/>
         <source>Delete Selection</source>
         <translation>선택 항목 삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="986"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="988"/>
         <source>File Properties</source>
         <translation>파일 속성</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="991"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="993"/>
         <source>Open Terminal here</source>
         <translation>여기서 터미널 열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1017"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1019"/>
         <source>Currently on clipboard:
 %1</source>
         <translation>현재 클립보드에 있는 것:
 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1082"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
         <translation>경고: 파일을 시스템에서 영구히 삭제합니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1173"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1175"/>
         <source>Success</source>
         <translation>성공</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1173"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1175"/>
         <source>Successfully restored selection</source>
         <translation>선택된 항목을 성공적으로 복원</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1200"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1202"/>
         <source>Error Playing File: %1</source>
         <translation>파일 재생하는 중 오류: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1229"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
         <source>Finished</source>
         <translation>완료</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1251"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1253"/>
         <source>Playing:</source>
         <translation>재생중:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1257"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1259"/>
         <source>Stopped</source>
         <translation>정지</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1082"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1359"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
         <source>Verify Removal</source>
         <translation>삭제 확인</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1359"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>경고: 파일을 시스템에서 영구히 삭제합니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1082"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1359"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
         <source>Are you sure you want to continue?</source>
         <translation>정말로 계속 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1007"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="869"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1009"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1007"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="869"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1008"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1009"/>
         <source>Files</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1006"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1008"/>
         <source>Selected Folders</source>
         <translation>선택된 폴더</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1386"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
         <source>Rename File</source>
         <translation>파일 이름 변경</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1386"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
         <source>New Name:</source>
         <translation>새 이름:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1400"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1402"/>
         <source>Overwrite File?</source>
         <translation>파일을 덮어쓰시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1400"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1402"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>이미 존재하는 같은 이름의 파일이 교체됩니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1588"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1590"/>
         <source>File Checksums</source>
         <translation>파일 체크섬</translation>
     </message>
