@@ -154,42 +154,42 @@
         <translation>Brillo de Pantalla %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="203"/>
         <source>Invalid file or URL: %1</source>
         <translation>Archivo o URL no válido(a): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="225"/>
         <source>File could not be opened: %1</source>
         <translation>No se puede abrir el archivo: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>El acceso directo a la aplicación no contiene la información para la ejecución (acceso directo defectuoso): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="245"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>El acceso directo a la URL no contiene la URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="256"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>El acceso directo al directorio no contiene la dirección al directorio: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Tipo de acceso directo desconocido: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
         <source>Application Error</source>
         <translation>Error en la Aplicación</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>La siguiente aplicación presentó un error y necesita cerrarse:</translation>
     </message>

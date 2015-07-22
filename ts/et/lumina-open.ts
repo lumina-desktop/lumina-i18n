@@ -154,42 +154,42 @@
         <translation>Ekraani heledus %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="200"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="203"/>
         <source>Invalid file or URL: %1</source>
         <translation>Vigane fail või aadress: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="225"/>
         <source>File could not be opened: %1</source>
         <translation>Faili ei õnnestunud avada: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="231"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Rakenduse otseteel puudub käivitamise info (vigane otsetee): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="242"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="245"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>Aadressi otseteel puudub aadress: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="256"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>Kausta otseteel puudub kausta rada: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Teadmata tüüpi otsetee: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
         <source>Application Error</source>
         <translation>Programmi viga</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>See rakendus sulgus, kuna esines viga:</translation>
     </message>
