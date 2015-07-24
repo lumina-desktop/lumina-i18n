@@ -66,87 +66,87 @@
 <context>
     <name>AppMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="47"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
         <source>Open Home</source>
         <translation>打开家目录</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Install Applications</source>
         <translation>安装的应用程序</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="56"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
         <source>Control Panel</source>
         <translation>控制面板</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Multimedia</source>
         <translation>多媒体</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Development</source>
         <translation>开发</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Education</source>
         <translation>教育</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Games</source>
         <translation>游戏</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Graphics</source>
         <translation>图像</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Office</source>
         <translation>办公</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
         <source>Science</source>
         <translation>科学</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
         <source>System</source>
         <translation>系统</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
         <source>Utility</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
         <source>Wine</source>
         <translation>Wine 模拟器</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="79"/>
         <source>Unsorted</source>
         <translation>未排序</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="35"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="36"/>
         <source>Applications</source>
         <translation>应用程序</translation>
     </message>
@@ -670,17 +670,17 @@
         <translation>返回</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
         <source>Remove Shortcut</source>
         <translation>移除快捷键</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="134"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
         <translation>删除文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="140"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
         <source>Create Shortcut</source>
         <translation>创建快捷方式</translation>
     </message>

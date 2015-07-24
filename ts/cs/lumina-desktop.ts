@@ -66,87 +66,87 @@
 <context>
     <name>AppMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="47"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
         <source>Open Home</source>
         <translation type="unfinished">Domů</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Install Applications</source>
         <translation>Instalovat aplikace</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="56"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
         <source>Control Panel</source>
         <translation>Ovládací panel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="66"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Multimedia</source>
         <translation>Multimédia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Development</source>
         <translation>Vývoj</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Education</source>
         <translation>Výuka</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Games</source>
         <translation>Hry</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Graphics</source>
         <translation>Grafika</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Network</source>
         <translation>Síť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Office</source>
         <translation>Kancelář</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
         <source>Science</source>
         <translation>Věda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
         <source>System</source>
         <translation>Systém</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
         <source>Utility</source>
         <translation>Utility</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
         <source>Wine</source>
         <translation>Wine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="79"/>
         <source>Unsorted</source>
         <translation type="unfinished">Nezařazeno</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="35"/>
+        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="36"/>
         <source>Applications</source>
         <translation>Aplikace</translation>
     </message>
@@ -670,17 +670,17 @@
         <translation>Zpět</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
         <source>Remove Shortcut</source>
         <translation>Odebrat klávesovou zkratku</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="134"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
         <translation>Vymazat soubor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="140"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
         <source>Create Shortcut</source>
         <translation type="unfinished">Vytvořit zkratku</translation>
     </message>
