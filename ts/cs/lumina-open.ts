@@ -56,7 +56,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Internet URL)</source>
-        <translation>(Internet URL)</translation>
+        <translation type="unfinished">(Internet URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Game</source>
-        <translation>Hra</translation>
+        <translation>Hry</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation>Utility</translation>
+        <translation>Pomůcky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished">Následující aplikace ohlašují chybu a musí být ukončeny:</translation>
+        <translation>Následující aplikace ohlašují chybu a musí být ukončeny:</translation>
     </message>
 </context>
 </TS>
