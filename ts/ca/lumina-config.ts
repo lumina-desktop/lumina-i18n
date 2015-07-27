@@ -182,7 +182,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Genera enllaços d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
@@ -691,7 +691,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="893"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueja la pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1423"/>
@@ -887,108 +887,108 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="95"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="116"/>
         <source>Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="133"/>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="140"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation> gruix de píxel(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="156"/>
         <source>% length</source>
-        <translation type="unfinished">% de longitud</translation>
+        <translation>% de longitud</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="182"/>
         <source>Alignment:</source>
-        <translation type="unfinished">Alineació:</translation>
+        <translation>Alineació:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="208"/>
         <source>Appearance</source>
-        <translation type="unfinished">Aparença</translation>
+        <translation>Aparença</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="226"/>
         <source>Auto-hide Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Amaga automàticament el plafó.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="233"/>
         <source>Use Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa colors personalitzats</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="254"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="261"/>
         <source>Sample</source>
-        <translation type="unfinished">Exemple</translation>
+        <translation>Exemple</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="296"/>
         <source>Plugins</source>
-        <translation type="unfinished">Connectors</translation>
+        <translation>Connectors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished">A dalt a l&apos;esquerra</translation>
+        <translation>A dalt a l&apos;esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished">Centre</translation>
+        <translation>Al centre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="26"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished">A baixa a la dreta</translation>
+        <translation>A baix a la dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="27"/>
         <source>Top</source>
-        <translation type="unfinished">Dalt</translation>
+        <translation>Dalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="28"/>
         <source>Bottom</source>
-        <translation type="unfinished">A baix</translation>
+        <translation>A baix</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="29"/>
         <source>Left</source>
-        <translation type="unfinished">Esquerra</translation>
+        <translation>Esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="30"/>
         <source>Right</source>
-        <translation type="unfinished">Dreta</translation>
+        <translation>Dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="49"/>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="109"/>
         <source>Panel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plafó %1</translation>
     </message>
 </context>
 <context>
