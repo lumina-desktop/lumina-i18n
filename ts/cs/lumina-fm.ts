@@ -103,7 +103,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Provádění operací se soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="39"/>
@@ -113,47 +113,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="74"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="15"/>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Počítá se</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Overwrite Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepsat soubory?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Do you want to overwrite the existing files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete přepsat existující soubory?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: Jinak přidá pouze číslo k názvu souboru.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="125"/>
         <source>Removing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstraňování: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="126"/>
         <source>Copying: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírování: %1 do %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="127"/>
         <source>Restoring: %1 as %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obnovení: %1 jako %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
         <source>Moving: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunování: 1% do %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="141"/>
@@ -168,17 +168,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="143"/>
         <source>Could not restore these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze obnovit tyto soubory:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="144"/>
         <source>Could not move these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze přesunout tyto soubory:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="145"/>
         <source>File Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyby souboru</translation>
     </message>
 </context>
 <context>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="292"/>
         <source>Invalid Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný přesun</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="292"/>
@@ -194,7 +194,8 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Není možné přesunout složku do sebe sama. Raději vytvořte kopii této složky.Původní umístění: %1
+Nové umístění: %2</translation>
     </message>
 </context>
 <context>
@@ -202,173 +203,173 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vhled</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="187"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="190"/>
         <source>Open item</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="212"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="215"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít položku (vybrat aplikaci)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="241"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="244"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat položku do oblíbených</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="263"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="266"/>
         <source>Rename item</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="292"/>
         <source>Cut items</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyjmout položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="295"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyjmout položku (přidat do schránky)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
         <source>Copy items</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat položky do schránky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="336"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="339"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit položky ze schránky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="368"/>
         <source>Delete Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
         <source>New &amp;file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový &amp;soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="449"/>
         <source>Create a new subdirectory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový podadresář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="455"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="474"/>
         <source>Open Multimedia Player</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít přehrávač multimédií</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="477"/>
         <source>Play any multimedia files in this directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Přehrát jakékoliv multimediální soubory v tomto adresáři</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="480"/>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Přehrát</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="483"/>
         <source>Ctrl+P, Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+P, Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="499"/>
         <source>View Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit prezentaci</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="502"/>
         <source>View all the images in this directory as a slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit všechny obrázky v tomto adresáři jako prezentaci</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="505"/>
         <source>&amp;Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prezentace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="508"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="524"/>
         <source>Restore File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit soubor(y)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="527"/>
         <source>Restore old versions of files or directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit staré verze souborů nebo adresářů</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="530"/>
         <source>&amp;Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zálohy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="533"/>
         <source>Ctrl+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="560"/>
         <source>Go To Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na následující</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="639"/>
         <source>(No Running Video)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Video neběží)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="713"/>
         <source>Delete this image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat tento obrázkový soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="733"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otočit obrázkový soubor proti směru hodin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="746"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Otočit tento obrázek po směru hodin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="822"/>
         <source>Go to Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na začátek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="825"/>
@@ -376,136 +377,136 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="914"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="930"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="828"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="102"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+šipka vlevo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="838"/>
         <source>Go to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na předchozí</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="844"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="967"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlevo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="877"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název souboru</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="911"/>
         <source>Go to Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na následující</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="917"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1016"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Vpravo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="927"/>
         <source>Go to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít na konec</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="933"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="103"/>
         <source>Shift+Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+šipka vpravo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="964"/>
         <source>Older</source>
-        <translation type="unfinished"></translation>
+        <translation>Starší</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1013"/>
         <source>Newer</source>
-        <translation type="unfinished"></translation>
+        <translation>Novější</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1058"/>
         <source>Restore Selected Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit vybranou položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1061"/>
         <source>&amp;Restore Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obnovit výběr</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1064"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1087"/>
         <source>&amp;Overwrite Existing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Přepsat existující soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1090"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1113"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1122"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1131"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1137"/>
         <source>External Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Externí zařízení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1153"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nástrojová lišta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
         <source>New &amp;Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Nová &amp;karta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1194"/>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Předvolby</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>

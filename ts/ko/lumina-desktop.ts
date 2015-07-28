@@ -314,47 +314,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="275"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="276"/>
         <source>Window List</source>
         <translation>창 목록</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="336"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="337"/>
         <source>Lumina Desktop</source>
         <translation>루미나 데스크탑</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="338"/>
         <source>Workspace %1</source>
         <translation>작업 공간 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="347"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="348"/>
         <source>Terminal</source>
         <translation>터미널</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="348"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
         <source>Browse System</source>
         <translation>시스템 돌아보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="368"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="369"/>
         <source>Lock Desktop</source>
         <translation>바탕 화면 잠그기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="369"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="370"/>
         <source>Snap Plugins to Grid</source>
         <translation>플러그인을 격자에 스냅하기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="370"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="371"/>
         <source>Unlock Desktop</source>
         <translation>바탕 화면 잠금 해제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="372"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="373"/>
         <source>Log Out</source>
         <translation>로그 아웃</translation>
     </message>
