@@ -411,7 +411,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="341"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Språkvariant</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="375"/>

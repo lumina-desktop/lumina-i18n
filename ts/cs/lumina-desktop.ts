@@ -166,12 +166,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrává se nastavení...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Checking User Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroluje se nastavení uživatele...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
@@ -181,27 +181,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouští se správce oken...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting System Applications...</source>
-        <translation type="unfinished"></translation>
+        <translation>Detekují se systémové aplikace...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Initializing Desktop(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializuje se pracovní plocha...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Initializing System Menu(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializuje se systémová nabídka...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Performing Final Checks...</source>
-        <translation type="unfinished"></translation>
+        <translation>Provádějí se poslední kontroly...</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished">Rychlé spuštění aplikace nebo otevření souboru</translation>
+        <translation>Rychlé spuštění aplikace nebo otevření souboru</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="370"/>
         <source>Snap Plugins to Grid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přichytit zásuvné moduly do mřížky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="371"/>
