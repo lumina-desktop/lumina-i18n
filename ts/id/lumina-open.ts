@@ -137,59 +137,59 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="51"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="49"/>
         <source>File Error</source>
         <translation>berkas error</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="161"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="159"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="165"/>
         <source>Audio Volume %1%</source>
         <translation>Audio Volume %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="175"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="184"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="182"/>
         <source>Screen Brightness %1%</source>
         <translation>kecerahan layar %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="203"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="201"/>
         <source>Invalid file or URL: %1</source>
         <translation>file yang tidak valid atau URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="223"/>
         <source>File could not be opened: %1</source>
         <translation>Berkas tidak dapat dibuka: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="232"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Aplikasi shortcut yang hilang informasi meluncurkan (jelek cacat): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="245"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="243"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL shortcut hilang URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished">Direktori shortcut yang hilang path ke direktori: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="259"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Jenis diketahui shortcut: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="358"/>
         <source>Application Error</source>
         <translation>aplikasi error</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="359"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="358"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation type="unfinished">Aplikasi berikut mengalami kesalahan dan diperlukan untuk menutup:</translation>
     </message>
