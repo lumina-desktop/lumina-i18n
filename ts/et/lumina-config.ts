@@ -182,7 +182,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="520"/>
         <source>Generate Desktop Links</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo lingid töölauale</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="619"/>
@@ -445,32 +445,32 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1296"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Keel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1306"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Teated</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1316"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1326"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Arv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1336"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Raha</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1346"/>
@@ -737,7 +737,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="927"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukustuskuva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1462"/>
