@@ -314,47 +314,47 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="293"/>
         <source>Window List</source>
         <translation>Seznam oken</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="354"/>
         <source>Lumina Desktop</source>
         <translation>prostředí Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="355"/>
         <source>Workspace %1</source>
         <translation>Pracovní plocha %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="348"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
         <source>Terminal</source>
         <translation>Terminál</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="349"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Browse System</source>
         <translation>Prozkoumat systém</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="369"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="386"/>
         <source>Lock Desktop</source>
         <translation>Zamknout plochu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="370"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="387"/>
         <source>Snap Plugins to Grid</source>
         <translation type="unfinished">Přichytit zásuvné moduly do mřížky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="371"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="388"/>
         <source>Unlock Desktop</source>
         <translation>Odemknout plochu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="373"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="390"/>
         <source>Log Out</source>
         <translation>Odhlásit se</translation>
     </message>
