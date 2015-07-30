@@ -449,47 +449,47 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>로캘</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1296"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>언어</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1306"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>메시지</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1316"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1326"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>숫자</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1336"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>통화</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1346"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>정렬</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1356"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1366"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 지역화 설정 (재시동 필요)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1382"/>
