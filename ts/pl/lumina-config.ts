@@ -445,47 +445,47 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1290"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Język</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1296"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Język</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1306"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomości</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1316"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1326"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeryczne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1336"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Waluta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1346"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Porównanie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1356"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctype</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1366"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemowe ustawienia regionalne (wymagany restart)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1382"/>
