@@ -29,61 +29,70 @@
         <translation>Délai</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>
-        <source>Entire Screen</source>
-        <translation>Tout l&apos;écran</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="75"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="87"/>
         <source>Select Window</source>
         <translation>Sélectionner la fenêtre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="103"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
+        <source>Entire Session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
+        <source>Single Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="105"/>
+        <source>Single Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="127"/>
         <source>toolBar</source>
         <translation>Barre d&apos;outils</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="132"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="156"/>
         <source>Save</source>
         <translation>Enregistrer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="135"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="138"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="159"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="162"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="61"/>
         <source>Save Screenshot</source>
         <translation>Enregistrer la capture d&apos;écran</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="141"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="165"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="146"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="149"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="170"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="173"/>
         <source>Quit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="154"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="178"/>
         <source>Snap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="157"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="181"/>
         <source>Take new snapshot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="56"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="61"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="82"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="87"/>
         <source>Window:</source>
         <translation>Fenêtre:</translation>
     </message>
