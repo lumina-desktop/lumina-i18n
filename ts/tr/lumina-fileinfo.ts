@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="tr">
 <context>
     <name>Dialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Bilgisi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Özellikleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahibi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>İzinler:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oluşturulma:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
