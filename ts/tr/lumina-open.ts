@@ -56,7 +56,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Internet URL)</source>
-        <translation>(İnternet Bağlantısı)</translation>
+        <translation>(İnternet URL)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>

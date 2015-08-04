@@ -36,219 +36,220 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Dosya izinleri yakın zamanda değiştirildiyse, dosyanın oluşturulma zamanı değiştirilme zamanından daha yeni olabilir.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Değiştirme:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="122"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tür:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="129"/>
         <source>MimeType:</source>
-        <translation type="unfinished"></translation>
+        <translation>MimTürü:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="164"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Boyutu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="179"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayolu Düzenle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="202"/>
         <source>Working dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma dizini:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="236"/>
         <source>Use startup notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç bildirimi kullan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="250"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Simge:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="257"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="264"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Açıklama:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="298"/>
         <source>Run in terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Uçbirimde çalıştır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="305"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="312"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="349"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="356"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygula</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Lumina-fileinfo requires inputs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina dosya bilgisinin gerek duyduğu girdiler:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Example: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Örnek: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="100"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="110"/>
         <source>Working dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma dizini</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>The filename cannot start with a &quot;-&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya adı &quot;-&quot; ile başlayamaz.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="151"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG Kısayolu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="152"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="153"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>İkili</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizli %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>Read/Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Oku/Yaz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
         <source>Read Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Salt Okunur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
         <source>Write Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Salt Yazılır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
         <source>No Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Erişim yok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>There are some issues with this file !!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu dosyada bazı sorunlar var !!!!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu dosyayı düzenleyici ile kendiniz düzeltin ya da bağlantı veya uygulama şablonunu kullanarak baştan başlayın.
+Bu işlemin şu dosyayı güncelleyeceğini unutmayın:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Open command</source>
-        <translation type="unfinished"></translation>
+        <translation>Aç komutu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Dosyalar (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="275"/>
         <source>Working Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma Dizini</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
         <source>Problem to write to disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Diske yazmada sorun</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyarlanmış masaüstü dosyasını diske yazmada bir sorunumuz var. Değişikliği diskle ilgili sorunu çözdükten sonra yeniden deneyebilir misiniz ?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
         <source>We have a problem to execute the following command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Şu komutu yürütmede bir sorunumuz var:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Görüntü Dosyaları (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
         <source>By modifying this value, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu değeri değiştirdiğinizde tüm çevrilmiş sürümleri kaybedeceksiniz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alan: Ad birkaç başka dile çevirilmiş. Devam etmek istiyorsanız tüm çevirilmiş sürümleri kaybedeceksiniz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Alan: Açıklama birkaç başka dile çevirilmiş. Devam etmek istiyorsanız tüm çevirilmiş sürümleri kaybedeceksiniz</translation>
     </message>
 </context>
 </TS>
