@@ -36,17 +36,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 세션</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 창</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="105"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 화면</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="127"/>
