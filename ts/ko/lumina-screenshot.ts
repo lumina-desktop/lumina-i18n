@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>테두리 포함</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
