@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahmen inkludieren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
@@ -41,17 +41,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>vollständige Session</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>einzelnes Fenster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="92"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>einzelner Bildschirm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="134"/>

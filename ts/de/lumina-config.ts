@@ -50,7 +50,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="105"/>
         <source>Sample</source>
-        <translation>Muster</translation>
+        <translation>Beispiel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="115"/>
@@ -156,7 +156,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="198"/>
         <source>Rotate Background</source>
-        <translation>Rotierender Hintergrund</translation>
+        <translation>Hintergrund drehen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="205"/>
@@ -182,7 +182,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="563"/>
         <source>Generate Desktop Links</source>
-        <translation>generiere Desktop Link</translation>
+        <translation>Generiere Desktop Links</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
@@ -192,12 +192,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="667"/>
         <source>Keyboard Shortcut</source>
-        <translation>Tastenkombination</translation>
+        <translation>Tastenkürzel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="690"/>
         <source>Clear Shortcut</source>
-        <translation>Tastaturkürzel zurücksetzen</translation>
+        <translation>Tastenkürzel zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="713"/>
@@ -227,7 +227,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="914"/>
         <source>Virtual Terminal:</source>
-        <translation>virtuelles Terminal:</translation>
+        <translation>Virtuelles Terminal:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="950"/>
@@ -252,7 +252,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1030"/>
         <source>Set App</source>
-        <translation>benutze Anwendung</translation>
+        <translation>Benutze Anwendung</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1040"/>
@@ -318,7 +318,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mauszeiger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>
@@ -450,47 +450,47 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1333"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachregion</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1339"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1349"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachrichten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1359"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1369"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1379"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Monetär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1389"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergleichen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1399"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1409"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachregionseinstellungen (benötigt Neustart)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1425"/>
