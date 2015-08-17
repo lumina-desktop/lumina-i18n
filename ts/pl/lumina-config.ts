@@ -318,7 +318,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursor myszy:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>
