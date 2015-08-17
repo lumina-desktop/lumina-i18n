@@ -318,7 +318,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Muspekare:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>

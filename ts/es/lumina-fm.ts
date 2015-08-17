@@ -918,6 +918,44 @@ Ubicación Nueva: %2</translation>
     </message>
 </context>
 <context>
+    <name>MultimediaWidget</name>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
+        <source>Go To Next</source>
+        <translation type="unfinished">Ir Al Siguiente</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="107"/>
+        <source>(No Running Video)</source>
+        <translation type="unfinished">(Sin Video Ejecutándose)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="117"/>
+        <source>Playing:</source>
+        <translation type="unfinished">Reproduciendo:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="123"/>
+        <source>Stopped</source>
+        <translation type="unfinished">Detenido</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="150"/>
+        <source>Error Playing File: %1</source>
+        <translation type="unfinished">Error Reproduciendo Archivo: %1</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="161"/>
+        <source>Finished</source>
+        <translation type="unfinished">Finalizado</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="55"/>
@@ -933,6 +971,97 @@ Ubicación Nueva: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="59"/>
         <source>Application</source>
         <translation>Aplicación</translation>
+    </message>
+</context>
+<context>
+    <name>SlideshowWidget</name>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="24"/>
+        <source>Delete this image file</source>
+        <translation type="unfinished">Eliminar este archivo de imágen</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="44"/>
+        <source>Rotate this image file counter-clockwise</source>
+        <translation type="unfinished">Rotar este archivo de imágen en el sentido contrario a las manecillas del reloj</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="57"/>
+        <source>Rotate this image file clockwise</source>
+        <translation type="unfinished">Rotar este archivo de imágen en el sentido de las manecillas del reloj</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="133"/>
+        <source>Go to Beginning</source>
+        <translation type="unfinished">Ir al Principio</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="136"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="152"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="225"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="241"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="139"/>
+        <source>Shift+Left</source>
+        <translation type="unfinished">Shift+Izq</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="149"/>
+        <source>Go to Previous</source>
+        <translation type="unfinished">Ir al Anterior</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="155"/>
+        <source>Left</source>
+        <translation type="unfinished">Izquierda</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="188"/>
+        <source>File Name</source>
+        <translation type="unfinished">Nombre de Archivo</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="222"/>
+        <source>Go to Next</source>
+        <translation type="unfinished">Ir al Siguiente</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
+        <source>Right</source>
+        <translation type="unfinished">Derecha</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="238"/>
+        <source>Go to End</source>
+        <translation type="unfinished">Ir al Final</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="244"/>
+        <source>Shift+Right</source>
+        <translation type="unfinished">Shift+Der</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <source>Verify Removal</source>
+        <translation type="unfinished">Verificar Eliminación</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <source>WARNING: This will permanently delete the file from the system!</source>
+        <translation type="unfinished">ADVERTENCIA: Esto eliminará permanentemente el archivo del sistema!</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <source>Are you sure you want to continue?</source>
+        <translation type="unfinished">¿Está seguro de que quiere continuar?</translation>
     </message>
 </context>
 </TS>
