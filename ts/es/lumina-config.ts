@@ -169,7 +169,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Cada </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1640"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1620"/>
         <source>Appearance</source>
         <translation>Apariencia</translation>
     </message>
@@ -392,25 +392,20 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1208"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1235"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1252"/>
         <source>View format codes</source>
         <translation>Ver códigos de formato</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1223"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1240"/>
         <source>Date Format:</source>
         <translation>Formato de Fecha:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1270"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1277"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1223"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
         <source>Sample:</source>
         <translation>Muestra:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1287"/>
-        <source>Time Zone:</source>
-        <translation>Zona Horaria:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1139"/>
@@ -428,123 +423,123 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Volver a los valores predeterminados de Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1673"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1653"/>
         <source>Applications</source>
         <translation>Aplicaciones</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1676"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1656"/>
         <source>Application Management</source>
         <translation>Administración de Aplicaciones</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
         <source>Window System</source>
         <translation>Sistema de Ventanas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1310"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1287"/>
         <source>Display Format</source>
         <translation>Mostrar Formato</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1333"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1313"/>
         <source>Locale</source>
         <translation>Región</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1339"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1319"/>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1349"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1329"/>
         <source>Messages</source>
         <translation>Mensajes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1359"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1339"/>
         <source>Time</source>
         <translation>Hora</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1369"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1349"/>
         <source>Numeric</source>
         <translation>Numérico</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1379"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1359"/>
         <source>Monetary</source>
         <translation>Moneda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1389"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1369"/>
         <source>Collate</source>
         <translation>Intercalar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1399"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1379"/>
         <source>CType</source>
         <translation>CType</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1409"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1389"/>
         <source>System localization settings (restart required)</source>
         <translation>Configuraciones de Región del Sistema (Reinicio requerido)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1425"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1405"/>
         <source>Number of Workspaces</source>
         <translation>Número de Áreas de Trabajo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1442"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1422"/>
         <source>New Window Placement</source>
         <translation>Nueva Ubicación de la Ventana</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1452"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1432"/>
         <source>Focus Policy</source>
         <translation>Política de Foco</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1462"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1442"/>
         <source>Window Theme</source>
         <translation>Tema de la Ventana</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1480"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1460"/>
         <source>Window Theme Preview</source>
         <translation>Previsualización del Tema de la Ventana</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1534"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1862"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1514"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1863"/>
         <source>No Preview Available</source>
         <translation>Vista Previa No Disponible</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1580"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1560"/>
         <source>Save Changes</source>
         <translation>Guardar Cambios</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1583"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1563"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1612"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
         <source>toolBar</source>
         <translation>Barra de Herramientas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1651"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1631"/>
         <source>Interface</source>
         <translation>Interfaz</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1654"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1634"/>
         <source>Interface Configuration</source>
         <translation>Configuración de Interfaz</translation>
     </message>
@@ -554,7 +549,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Escritorio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1643"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1623"/>
         <source>Desktop Appearance</source>
         <translation>Apariencia del Escritorio</translation>
     </message>
@@ -564,57 +559,57 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Paneles</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1662"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1642"/>
         <source>Session</source>
         <translation>Sesión</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1665"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1645"/>
         <source>Session Options</source>
         <translation>Opciones de la Sesión</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1684"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1664"/>
         <source>Shortcuts</source>
         <translation>Accesos Directos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1687"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1667"/>
         <source>Keyboard Shortcuts</source>
         <translation>Atajos de Teclado</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>Click To Focus</source>
         <translation>Presione Para Focalizar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Active Mouse Focus</source>
         <translation>Focalizado Activo del Ratón</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Strict Mouse Focus</source>
         <translation>Focalizado Estricto del Ratón</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="223"/>
         <source>Align in a Row</source>
         <translation>Alinear en una Fila</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
         <source>Align in a Column</source>
         <translation>Alinear en una Columna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
         <source>Cascade</source>
         <translation>En Cascada</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
         <source>Underneath Mouse</source>
         <translation>Debajo del Ratón</translation>
     </message>
@@ -703,35 +698,29 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Presione para Aplicar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="258"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1263"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="237"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="236"/>
         <source>Time (Date as tooltip)</source>
         <translation>Hora (Fecha como informativo)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="238"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="237"/>
         <source>Date (Time as tooltip)</source>
         <translation>Fecha (Hora como Informativo)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="238"/>
         <source>Time first then Date</source>
         <translation>Primero Tiempo, luego Fecha</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Date first then Time</source>
         <translation>Fecha primero, luego Hora</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
-        <source>System Time</source>
-        <translation>Hora del Sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
@@ -746,13 +735,13 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1469"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1820"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1821"/>
         <source>Select Binary</source>
         <translation>Seleccionar Binario</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1476"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1823"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1824"/>
         <source>Invalid Binary</source>
         <translation>Binario Inválido</translation>
     </message>
@@ -762,173 +751,173 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>El binario seleccionado no es ejecutable!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1638"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1652"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1897"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1923"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1639"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1653"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1898"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1924"/>
         <source>Local</source>
         <translation>Local</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1645"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1659"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1904"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1930"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1646"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1660"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1905"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1931"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1820"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1821"/>
         <source>Application Binaries (*)</source>
         <translation>Binarios de Aplicaciones (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1823"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1824"/>
         <source>The selected file is not executable!</source>
         <translation>El archivo seleccionado no es ejecutable!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1837"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1838"/>
         <source>Select File</source>
         <translation>Seleccionar Archivo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1837"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1838"/>
         <source>All Files (*)</source>
         <translation>Todos los Archivos (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1942"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1943"/>
         <source>Select an image</source>
         <translation>Seleccionar una imágen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1943"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1944"/>
         <source>Images</source>
         <translation>Imágenes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1947"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1948"/>
         <source>Reset User Image</source>
         <translation>Restablecer Imágen de Usuario</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1947"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1948"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation>Quiere restablecer la imágen de usuario a la predeterminada del sistema?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1995"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1996"/>
         <source>Valid Time Codes:</source>
         <translation>Códigos Horarios Válidos:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1996"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1997"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>%1: Hora sin cero inicial (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1997"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1998"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: Hora con cero inicial (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1998"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1999"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: Minutos sin cero inicial (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1999"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2000"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: Minutos con cero inicial (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2000"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2001"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: Segundos sin cero inicial (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2001"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2002"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: Segundos con cero inicial (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2002"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2003"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation>%1: AM/PM reloj (12 horas) (mayúsculas o minúsculas)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2003"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
         <source>%1: Timezone</source>
         <translation>%1: Zona Horaria</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
         <source>Time Codes</source>
         <translation>Zonas Horarias</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2018"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2019"/>
         <source>Valid Date Codes:</source>
         <translation>Códigos de Fecha Válidos:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2019"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2020"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>%1: Día numérico sin cero inicial (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2020"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2021"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation>%1: Día numérico con cero inicial (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2021"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2022"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: Día abreviado (localizado)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2022"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2023"/>
         <source>%1: Day as full name (localized)</source>
         <translation>%1: Día con nombre completo (localizado)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2023"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2024"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation>%1: Mes numérico sin cero inicial (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2024"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2025"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation>%1: Mes numérico con cero inicial (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2025"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2026"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: Mes abreviado(localizado)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2026"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: Mes con nombre completo (localizado)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation>%1: Año como número de 2 dígitos (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: Año como número de 4 dígitos (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation>El texto debe estar encerrado en comillas simpler para ignorar reemplazos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
         <source>Date Codes</source>
         <translation>Códigos de Fecha</translation>
     </message>

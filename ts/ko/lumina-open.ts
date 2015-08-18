@@ -142,54 +142,54 @@
         <translation>파일 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="162"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="169"/>
         <source>Audio Volume %1%</source>
         <translation>오디오 볼륨 %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="176"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="185"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="177"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="186"/>
         <source>Screen Brightness %1%</source>
         <translation>화면 밝기 %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="204"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="205"/>
         <source>Invalid file or URL: %1</source>
         <translation>잘못된 파일이나 URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="227"/>
         <source>File could not be opened: %1</source>
         <translation>파일을 열 수 없습니다: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="235"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="236"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>프로그램 바로 가기에 실행 정보가 없습니다 (잘못된 바로 가기): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="247"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL 바로 가기에 URL이 없습니다: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="257"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="258"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>디렉터리 바로 가기에 디렉터리 경로가 없습니다: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="262"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>알 수 없는 바로 가기: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="361"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
         <source>Application Error</source>
         <translation>프로그램 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="361"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>다음의 프로그램에 오류가 발생하여 종료하였습니다:</translation>
     </message>
