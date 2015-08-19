@@ -921,37 +921,37 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Мультимедиа</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
         <source>Go To Next</source>
-        <translation type="unfinished">Следующий</translation>
+        <translation>Следующий</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="107"/>
         <source>(No Running Video)</source>
-        <translation type="unfinished">(видео не запущено)</translation>
+        <translation>(видео не запущено)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="117"/>
         <source>Playing:</source>
-        <translation type="unfinished">Воспроизведение:</translation>
+        <translation>Воспроизведение:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="123"/>
         <source>Stopped</source>
-        <translation type="unfinished">Остановился</translation>
+        <translation>Остановился</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="150"/>
         <source>Error Playing File: %1</source>
-        <translation type="unfinished">Ошибка воспроизведения файла: %1</translation>
+        <translation>Ошибка воспроизведения файла: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="161"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Конец</translation>
     </message>
 </context>
 <context>
@@ -977,27 +977,27 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайдшоу</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="24"/>
         <source>Delete this image file</source>
-        <translation type="unfinished">Удалить изображение</translation>
+        <translation>Удалить изображение</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="44"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished">Повернуть против часовой стрелки</translation>
+        <translation>Повернуть против часовой стрелки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="57"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished">Повернуть по часовой стрелке</translation>
+        <translation>Повернуть по часовой стрелке</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="133"/>
         <source>Go to Beginning</source>
-        <translation type="unfinished">В начало</translation>
+        <translation>В начало</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="136"/>
@@ -1005,62 +1005,62 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="225"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="241"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="139"/>
         <source>Shift+Left</source>
-        <translation type="unfinished">Shift+Влево</translation>
+        <translation>Shift+Влево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="149"/>
         <source>Go to Previous</source>
-        <translation type="unfinished">Предыдущий</translation>
+        <translation>Предыдущий</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="155"/>
         <source>Left</source>
-        <translation type="unfinished">Влево</translation>
+        <translation>Влево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="188"/>
         <source>File Name</source>
-        <translation type="unfinished">Имя Файла</translation>
+        <translation>Имя Файла</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="222"/>
         <source>Go to Next</source>
-        <translation type="unfinished">Следующий</translation>
+        <translation>Следующий</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
         <source>Right</source>
-        <translation type="unfinished">Вправо</translation>
+        <translation>Вправо</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="238"/>
         <source>Go to End</source>
-        <translation type="unfinished">В конец</translation>
+        <translation>В конец</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="244"/>
         <source>Shift+Right</source>
-        <translation type="unfinished">Shift+Вправо</translation>
+        <translation>Shift+Вправо</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
         <source>Verify Removal</source>
-        <translation type="unfinished">Проверка Удаления</translation>
+        <translation>Проверка Удаления</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
-        <translation type="unfinished">Внимание: Это навсегда удалит файл из системы!</translation>
+        <translation>Внимание: Это навсегда удалит файл из системы!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished">Вы уверены, что хотите продолжить?</translation>
+        <translation>Вы уверены, что хотите продолжить?</translation>
     </message>
 </context>
 </TS>
