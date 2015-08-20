@@ -614,12 +614,6 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <translation>Sous la souris</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
-        <source>Select Panel Color</source>
-        <translation>Sélectionner la Couleur du Panneau</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
         <source>Save Changes?</source>
         <translation>Enregistrer les changements ?</translation>
@@ -721,6 +715,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Date first then Time</source>
         <translation>Date avant l&apos;heure</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Sélectionner une couleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>

@@ -618,12 +618,6 @@ Current keyboard bindings will also be ignored.</source>
         <translation>마우스 아래</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
-        <source>Select Panel Color</source>
-        <translation>패널 색상 선택</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
         <source>Save Changes?</source>
         <translation>변경 사항을 저장하시겠습니까?</translation>
@@ -725,6 +719,12 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Date first then Time</source>
         <translation>날짜 다음 시간</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
+        <source>Select Color</source>
+        <translation type="unfinished">색상 선택</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>

@@ -614,12 +614,6 @@ Ligações de teclado atual também serão ignoradas.</translation>
         <translation>Sob o Mouse </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
-        <source>Select Panel Color</source>
-        <translation>Selecionar Cor do Painel </translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
         <source>Save Changes?</source>
         <translation>Salvar as Alterações?</translation>
@@ -721,6 +715,12 @@ Ligações de teclado atual também serão ignoradas.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Date first then Time</source>
         <translation>Primeiro a Data depois a Hora</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Selecionar Cor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>

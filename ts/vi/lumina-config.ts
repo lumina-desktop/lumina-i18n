@@ -614,12 +614,6 @@ Kết nối bàn phím hiện tại sẽ cũng được bỏ qua.</translation>
         <translation>Chuột dưới điều khiển</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
-        <source>Select Panel Color</source>
-        <translation>Chọn bảng màu</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
         <source>Save Changes?</source>
         <translation>Lưu thay đổi</translation>
@@ -721,6 +715,12 @@ Kết nối bàn phím hiện tại sẽ cũng được bỏ qua.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Date first then Time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Chọn màu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
