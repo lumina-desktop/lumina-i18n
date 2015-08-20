@@ -720,7 +720,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
         <source>Select Color</source>
-        <translation type="unfinished">Renk Seç</translation>
+        <translation>Renk Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>

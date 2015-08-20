@@ -99,6 +99,170 @@
     </message>
 </context>
 <context>
+    <name>DirWidget</name>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="59"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="62"/>
+        <source>Open item</source>
+        <translation type="unfinished">Abrir item</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="84"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="87"/>
+        <source>Open item (select application)</source>
+        <translation type="unfinished">Abrir item (selecionar aplicativo)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="116"/>
+        <source>Add item to personal favorites</source>
+        <translation type="unfinished">Adicionar item aos favoritos pessoais</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="135"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="138"/>
+        <source>Rename item</source>
+        <translation type="unfinished">Renomear item</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="164"/>
+        <source>Cut items</source>
+        <translation type="unfinished">Recortar itens</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="167"/>
+        <source>Cut items (add to the clipboard)</source>
+        <translation type="unfinished">Cortar itens (adiciona para a área de transferência)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="186"/>
+        <source>Copy items</source>
+        <translation type="unfinished">Copiar itens</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="189"/>
+        <source>Copy items to the clipboard</source>
+        <translation type="unfinished">Copiar itens para a área de transferência</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="208"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="211"/>
+        <source>Paste items from clipboard</source>
+        <translation type="unfinished">Colar itens da área de transferência</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="237"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="240"/>
+        <source>Delete Items</source>
+        <translation type="unfinished">Excluir itens</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="280"/>
+        <source>Snapshots Available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="97"/>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="100"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="103"/>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="105"/>
+        <source>Date Modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="108"/>
+        <source>Date Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="366"/>
+        <source>Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="414"/>
+        <source>File Checksums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="422"/>
+        <source>Missing Utility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="422"/>
+        <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="448"/>
+        <source>Open</source>
+        <translation type="unfinished">Abrir</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="449"/>
+        <source>Open With...</source>
+        <translation type="unfinished">Abrir com...</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="451"/>
+        <source>Rename</source>
+        <translation type="unfinished">Renomear</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="452"/>
+        <source>View Checksums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="456"/>
+        <source>Cut Selection</source>
+        <translation type="unfinished">Recortar seleção</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="457"/>
+        <source>Copy Selection</source>
+        <translation type="unfinished">Copiar seleção</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="458"/>
+        <source>Paste</source>
+        <translation type="unfinished">Colar</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="460"/>
+        <source>Delete Selection</source>
+        <translation type="unfinished">Excluir seleção</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="463"/>
+        <source>File Properties</source>
+        <translation type="unfinished">Propriedades do arquivo</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="466"/>
+        <source>Open Terminal here</source>
+        <translation type="unfinished">Abrir terminal aqui</translation>
+    </message>
+</context>
+<context>
     <name>FODialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
