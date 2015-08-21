@@ -180,11 +180,6 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="563"/>
-        <source>Generate Desktop Links</source>
-        <translation>Loo lingid töölauale</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
         <source>Action</source>
         <translation>Toiming</translation>
@@ -329,6 +324,11 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
         <source>Embedded Utilities</source>
         <translation>Sisseehitatud tööriistad</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
+        <source>Display Desktop Folder Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>

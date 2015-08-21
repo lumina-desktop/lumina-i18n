@@ -180,11 +180,6 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="563"/>
-        <source>Generate Desktop Links</source>
-        <translation>Bureaublad-links genereren</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
         <source>Action</source>
         <translation>Actie</translation>
@@ -329,6 +324,11 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
         <source>Embedded Utilities</source>
         <translation>Ingebedde hulpmiddelen</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
+        <source>Display Desktop Folder Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>

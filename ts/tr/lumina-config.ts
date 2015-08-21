@@ -180,11 +180,6 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="563"/>
-        <source>Generate Desktop Links</source>
-        <translation>Masaüstü Bağlantıları Oluştur</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
         <source>Action</source>
         <translation>Eylem</translation>
@@ -329,6 +324,11 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
         <source>Embedded Utilities</source>
         <translation>Yerleşik Gereçler</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
+        <source>Display Desktop Folder Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>

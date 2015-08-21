@@ -179,11 +179,6 @@ Current keyboard bindings will also be ignored.</source>
         <translation>…</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="563"/>
-        <source>Generate Desktop Links</source>
-        <translation>Создание ссылок рабочего стола</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
         <source>Action</source>
         <translation>Действие</translation>
@@ -328,6 +323,11 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
         <source>Embedded Utilities</source>
         <translation>Встроенные Утилиты</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
+        <source>Display Desktop Folder Contents</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>

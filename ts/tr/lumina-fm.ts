@@ -103,163 +103,163 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="59"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="62"/>
         <source>Open item</source>
-        <translation type="unfinished">Öğeyi aç</translation>
+        <translation>Öğeyi aç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="84"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="87"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished">Öğeyi aç (uygulama seç)</translation>
+        <translation>Öğeyi aç (uygulama seç)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="113"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="116"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished">Öğeyi kişisel sık kullanılanlara ekle</translation>
+        <translation>Öğeyi kişisel sık kullanılanlara ekle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="135"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="138"/>
         <source>Rename item</source>
-        <translation type="unfinished">Öğeyi yeniden adlandır</translation>
+        <translation>Öğeyi yeniden adlandır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="164"/>
         <source>Cut items</source>
-        <translation type="unfinished">Öğeleri kes</translation>
+        <translation>Öğeleri kes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="167"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished">Öğeleri kes (panoya ekle)</translation>
+        <translation>Öğeleri kes (panoya ekle)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="186"/>
         <source>Copy items</source>
-        <translation type="unfinished">Öğeleri kopyala</translation>
+        <translation>Öğeleri kopyala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="189"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished">Öğeleri panoya kopyala</translation>
+        <translation>Öğeleri panoya kopyala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="208"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="211"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished">Panodan öğeleri yapıştır</translation>
+        <translation>Panodan öğeleri yapıştır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="237"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="240"/>
         <source>Delete Items</source>
-        <translation type="unfinished">Öğeleri Sil</translation>
+        <translation>Öğeleri Sil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="280"/>
         <source>Snapshots Available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="97"/>
-        <source>Name</source>
-        <translation type="unfinished">Ad</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="100"/>
-        <source>Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="103"/>
-        <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanılabilir Anlık Görüntüler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="105"/>
-        <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <source>Name</source>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="108"/>
+        <source>Size</source>
+        <translation>Boyut</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="111"/>
+        <source>Type</source>
+        <translation>Tür</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="113"/>
+        <source>Date Modified</source>
+        <translation>Değiştirilme Tarihi</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="116"/>
         <source>Date Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Oluşturulma Tarihi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="376"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçerli</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="414"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="424"/>
         <source>File Checksums</source>
-        <translation type="unfinished">Dosya Sağlama Toplamları</translation>
+        <translation>Dosya Sağlama Toplamları</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="422"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="432"/>
         <source>Missing Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksik Gereç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="422"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="432"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="448"/>
-        <source>Open</source>
-        <translation type="unfinished">Aç</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="449"/>
-        <source>Open With...</source>
-        <translation type="unfinished">Birlikte Aç...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="451"/>
-        <source>Rename</source>
-        <translation type="unfinished">Yeniden Adlandır</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="452"/>
-        <source>View Checksums</source>
-        <translation type="unfinished">Sağlama Toplamlarını Görüntüle</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="456"/>
-        <source>Cut Selection</source>
-        <translation type="unfinished">Seçimi Kes</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="457"/>
-        <source>Copy Selection</source>
-        <translation type="unfinished">Seçimi Kopyala</translation>
+        <translation>Sistemde &quot;lumina-fileinfo&quot; gereci bulunamadı. Lütfen önce gereci yükleyin.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="458"/>
-        <source>Paste</source>
-        <translation type="unfinished">Yapıştır</translation>
+        <source>Open</source>
+        <translation>Aç</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="460"/>
-        <source>Delete Selection</source>
-        <translation type="unfinished">Seçimi Sil</translation>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="459"/>
+        <source>Open With...</source>
+        <translation>Birlikte Aç...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="463"/>
-        <source>File Properties</source>
-        <translation type="unfinished">Dosya Özellikleri</translation>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="461"/>
+        <source>Rename</source>
+        <translation>Yeniden Adlandır</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="462"/>
+        <source>View Checksums</source>
+        <translation>Sağlama Toplamlarını Görüntüle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="466"/>
+        <source>Cut Selection</source>
+        <translation>Seçimi Kes</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="467"/>
+        <source>Copy Selection</source>
+        <translation>Seçimi Kopyala</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="468"/>
+        <source>Paste</source>
+        <translation>Yapıştır</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="470"/>
+        <source>Delete Selection</source>
+        <translation>Seçimi Sil</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="473"/>
+        <source>File Properties</source>
+        <translation>Dosya Özellikleri</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="476"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished">Uçbirimi burada aç</translation>
+        <translation>Uçbirimi burada aç</translation>
     </message>
 </context>
 <context>
