@@ -719,7 +719,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
         <source>Select Color</source>
-        <translation type="unfinished">Выберите цвет</translation>
+        <translation>Выберите цвет</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
