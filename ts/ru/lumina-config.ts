@@ -327,7 +327,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Отобразить содержание папки Рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>
