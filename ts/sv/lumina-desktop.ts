@@ -273,12 +273,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="126"/>
         <source>Time Zone (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidszon (%1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="147"/>
         <source>Use System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd systemtid</translation>
     </message>
 </context>
 <context>

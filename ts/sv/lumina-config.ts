@@ -328,7 +328,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa skrivbordsmappens innehåll</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>
@@ -720,7 +720,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
         <source>Select Color</source>
-        <translation type="unfinished">Välj Färg</translation>
+        <translation>Välj färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>

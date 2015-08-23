@@ -143,7 +143,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="79"/>
         <source>Unsorted</source>
-        <translation>Невідсортований</translation>
+        <translation>Без сортування</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="36"/>
@@ -265,7 +265,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation>%1 (залишилося %2)</translation>
+        <translation>%1 (Залишилося %2)</translation>
     </message>
 </context>
 <context>
