@@ -35,7 +35,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation>Définir manuellement une valeur pour la sélection</translation>
+        <translation>Définir une valeur manuellement pour la sélection</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
         <source>Color Exists</source>
-        <translation>Couleur Existante</translation>
+        <translation>Couleur déjà existante</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
@@ -78,7 +78,7 @@ Voulez-vous l&apos;écraser ?</translation>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="117"/>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="118"/>
         <source>Select Color</source>
-        <translation>Sélectionner une couleur</translation>
+        <translation>Sélection de couleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="138"/>
@@ -96,12 +96,12 @@ Voulez-vous l&apos;écraser ?</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation>Sélectionner une extension</translation>
+        <translation>Sélectionner un module</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation>Sélectionner une extension:</translation>
+        <translation>Sélectionner un module:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
@@ -111,7 +111,7 @@ Voulez-vous l&apos;écraser ?</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="77"/>
         <source>Select</source>
-        <translation>Choisir</translation>
+        <translation>Sélectionner</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="950"/>
         <source>Specific File Types</source>
-        <translation>Types de fichiers spécifiques</translation>
+        <translation>Types de Fichiers Spécifiques</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="992"/>
@@ -237,7 +237,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="997"/>
         <source>Description</source>
-        <translation>Description</translation>
+        <translation>Déscription</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1007"/>
@@ -303,7 +303,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
         <source>Create/Edit a color scheme</source>
-        <translation>Créer/Modifier un jeu de couleurs</translation>
+        <translation>Créer/Editer un jeu de couleurs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
@@ -313,22 +313,22 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pointeurs de Souris:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>
         <source>Quick-Access Menu</source>
-        <translation>Menu sur le bureau</translation>
+        <translation>Menu d&apos;Accés Rapide</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
         <source>Embedded Utilities</source>
-        <translation>Extensions sur le bureau</translation>
+        <translation>Utilitaires Integrés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le Contenu du Dossier Bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>
@@ -353,7 +353,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="820"/>
         <source>File Defaults</source>
-        <translation>Fichier par défaut</translation>
+        <translation>Fichiers par défaut</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="987"/>
@@ -363,12 +363,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1072"/>
         <source>General Options</source>
-        <translation>Options Générales</translation>
+        <translation>Préférences Générales</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1080"/>
         <source>Enable numlock on startup</source>
-        <translation>Activer le verrouillage numérique au démarrage</translation>
+        <translation>Activer le pavé numérique au démarrage</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1087"/>
@@ -383,34 +383,34 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1103"/>
         <source>Change User Icon</source>
-        <translation>Modifier l&apos;icône de l&apos;utilisateur</translation>
+        <translation>Modifier l&apos;Icône Utilisateur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1196"/>
         <source>Time Format:</source>
-        <translation>Format d&apos;heure:</translation>
+        <translation>Format d&apos;Heure:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1208"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1252"/>
         <source>View format codes</source>
-        <translation type="unfinished">Voir le code du format</translation>
+        <translation>Voir les codes du format</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1240"/>
         <source>Date Format:</source>
-        <translation>Format de date:</translation>
+        <translation>Format de Date:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1223"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
         <source>Sample:</source>
-        <translation>Echantillon:</translation>
+        <translation>Exemple:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1139"/>
         <source>Reset Desktop Settings</source>
-        <translation>Remise à zéro des paramètres</translation>
+        <translation>RAZ des Paramètres du Bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1158"/>
@@ -430,12 +430,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1656"/>
         <source>Application Management</source>
-        <translation>Gestion d&apos;application</translation>
+        <translation>Gestion d&apos;Application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
         <source>Window System</source>
-        <translation>Gestionnaire de fenêtres</translation>
+        <translation>Gestionnaire de Fenêtre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1287"/>
@@ -445,7 +445,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1313"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Localisation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1319"/>
@@ -455,7 +455,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1329"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Messages</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1339"/>
@@ -470,7 +470,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1359"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Monaitaire</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1369"/>
