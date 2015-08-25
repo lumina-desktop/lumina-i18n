@@ -165,89 +165,89 @@
         <translation>%1 ocult(a)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="167"/>
         <source>Read/Write</source>
         <translation>Lectura/escriptura</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="168"/>
         <source>Read Only</source>
         <translation>Només de lectura</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="169"/>
         <source>Write Only</source>
         <translation>Només d&apos;escriptura</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>No Access</source>
         <translation>Sense accés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="221"/>
         <source>There are some issues with this file !!!!</source>
         <translation>Hi ha alguns problemes amb aquest fitxer!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="222"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
         <translation>O bé corregiu aquest fitxer vosaltres mateixos amb un editor, o bé comenceu de nou usant l&apos;enllaç o la plantilla de l&apos;aplicació.
 Tingueu en compte que aquest procés actualitzarà el fitxer anomenat </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Open command</source>
         <translation>Obre l&apos;ordre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
         <source>All Files (*)</source>
         <translation>Tots els fitxers (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="275"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="272"/>
         <source>Working Directory</source>
         <translation>Directori de treball</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>Problem to write to disk</source>
         <translation>Problema en escriure al disc</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
         <translation>Hi ha un problema a l&apos;hora d&apos;escriure el fitxer d&apos;escriptori adaptat al disc. Podeu tornar a intentar la modificació després de solucionar el problema amb el disc?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>We have a problem to execute the following command:</source>
         <translation>Hi ha un problema a l&apos;hora d&apos;executar l&apos;ordre següent:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
         <translation>Fitxers d&apos;imatge (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="372"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="389"/>
         <source>By modifying this value, you will loose all translated versions</source>
         <translation>Si modifiqueu aquest valor, en perdreu totes les versions traduïdes.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="373"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>El camp: el nom es tradueix a diverses altres llengües. Si voleu continuar, en perdreu totes les versions traduïdes.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="390"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>El camp: el comentari es tradueix a diverses altres llengües. Si voleu continuar, en perdreu totes les versions traduïdes.</translation>
     </message>

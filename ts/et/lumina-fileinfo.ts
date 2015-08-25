@@ -165,88 +165,88 @@
         <translation>Peidetud %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="167"/>
         <source>Read/Write</source>
         <translation>Lugemine/Kirjutamine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="168"/>
         <source>Read Only</source>
         <translation>Ainult lugemine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="169"/>
         <source>Write Only</source>
         <translation>Ainult kirjutamine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>No Access</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="221"/>
         <source>There are some issues with this file !!!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="222"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Open command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="275"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="272"/>
         <source>Working Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>Problem to write to disk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>We have a problem to execute the following command:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="372"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="389"/>
         <source>By modifying this value, you will loose all translated versions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="373"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="390"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation type="unfinished"></translation>
     </message>

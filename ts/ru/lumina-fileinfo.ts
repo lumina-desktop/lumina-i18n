@@ -165,89 +165,89 @@
         <translation>Скрытый %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="167"/>
         <source>Read/Write</source>
         <translation>Чтение/Запись</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="168"/>
         <source>Read Only</source>
         <translation>Только чтение</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="169"/>
         <source>Write Only</source>
         <translation>Только запись</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>No Access</source>
         <translation>Нет доступа</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="221"/>
         <source>There are some issues with this file !!!!</source>
         <translation>Есть проблемы с этим файлом !!!!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="222"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
         <translation>Или вы исправляете этот файл сами в редакторе, или начинаете с начала, используя ссылку или шаблон приложения.
 Пожалуйста, обратите внимание, что этот процесс обновит файл с именем:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Open command</source>
         <translation>Открыть команду</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="259"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
         <source>All Files (*)</source>
         <translation>Все Файлы (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="275"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="272"/>
         <source>Working Directory</source>
         <translation>Рабочая Папка</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>Problem to write to disk</source>
         <translation>Проблема записи на диск</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="327"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
         <translation>Проблема записи измененного файла на диск. Вы сможете еще раз сделать изменения после решения проблем с диском?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="342"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="350"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
         <source>We have a problem to execute the following command:</source>
         <translation>Проблема выполнения следующей команды:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
         <translation>Файлы Изображений (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="372"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="389"/>
         <source>By modifying this value, you will loose all translated versions</source>
         <translation>Изменив это значение, вы потеряете все переведенные версии</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="376"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="373"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>Поле: Имя переводится в ряде других языков. Если продолжите, вы потеряете все переведенные версии</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="393"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="390"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>Поле: Комментарий переводится в ряде других языков. Если продолжите, вы потеряете все переведенные версии</translation>
     </message>
