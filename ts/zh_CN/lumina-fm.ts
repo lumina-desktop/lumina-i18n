@@ -57,51 +57,6 @@
     </message>
 </context>
 <context>
-    <name>BackgroundWorker</name>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>B</source>
-        <translation>B</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>KB</source>
-        <translation>千字节</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>MB</source>
-        <translation>兆字节</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>GB</source>
-        <translation>GB</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="108"/>
-        <source>TB</source>
-        <translation>TB</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="115"/>
-        <source>%1: %2 / %3: %4</source>
-        <translatorcomment>%1: %2 / %3: %4</translatorcomment>
-        <translation>%1: %2 / %3: %4</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="119"/>
-        <source>Total size: %1 %2</source>
-        <translation>总大小：%1 %2</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="124"/>
-        <location filename="../../lumina-git/lumina-fm/BackgroundWorker.cpp" line="125"/>
-        <source>Capacity: %1</source>
-        <translation>容量：%1</translation>
-    </message>
-</context>
-<context>
     <name>DirWidget</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="14"/>
@@ -109,158 +64,247 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="59"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="62"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="185"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="188"/>
         <source>Open item</source>
         <translation type="unfinished">打开项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="84"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="87"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="210"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="213"/>
         <source>Open item (select application)</source>
         <translation type="unfinished">打开项目（选择应用程序）</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="113"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="116"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="239"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="242"/>
         <source>Add item to personal favorites</source>
         <translation type="unfinished">添加项目到个人的最爱</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="135"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="138"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="261"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="264"/>
         <source>Rename item</source>
         <translation type="unfinished">重命名项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="290"/>
         <source>Cut items</source>
         <translation type="unfinished">剪切项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="167"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="293"/>
         <source>Cut items (add to the clipboard)</source>
         <translation type="unfinished">剪切项目（添加到剪贴板）</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="186"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="312"/>
         <source>Copy items</source>
         <translation type="unfinished">复制项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="189"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="315"/>
         <source>Copy items to the clipboard</source>
         <translation type="unfinished">复制项目到剪贴板</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="208"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="211"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="334"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="337"/>
         <source>Paste items from clipboard</source>
         <translation type="unfinished">从剪贴板中粘贴对项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="237"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="240"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="363"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="366"/>
         <source>Delete Items</source>
         <translation type="unfinished">删除项目</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="280"/>
-        <source>Snapshots Available</source>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="410"/>
+        <source>Add selected images to slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="105"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="413"/>
+        <source>Slideshow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="429"/>
+        <source>Enqueue selection in multimedia player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="432"/>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="453"/>
+        <source>Back</source>
+        <translation type="unfinished">返回</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="456"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="459"/>
+        <source>Go back to previous directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="467"/>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="470"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="473"/>
+        <source>Go to parent directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="487"/>
+        <source>Go to home directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="495"/>
+        <source>Stopl loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="509"/>
+        <source>Close this browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="40"/>
+        <source>Ctrl+C</source>
+        <translation type="unfinished">Ctrl+C</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="41"/>
+        <source>Ctrl+V</source>
+        <translation type="unfinished">Ctrl + V</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="42"/>
+        <source>Ctrl+X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="43"/>
+        <source>Delete</source>
+        <translation type="unfinished">删除</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="44"/>
+        <source>F5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="101"/>
         <source>Name</source>
         <translation type="unfinished">名称</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="108"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="105"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="108"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="112"/>
         <source>Date Modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="115"/>
         <source>Date Created</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="376"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="278"/>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="511"/>
         <source>Current</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="424"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="603"/>
         <source>File Checksums</source>
         <translation type="unfinished">文件校验值</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="432"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="611"/>
         <source>Missing Utility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="432"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="611"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="458"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="637"/>
         <source>Open</source>
         <translation type="unfinished">打开</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="459"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="638"/>
         <source>Open With...</source>
         <translation type="unfinished">打开方式...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="461"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="640"/>
         <source>Rename</source>
         <translation type="unfinished">重命名</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="462"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="641"/>
         <source>View Checksums</source>
         <translation type="unfinished">文件校验值</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="466"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="645"/>
         <source>Cut Selection</source>
         <translation type="unfinished">剪切选中部分</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="467"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="646"/>
         <source>Copy Selection</source>
         <translation type="unfinished">复制选择部分</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="468"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="647"/>
         <source>Paste</source>
         <translation type="unfinished">粘贴</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="470"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="649"/>
         <source>Delete Selection</source>
         <translation type="unfinished">删除选择</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="473"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="652"/>
         <source>File Properties</source>
         <translation type="unfinished">文件属性</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="476"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="655"/>
         <source>Open Terminal here</source>
         <translation type="unfinished">在此处打开终端</translation>
     </message>
@@ -283,73 +327,73 @@
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="15"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="17"/>
         <source>Calculating</source>
         <translation>计算</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
         <source>Overwrite Files?</source>
         <translation>覆盖文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
         <source>Do you want to overwrite the existing files?</source>
         <translatorcomment>你要改写现有的文件吗？</translatorcomment>
         <translation>你要改写现有的文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="109"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="125"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
         <source>Removing: %1</source>
         <translation>正在删除：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
         <source>Copying: %1 to %2</source>
         <translation>复制 %1 至 %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="127"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="130"/>
         <source>Restoring: %1 as %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Moving: %1 to %2</source>
         <translatorcomment>移动：%1 至 %2</translatorcomment>
         <translation>移动：%1 至 %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="141"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="144"/>
         <source>Could not remove these files:</source>
         <translatorcomment>无法移动文件：</translatorcomment>
         <translation>无法移动文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="142"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="145"/>
         <source>Could not copy these files:</source>
         <translatorcomment>无法复制这些文件：</translatorcomment>
         <translation>无法复制这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="146"/>
         <source>Could not restore these files:</source>
         <translatorcomment>无法恢复这些文件：</translatorcomment>
         <translation>无法恢复这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="147"/>
         <source>Could not move these files:</source>
         <translatorcomment>无法移动这些文件：</translatorcomment>
         <translation>无法移动这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
         <source>File Errors</source>
         <translation>文件错误</translation>
     </message>
@@ -357,12 +401,12 @@
 <context>
     <name>FOWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="292"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="297"/>
         <source>Invalid Move</source>
         <translation>非法移动</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="292"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="297"/>
         <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
 
 Old Location: %1
@@ -378,737 +422,239 @@ New Location: %2</source>
         <translation>启示</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="187"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="190"/>
-        <source>Open item</source>
-        <translation>打开项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="212"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="215"/>
-        <source>Open item (select application)</source>
-        <translation>打开项目（选择应用程序）</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="241"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="244"/>
-        <source>Add item to personal favorites</source>
-        <translation>添加项目到个人的最爱</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="263"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="266"/>
-        <source>Rename item</source>
-        <translation>重命名项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="292"/>
-        <source>Cut items</source>
-        <translation>剪切项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="295"/>
-        <source>Cut items (add to the clipboard)</source>
-        <translation>剪切项目（添加到剪贴板）</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
-        <source>Copy items</source>
-        <translation>复制项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
-        <source>Copy items to the clipboard</source>
-        <translatorcomment>复制项目到剪贴板</translatorcomment>
-        <translation>复制项目到剪贴板</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="336"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="339"/>
-        <source>Paste items from clipboard</source>
-        <translation>从剪贴板中粘贴对项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="368"/>
-        <source>Delete Items</source>
-        <translation>删除项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="427"/>
-        <source>Create a new file</source>
-        <translation>新建文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="430"/>
-        <source>New &amp;file</source>
-        <translation>新建 &amp;文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="449"/>
-        <source>Create a new subdirectory</source>
-        <translation>创建一个新的子目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="455"/>
-        <source>Ctrl+N</source>
-        <translatorcomment>Ctrl+N</translatorcomment>
-        <translation>Ctrl+N</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="474"/>
-        <source>Open Multimedia Player</source>
-        <translatorcomment>打开媒体播放器</translatorcomment>
-        <translation>打开媒体播放器</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="477"/>
-        <source>Play any multimedia files in this directory</source>
-        <translatorcomment>在这个目录中播放任何多媒体文件</translatorcomment>
-        <translation>在这个目录中播放任何多媒体文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="480"/>
-        <source>&amp;Play</source>
-        <translation>播放(&amp;P)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="483"/>
-        <source>Ctrl+P, Ctrl+S</source>
-        <translation>Ctrl+P, Ctrl+S</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="499"/>
-        <source>View Slideshow</source>
-        <translation>查看幻灯片放映</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="502"/>
-        <source>View all the images in this directory as a slideshow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="505"/>
-        <source>&amp;Slideshow</source>
-        <translation>幻灯片(&amp;S)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="508"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="524"/>
-        <source>Restore File(s)</source>
-        <translation>恢复的文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="527"/>
-        <source>Restore old versions of files or directories</source>
-        <translatorcomment>恢复旧版本的文件或目录</translatorcomment>
-        <translation>恢复旧版本的文件或目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="530"/>
-        <source>&amp;Backups</source>
-        <translation>&amp;备份</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="533"/>
-        <source>Ctrl+B</source>
-        <translation>Ctrl+B</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="560"/>
-        <source>Go To Next</source>
-        <translatorcomment>跳至下一个</translatorcomment>
-        <translation>跳至下一个</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="639"/>
-        <source>(No Running Video)</source>
-        <translatorcomment>（没有运行视频）</translatorcomment>
-        <translation>（没有运行视频）</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="713"/>
-        <source>Delete this image file</source>
-        <translatorcomment>删除此图像文件</translatorcomment>
-        <translation>删除此图像文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="733"/>
-        <source>Rotate this image file counter-clockwise</source>
-        <translatorcomment>顺时针旋转图像</translatorcomment>
-        <translation>顺时针旋转图像 </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="746"/>
-        <source>Rotate this image file clockwise</source>
-        <translatorcomment>顺时针旋转图像文件</translatorcomment>
-        <translation>顺时针旋转图像文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="822"/>
-        <source>Go to Beginning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="825"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="841"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="914"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="930"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="828"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="102"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="85"/>
         <source>Shift+Left</source>
         <translation>Shift+Left</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="838"/>
-        <source>Go to Previous</source>
-        <translation>跳至上一个</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="844"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="967"/>
-        <source>Left</source>
-        <translation>左侧</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="877"/>
-        <source>File Name</source>
-        <translation>文件名</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="911"/>
-        <source>Go to Next</source>
-        <translatorcomment>跳至下一个</translatorcomment>
-        <translation>跳至下一个</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="917"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1016"/>
-        <source>Right</source>
-        <translation>右侧</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="927"/>
-        <source>Go to End</source>
-        <translatorcomment>跳转结束</translatorcomment>
-        <translation>跳转结束</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="933"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="103"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="86"/>
         <source>Shift+Right</source>
         <translation>Shift+Right</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="964"/>
-        <source>Older</source>
-        <translation>较旧</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1013"/>
-        <source>Newer</source>
-        <translation>较新</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1058"/>
-        <source>Restore Selected Item</source>
-        <translatorcomment>恢复选定项目</translatorcomment>
-        <translation>恢复选定项目</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1061"/>
-        <source>&amp;Restore Selection</source>
-        <translatorcomment>&amp; 恢复选择</translatorcomment>
-        <translation>&amp; 恢复选择</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1064"/>
-        <source>Ctrl+R</source>
-        <translation>Ctrl-R</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1087"/>
-        <source>&amp;Overwrite Existing Files</source>
-        <translation>&amp;覆盖已有文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1090"/>
-        <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1113"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="71"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1122"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="80"/>
         <source>View</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1131"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="84"/>
+        <source>View Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="90"/>
+        <source>Group Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="106"/>
         <source>Bookmarks</source>
         <translation>书签</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1137"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="112"/>
         <source>External Devices</source>
         <translation>外部设备</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1153"/>
-        <source>toolBar</source>
-        <translation>工具栏</translation>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="228"/>
+        <source>Increase Icon Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1175"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="233"/>
+        <source>Decrease Icon Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="238"/>
+        <source>Larger Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="243"/>
+        <source>Smaller Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="125"/>
         <source>New &amp;Tab</source>
         <translation>新标签(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1178"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="128"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1183"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="133"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1186"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="136"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1194"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="144"/>
         <source>&amp;Preferences</source>
         <translation>首选项(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1199"/>
-        <source>UpDir</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1202"/>
-        <source>Go up one directory</source>
-        <translation>返回上一级目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1205"/>
-        <source>Alt+Up</source>
-        <translatorcomment>Alt+Up</translatorcomment>
-        <translation>Alt+Up</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1210"/>
-        <source>&amp;Home</source>
-        <translation>Home(&amp;H)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1213"/>
-        <source>Go to your home directory</source>
-        <translation>转到你的主目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1216"/>
-        <source>Alt+H</source>
-        <translatorcomment>Alt+H</translatorcomment>
-        <translation>Alt+H</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1227"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="155"/>
         <source>Show Hidden Files</source>
         <translation>显示隐藏文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1232"/>
-        <source>Back</source>
-        <translation>返回</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1235"/>
-        <source>Back to directory</source>
-        <translatorcomment>返回目录</translatorcomment>
-        <translation>返回目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1238"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1268"/>
-        <source>Alt+Left</source>
-        <translation>Alt+Left</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1243"/>
-        <source>Bookmark</source>
-        <translation>书签</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1246"/>
-        <source>Bookmark this directory</source>
-        <translation>添加此目录为书签</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1249"/>
-        <source>Ctrl+D</source>
-        <translation>Ctrl-D</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1254"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="160"/>
         <source>Scan for Devices</source>
         <translation>扫描设备</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1265"/>
-        <source>Back to the system</source>
-        <translation>返回到系统</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1276"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="168"/>
         <source>Manage Bookmarks</source>
         <translation>管理书签</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1290"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="182"/>
         <source>Show Action Buttons</source>
         <translation>显示动作按钮</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1301"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="193"/>
         <source>Load Thumbnails</source>
         <translation>载入缩略图</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1306"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="198"/>
         <source>Search Directory</source>
         <translation>搜索目录</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="1309"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="201"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="56"/>
         <source>Detailed List</source>
         <translation>详细列表</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="73"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="57"/>
         <source>Basic List</source>
         <translation>基本清单</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="74"/>
-        <source>Icons</source>
-        <translation>图标</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="104"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="87"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="105"/>
-        <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="106"/>
-        <source>Ctrl+V</source>
-        <translation>Ctrl + V</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="107"/>
-        <source>Ctrl+X</source>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="58"/>
+        <source>Prefer Tabs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="108"/>
-        <source>Delete</source>
-        <translation>删除</translation>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="59"/>
+        <source>Prefer Columns</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="170"/>
         <source>Invalid Directories</source>
         <translation>无效的目录</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="170"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>以下目录无效，无法打开：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="354"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="278"/>
         <source>Root</source>
         <translation>根</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="360"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="284"/>
         <source>%1 (Type: %2)</source>
         <translatorcomment>%1 (类型：%2)</translatorcomment>
         <translation>%1 (类型：%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="288"/>
         <source>Filesystem: %1</source>
         <translation>文件系统：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="379"/>
-        <source>Invalid Permissions</source>
-        <translation>无效权限</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="379"/>
-        <source>You do not have permission to edit this directory!</source>
-        <translatorcomment>您没有权限编辑所选目录</translatorcomment>
-        <translation>您没有权限编辑所选目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="473"/>
-        <source>Limited Access Directory</source>
-        <translation>有权限访问目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="614"/>
-        <source>Click Play to Start</source>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="442"/>
+        <source>Browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="595"/>
+        <source>Slideshow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="335"/>
         <source>Verify Quit</source>
         <translatorcomment>快速退出</translatorcomment>
         <translation>快速退出</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="335"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translatorcomment>你有多个标签打开。你确定要退出吗？</translatorcomment>
         <translation>你有多个标签打开。你确定要退出吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="807"/>
-        <source>New Bookmark</source>
-        <translation>新建书签</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="807"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="875"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="895"/>
-        <source>Name:</source>
-        <translation>名称：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="812"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
-        <source>Invalid Name</source>
-        <translation>无效名称</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="812"/>
-        <source>This bookmark name already exists. Please choose another.</source>
-        <translation>这个书签名称已存在。请选择另一个。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="875"/>
-        <source>New Directory</source>
-        <translation>新建目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
-        <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translatorcomment>已存在的文件或目录。请选一个不同的名称。</translatorcomment>
-        <translation>已存在的文件或目录。请选一个不同的名称。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="888"/>
-        <source>Error Creating Directory</source>
-        <translation>创建目录时出错</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="888"/>
-        <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation>无法创建目录。请确保您有适当的权限来修改当前目录。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="895"/>
-        <source>New Document</source>
-        <translation>新建文档</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="905"/>
-        <source>Error Creating Document</source>
-        <translation>打开创建文档出错</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="905"/>
-        <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="972"/>
-        <source>Open</source>
-        <translation>打开</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="973"/>
-        <source>Open With...</source>
-        <translation>打开方式...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="975"/>
-        <source>Rename</source>
-        <translation>重命名</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="976"/>
-        <source>View Checksums</source>
-        <translation>文件校验值</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="981"/>
-        <source>Cut Selection</source>
-        <translation>剪切选中部分</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="982"/>
-        <source>Copy Selection</source>
-        <translation>复制选择部分</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="983"/>
-        <source>Paste</source>
-        <translation>粘贴</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="985"/>
-        <source>Delete Selection</source>
-        <translation>删除选择</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="988"/>
-        <source>File Properties</source>
-        <translation>文件属性</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="993"/>
-        <source>Open Terminal here</source>
-        <translation>在此处打开终端</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1019"/>
-        <source>Currently on clipboard:
-%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
-        <source>WARNING: This will permanently delete the file from the system!</source>
-        <translation>警告：这将永久删除系统中的文件！</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1175"/>
-        <source>Success</source>
-        <translation>成功</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1175"/>
-        <source>Successfully restored selection</source>
-        <translation>成功恢复选择</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1202"/>
-        <source>Error Playing File: %1</source>
-        <translatorcomment>播放文件出错：%1</translatorcomment>
-        <translation>播放文件出错：%1 </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1231"/>
-        <source>Finished</source>
-        <translation>完成</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1253"/>
-        <source>Playing:</source>
-        <translation>正在播放：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1259"/>
-        <source>Stopped</source>
-        <translation>停止</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
         <source>Verify Removal</source>
         <translatorcomment>快速移除</translatorcomment>
         <translation>快速移除</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>警告：这将永久删除系统中的文件！</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1084"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1361"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
         <source>Are you sure you want to continue?</source>
         <translation>您确定要继续吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="869"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1009"/>
-        <source>Folders</source>
-        <translation>文件夹</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="869"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1008"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1009"/>
-        <source>Files</source>
-        <translation>文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1008"/>
-        <source>Selected Folders</source>
-        <translation>选择一个文件夹</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
         <source>Rename File</source>
         <translation>重命名文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1388"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
         <source>New Name:</source>
         <translation>新名称：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1402"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
         <source>Overwrite File?</source>
         <translation>覆盖文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1402"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translatorcomment>将替换同名的现有文件。你确定要继续吗？</translatorcomment>
         <translation>将替换同名的现有文件。你确定要继续吗？</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="1590"/>
-        <source>File Checksums</source>
-        <translation>文件校验值</translation>
     </message>
 </context>
 <context>
@@ -1129,42 +675,24 @@ New Location: %2</source>
         <translation type="unfinished">（没有运行视频）</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="117"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="120"/>
         <source>Playing:</source>
         <translation type="unfinished">正在播放：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="123"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="126"/>
         <source>Stopped</source>
         <translation type="unfinished">停止</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="150"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="153"/>
         <source>Error Playing File: %1</source>
         <translation type="unfinished">播放文件出错：%1 </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="161"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="164"/>
         <source>Finished</source>
         <translation type="unfinished">完成</translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="55"/>
-        <source>Directory</source>
-        <translation>目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="57"/>
-        <source>Unknown</source>
-        <translation>未知的</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MimeIconProvider.h" line="59"/>
-        <source>Application</source>
-        <translation>应用程序</translation>
     </message>
 </context>
 <context>
@@ -1190,70 +718,82 @@ New Location: %2</source>
         <translation type="unfinished">顺时针旋转图像文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="133"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="77"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="80"/>
+        <source>Zoom in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="93"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="96"/>
+        <source>Zoom out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="200"/>
         <source>Go to Beginning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="136"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="152"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="225"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="241"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="203"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="292"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="308"/>
         <source>...</source>
         <translation type="unfinished">...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="139"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="206"/>
         <source>Shift+Left</source>
         <translation type="unfinished">Shift+Left</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="149"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="216"/>
         <source>Go to Previous</source>
         <translation type="unfinished">跳至上一个</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="155"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="222"/>
         <source>Left</source>
         <translation type="unfinished">左侧</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="255"/>
         <source>File Name</source>
         <translation type="unfinished">文件名</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="222"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="289"/>
         <source>Go to Next</source>
         <translation type="unfinished">跳至下一个</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="295"/>
         <source>Right</source>
         <translation type="unfinished">右侧</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="238"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="305"/>
         <source>Go to End</source>
         <translation type="unfinished">跳转结束</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="244"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="311"/>
         <source>Shift+Right</source>
         <translation type="unfinished">Shift+Right</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>Verify Removal</source>
         <translation type="unfinished">快速移除</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
         <translation type="unfinished">警告：这将永久删除系统中的文件！</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="113"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>Are you sure you want to continue?</source>
         <translation type="unfinished">您确定要继续吗？</translation>
     </message>
