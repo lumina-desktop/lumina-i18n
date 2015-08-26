@@ -62,122 +62,122 @@
         <translation>Дириктории</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="185"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="225"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="228"/>
         <source>Open item</source>
         <translation>Открыть элемент</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="210"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="213"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="253"/>
         <source>Open item (select application)</source>
         <translation>Открыть элемент (выбрать приложение)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="239"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="242"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="279"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="282"/>
         <source>Add item to personal favorites</source>
         <translation>Добавить элемент в Избранное</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="261"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="301"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="304"/>
         <source>Rename item</source>
         <translation>Переименовать элемент</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="290"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="330"/>
         <source>Cut items</source>
         <translation>Вырезать элементы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="293"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="333"/>
         <source>Cut items (add to the clipboard)</source>
         <translation>Вырезать элементы (добавить в буфер обмена)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="312"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="352"/>
         <source>Copy items</source>
         <translation>Скопировать элементы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="355"/>
         <source>Copy items to the clipboard</source>
         <translation>Скопировать элементы в буфер обмена</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="334"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="337"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="374"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="377"/>
         <source>Paste items from clipboard</source>
         <translation>Вставить из буфера обмена</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="363"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="366"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="403"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="406"/>
         <source>Delete Items</source>
         <translation>Удалить элементы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="410"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="50"/>
         <source>Add selected images to slideshow</source>
         <translation>Добавить выбранные изображения в слайдшоу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="413"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="53"/>
         <source>Slideshow</source>
         <translation>Слайдшоу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="429"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="69"/>
         <source>Enqueue selection in multimedia player</source>
         <translation>Добавить выбранное в проигрыватель мультимедиа</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="432"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="72"/>
         <source>Play</source>
         <translation>Играть</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="453"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="444"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="456"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="459"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="447"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="450"/>
         <source>Go back to previous directory</source>
         <translation>Вернуться к предыдущему каталогу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="467"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="458"/>
         <source>Up</source>
         <translation>Вверх</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="470"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="473"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="461"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="464"/>
         <source>Go to parent directory</source>
         <translation>Перейти в родительский каталог</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="472"/>
         <source>Home</source>
         <translation>Домашний каталог</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="487"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="475"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="478"/>
         <source>Go to home directory</source>
         <translation>Перейти в домашний каталог</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="495"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="486"/>
         <source>Stopl loading the directory</source>
         <translation>Остановить загрузку каталога</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="509"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="497"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="500"/>
         <source>Close this browser</source>
         <translation>Закрыть браузер</translation>
     </message>
@@ -591,12 +591,12 @@ New Location: %2</source>
         <translation>Браузер</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="579"/>
         <source>Multimedia</source>
         <translation>Мультимедиа</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="595"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="597"/>
         <source>Slideshow</source>
         <translation>Слайдшоу</translation>
     </message>
@@ -611,37 +611,37 @@ New Location: %2</source>
         <translation>У вас открыто несколько вкладок. Вы уверены, что хотите выйти?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>Verify Removal</source>
         <translation>Проверка Удаления</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>Внимание: Это навсегда удалит файл(ы) из системы!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>Are you sure you want to continue?</source>
         <translation>Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="738"/>
         <source>Rename File</source>
         <translation>Переименовать файл</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="738"/>
         <source>New Name:</source>
         <translation>Новое Имя:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="752"/>
         <source>Overwrite File?</source>
         <translation>Перезаписать файл?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="752"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Существующий файл с таким именем будет заменен. Вы уверены, что хотите продолжить?</translation>
     </message>
@@ -664,22 +664,22 @@ New Location: %2</source>
         <translation>(видео не запущено)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
         <translation>Воспроизведение:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
         <source>Stopped</source>
         <translation>Остановился</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
         <source>Error Playing File: %1</source>
         <translation>Ошибка воспроизведения файла: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
         <source>Finished</source>
         <translation>Конец</translation>
     </message>

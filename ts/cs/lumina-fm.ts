@@ -62,122 +62,122 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="185"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="225"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="228"/>
         <source>Open item</source>
         <translation type="unfinished">Otevřít položku</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="210"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="213"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="253"/>
         <source>Open item (select application)</source>
         <translation type="unfinished">Otevřít položku (vybrat aplikaci)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="239"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="242"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="279"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="282"/>
         <source>Add item to personal favorites</source>
         <translation type="unfinished">Přidat položku do oblíbených</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="261"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="301"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="304"/>
         <source>Rename item</source>
         <translation type="unfinished">Přejmenovat položku</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="290"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="330"/>
         <source>Cut items</source>
         <translation type="unfinished">Vyjmout položku</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="293"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="333"/>
         <source>Cut items (add to the clipboard)</source>
         <translation type="unfinished">Vyjmout položku (přidat do schránky)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="312"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="352"/>
         <source>Copy items</source>
         <translation type="unfinished">Kopírovat položky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="355"/>
         <source>Copy items to the clipboard</source>
         <translation type="unfinished">Kopírovat položky do schránky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="334"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="337"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="374"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="377"/>
         <source>Paste items from clipboard</source>
         <translation type="unfinished">Vložit položky ze schránky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="363"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="366"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="403"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="406"/>
         <source>Delete Items</source>
         <translation type="unfinished">Smazat položky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="410"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="50"/>
         <source>Add selected images to slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="413"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="53"/>
         <source>Slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="429"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="69"/>
         <source>Enqueue selection in multimedia player</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="432"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="72"/>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="453"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="444"/>
         <source>Back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="456"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="459"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="447"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="450"/>
         <source>Go back to previous directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="467"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="458"/>
         <source>Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="470"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="473"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="461"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="464"/>
         <source>Go to parent directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="472"/>
         <source>Home</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="487"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="475"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="478"/>
         <source>Go to home directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="495"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="486"/>
         <source>Stopl loading the directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="509"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="497"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="500"/>
         <source>Close this browser</source>
         <translation type="unfinished"></translation>
     </message>
@@ -590,12 +590,12 @@ Nové umístění: %2</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="579"/>
         <source>Multimedia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="595"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="597"/>
         <source>Slideshow</source>
         <translation type="unfinished"></translation>
     </message>
@@ -610,37 +610,37 @@ Nové umístění: %2</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>Verify Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="774"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="776"/>
         <source>Are you sure you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="738"/>
         <source>Rename File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="736"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="738"/>
         <source>New Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="752"/>
         <source>Overwrite File?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="750"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="752"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -663,22 +663,22 @@ Nové umístění: %2</translation>
         <translation type="unfinished">(Video neběží)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
         <source>Stopped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
         <source>Error Playing File: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
         <source>Finished</source>
         <translation type="unfinished">Hotovo</translation>
     </message>
