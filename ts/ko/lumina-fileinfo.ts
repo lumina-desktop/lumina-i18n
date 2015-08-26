@@ -145,7 +145,7 @@
         <translation>파일 이름은 &quot;-&quot;로 시작할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="150"/>
         <source>XDG Shortcut</source>
         <translation>XDG 바로 가기</translation>
     </message>
@@ -155,99 +155,99 @@
         <translation>디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
         <source>Binary</source>
         <translation>실행 파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="155"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="157"/>
         <source>Hidden %1</source>
         <translation>숨겨진 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="169"/>
         <source>Read/Write</source>
         <translation>읽기/쓰기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
         <source>Read Only</source>
         <translation>읽기 전용</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="169"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="171"/>
         <source>Write Only</source>
         <translation>쓰기 전용</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="170"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="172"/>
         <source>No Access</source>
         <translation>접근 권한 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="221"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="223"/>
         <source>There are some issues with this file !!!!</source>
         <translation>파일에 문제가 있습니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="222"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
         <translation>이 파일을 사용자가 직접 편집기로 고치거나, 또는 링크나 프로그램 템플릿을 사용하여 처음부터 다시 만드십시요.
 이 과정은 다음 파일을 업데이트합니다:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="363"/>
         <source>Open command</source>
         <translation>명령 열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="256"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="258"/>
         <source>All Files (*)</source>
         <translation>모든 파일 (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="274"/>
         <source>Working Directory</source>
         <translation>작업 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="326"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="341"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="349"/>
         <source>Problem to write to disk</source>
         <translation>디스크 저장 문제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="324"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="326"/>
         <source>We have a problem to write the adapted desktop file to the disk. Can you re-try the modification after solving the issue with the disk ?</source>
         <translation>변경된 데스크탑 파일을 디스크에 저장하는데 문제가 있습니다. 디스크 저장 문제를 해결하고 변경을 다시 시도하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="339"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="347"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="341"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="349"/>
         <source>We have a problem to execute the following command:</source>
         <translation>다음 명령을 실행하는데 문제가 있습니다:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="361"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="363"/>
         <source>Image Files (*.png *.jpg *.bmp)</source>
         <translation>그림 파일 (*.png *.jpg *.bmp)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="372"/>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="389"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="374"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="391"/>
         <source>By modifying this value, you will loose all translated versions</source>
         <translation>이 값으로 변경하면 모든 번역된 버전을 잃어버리게 됩니다</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="373"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="375"/>
         <source>The field: Name is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>이름 항목이 다른 언어들로 번역되었습니다. 계속하면 모든 번역된 버전을 잃어버리게 됩니다</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="390"/>
+        <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="392"/>
         <source>The field: Comment is translated in several other languages. If you want to continue, you will loose all translated versions</source>
         <translation>설명 항목이 다른 언어들로 번역되었습니다. 계속하면 모든 번역된 버전을 잃어버리게 됩니다</translation>
     </message>
