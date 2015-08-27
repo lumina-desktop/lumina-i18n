@@ -125,22 +125,22 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="53"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir dizin oluştur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="56"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Dizin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="66"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir dosya oluştur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="69"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Dosya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="82"/>
@@ -255,68 +255,68 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="163"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="320"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Sınırlı Erişim) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="306"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapasite: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="311"/>
         <source>Files: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalar: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="316"/>
         <source>Dirs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizinler: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="543"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Belge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="543"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="562"/>
         <source>Name:</source>
-        <translation type="unfinished">Ad:</translation>
+        <translation>Ad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="554"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Belge Oluşturmada Hata</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="554"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Belge oluşturulamadı. Lütfen uygun izinlere sahip olduğunuza emin olun.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="562"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Dizin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="572"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">Geçersiz Ad</translation>
+        <translation>Geçersiz Ad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="572"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aynı adda bir dosya ya da dizin zaten mevcut! Lütfen farklı bir ad seçin.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="576"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizin Oluşturmada Hata</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="576"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizin oluşturulamadı. Lütfen geçerli dizinde değişiklik yapmak için uygun izinlere sahip olduğunuza emin olun.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="595"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="687"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Sağlama Toplamları:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="704"/>
