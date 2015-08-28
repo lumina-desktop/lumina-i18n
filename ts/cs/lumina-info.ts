@@ -9,82 +9,92 @@
         <translation>Informace o prostředí Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="59"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="61"/>
         <source>General</source>
         <translation>Obecné</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="77"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="79"/>
         <source>Desktop Version:</source>
         <translation>Verze prostředí:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="97"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="99"/>
         <source>OS Build:</source>
         <translation>Sestavení OS:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="120"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="122"/>
         <source>Qt Version:</source>
         <translation>Verze Qt:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="133"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="188"/>
         <source>Source Repository:</source>
         <translation>Zdroj repozitářů:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="166"/>
-        <source>Documentation:</source>
-        <translation>Dokumentace:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="173"/>
-        <source>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation>&lt;a href=http://wiki.pcbsd.org/index.php/Lumina/10.1.1&quot;&gt;Otevřít v prohlížeči&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="191"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="137"/>
         <source>View Information</source>
         <translation>Zobrazit informace</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="214"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="165"/>
+        <source>Lumina Website:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="172"/>
+        <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="208"/>
+        <source>Report a Bug:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="215"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Open in Web Browser&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="233"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="231"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="250"/>
         <source>Acknowledgements</source>
         <translation>Poděkování</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="249"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="268"/>
         <source>Project Lead:</source>
         <translation>Vedoucí projektu:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="275"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="269"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="288"/>
         <source>Contributors:</source>
         <translation>Přispěli:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="282"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="301"/>
         <source>Sponsors:</source>
         <translation>Sponzoři:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="344"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="363"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Otevřít v prohlížeči&lt;a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="370"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="389"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
