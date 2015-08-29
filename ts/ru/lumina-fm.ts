@@ -325,7 +325,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="766"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Контрольные суммы файла:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="783"/>
