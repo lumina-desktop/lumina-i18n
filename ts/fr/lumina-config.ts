@@ -480,7 +480,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1379"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1389"/>
@@ -689,7 +689,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1207"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1229"/>
         <source>Click to Set</source>
-        <translation type="unfinished">Cliquez pour définir</translation>
+        <translation>Cliquez pour définir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1263"/>
@@ -720,18 +720,18 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
         <source>Select Color</source>
-        <translation type="unfinished">Sélectionner une couleur</translation>
+        <translation>Sélectionner une couleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="720"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur unie : %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="934"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller l&apos;écran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1469"/>
@@ -814,32 +814,32 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1997"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished">%1: Heure format court (1)</translation>
+        <translation>%1: Heure format court (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1998"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished">%1: Heure format long (01)</translation>
+        <translation>%1: Heure format long (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1999"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished">%1: Minutes format court (2)</translation>
+        <translation>%1: Minutes format court (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2000"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished">%1: Minutes format long (02)</translation>
+        <translation>%1: Minutes format long (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2001"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished">%1: Secondes format court (3)</translation>
+        <translation>%1: Secondes format court (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2002"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished">%1: Secondes format long (03)</translation>
+        <translation>%1: Secondes format long (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2003"/>
@@ -849,7 +849,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 : Fuseau horaire</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
@@ -932,7 +932,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="95"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Localisation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="116"/>
@@ -942,17 +942,17 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="133"/>
         <source>Size:</source>
-        <translation type="unfinished">Taille:</translation>
+        <translation>Taille:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="140"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation> pixel(s) épais</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="156"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% longueur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="182"/>
@@ -962,7 +962,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="208"/>
         <source>Appearance</source>
-        <translation type="unfinished">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="226"/>
@@ -977,7 +977,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="254"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="261"/>
@@ -1046,17 +1046,17 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Desktop Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barre de tâche</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceci fournit des raccourcis pour tout dans le dossier bureau - permettant un accès facile à tous vos fichiers/applications favoris.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
         <source>Spacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaceur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
@@ -1081,7 +1081,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Keep track of your battery status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivre le status de votre batterie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
@@ -1106,27 +1106,27 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
         <source>Task Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionnaire de tâches</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
         <source>View and control any running application windows (every application has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir et contrôler toutes les fenêtres d&apos;application en cours d’exécution (chaque application a un bouton)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
         <source>Task Manager (No Groups)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionnaire de tâches (Pas de groupes)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
         <source>View and control any running application windows (every window has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir et contrôler toutes les fenêtres d&apos;application en cours d’exécution (chaque application a un bouton)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="128"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone de notification système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="129"/>
@@ -1207,32 +1207,32 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
         <source>Play through lists of audio files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture des listes de fichiers audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Surveillance du système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivre les statistiques système comme l&apos;utilisation CPU/Mémoire et les températures CPU.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
         <source>Start the default system terminal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lance le terminal par défaut du système.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestionnaire de fichiers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
@@ -1282,17 +1282,17 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
         <source>Custom App</source>
-        <translation type="unfinished"></translation>
+        <translation>Application personnalisée</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
         <source>Start a custom application</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer une application personnalisée</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="271"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="272"/>
@@ -1372,47 +1372,47 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="319"/>
         <source>Secondary Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur secondaire (désactivée)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="320"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternée la couleur pour le thème (plus tamisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="325"/>
         <source>Accent Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur d&apos;Accent</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="326"/>
         <source>Color used for borders or other accents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur utilisée pour les bordures et autres accents.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="331"/>
         <source>Accent Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur d&apos;Accent (Désactivée)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="332"/>
         <source>Color used for borders or other accents (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur utilisée pour les bordures et autres accents (plus tamisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="337"/>
         <source>Highlight Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de surbrillance</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="338"/>
         <source>Color used for highlighting an item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur utilisée pour la surbrillance d&apos;un élément.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="343"/>
         <source>Highlight Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de surbrillance (désactivée)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="344"/>

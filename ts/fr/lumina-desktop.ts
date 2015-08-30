@@ -21,12 +21,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="62"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -34,33 +34,33 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="113"/>
         <source>Increase Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Augmenter la taille</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="114"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuer la taille</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="54"/>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="80"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquer pour définir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer Fichier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner une application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -78,27 +78,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panneau de contrôle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Développement</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Éducation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jeux</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
@@ -113,42 +113,42 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureautique</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Sciences</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitaires</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="79"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Non trié</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="36"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications</translation>
     </message>
 </context>
 <context>
@@ -156,7 +156,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
@@ -209,37 +209,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="29"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="31"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Couper</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="32"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="34"/>
         <source>Increase Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Augmenter la taille des icônes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="35"/>
         <source>Decrease Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuer la taille des icônes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="37"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="40"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés</translation>
     </message>
 </context>
 <context>
@@ -247,12 +247,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer rapidement des applications ou ouvrir des fichiers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
         <source>Start Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrer ici</translation>
     </message>
 </context>
 <context>
@@ -286,7 +286,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="228"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Applications Favorites</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="230"/>
@@ -311,17 +311,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
         <source>Other Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Autres fichiers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="239"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documents</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="242"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers favoris</translation>
     </message>
 </context>
 <context>
@@ -329,27 +329,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="293"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Liste des fenêtres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="354"/>
         <source>Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureau Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="355"/>
         <source>Workspace %1</source>
-        <translation type="unfinished">Espace de travail %1</translation>
+        <translation>Espace de travail %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
         <source>Browse System</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorer le système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="386"/>
@@ -404,7 +404,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
         <source>Launch Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer le Mixeur Audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
@@ -459,17 +459,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
         <source>Restore Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer la fenêtre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="150"/>
         <source>Maximize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximiser la fenêtre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer la fenêtre</translation>
     </message>
 </context>
 <context>
@@ -477,7 +477,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="36"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer rapidement des applications ou ouvrir des fichiers</translation>
     </message>
 </context>
 <context>
@@ -485,27 +485,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Résumé</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>Température CPU:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation CPU:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation Mémoire :</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
@@ -604,37 +604,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paramètres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="29"/>
         <source>Screensaver</source>
-        <translation type="unfinished"></translation>
+        <translation>Économiseur d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="32"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration Ecran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème de fenêtre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="50"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panneau de contrôle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="56"/>
         <source>About Lumina</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos de Lumina</translation>
     </message>
 </context>
 <context>
@@ -642,17 +642,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="14"/>
         <source>System Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options Système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="55"/>
         <source>Log Out</source>
-        <translation type="unfinished">Déconnexion</translation>
+        <translation>Fermer la session</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="71"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Redémarrer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="87"/>
@@ -690,7 +690,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Effacer Fichier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
@@ -709,47 +709,47 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="24"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="27"/>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="65"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications Favorites</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
         <source>Favorite Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoires Favoris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacements</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
         <source>Favorite FIles</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers Favoris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="142"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Applis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>System Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications Système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
@@ -790,7 +790,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="473"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panneau de contrôle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="495"/>
@@ -800,47 +800,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="517"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuration Écran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>
         <source>Application Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparence Application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="561"/>
         <source>Screensaver Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglages Économiseur d’Écran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="603"/>
         <source>About the Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>A propos du bureau Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="288"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="289"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="290"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Développement</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="291"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Éducation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="292"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeux</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="293"/>
@@ -855,22 +855,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="295"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bureautique</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="296"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sciences</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="297"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paramètres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="298"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="299"/>
@@ -880,12 +880,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="300"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="301"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Non Trié</translation>
     </message>
 </context>
 </TS>

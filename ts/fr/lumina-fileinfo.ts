@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fr">
 <context>
     <name>Dialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information Fichier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétés Fichier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriétaire:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupe:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Permissions:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Créé:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: La date à laquelle un fichier est créé peut être plus récente que la date de modification si les permissions du fichier ont été modifiées récemment.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernière Modification:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="122"/>
@@ -96,48 +96,48 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="305"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="312"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="349"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.ui" line="356"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Lumina-fileinfo requires inputs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina-fileinfo nécessite des entrées:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="84"/>
         <source>Example: &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Exemple: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="100"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="110"/>
         <source>Working dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire de Travail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="121"/>
@@ -187,13 +187,14 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="223"/>
         <source>There are some issues with this file !!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a des problèmes avec ce fichier !!!!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="224"/>
         <source>Either you correct this file your self with an editor, or you start from scratch using the link or app template.
 Please note that this process will update the file called:</source>
-        <translation type="unfinished"></translation>
+        <translation>Soit vous corrigez ce fichier vous même avec un éditeur, ou vous recommencez depuis le début en utilisant le lien ou le modèle d&apos;appli.
+Veuillez noter que ce processus mettra à jour le fichier nommé:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/dialog.cpp" line="258"/>
