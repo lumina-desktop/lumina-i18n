@@ -41,22 +41,22 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="165"/>
         <source>Lumina Website:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Web Sitesi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="172"/>
         <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Web tarayıcısında aç&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="208"/>
         <source>Report a Bug:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir Hata Bildir:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Open in Web Browser&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Web Tarayıcısında Aç&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="233"/>
