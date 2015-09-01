@@ -181,7 +181,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation>알 수 없는 바로 가기: %1</translation>
+        <translation>알 수 없는 종류의 바로 가기: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>

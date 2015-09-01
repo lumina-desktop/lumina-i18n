@@ -74,7 +74,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
-        <translation>종료</translation>
+        <translation>닫기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>

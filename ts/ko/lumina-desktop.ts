@@ -133,7 +133,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
         <source>Utility</source>
-        <translation>도구</translation>
+        <translation>유틸리티</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
@@ -273,12 +273,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="126"/>
         <source>Time Zone (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>시간대 (%1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="147"/>
         <source>Use System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 시간 사용</translation>
     </message>
 </context>
 <context>

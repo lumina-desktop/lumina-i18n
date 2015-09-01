@@ -24,7 +24,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation>새로운 색상 선택</translation>
+        <translation>새로운 선택 항목 색상</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
@@ -231,7 +231,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="950"/>
         <source>Specific File Types</source>
-        <translation>특정한 파일 형식</translation>
+        <translation>특정한 파일 종류</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="992"/>
@@ -317,7 +317,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 커서:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>
@@ -332,7 +332,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면 폴더 내용 보기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>
@@ -724,7 +724,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
         <source>Select Color</source>
-        <translation type="unfinished">색상 선택</translation>
+        <translation>색상 선택</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
@@ -908,12 +908,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation>%1: 두 자리 숫자로 된 해 (15)</translation>
+        <translation>%1: 2자리 숫자로 된 해 (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation>%1: 네 자리 숫자로 된 해 (2015)</translation>
+        <translation>%1: 4자리 숫자로 된 해 (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
