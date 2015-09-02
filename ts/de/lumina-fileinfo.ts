@@ -6,192 +6,192 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished">Datei-Informationen</translation>
+        <translation>Datei-Informationen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished">Datei-Eigenschaften</translation>
+        <translation>Datei-Eigenschaften</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished">Eigentümer:</translation>
+        <translation>Eigentümer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished">Gruppe:</translation>
+        <translation>Gruppe:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished">Zugriffsrechte:</translation>
+        <translation>Berechtigungen:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished">Erzeugt am:</translation>
+        <translation>Erstellt am:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished">Hinweis: Der Zeitpunkt an dem eine Datei erstellt wurde, kann ein früherer Zeitpunkt sein, als der Zeitpunkt der letzten Änderung der Datei, wenn die Zugriffsrechte vor kurzem geändert wurden.</translation>
+        <translation>Hinweis: Der Zeitpunkt an dem eine Datei erstellt wurde, kann ein früherer Zeitpunkt sein, als der Zeitpunkt der letzten Änderung der Datei, wenn die Zugriffsrechte vor kurzem geändert wurden.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished">Zuletzt geändert:</translation>
+        <translation>Zuletzt geändert:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
         <source>MimeType:</source>
-        <translation type="unfinished">MIME-Typ:</translation>
+        <translation>MIME-Typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
         <source>File Size:</source>
-        <translation type="unfinished">Dateigröße:</translation>
+        <translation>Dateigröße:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished">Tastenkürzel bearbeiten</translation>
+        <translation>Tastenkürzel bearbeiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
         <source>Working Dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsordner:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Use startup notification</source>
-        <translation type="unfinished">Visuelle Rückmeldung über Programmstart geben</translation>
+        <translation>Visuelle Rückmeldung über Programmstart geben</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
         <source>Icon:</source>
-        <translation type="unfinished">Symbol:</translation>
+        <translation>Symbol:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
         <source>Command:</source>
-        <translation type="unfinished">Befehl:</translation>
+        <translation>Befehl:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
         <source>Comment:</source>
-        <translation type="unfinished">Kommentar:</translation>
+        <translation>Kommentar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
         <source>Run in terminal</source>
-        <translation type="unfinished">Im Terminal ausführen</translation>
+        <translation>Im Terminal ausführen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
         <source>Options</source>
-        <translation type="unfinished">Optionen</translation>
+        <translation>Optionen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
         <source>No Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Symbol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="56"/>
         <source>Read/Write</source>
-        <translation type="unfinished">Lesen/Schreiben</translation>
+        <translation>Lesen/Schreiben</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="57"/>
         <source>Read Only</source>
-        <translation type="unfinished">Nur lesen</translation>
+        <translation>Nur lesen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="58"/>
         <source>Write Only</source>
-        <translation type="unfinished">Nur schreiben</translation>
+        <translation>Nur schreiben</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="59"/>
         <source>No Access</source>
-        <translation type="unfinished">Kein Zugriff</translation>
+        <translation>Kein Zugriff</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished">XDG Tastenkürzel</translation>
+        <translation>XDG Tastenkürzel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
         <source>Directory</source>
-        <translation type="unfinished">Verzeichnis</translation>
+        <translation>Verzeichnis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
         <source>Binary</source>
-        <translation type="unfinished">Programmdatei</translation>
+        <translation>Programmdatei</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="67"/>
         <source>Hidden %1</source>
-        <translation type="unfinished">%1 ausgeblendet</translation>
+        <translation>ausgeblendet %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="94"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse (URL):</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="188"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmdatei auswählen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="191"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="191"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Auswahl: keine gültige ausführbare Datei</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="203"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle ein Verzeichnis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="216"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle ein Symbol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="216"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder (%1);; Alle Dateien (*)</translation>
     </message>
 </context>
 </TS>
