@@ -125,22 +125,22 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="53"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear nuevo directorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="56"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Directorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="66"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear un archivo nuevo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="69"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Archivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="82"/>
@@ -254,68 +254,68 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="174"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Acceso Limitado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="386"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Capacidad: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="391"/>
         <source>Files: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="396"/>
         <source>Dirs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Directorios: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="625"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Documento</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="625"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="644"/>
         <source>Name:</source>
-        <translation type="unfinished">Nombre:</translation>
+        <translation>Nombre:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="636"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Error Al Crear El Documento</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="636"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento no pudo ser creado. Por favor, asegúrese de tener los permisos requeridos.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="644"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Directorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="654"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">Nombre Inválido</translation>
+        <translation>Nombre No Válido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="654"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un archivo o directorio con ese nombre ya existe! Por favor use un nombre diferente.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="658"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al Crear el Directorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="658"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>EL directorio no pudo ser creado. Por favor asegúrese de tener los permisos requeridos para modificar el directorio actual.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="677"/>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="770"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suma de Verificación del Archivo:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
