@@ -323,67 +323,67 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="772"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>File Checksums:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="789"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="793"/>
         <source>Missing Utility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="789"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="793"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Open</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="808"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="812"/>
         <source>Open With...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="810"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="814"/>
         <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="815"/>
         <source>View Checksums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="815"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="819"/>
         <source>Cut Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="816"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="820"/>
         <source>Copy Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
         <source>Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="819"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="823"/>
         <source>Delete Selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="822"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="826"/>
         <source>File Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="829"/>
         <source>Open Terminal here</source>
         <translation type="unfinished"></translation>
     </message>
@@ -411,62 +411,62 @@
         <translation>Arvutamine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="119"/>
         <source>Overwrite Files?</source>
         <translation>Kas kirjutada failid üle?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="119"/>
         <source>Do you want to overwrite the existing files?</source>
         <translation>Kas soovid need failid üle kirjutada?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="111"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="119"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation>Märkus: vastasel juhul lisatakse failinimele arv.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="136"/>
         <source>Removing: %1</source>
         <translation>Eemaldamine: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="137"/>
         <source>Copying: %1 to %2</source>
         <translation>Kopeerimine: %1 asukohta %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="138"/>
         <source>Restoring: %1 as %2</source>
         <translation>Taastamine: %1 asukohta %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="139"/>
         <source>Moving: %1 to %2</source>
         <translation>Liigutamine: %1 asukohta %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="152"/>
         <source>Could not remove these files:</source>
         <translation>Neid faile ei õnnestunud eemaldada:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="153"/>
         <source>Could not copy these files:</source>
         <translation>Neid faile ei õnnestunud kopeerida:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="154"/>
         <source>Could not restore these files:</source>
         <translation>Neid faile ei õnnestunud taastada:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="155"/>
         <source>Could not move these files:</source>
         <translation>Neid faile ei õnnestunud liigutada:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="156"/>
         <source>File Errors</source>
         <translation>Faili vead</translation>
     </message>
@@ -474,12 +474,12 @@
 <context>
     <name>FOWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="297"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="305"/>
         <source>Invalid Move</source>
         <translation>Vigane liigutamine</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="297"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="305"/>
         <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
 
 Old Location: %1
