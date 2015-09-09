@@ -119,79 +119,101 @@
         <translation>Schließen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="56"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
+        <source>---Calculating---</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="62"/>
         <source>Read/Write</source>
         <translation>Lesen/Schreiben</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="57"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
         <source>Read Only</source>
         <translation>Nur lesen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="58"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
         <source>Write Only</source>
         <translation>Nur schreiben</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="59"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
         <source>No Access</source>
         <translation>Kein Zugriff</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>XDG Shortcut</source>
         <translation>XDG Tastenkürzel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="70"/>
         <source>Directory</source>
         <translation>Verzeichnis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="71"/>
         <source>Binary</source>
         <translation>Programmdatei</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="67"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="73"/>
         <source>Hidden %1</source>
         <translation>ausgeblendet %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="100"/>
         <source>URL:</source>
         <translation>Adresse (URL):</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="188"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
         <source>Select a binary</source>
         <translation>Programmdatei auswählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="191"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Invalid selection: Not a valid executable</source>
         <translation>Ungültige Auswahl: keine gültige ausführbare Datei</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="203"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
         <source>Select a directory</source>
         <translation>Wähle ein Verzeichnis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="216"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Select an icon</source>
         <translation>Wähle ein Symbol</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="216"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Images (%1);; All Files (*)</source>
         <translation>Bilder (%1);; Alle Dateien (*)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <source> Folders: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <source>Files: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <source>  Calculating...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
