@@ -1048,378 +1048,388 @@ Current keyboard bindings will also be ignored.</source>
         <translation>사용자의 주 시스템 접근 버튼 (프로그램, 디렉터리, 설정, 로그 아웃).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
         <source>Desktop Bar</source>
         <translation>바탕 화면 줄</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
         <translation>사용자의 자주 사용하는 파일과 프로그램에 쉽게 접근할 수 있게 하기 위해 바탕 화면 폴더에 있는 모든 것의 바로 가기를 제공.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="86"/>
         <source>Spacer</source>
         <translation>구분선</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="87"/>
         <source>Invisible spacer to separate plugins.</source>
         <translation>각 플러그인을 구분하기 위한 보이지 않는 구분선.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="86"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Desktop Switcher</source>
         <translation>바탕 화면 바꾸기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="87"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>여러 가상 바탕 화면 사이를 전환하기 위한 제어.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Battery Monitor</source>
         <translation>배터리 감시기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="101"/>
         <source>Keep track of your battery status.</source>
         <translation>사용자의 배터리 상태를 추적.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
         <source>Time/Date</source>
         <translation>시간/날짜</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="108"/>
         <source>View the current time and date.</source>
         <translation>현재 시간과 날짜를 보여줌.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
         <source>System Dashboard</source>
         <translation>시스템 대시보드</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="108"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
         <translation>시스템 설정을 보거나 바꿈 (오디오 볼륨, 화면 밝기, 배터리 수명, 가상 바탕 화면).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
         <source>Task Manager</source>
         <translation>작업 관리자</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
         <source>View and control any running application windows (every application has a button)</source>
         <translation>실행 중인 모든 프로그램 창을 확인하고 제어 (각 프로그램은 버튼이 있음)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="128"/>
         <source>Task Manager (No Groups)</source>
         <translation>작업 관리자 (그룹 없음)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="129"/>
         <source>View and control any running application windows (every window has a button)</source>
         <translation>실행 중인 모든 프로그램 창을 확인하고 제어 (각 창은 버튼이 있음)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="135"/>
         <source>System Tray</source>
         <translation>시스템 트레이</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="136"/>
         <source>Display area for dockable system applications</source>
         <translation>도킹할 수 있는 시스템 프로그램을 보여주는 공간</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="135"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>Home Button</source>
         <translation>홈 버튼</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="136"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>모든 열린 창을 숨기고 바탕 화면 표시</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
         <source>Start Menu</source>
         <translation>시작 메뉴</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
         <source>This provides instant-access to application that are installed on the system.</source>
         <translation>시스템에 설치된 프로그램에 즉시 접근.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="160"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="167"/>
         <source>Calendar</source>
         <translation>달력</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="161"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="168"/>
         <source>Display a calendar on the desktop</source>
         <translation>바탕 화면에 달력 표시</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="156"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
         <source>Application Launcher</source>
         <translation>프로그램 실행기</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
+        <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
+        <source>Unified system access and application launch menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
         <source>Pin an application shortcut directly to the panel</source>
         <translation>패널에 프로그램 바로 가기를 직접 설치</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="175"/>
         <source>Desktop button for launching an application</source>
         <translation>프로그램을 실행하기 위한 바탕 화면 버튼</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="181"/>
         <source>Desktop Icons View</source>
         <translation>바탕 화면 아이콘 보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="175"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>바탕 화면 아이콘을 자동적으로 보여주는 곳</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="181"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
         <source>Note Pad</source>
         <translation>메모장</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
         <source>Keep simple text notes on your desktop</source>
         <translation>간단한 쪽지를 사용자의 바탕 화면에 붙이기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
         <source>Audio Player</source>
         <translation>오디오 재생기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
         <source>Play through lists of audio files</source>
         <translation>오디오 파일 목록을 재생</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="202"/>
         <source>System Monitor</source>
         <translation>시스템 감시</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="203"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
         <translation>CPU와 메모리 사용량과 CPU 온도와 같은 시스템 통계를 추적.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>Terminal</source>
         <translation>터미널</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Start the default system terminal.</source>
         <translation>기본 시스템 터미널을 시작.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>File Manager</source>
         <translation>파일 관리자</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
         <source>Browse the system with the default file manager.</source>
         <translation>기본 파일 관리자로 시스템을 돌아보기.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Applications</source>
         <translation>프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
         <source>Show the system applications menu.</source>
         <translation>시스템 프로그램 메뉴 보기.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
         <source>Separator</source>
         <translation>구분선</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
         <source>Static horizontal line.</source>
         <translation>고정된 수평선.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="253"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="254"/>
         <source>Show the desktop settings menu.</source>
         <translation>바탕 화면 설정 메뉴 보기.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="253"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
         <source>Window List</source>
         <translation>창 목록</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="254"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
         <source>List the open application windows</source>
         <translation>열린 프로그램 창 목록</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="267"/>
         <source>Custom App</source>
         <translation>사용자 지정 프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="268"/>
         <source>Start a custom application</source>
         <translation>사용자 지정 프로그램 시작</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="278"/>
         <source>Text</source>
         <translation>문자열</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="279"/>
         <source>Color to use for all visible text.</source>
         <translation>보이는 모든 문자열 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="284"/>
         <source>Text (Disabled)</source>
         <translation>문자열 (비활성)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="278"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="285"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>비활성화된 아이템을 위한 문자열 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="283"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
         <source>Text (Highlighted)</source>
         <translation>문자열 (강조됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="284"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="291"/>
         <source>Text color when selection is highlighted.</source>
         <translation>선택이 강조된 문자열 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="289"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="296"/>
         <source>Base Window Color</source>
         <translation>기본 창 색상</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="297"/>
         <source>Main background color for the window/dialog.</source>
         <translation>창과 대화창을 위한 주 바탕색.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="295"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="302"/>
         <source>Base Window Color (Alternate)</source>
         <translation>기본 창 색상 (대체)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="303"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation>아이템의 목록을 보여주는 위젯을 위한 바탕색.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="301"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="308"/>
         <source>Primary Color</source>
         <translation>기본 색상</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="302"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="309"/>
         <source>Dominant color for the theme.</source>
         <translation>테마의 주로 사용되는 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="307"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="314"/>
         <source>Primary Color (Disabled)</source>
         <translation>기본 색상 (비활성화)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="308"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="315"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>테마의 주로 사용되는 색상 (좀 더 억제됨).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="313"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="320"/>
         <source>Secondary Color</source>
         <translation>보조 색상</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="314"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="321"/>
         <source>Alternate color for the theme.</source>
         <translation>테마의 대체 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="319"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="326"/>
         <source>Secondary Color (Disabled)</source>
         <translation>보조 색상 (비활성화)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="320"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="327"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>테마의 대체 색상 (좀 더 억제됨).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="325"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="332"/>
         <source>Accent Color</source>
         <translation>강조색</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="326"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="333"/>
         <source>Color used for borders or other accents.</source>
         <translation>경계선이나 다른 강조점에 사용되는 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="331"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="338"/>
         <source>Accent Color (Disabled)</source>
         <translation>강조색 (비활성화)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="332"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="339"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>경계선이나 다른 강조점에 사용되는 색상 (좀 더 억제됨).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="344"/>
         <source>Highlight Color</source>
         <translation>강조색</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="345"/>
         <source>Color used for highlighting an item.</source>
         <translation>아이템을 강조할 때 사용되는 색상.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="343"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="350"/>
         <source>Highlight Color (Disabled)</source>
         <translation>강조색 (비활성화)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="344"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="351"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>아이템을 강조할 때 사용되는 색상 (좀 더 억제됨).</translation>
     </message>

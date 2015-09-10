@@ -1044,378 +1044,388 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>Dies ist der Hauptbutton für den Benutzer (Programme, Verzeichnisse, Einstellungen, Logout).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
         <source>Desktop Bar</source>
         <translation>Schreibtischleiste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
         <translation>Dies bietet Verknüpfungen zu allem was auf dem Schreibtisch liegt - ermöglicht einfachen Zugang zu all Ihren favorisierten Dateien/Anwendungen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="86"/>
         <source>Spacer</source>
         <translation>Abstand</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="87"/>
         <source>Invisible spacer to separate plugins.</source>
         <translation>Unsichtbarer Abstandshalter zu seperaten Plugins.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="86"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Desktop Switcher</source>
         <translation>Arbeitsflächenumschalter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="87"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Steuerung zum Wechseln zwischen den verschieden virtuellen Arbeitsflächen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Battery Monitor</source>
         <translation>Akku-Überwachung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="101"/>
         <source>Keep track of your battery status.</source>
         <translation>Übersicht über den Status Ihres Akkus behalten.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
         <source>Time/Date</source>
         <translation>Zeit/Datum</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="101"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="108"/>
         <source>View the current time and date.</source>
         <translation>Aktuelle Zeit und Datum anzeigen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="107"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
         <source>System Dashboard</source>
         <translation>Übersichtsseite des Systems</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="108"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
         <translation>Zeigen oder Ändern der Einstellungen des Systems (Lautstärke, Bildschirmhelligkeit, Akkuzustand, virtuelle Arbeitsflächen).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="114"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
         <source>Task Manager</source>
         <translation>Prozeßverwaltung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="115"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
         <source>View and control any running application windows (every application has a button)</source>
         <translation>Zeige und kontrolliere jedes laufende Anwendungsfenster (jedes Programm hat einen Button)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="128"/>
         <source>Task Manager (No Groups)</source>
         <translation>Prozessverwaltung (keine Gruppen)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="129"/>
         <source>View and control any running application windows (every window has a button)</source>
         <translation>Zeige und kontrolliere jedes laufende Anwendungsfenster (jedes Programm hat einen Button) </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="135"/>
         <source>System Tray</source>
         <translation>Benachrichtigungsfeld</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="136"/>
         <source>Display area for dockable system applications</source>
         <translation>Fläche zum Anzeigen der anknüpfbaren System-Anwendungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="135"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>Home Button</source>
         <translation>Homebutton</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="136"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Verstecke alle offenen Fenster und zeige Schreibtisch</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
         <source>Start Menu</source>
         <translation>Startmenü</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
         <source>This provides instant-access to application that are installed on the system.</source>
         <translation>Dies bietet Sofortzugriff zu Anwendungen, die auf dem System installiert sind.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="160"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="167"/>
         <source>Calendar</source>
         <translation>Kalender</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="161"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="168"/>
         <source>Display a calendar on the desktop</source>
         <translation>Anzeigen eines Kalenders auf der Arbeitsfläche</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="156"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
         <source>Application Launcher</source>
         <translation>Anwendungsstarter</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
+        <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
+        <source>Unified system access and application launch menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
         <source>Pin an application shortcut directly to the panel</source>
         <translation>Pinne Anwendungs-Verknüpfung direkt an die Seitenleiste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="168"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="175"/>
         <source>Desktop button for launching an application</source>
         <translation>Schaltfläche auf dem Schreibtisch für das Starten einer Anwendung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="181"/>
         <source>Desktop Icons View</source>
         <translation>Zeige Schreibtisch Icons</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="175"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>Bereich für das automatische Zeigen von Symbolen der Arbeitsfläche</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="181"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
         <source>Note Pad</source>
         <translation>Notizbuch</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
         <source>Keep simple text notes on your desktop</source>
         <translation>Behalte einfache Notizen auf dem Schreibtisch</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
         <source>Audio Player</source>
         <translation>Audio-Wiedergabe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
         <source>Play through lists of audio files</source>
         <translation>Spiele Audio-Dateilisten ab</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="202"/>
         <source>System Monitor</source>
         <translation>Systemmonitor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="203"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
         <translation>Beobachte Systemstatistiken wie etwa Prozessor/Speicher und Temperaturen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="218"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
         <source>Terminal</source>
         <translation>Konsole</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="219"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Start the default system terminal.</source>
         <translation>Starte Standard-Terminal.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>File Manager</source>
         <translation>Dateiverwaltung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
         <source>Browse the system with the default file manager.</source>
         <translation>Durchstöbern des Systems mit dem Standard Dateimanager.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Applications</source>
         <translation>Anwendungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
         <source>Show the system applications menu.</source>
         <translation>Zeige Menü der System Anwendungen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
         <source>Separator</source>
         <translation>Trennelement</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
         <source>Static horizontal line.</source>
         <translation>Statische horizontale Linie.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="253"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="254"/>
         <source>Show the desktop settings menu.</source>
         <translation>Arbeitsplatzeinstellungsmenü anzeigen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="253"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
         <source>Window List</source>
         <translation>Fensterliste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="254"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
         <source>List the open application windows</source>
         <translation>Liste der offenen Anwendungsfenster</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="267"/>
         <source>Custom App</source>
         <translation>Angepasste Anwendung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="268"/>
         <source>Start a custom application</source>
         <translation>Starten einer angepassten Anwendung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="278"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="279"/>
         <source>Color to use for all visible text.</source>
         <translation>Farbe für alle sichtbaren Texte.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="284"/>
         <source>Text (Disabled)</source>
         <translation>Text (abgeschaltet)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="278"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="285"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>Textfarbe für ausgeschalteten oder inaktiven Text.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="283"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
         <source>Text (Highlighted)</source>
         <translation>Text (hervorgehoben)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="284"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="291"/>
         <source>Text color when selection is highlighted.</source>
         <translation>Textfarbe wenn die Auswahl hervorgehoben ist.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="289"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="296"/>
         <source>Base Window Color</source>
         <translation>Basisfarbe des Fensters</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="290"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="297"/>
         <source>Main background color for the window/dialog.</source>
         <translation>Hauptsächliche Hintergrundfarbe für das Fenster / den Dialog.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="295"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="302"/>
         <source>Base Window Color (Alternate)</source>
         <translation>Basisfarbe des Fensters (Alternativ)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="303"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation>Haupt-Hintergrundfarbe für Widgets die Kollektionen von Gegenständen anzeigen oder darstellen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="301"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="308"/>
         <source>Primary Color</source>
         <translation>Primärfarbe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="302"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="309"/>
         <source>Dominant color for the theme.</source>
         <translation>Dominante Farbe für das Theme.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="307"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="314"/>
         <source>Primary Color (Disabled)</source>
         <translation>Primärfarbe (deaktiviert)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="308"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="315"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>Dominante Farben für das Theme (dezenter)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="313"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="320"/>
         <source>Secondary Color</source>
         <translation>Sekundärfarbe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="314"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="321"/>
         <source>Alternate color for the theme.</source>
         <translation>Alternative Farbe für das Theme.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="319"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="326"/>
         <source>Secondary Color (Disabled)</source>
         <translation>Sekundärfarben (deaktiviert)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="320"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="327"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>Alternative Farbe für das Theme (dezenter)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="325"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="332"/>
         <source>Accent Color</source>
         <translation>Akzentfarbe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="326"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="333"/>
         <source>Color used for borders or other accents.</source>
         <translation>Farbe, die für Grenzen oder andere Akzente genutzt wird.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="331"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="338"/>
         <source>Accent Color (Disabled)</source>
         <translation>Akzentfarbe (Deaktiviert)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="332"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="339"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>Farbe, die für Grenzen oder andere Akzente genutzt wird (dezenter).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="344"/>
         <source>Highlight Color</source>
         <translation>Hervorhebungsfarbe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="338"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="345"/>
         <source>Color used for highlighting an item.</source>
         <translation>Farbe, die für das Hervorheben eines Elementes genutzt wird.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="343"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="350"/>
         <source>Highlight Color (Disabled)</source>
         <translation>Hervorhebungsfarbe (Abgeschaltet)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="344"/>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="351"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>Farbe, die für das Hervorheben eines Elementes genutzt wird (dezenter).</translation>
     </message>
