@@ -171,95 +171,95 @@ Current keyboard bindings will also be ignored.</source>
         <translation>매 </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1620"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1637"/>
         <source>Appearance</source>
         <translation>모양</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="921"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="931"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="938"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="948"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="662"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="679"/>
         <source>Action</source>
         <translatorcomment>This needs context.  Is the user taking action?</translatorcomment>
         <translation>동작</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="667"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="684"/>
         <source>Keyboard Shortcut</source>
         <translation>키보드 단축키</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="690"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="707"/>
         <source>Clear Shortcut</source>
         <translatorcomment>I assume &quot;shortcut&quot; is the keyboard shortcut.</translatorcomment>
         <translation>단축기 지우기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="713"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="730"/>
         <source>Change Shortcut</source>
         <translation>단축키 바꾸기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="738"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="755"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
         <translation>주의: 현재 단축키들이 해제되고 저장되어야 다시 사용 가능합니다.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="851"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="868"/>
         <source>Web Browser:</source>
         <translation>웹 브라우저:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="874"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="891"/>
         <source>E-Mail Client:</source>
         <translation>이메일 클라이언트:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="901"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="918"/>
         <source>File Manager:</source>
         <translation>파일 관리자:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="914"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="931"/>
         <source>Virtual Terminal:</source>
         <translation>가상 터미널:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="950"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="967"/>
         <source>Specific File Types</source>
         <translation>특정한 파일 종류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="992"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1009"/>
         <source>Default Application</source>
         <translation>기본 프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="997"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1014"/>
         <source>Description</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1007"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1024"/>
         <source>Clear</source>
         <translation>지우기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1030"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1047"/>
         <source>Set App</source>
         <translation>프로그램 설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1040"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1057"/>
         <source>Set Binary</source>
         <translation>실행 파일 설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="281"/>
         <source>Theme</source>
         <translation>테마</translation>
     </message>
@@ -269,659 +269,699 @@ Current keyboard bindings will also be ignored.</source>
         <translation>배경 그림</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="270"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="231"/>
+        <source>Layout:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="287"/>
         <source>Font:</source>
         <translation>글꼴:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="284"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="301"/>
         <source>Font Size:</source>
         <translation>글꼴 크기:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="291"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="308"/>
         <source> point</source>
         <translation> 포인트</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="298"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="315"/>
         <source>Theme Template:</source>
         <translation>테마 템플릿:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="314"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="331"/>
         <source>Create/Edit a theme template (Advanced)</source>
         <translation>테마 템플릿 제작과 편집 (고급)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="320"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="354"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="337"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="371"/>
         <source>Edit</source>
         <translation>편집</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="332"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="349"/>
         <source>Color Scheme:</source>
         <translation>색상 구성표:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="348"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="365"/>
         <source>Create/Edit a color scheme</source>
         <translation>색상 구성 제작과 편집</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="366"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="383"/>
         <source>Icon Pack:</source>
         <translation>아이콘 모음:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="376"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="393"/>
         <source>Mouse Cursors:</source>
         <translation>마우스 커서:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="443"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="460"/>
         <source>Quick-Access Menu</source>
         <translation>빨리 열기 메뉴</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="466"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="483"/>
         <source>Embedded Utilities</source>
         <translation>내장된 도구</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="565"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="582"/>
         <source>Display Desktop Folder Contents</source>
         <translation>바탕 화면 폴더 내용 보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="759"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="776"/>
         <source>Auto-Started</source>
         <translation>자동 실행됨</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="780"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="797"/>
         <source>Application</source>
         <translation>프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="790"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="807"/>
         <source>Binary</source>
         <translation>실행 파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="800"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="817"/>
         <source>File</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="820"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="837"/>
         <source>File Defaults</source>
         <translation>파일 기본값</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="987"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1004"/>
         <source>Type/Group</source>
         <translation>종류/그룹</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1072"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1089"/>
         <source>General Options</source>
         <translation>일반적인 설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1080"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1097"/>
         <source>Enable numlock on startup</source>
         <translation>시작할 때 NumLock 사용</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1087"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1104"/>
         <source>Play chimes on startup</source>
         <translation>시작할 때 시작음 재생</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1094"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1111"/>
         <source>Play chimes on exit</source>
         <translation>종료할 때 종료음 재생</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1103"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1120"/>
         <source>Change User Icon</source>
         <translation>사용자 아이콘 변경</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1196"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1213"/>
         <source>Time Format:</source>
         <translation>시간 형식:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1208"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1252"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1225"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1269"/>
         <source>View format codes</source>
         <translation>형식 코드 보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1240"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1257"/>
         <source>Date Format:</source>
         <translation>날짜 형식:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1223"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1267"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1240"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1284"/>
         <source>Sample:</source>
         <translation>예:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1139"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1156"/>
         <source>Reset Desktop Settings</source>
         <translation>바탕 화면 재설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1158"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1175"/>
         <source>Return to system defaults</source>
         <translation>시스템 기본값으로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1165"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1182"/>
         <source>Return to Lumina defaults</source>
         <translation>루미나 기본값으로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1653"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1670"/>
         <source>Applications</source>
         <translation>프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1656"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1673"/>
         <source>Application Management</source>
         <translation>프로그램 관리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1414"/>
         <source>Window System</source>
         <translation>윈도우 시스템</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1287"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1304"/>
         <source>Display Format</source>
         <translation>형식 표시</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1313"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1330"/>
         <source>Locale</source>
         <translation>로캘</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1319"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1336"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1329"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1346"/>
         <source>Messages</source>
         <translation>메시지</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1339"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1356"/>
         <source>Time</source>
         <translation>시간</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1349"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1366"/>
         <source>Numeric</source>
         <translation>숫자</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1359"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1376"/>
         <source>Monetary</source>
         <translation>통화</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1369"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1386"/>
         <source>Collate</source>
         <translation>정렬</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1379"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1396"/>
         <source>CType</source>
         <translation>CType</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1389"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1406"/>
         <source>System localization settings (restart required)</source>
         <translation>시스템 지역화 설정 (재시동 필요)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1405"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1422"/>
         <source>Number of Workspaces</source>
         <translation>작업 공간 수</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1422"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1439"/>
         <source>New Window Placement</source>
         <translation>새로운 창 위치</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1432"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1449"/>
         <source>Focus Policy</source>
         <translation>포커스 정책</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1442"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1459"/>
         <source>Window Theme</source>
         <translation>창 테마</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1460"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1477"/>
         <source>Window Theme Preview</source>
         <translation>창 테마 미리 보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1514"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1865"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1531"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1856"/>
         <source>No Preview Available</source>
         <translation>미리 보기 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1560"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1577"/>
         <source>Save Changes</source>
         <translation>바뀐 사항 저장</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1563"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1580"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1609"/>
         <source>toolBar</source>
         <translation>툴바</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1631"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1648"/>
         <source>Interface</source>
         <translation>인터페이스</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1634"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1651"/>
         <source>Interface Configuration</source>
         <translation>인터페이스 구성</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="431"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="448"/>
         <source>Desktop</source>
         <translation>바탕 화면</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1623"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1640"/>
         <source>Desktop Appearance</source>
         <translation>바탕 화면 모양</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="573"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="590"/>
         <source>Panels</source>
         <translation>패널</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1642"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1659"/>
         <source>Session</source>
         <translation>세션</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1645"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1662"/>
         <source>Session Options</source>
         <translation>세션 설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1664"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1681"/>
         <source>Shortcuts</source>
         <translation>단축키</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1667"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1684"/>
         <source>Keyboard Shortcuts</source>
         <translation>키보드 단축키</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Click To Focus</source>
         <translation>활성화하기 위해 누름</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Active Mouse Focus</source>
         <translation>활성화된 마우스 초점</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Strict Mouse Focus</source>
         <translation>엄격한 마우스 초점</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="223"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
         <source>Align in a Row</source>
         <translation>열에 맞추기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
         <source>Align in a Column</source>
         <translation>행에 맞추기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
         <source>Cascade</source>
         <translation>계단식 배열</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
         <source>Underneath Mouse</source>
         <translation>마우스 아래</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="425"/>
         <source>Save Changes?</source>
         <translation>변경 사항을 저장하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="436"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="425"/>
         <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
         <translation>현재 화면의 저장되지 않은 변경 사항이 있습니다. 먼저 저장하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="274"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="465"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="263"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="454"/>
         <source>System Default</source>
         <translation>시스템 기본값</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="475"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="464"/>
         <source>Screen Resolution:</source>
         <translation>화면 해상도:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="646"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="637"/>
         <source>No Background</source>
         <translation>배경 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="646"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="637"/>
         <source>(use system default)</source>
         <translation>(시스템 기본값 사용)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="663"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="654"/>
         <source>File does not exist</source>
         <translation>파일이 없습니다</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="700"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="691"/>
         <source>Find Background Image(s)</source>
         <translation>배경 그림 찾기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="931"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="922"/>
         <source>Audio Volume Up</source>
         <translation>오디오 볼륨 올리기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="932"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="923"/>
         <source>Audio Volume Down</source>
         <translation>오디오 볼륨 내리기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="933"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="924"/>
         <source>Screen Brightness Up</source>
         <translation>화면 밝기 올리기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="934"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="925"/>
         <source>Screen Brightness Down</source>
         <translation>화면 밝기 내리기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="935"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="926"/>
         <source>Take Screenshot</source>
         <translation>스크린샷 찍기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1042"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1073"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1105"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1136"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1165"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1187"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1209"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1231"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1033"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1064"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1096"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1127"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1156"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1178"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1200"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1222"/>
         <source>Click to Set</source>
         <translation>설정하기 위해 누름</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1265"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1256"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="236"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="237"/>
         <source>Time (Date as tooltip)</source>
         <translation>시간 (날짜는 툴팁으로)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="237"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="238"/>
         <source>Date (Time as tooltip)</source>
         <translation>날짜 (시간은 툴팁으로)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="238"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
         <source>Time first then Date</source>
         <translation>시간 다음 날짜</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="240"/>
         <source>Date first then Time</source>
         <translation>날짜 다음 시간</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="305"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="306"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="250"/>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
+        <source>Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
+        <source>Center</source>
+        <translation type="unfinished">가운데</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="253"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="255"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="256"/>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="295"/>
         <source>Select Color</source>
         <translation>색상 선택</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="466"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="720"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="455"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="711"/>
         <source>Solid Color: %1</source>
         <translation>단색: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="936"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="927"/>
         <source>Lock Screen</source>
         <translation>화면 잠그기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1471"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1823"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1462"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1814"/>
         <source>Select Binary</source>
         <translation>실행 파일 선택</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1478"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1826"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1469"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1817"/>
         <source>Invalid Binary</source>
         <translation>잘못된 실행 파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1478"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1469"/>
         <source>The selected binary is not executable!</source>
         <translation>선택한 파일은 실행할 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1641"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1655"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1900"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1926"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1632"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1646"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1891"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1917"/>
         <source>Local</source>
         <translation>로컬</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1648"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1662"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1907"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1933"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1639"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1653"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1898"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1924"/>
         <source>System</source>
         <translation>시스템</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1823"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1814"/>
         <source>Application Binaries (*)</source>
         <translation>프로그램 실행 파일 (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1826"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1817"/>
         <source>The selected file is not executable!</source>
         <translation>선택한 파일은 실행할 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1840"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1831"/>
         <source>Select File</source>
         <translation>파일 선택</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1840"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1831"/>
         <source>All Files (*)</source>
         <translation>모든 파일 (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1945"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1936"/>
         <source>Select an image</source>
         <translation>그림 선택</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1946"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1937"/>
         <source>Images</source>
         <translation>그림</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1950"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1941"/>
         <source>Reset User Image</source>
         <translation>사용자 그림 재설정</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1950"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1941"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation>사용자 그림을 시스템 기본값으로 재설정 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1998"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1989"/>
         <source>Valid Time Codes:</source>
         <translation>유효한 시간 코드:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1999"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1990"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>%1: 앞에 0이 없는 시 (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2000"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1991"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: 앞에 0이 있는 시 (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2001"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1992"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: 앞에 0이 없는 분 (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2002"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1993"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: 앞에 0이 있는 분 (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2003"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1994"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: 앞에 0이 없는 초 (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1995"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: 앞에 0이 있는 초 (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1996"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation>%1: 오전/오후 (12 시간) 시계</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2006"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1997"/>
         <source>%1: Timezone</source>
         <translation>%1: 시간대</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2007"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1998"/>
         <source>Time Codes</source>
         <translation>시간 코드</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2021"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2012"/>
         <source>Valid Date Codes:</source>
         <translation>유효한 날짜 코드:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2022"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2013"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>%1: 앞에 0이 없는 숫자화된 요일 (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2023"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2014"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation>%1: 앞에 0이 있는 숫자화된 요일 (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2024"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2015"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: 요일의 짧은 이름 (지역화됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2025"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2016"/>
         <source>%1: Day as full name (localized)</source>
         <translation>%1: 요일의 긴 이름 (지역화됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2026"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2017"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation>%1: 앞에 0이 없는 숫자화된 달 (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2018"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation>%1: 앞에 0이 있는 숫자화된 달 (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2019"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: 달의 짧은 이름 (지역화됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2020"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: 달의 긴 이름 (지역화됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2021"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation>%1: 2자리 숫자로 된 해 (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2022"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: 4자리 숫자로 된 해 (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2032"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2023"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation>치환을 방지하기 위해 작은 따옴표 안에 문자를 사용할 수 있음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2024"/>
         <source>Date Codes</source>
         <translation>날짜 코드</translation>
     </message>
