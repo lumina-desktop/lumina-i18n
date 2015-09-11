@@ -648,96 +648,96 @@ New Location: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="173"/>
         <source>Invalid Directories</source>
         <translation>无效的目录</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="172"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="173"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>以下目录无效，无法打开：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="280"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="281"/>
         <source>Root</source>
         <translation>根</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="286"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="287"/>
         <source>%1 (Type: %2)</source>
         <translatorcomment>%1 (类型：%2)</translatorcomment>
         <translation>%1 (类型：%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="290"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="291"/>
         <source>Filesystem: %1</source>
         <translation>文件系统：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="444"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="445"/>
         <source>Browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="581"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>Multimedia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="599"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="600"/>
         <source>Slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="783"/>
         <source>Items to be removed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="338"/>
         <source>Verify Quit</source>
         <translatorcomment>快速退出</translatorcomment>
         <translation>快速退出</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="337"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="338"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translatorcomment>你有多个标签打开。你确定要退出吗？</translatorcomment>
         <translation>你有多个标签打开。你确定要退出吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="781"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
         <source>Verify Removal</source>
         <translatorcomment>快速移除</translatorcomment>
         <translation>快速移除</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="781"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>警告：这将永久删除系统中的文件！</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="781"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="782"/>
         <source>Are you sure you want to continue?</source>
         <translation>您确定要继续吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="743"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="744"/>
         <source>Rename File</source>
         <translation>重命名文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="743"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="744"/>
         <source>New Name:</source>
         <translation>新名称：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="757"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="758"/>
         <source>Overwrite File?</source>
         <translation>覆盖文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="757"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="758"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translatorcomment>将替换同名的现有文件。你确定要继续吗？</translatorcomment>
         <translation>将替换同名的现有文件。你确定要继续吗？</translation>
