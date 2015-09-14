@@ -247,22 +247,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="33"/>
         <source>Go Back</source>
-        <translation type="unfinished">Назад</translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="133"/>
         <source>Pin to Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Вывод на рабочий стол</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="137"/>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить из избранного</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="140"/>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить в избранное</translation>
     </message>
 </context>
 <context>
@@ -665,99 +665,99 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню Старт</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите для поиска</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="168"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр файлов</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="193"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр приложений</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="225"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Панель Управления</translation>
+        <translation>Панель Управления</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="250"/>
         <source>Quick Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрые настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="290"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Оставить</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="358"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление приложениями</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="441"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="793"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход пользователя</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="852"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить систему</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="877"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Выключение системы</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="896"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>Система выполнения обновлений</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="946"/>
         <source>Suspend System</source>
-        <translation type="unfinished"></translation>
+        <translation>Приостановить систему</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="998"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="250"/>
         <source>%1% (Plugged In)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (подключенный)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="254"/>
         <source>%1% (%2 Estimated)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (%2 расчетно)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="255"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% осталось</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="270"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="397"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="408"/>
         <source>Workspace %1/%2</source>
-        <translation type="unfinished">Рабочая Область %1/%2</translation>
+        <translation>Рабочая Область %1/%2</translation>
     </message>
 </context>
 <context>

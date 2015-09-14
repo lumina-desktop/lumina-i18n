@@ -266,7 +266,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="231"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="287"/>
@@ -723,37 +723,37 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="250"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Плитка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
         <source>Center</source>
-        <translation type="unfinished">Центр</translation>
+        <translation>Центр</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="253"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх влево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Вверх вправо</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="255"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз влево</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="256"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Вниз вправо</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
@@ -1211,12 +1211,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню приложения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Единый доступ к системе и меню запуска приложения.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
