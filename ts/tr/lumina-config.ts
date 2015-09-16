@@ -1104,11 +1104,6 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <translation>Eklentileri ayırmak için görünmez ara boşluk.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
-        <source>Desktop Switcher</source>
-        <translation>Masaüstü Değiştirici</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Farklı sanal masaüstleri arasında geçiş yapmak için denetimler.</translation>
@@ -1174,11 +1169,6 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
         <translation>Kenetlenebilir sistem uygulamalarının gösterilme alanı</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
-        <source>Home Button</source>
-        <translation>Ev Düğmesi</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Tüm açık pencereleri gizle ve masaüstünü göster</translation>
@@ -1212,6 +1202,16 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <source>Workspace Switcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <source>Show Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

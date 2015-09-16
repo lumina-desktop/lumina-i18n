@@ -1108,11 +1108,6 @@ Current keyboard bindings will also be ignored.</source>
         <translation>각 플러그인을 구분하기 위한 보이지 않는 구분선.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
-        <source>Desktop Switcher</source>
-        <translation>바탕 화면 바꾸기</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>여러 가상 바탕 화면 사이를 전환하기 위한 제어.</translation>
@@ -1178,11 +1173,6 @@ Current keyboard bindings will also be ignored.</source>
         <translation>도킹할 수 있는 시스템 프로그램을 보여주는 공간</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
-        <source>Home Button</source>
-        <translation>홈 버튼</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>모든 열린 창을 숨기고 바탕 화면 표시</translation>
@@ -1216,6 +1206,16 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <source>Workspace Switcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <source>Show Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

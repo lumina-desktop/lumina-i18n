@@ -1104,11 +1104,6 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Osynliga avskiljare till separata insticksmoduler.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
-        <source>Desktop Switcher</source>
-        <translation>Skrivbordsbytare</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Kontroller för att byta mellan olika virtuella skrivbord.</translation>
@@ -1174,11 +1169,6 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Visningsområde för dockningssystemprogram</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
-        <source>Home Button</source>
-        <translation>Hemknapp</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Dölj alla fönster och visa skrivbordet</translation>
@@ -1212,6 +1202,16 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <source>Workspace Switcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <source>Show Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

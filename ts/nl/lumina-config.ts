@@ -1104,11 +1104,6 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
         <translation>Onzichtbare scheiding om plug-ins uit elkaar te houden.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
-        <source>Desktop Switcher</source>
-        <translation>Bureaubladwisselaar</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Schakelingen voor het schakelen tussen de virtuele bureaubladen.</translation>
@@ -1174,11 +1169,6 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
         <translation>Weergavegebied voor vastgezette systeemapplicaties</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
-        <source>Home Button</source>
-        <translation>Thuisknop</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Alle open vensters verbergen en het bureaublad weergeven</translation>
@@ -1212,6 +1202,16 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <source>Workspace Switcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <source>Show Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

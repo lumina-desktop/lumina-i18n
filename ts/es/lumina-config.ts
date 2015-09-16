@@ -1104,11 +1104,6 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Espaciador invisible para separar plugins.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
-        <source>Desktop Switcher</source>
-        <translation>Alternar Escritorios</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Controles para alternar entre varios escritorios virtuales.</translation>
@@ -1174,11 +1169,6 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <translation>Desplegar área para aplicaciones del sistema acoplables</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
-        <source>Home Button</source>
-        <translation>Botón de Inicio</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Ocultar todas las ventanas abiertas y mostrar escritorio</translation>
@@ -1213,6 +1203,16 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
         <translation>Menú de Aplicaciones</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
+        <source>Workspace Switcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
+        <source>Show Desktop</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
