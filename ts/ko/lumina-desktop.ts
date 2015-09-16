@@ -268,12 +268,12 @@
 <context>
     <name>LAppMenuPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
         <source>Quickly launch applications or open files</source>
         <translation>빨리 프로그램을 실행하거나 파일 열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="32"/>
         <source>Start Here</source>
         <translation>여기서 시작</translation>
     </message>
@@ -294,12 +294,12 @@
 <context>
     <name>LClock</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="127"/>
         <source>Time Zone (%1)</source>
         <translation>시간대 (%1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="148"/>
         <source>Use System Time</source>
         <translation>시스템 시간 사용</translation>
     </message>
@@ -307,42 +307,42 @@
 <context>
     <name>LDeskBarPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="232"/>
         <source>Favorite Applications</source>
         <translation>즐겨 쓰는 프로그램</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="234"/>
         <source>Favorite Folders</source>
         <translation>즐겨 찾는 폴더</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="231"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="235"/>
         <source>Audio</source>
         <translation>오디오</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="233"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
         <source>Video</source>
         <translation>비디오</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="235"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="239"/>
         <source>Pictures</source>
         <translation>그림</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="241"/>
         <source>Other Files</source>
         <translation>기타 파일</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="243"/>
         <source>Documents</source>
         <translation>문서</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="242"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="246"/>
         <source>Favorite Files</source>
         <translation>즐겨 찾는 파일</translation>
     </message>
@@ -398,8 +398,8 @@
 <context>
     <name>LDesktopSwitcher</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="124"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="132"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="125"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="133"/>
         <source>Workspace %1</source>
         <translation>작업 공간 %1</translation>
     </message>
@@ -407,7 +407,7 @@
 <context>
     <name>LSysDashboard</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="42"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="43"/>
         <source>System Dashboard</source>
         <translation>시스템 대시보드</translation>
     </message>
@@ -435,22 +435,22 @@
         <translation>화면 밝기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="231"/>
         <source>Battery Status</source>
         <translation>배터리 상태</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="293"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="296"/>
         <source>Workspace</source>
         <translation>작업 공간</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="341"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="344"/>
         <source>Locale</source>
         <translation>로캘</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="375"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="378"/>
         <source>Log Out</source>
         <translation>로그 아웃</translation>
     </message>
@@ -470,27 +470,27 @@
 <context>
     <name>LTaskButton</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
         <source>Activate Window</source>
         <translation>창 활성화</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="151"/>
         <source>Minimize Window</source>
         <translation>창 최소화</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
         <source>Restore Window</source>
         <translation>창 복귀</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="150"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="155"/>
         <source>Maximize Window</source>
         <translation>창 최대화</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="158"/>
         <source>Close Window</source>
         <translation>창 닫기</translation>
     </message>
@@ -498,7 +498,7 @@
 <context>
     <name>LUserButtonPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="36"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="37"/>
         <source>Quickly launch applications or open files</source>
         <translation>빨리 프로그램을 실행하거나 파일 열기</translation>
     </message>

@@ -268,12 +268,12 @@
 <context>
     <name>LAppMenuPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="30"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
         <source>Quickly launch applications or open files</source>
         <translation>Schnell ein Programm oder eine Datei öffnen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="32"/>
         <source>Start Here</source>
         <translation>Hier beginnen</translation>
     </message>
@@ -294,12 +294,12 @@
 <context>
     <name>LClock</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="127"/>
         <source>Time Zone (%1)</source>
         <translation>Zeitzone (%1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="148"/>
         <source>Use System Time</source>
         <translation>Systemzeit verwenden</translation>
     </message>
@@ -307,42 +307,42 @@
 <context>
     <name>LDeskBarPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="232"/>
         <source>Favorite Applications</source>
         <translation>Bevorzugte Anwendungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="234"/>
         <source>Favorite Folders</source>
         <translation>Bevorzugte Verzeichnisse</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="231"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="235"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="233"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="235"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="239"/>
         <source>Pictures</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="241"/>
         <source>Other Files</source>
         <translation>Andere Dateien</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="243"/>
         <source>Documents</source>
         <translation>Dokumente</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="242"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="246"/>
         <source>Favorite Files</source>
         <translation>Bevorzugte Dateien</translation>
     </message>
@@ -398,8 +398,8 @@
 <context>
     <name>LDesktopSwitcher</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="124"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="132"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="125"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="133"/>
         <source>Workspace %1</source>
         <translation>Arbeitsbereich %1</translation>
     </message>
@@ -407,7 +407,7 @@
 <context>
     <name>LSysDashboard</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="42"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="43"/>
         <source>System Dashboard</source>
         <translation>System-Dashboard</translation>
     </message>
@@ -435,22 +435,22 @@
         <translation>Bildschirmhelligkeit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="228"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="231"/>
         <source>Battery Status</source>
         <translation>Batteriezustand</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="293"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="296"/>
         <source>Workspace</source>
         <translation>Arbeitsfläche</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="341"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="344"/>
         <source>Locale</source>
         <translation>Sprachregion</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="375"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="378"/>
         <source>Log Out</source>
         <translation>Abmelden</translation>
     </message>
@@ -470,27 +470,27 @@
 <context>
     <name>LTaskButton</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="143"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
         <source>Activate Window</source>
         <translation>Fenster aktivieren</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="151"/>
         <source>Minimize Window</source>
         <translation>Fenster minimieren</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
         <source>Restore Window</source>
         <translation>Fenster wiederherstellen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="150"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="155"/>
         <source>Maximize Window</source>
         <translation>Fenster maximieren</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="153"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="158"/>
         <source>Close Window</source>
         <translation>Fenster schließen</translation>
     </message>
@@ -498,7 +498,7 @@
 <context>
     <name>LUserButtonPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="36"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="37"/>
         <source>Quickly launch applications or open files</source>
         <translation>Schnelles Öffnen von Anwendungen oder Dateien</translation>
     </message>
