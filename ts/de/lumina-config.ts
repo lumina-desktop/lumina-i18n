@@ -267,7 +267,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="231"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="287"/>
@@ -724,37 +724,37 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="250"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kachel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
         <source>Center</source>
-        <translation type="unfinished">Mitte</translation>
+        <translation>Mitte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="253"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben links</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Oben Rechts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="255"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten Links</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="256"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Unten Rechts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
@@ -1212,12 +1212,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungsmenü</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereinheitlichter Systemzugriff und Programm-Startmenü.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>

@@ -247,7 +247,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="33"/>
         <source>Go Back</source>
-        <translation type="unfinished">Gehe zurück</translation>
+        <translation>Gehe zurück</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="133"/>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="137"/>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus den Favoriten entfernen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="140"/>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu den Favoriten hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
@@ -675,12 +675,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="168"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien durchsehen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="193"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Programme durchsuchen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="225"/>
