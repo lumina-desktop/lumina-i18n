@@ -1206,12 +1206,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключатель Рабочей области</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать Рабочий стол</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
