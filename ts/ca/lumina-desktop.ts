@@ -160,48 +160,48 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
-        <source>Initializing Session...</source>
-        <translation>Iniciant la sessió...</translation>
+        <source>Initializing Session …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
-        <source>Loading Settings...</source>
-        <translation>Carregant els paràmetres...</translation>
+        <source>Loading System Settings …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
-        <source>Checking User Settings...</source>
-        <translation>Comprovant els paràmetres de l&apos;usuari...</translation>
+        <source>Loading User Preferences …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
-        <source>Registering System Tray...</source>
-        <translation>Registrant la safata del sistema...</translation>
+        <source>Preparing System Tray …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
-        <source>Starting Window Manager...</source>
-        <translation>Iniciant el gestor de finestres...</translation>
+        <source>Starting Window Manager …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
-        <source>Detecting System Applications...</source>
-        <translation>Detectant les aplicacions del sistema...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
-        <source>Initializing Desktop(s)...</source>
-        <translation>Iniciant els escriptoris...</translation>
+        <source>Detecting Applications …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
-        <source>Initializing System Menu(s)...</source>
-        <translation>Iniciant els menús del sistema...</translation>
+        <source>Preparing Menus …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
+        <source>Preparing Workspace …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
-        <source>Performing Final Checks...</source>
-        <translation>Fent les comprovacions finals...</translation>
+        <source>Finalizing …</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

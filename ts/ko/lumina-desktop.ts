@@ -160,48 +160,48 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
-        <source>Initializing Session...</source>
-        <translation>세션 초기화 중...</translation>
+        <source>Initializing Session …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
-        <source>Loading Settings...</source>
-        <translation>설정 읽는 중...</translation>
+        <source>Loading System Settings …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
-        <source>Checking User Settings...</source>
-        <translation>사용자 설정 확인 중...</translation>
+        <source>Loading User Preferences …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
-        <source>Registering System Tray...</source>
-        <translation>시스템 트레이 등록 중...</translation>
+        <source>Preparing System Tray …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
-        <source>Starting Window Manager...</source>
-        <translation>창 관리자 시작 중...</translation>
+        <source>Starting Window Manager …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
-        <source>Detecting System Applications...</source>
-        <translation>시스템 프로그램 감지 중...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
-        <source>Initializing Desktop(s)...</source>
-        <translation>바탕 화면 초기화 중...</translation>
+        <source>Detecting Applications …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
-        <source>Initializing System Menu(s)...</source>
-        <translation>시스템 메뉴 초기화 중...</translation>
+        <source>Preparing Menus …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
+        <source>Preparing Workspace …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
-        <source>Performing Final Checks...</source>
-        <translation>최종 검사 시행 중...</translation>
+        <source>Finalizing …</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

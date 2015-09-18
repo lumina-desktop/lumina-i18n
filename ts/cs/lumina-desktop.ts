@@ -160,48 +160,48 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
-        <source>Initializing Session...</source>
+        <source>Initializing Session …</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
-        <source>Loading Settings...</source>
-        <translation>Nahrává se nastavení...</translation>
+        <source>Loading System Settings …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
-        <source>Checking User Settings...</source>
-        <translation>Kontroluje se nastavení uživatele...</translation>
+        <source>Loading User Preferences …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
-        <source>Registering System Tray...</source>
-        <translation>Registruji Systémovou Lištu...</translation>
+        <source>Preparing System Tray …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
-        <source>Starting Window Manager...</source>
-        <translation>Spouští se správce oken...</translation>
+        <source>Starting Window Manager …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
-        <source>Detecting System Applications...</source>
-        <translation>Detekují se systémové aplikace...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
-        <source>Initializing Desktop(s)...</source>
-        <translation>Inicializuje se pracovní plocha...</translation>
+        <source>Detecting Applications …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
-        <source>Initializing System Menu(s)...</source>
-        <translation>Inicializuje se systémová nabídka...</translation>
+        <source>Preparing Menus …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
+        <source>Preparing Workspace …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
-        <source>Performing Final Checks...</source>
-        <translation>Provádějí se poslední kontroly...</translation>
+        <source>Finalizing …</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

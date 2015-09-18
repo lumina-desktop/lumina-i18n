@@ -154,42 +154,42 @@
         <translation>Skärmljusstyrka %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
         <source>Invalid file or URL: %1</source>
         <translation>Ogiltig fil eller URL %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
         <source>File could not be opened: %1</source>
         <translation>Filen kunde inte öppnas: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="239"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Program genväg saknar startinformation (missbildad genväg): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL genväg saknas URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>Genvägen till katalogen saknar sökvägen till katalogen :%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="266"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Okänd typ av genväg: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
         <source>Application Error</source>
         <translation>Program fel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Följande program upplevde ett fel och behövde stängas:</translation>
     </message>

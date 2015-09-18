@@ -154,42 +154,42 @@
         <translation>Bildschirmhelligkeit %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
         <source>Invalid file or URL: %1</source>
         <translation>Ungültige Datei oder URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
         <source>File could not be opened: %1</source>
         <translation>Datei konnte nicht geöffnet werden: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="239"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Fehlende Startup-Informationen für Programm-Verknüpfung (deformierte Verknüpfung): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>fehlende URL für URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>fehlender Pfad zum Verzeichnis der Verknüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="266"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>unbekannter Typ für Vernüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
         <source>Application Error</source>
         <translation>Anwendungsfehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>

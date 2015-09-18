@@ -724,7 +724,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="250"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automàtic</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
@@ -734,33 +734,33 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
         <source>Center</source>
-        <translation type="unfinished">Al centre</translation>
+        <translation>Centre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="253"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Dalt a l&apos;esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dalt a la dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="255"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior esquerra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="256"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior dreta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="295"/>
         <source>Select Color</source>
-        <translation type="unfinished">Seleccioneu un color</translation>
+        <translation type="unfinished">Selecciona un color</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="455"/>
@@ -1202,7 +1202,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú d&apos;aplicació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
