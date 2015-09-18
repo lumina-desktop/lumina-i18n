@@ -154,42 +154,42 @@
         <translation>kecerahan layar %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="205"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
         <source>Invalid file or URL: %1</source>
         <translation>file yang tidak valid atau URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="227"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
         <source>File could not be opened: %1</source>
         <translation>Berkas tidak dapat dibuka: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="236"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Aplikasi shortcut yang hilang informasi meluncurkan (jelek cacat): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL shortcut hilang URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished">Direktori shortcut yang hilang path ke direktori: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Jenis diketahui shortcut: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>Application Error</source>
         <translation>aplikasi error</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation type="unfinished">Aplikasi berikut mengalami kesalahan dan diperlukan untuk menutup:</translation>
     </message>

@@ -154,42 +154,42 @@
         <translation>Jas obrazovky %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="205"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
         <source>Invalid file or URL: %1</source>
         <translation>Neplatný soubor nebo URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="227"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
         <source>File could not be opened: %1</source>
         <translation>Soubor nelze otevřít: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="236"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation type="unfinished">Application shortcut is missing the launching information (malformed shortcut): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation type="unfinished">URL shortcut is missing the URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished">Directory shortcut is missing the path to the directory: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Neznámý typ zkratky: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>Application Error</source>
         <translation>Chyba aplikace</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Následující aplikace ohlašují chybu a musí být ukončeny:</translation>
     </message>

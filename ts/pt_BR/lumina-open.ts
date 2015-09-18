@@ -154,42 +154,42 @@
         <translation>Brilho da tela %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="205"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
         <source>Invalid file or URL: %1</source>
         <translation>Arquivo ou URL inválido: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="227"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
         <source>File could not be opened: %1</source>
         <translation>O arquivo não pôde ser aberto: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="236"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Tipo de atalho desconhecido: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>Application Error</source>
         <translation>Erro do aplicativo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>O seguinte aplicativo encontrou um erro e precisa ser fechado:</translation>
     </message>

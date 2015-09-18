@@ -154,42 +154,42 @@
         <translation>Jasność ekranu %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="205"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="207"/>
         <source>Invalid file or URL: %1</source>
         <translation>Nieprawidłowy plik lub URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="227"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="229"/>
         <source>File could not be opened: %1</source>
         <translation>Nie można otworzyć pliku: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="236"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="238"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Skrót do aplikacji nie posiada odpowiednich informacji do uruchomienia (niewłaściwy skrót): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="247"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="249"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>W skrócie URL brak adresu URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="260"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>W skrócie do folderu brak ścieżki do folderu: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="263"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Nieznany błąd skrótu: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>Application Error</source>
         <translation>Błąd aplikacji</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="362"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="365"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Aplikacja napotkała błąd i musi zostać zamknięta:</translation>
     </message>
