@@ -93,49 +93,49 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="316"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished">Talla els ítems (afegeix-los al porta-retalls)</translation>
+        <translation>Talla els ítems (afegeix-los al porta-retalls)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="335"/>
         <source>Copy items</source>
-        <translation type="unfinished">Copia els ítems</translation>
+        <translation>Copia els ítems</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="338"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished">Copia els ítems al porta-retalls</translation>
+        <translation>Copia els ítems al porta-retalls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="357"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="360"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished">Enganxa ítems des del porta-retalls</translation>
+        <translation>Enganxa ítems des del porta-retalls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="386"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="389"/>
         <source>Delete Items</source>
-        <translation type="unfinished">Esborra ítems</translation>
+        <translation>Esborra els ítems</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="79"/>
         <source>Add selected images to slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix les imatges seleccionades a la presentació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="53"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un directori nou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="56"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori nou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="66"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un fitxer nou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="69"/>
@@ -188,48 +188,48 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="458"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="461"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés al directori principal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="469"/>
         <source>Stopl loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura la càrrega del directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="480"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="483"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca aquest navegador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="58"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="59"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="60"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="61"/>
         <source>Delete</source>
-        <translation type="unfinished">Suprimeix</translation>
+        <translation>Suprimeix</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="62"/>
         <source>F5</source>
-        <translation type="unfinished"></translation>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="124"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="128"/>
@@ -280,27 +280,27 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="679"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="698"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="690"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en crear el document</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="690"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear el document. Si us plau, assegureu-vos que teniu els permisos adients.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="698"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori nou</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="708"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">El nom no és vàlid</translation>
+        <translation>El nom no és vàlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="708"/>

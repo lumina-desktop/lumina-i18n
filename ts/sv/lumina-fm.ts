@@ -145,7 +145,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="82"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bildspel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="98"/>
@@ -160,35 +160,35 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Back</source>
-        <translation type="unfinished">Bakåt</translation>
+        <translation>Bakåt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="430"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="433"/>
         <source>Go back to previous directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå tillbaka till förra katalogen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="441"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Upp</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="444"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="447"/>
         <source>Go to parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till föräldrakatalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="455"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Hem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="458"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="461"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till hemkatalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="469"/>
@@ -199,12 +199,12 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="480"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="483"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng denna webläsaren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="58"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="59"/>
@@ -274,13 +274,13 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="679"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt dokument</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="679"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="698"/>
         <source>Name:</source>
-        <translation type="unfinished">Namn:</translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="690"/>
@@ -295,22 +295,22 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="698"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="708"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">Ogiltigt namn</translation>
+        <translation>Ogiltigt namn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="708"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fil med samma namn finns redan. Använd ett annat namn.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="712"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="712"/>
@@ -540,22 +540,22 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="228"/>
         <source>Increase Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka ikonstorlek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="233"/>
         <source>Decrease Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Minska ikonstorlek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="238"/>
         <source>Larger Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Stora ikoner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="243"/>
         <source>Smaller Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Små ikoner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="125"/>
@@ -670,17 +670,17 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="445"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Webbläsare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="600"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildspel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="783"/>
@@ -797,13 +797,13 @@ Ny Plats: %2</translation>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="89"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="92"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="105"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="108"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="212"/>

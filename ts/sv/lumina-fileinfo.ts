@@ -6,37 +6,37 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished">Filinformation</translation>
+        <translation>Filinformation</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished">Filegenskaper</translation>
+        <translation>Filegenskaper</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished">Ägare:</translation>
+        <translation>Ägare:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished">Grupp:</translation>
+        <translation>Grupp:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished">Behörigheter:</translation>
+        <translation>Behörigheter:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished">Skapad:</translation>
+        <translation>Skapad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished">Obs: Tiden en fil skapades kan vara nyare än den tid ändras om filrättigheterna ändrades nyligen.</translation>
+        <translation>Obs: Tiden en fil skapades kan vara nyare än den tid ändras om filrättigheterna ändrades nyligen.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
@@ -81,42 +81,42 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
         <source>Command:</source>
-        <translation type="unfinished">Kommando:</translation>
+        <translation>Kommando:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
         <source>Comment:</source>
-        <translation type="unfinished">Kommentar:</translation>
+        <translation>Kommentar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
         <source>Run in terminal</source>
-        <translation type="unfinished">Kör i terminal</translation>
+        <translation>Kör i terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
         <source>Name:</source>
-        <translation type="unfinished">Namn:</translation>
+        <translation>Namn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
         <source>Options</source>
-        <translation type="unfinished">Inställningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
         <source>No Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen ikon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
@@ -171,12 +171,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
@@ -186,34 +186,34 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en ikon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder (%1);; Alla Filer (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source> Folders: </source>
-        <translation type="unfinished"></translation>
+        <translation> Mappar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>Files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Filer: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>  Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation> Beräknar...</translation>
     </message>
 </context>
 </TS>

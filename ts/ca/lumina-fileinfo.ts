@@ -6,17 +6,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
         <source>File Information</source>
-        <translation type="unfinished">Informació del fitxer</translation>
+        <translation>Informació del fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Properties</source>
-        <translation type="unfinished">Propietats del fitxer</translation>
+        <translation>Propietats del fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished">Propietari:</translation>
+        <translation>Propietari:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
@@ -66,47 +66,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
         <source>Working Dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de treball:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Use startup notification</source>
-        <translation type="unfinished">Usa la notificació d&apos;inici</translation>
+        <translation>Usa la notificació d&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
         <source>Icon:</source>
-        <translation type="unfinished">Icona:</translation>
+        <translation>Icona:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
         <source>Command:</source>
-        <translation type="unfinished">Ordre:</translation>
+        <translation>Ordre:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
         <source>Comment:</source>
-        <translation type="unfinished">Comentari:</translation>
+        <translation>Comentari:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
         <source>Run in terminal</source>
-        <translation type="unfinished">Executa en un terminal</translation>
+        <translation>Executa en un terminal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
         <source>Options</source>
-        <translation type="unfinished">Opcions</translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
         <source>No Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense icona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
@@ -156,47 +156,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="71"/>
         <source>Binary</source>
-        <translation type="unfinished">Binari</translation>
+        <translation>Binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="73"/>
         <source>Hidden %1</source>
-        <translation type="unfinished">%1 ocult(a)</translation>
+        <translation>%1 ocult(a)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="100"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecció no vàlida: no és un executable vàlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una icona</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imatges (%1);; Tots els fitxers (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
