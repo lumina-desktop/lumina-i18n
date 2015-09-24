@@ -271,7 +271,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="231"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>배치:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="287"/>
@@ -728,37 +728,37 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="250"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>자동</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>바둑판식</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
         <source>Center</source>
-        <translation type="unfinished">가운데</translation>
+        <translation>가운데</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="253"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 위</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="254"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 위</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="255"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>왼쪽 아래</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="256"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>오른쪽 아래</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="294"/>
@@ -1206,22 +1206,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>프로그램 메뉴</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 공간 전환</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면 보기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>통합된 시스템 접근과 프로그램 실행 메뉴</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
