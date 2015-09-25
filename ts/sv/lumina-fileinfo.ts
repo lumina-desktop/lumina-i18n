@@ -41,42 +41,42 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished">Senast ändrad:</translation>
+        <translation>Senast ändrad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
         <source>MimeType:</source>
-        <translation type="unfinished">MIME-typ:</translation>
+        <translation>MIME-typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
         <source>File Size:</source>
-        <translation type="unfinished">Filstorlek:</translation>
+        <translation>Filstorlek:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished">Redigera genväg</translation>
+        <translation>Redigera genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
         <source>Working Dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetskatalog:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Use startup notification</source>
-        <translation type="unfinished">Använd uppstartsnotifiering</translation>
+        <translation>Använd uppstartsnotifiering</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
         <source>Icon:</source>
-        <translation type="unfinished">Ikon:</translation>
+        <translation>Ikon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
@@ -121,17 +121,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
         <source>---Calculating---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Beräknar---</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="62"/>
         <source>Read/Write</source>
-        <translation type="unfinished">Läs/Skriv</translation>
+        <translation>Läs/Skriv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
         <source>Read Only</source>
-        <translation type="unfinished">Skrivskyddad</translation>
+        <translation>Skrivskyddad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
@@ -141,32 +141,32 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
         <source>No Access</source>
-        <translation type="unfinished">Ingen åtkomst</translation>
+        <translation>Ingen åtkomst</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished">XDG Genväg</translation>
+        <translation>XDG Genväg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="70"/>
         <source>Directory</source>
-        <translation type="unfinished">Katalog</translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="71"/>
         <source>Binary</source>
-        <translation type="unfinished">Binär</translation>
+        <translation>Binär</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="73"/>
         <source>Hidden %1</source>
-        <translation type="unfinished">Dold %1</translation>
+        <translation>Dold %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="100"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
