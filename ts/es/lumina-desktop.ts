@@ -161,47 +161,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando sesión ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando Configuración del Sistema...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando Preferencias de Usuario ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Preparing System Tray …</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando Bandeja del Sistema ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager …</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando Gestor de Ventanas ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting Applications …</source>
-        <translation type="unfinished"></translation>
+        <translation>Detectando Aplicaciones ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Preparing Menus …</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando Menus ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Preparing Workspace …</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando Area de Trabajo ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizando ...</translation>
     </message>
 </context>
 <context>

@@ -1207,12 +1207,12 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Selector de Area de Trabajo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Escritorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
