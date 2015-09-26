@@ -267,7 +267,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="231"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposition :</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="287"/>
