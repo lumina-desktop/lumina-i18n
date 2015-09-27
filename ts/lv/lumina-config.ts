@@ -331,22 +331,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="582"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Parādīt darbvirsmas kataloga saturu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="776"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-startējas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="797"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="807"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Binārs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="817"/>
@@ -397,48 +397,48 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1224"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1268"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skatīt formatēšanas kodus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1256"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datuma formāts:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1239"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1283"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paraugs:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1155"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Atiestatīt darbvirsmas iestatījumus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1174"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Atgriezties pie sistēmas noklusējuma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1181"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Atgriezties pie Lumina noklusējuma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1669"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotnes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1672"/>
         <source>Application Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotnes pārvaldība</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1413"/>
         <source>Window System</source>
-        <translation type="unfinished"></translation>
+        <translation>Logu sistēma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1303"/>
@@ -483,7 +483,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1395"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1405"/>
@@ -1290,7 +1290,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lietotnes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
