@@ -378,28 +378,28 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1103"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Atskaņot melodiju startējot</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1110"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Atskaņot melodiju izejot</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1119"/>
         <source>Change User Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Mainīt lietotāja ikonu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1212"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Laika formāts:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1224"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1268"/>
         <source>View format codes</source>
-        <translation type="unfinished">Skatīt formatēšanas kodus</translation>
+        <translation>Skatīt formātu kodus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1256"/>
@@ -420,12 +420,12 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1174"/>
         <source>Return to system defaults</source>
-        <translation>Atgriezties pie sistēmas noklusējuma</translation>
+        <translation>Atgriezties pie sistēmas noklusējumiem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1181"/>
         <source>Return to Lumina defaults</source>
-        <translation>Atgriezties pie Lumina noklusējuma</translation>
+        <translation>Atgriezties pie Lumina noklusējumiem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1669"/>
@@ -445,42 +445,42 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1303"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Attēlošanas formāts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1329"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokāle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1335"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1345"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziņojumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1355"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Laiks</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1365"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaitļi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1375"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Valūta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1385"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Apkopošana</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1395"/>
@@ -490,38 +490,38 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1405"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas lokalizācijas iestatījumi (nepieciešams restartēt)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1421"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbvietu skaits</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1438"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna loga novietojums</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1448"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokusēšanas politika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1458"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Loga tēma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1476"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Loga tēmas priekšskatījums</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1530"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1867"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Priekšskatījums nav pieejams</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1576"/>
@@ -586,53 +586,53 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķināt, lai fokusētu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuss seko pelei</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuss strikti seko pelei</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Līdzināt rindā</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Līdzināt kolonnā</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaskadēt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Zem peles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="433"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai saglabāt izmaiņas?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="433"/>
         <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation type="unfinished"></translation>
+        <translation>Šī ekrāna izmaiņas pašlaik nav saglabātas. Vai vēlaties tās vispirms saglabāt?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="271"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="462"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas noklusējums</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="473"/>
@@ -647,7 +647,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="646"/>
         <source>(use system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(lietot sistēmas noklusējumu)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="666"/>
@@ -844,7 +844,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1952"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai vēlaties atiestatīt lietotāja attēlu uz sistēmas noklusējumu?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2000"/>
@@ -1277,7 +1277,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="226"/>
         <source>Start the default system terminal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startēt sistēmas noklusējuma termināli.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
@@ -1287,7 +1287,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
         <source>Browse the system with the default file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārlūkot sistēmu ar noklusējuma failu pārvaldnieku.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
