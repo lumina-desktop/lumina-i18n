@@ -150,7 +150,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="98"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation>Köa urval i multimediaspelaren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="101"/>
@@ -193,7 +193,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="469"/>
         <source>Stopl loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluta ladda katalogen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="480"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="195"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Begränsad tillgång) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="446"/>
@@ -290,7 +290,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="718"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta dokument kunde inte skapas. Se till att du har rätt behörigheter.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="728"/>
@@ -315,7 +315,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="742"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna katalogen kunde inte skapas. Se till att du har rätt behörigheter att modifera den aktuella katalogen.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="763"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="879"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;lumina-Fileinfo&quot; verktyget kunde inte hittas på systemet. Installera det först.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="897"/>
@@ -495,7 +495,7 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation>Insikt</translation>
+        <translation>Insikt Filhanterare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="85"/>
@@ -525,7 +525,7 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="90"/>
         <source>Group Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Gruppläge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="106"/>
@@ -610,7 +610,7 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="198"/>
         <source>Search Directory</source>
-        <translation>Sök Katalog</translation>
+        <translation>Sök i Katalog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="201"/>
@@ -635,12 +635,12 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="58"/>
         <source>Prefer Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredra flikar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="59"/>
         <source>Prefer Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredra kolumner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="173"/>

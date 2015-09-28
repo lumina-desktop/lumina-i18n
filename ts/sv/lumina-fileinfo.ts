@@ -136,7 +136,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
         <source>Write Only</source>
-        <translation type="unfinished">Endast skriva</translation>
+        <translation>Endast skriva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
@@ -181,7 +181,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig val: Inte giltig körbar fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
