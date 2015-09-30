@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="nl">
 <context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="14"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermafdruk Maken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen Schermafdruk Beschikbaar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen Nieuwe Schermafdruk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclusief Vensterranden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
         <source> Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> Seconden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>
         <source>Delay </source>
-        <translation type="unfinished"></translation>
+        <translation>Vertraging </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="88"/>
         <source>Select Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer Venster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Volledige Sessie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkele Venster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="92"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkele Scherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="134"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkbalk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="163"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="166"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="169"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermafdruk Opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="172"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="177"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="180"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsluiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Knip</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe schermafdruk maken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG Bestanden(*.png);;Alle Bestanden(*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="88"/>
         <source>Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster:</translation>
     </message>
 </context>
 </TS>
