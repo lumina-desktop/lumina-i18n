@@ -21,47 +21,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
         <source>Group:</source>
-        <translation type="unfinished">Grup:</translation>
+        <translation>Grup:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
         <source>Permissions:</source>
-        <translation type="unfinished">Permisos:</translation>
+        <translation>Permisos:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
         <source>Created:</source>
-        <translation type="unfinished">Creat:</translation>
+        <translation>Creat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation type="unfinished">Nota: l&apos;hora de la creació d&apos;un fitxer pot ser més recent que l&apos;hora de modificació si els permisos n&apos;han canviat recentment.</translation>
+        <translation>Nota: l&apos;hora de la creació d&apos;un fitxer pot ser més recent que l&apos;hora de modificació si els permisos n&apos;han canviat recentment.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
         <source>Last Modified:</source>
-        <translation type="unfinished">Última modificació:</translation>
+        <translation>Última modificació:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
         <source>Type:</source>
-        <translation type="unfinished">Tipus:</translation>
+        <translation>Tipus:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
         <source>MimeType:</source>
-        <translation type="unfinished">Tipus MIME:</translation>
+        <translation>Tipus MIME:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
         <source>File Size:</source>
-        <translation type="unfinished">Mida del fitxer:</translation>
+        <translation>Mida del fitxer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished">Edita la drecera</translation>
+        <translation>Edita la drecera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
@@ -111,47 +111,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
         <source>---Calculating---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Calculant---</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="62"/>
         <source>Read/Write</source>
-        <translation type="unfinished">Lectura/escriptura</translation>
+        <translation>Lectura/escriptura</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
         <source>Read Only</source>
-        <translation type="unfinished">Només de lectura</translation>
+        <translation>Només de lectura</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
         <source>Write Only</source>
-        <translation type="unfinished">Només d&apos;escriptura</translation>
+        <translation>Només d&apos;escriptura</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
         <source>No Access</source>
-        <translation type="unfinished">Sense accés</translation>
+        <translation>Sense accés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished">Drecera XDG</translation>
+        <translation>Drecera XDG</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="70"/>
         <source>Directory</source>
-        <translation type="unfinished">Directori</translation>
+        <translation>Directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="71"/>
@@ -202,18 +202,18 @@
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source> Folders: </source>
-        <translation type="unfinished"></translation>
+        <translation> Carpetes: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>Files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>  Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>  Calculant...</translation>
     </message>
 </context>
 </TS>

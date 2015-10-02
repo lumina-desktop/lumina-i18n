@@ -680,52 +680,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="193"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Navega per les aplicacions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="225"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Tauler de control</translation>
+        <translation>Tauler de control</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="250"/>
         <source>Quick Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració ràpida</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="290"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Surt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="358"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestiona les aplicacions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="441"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="793"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="852"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicia el sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="877"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Apaga el sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="896"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(El sistema està processant actualitzacions)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="946"/>
