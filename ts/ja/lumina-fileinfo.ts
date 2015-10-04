@@ -71,7 +71,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Use startup notification</source>
-        <translation type="unfinished"></translation>
+        <translation>起動通知を行う</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
