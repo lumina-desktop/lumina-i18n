@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ja">
 <context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="14"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>アプリケーションの名前</translatorcomment>
+        <translation>スクリーンショットの撮影</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーンショットを撮っていません</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
