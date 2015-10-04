@@ -17,27 +17,27 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>除外済みディレクトリー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルトとして保存する</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>検索対象ディレクトリーを選択</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>除外対象とするディレクトリー</translation>
     </message>
 </context>
 <context>
@@ -45,12 +45,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation type="unfinished"></translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>検索する言葉を入力してください</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="119"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="122"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="128"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="133"/>
@@ -145,7 +145,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>検索完了</translation>
     </message>
 </context>
 </TS>
