@@ -419,7 +419,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/LStartButton.h" line="50"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished">Удалить из Быстрого запуска</translation>
+        <translation>Удалить из Быстрого запуска</translation>
     </message>
 </context>
 <context>
