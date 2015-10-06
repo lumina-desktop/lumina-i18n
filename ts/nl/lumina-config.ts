@@ -490,7 +490,7 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1405"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem lokalisatie-instellingen (herstart vereist)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1421"/>
@@ -724,27 +724,27 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="258"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="259"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="260"/>
         <source>Center</source>
-        <translation type="unfinished">Midden</translation>
+        <translation>Midden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="261"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="263"/>
