@@ -32,33 +32,18 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="113"/>
-        <source>Increase Size</source>
-        <translation>Увеличить размер</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="114"/>
-        <source>Decrease Size</source>
-        <translation>Уменьшить размер</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="54"/>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="80"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="58"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="84"/>
         <source>Click to Set</source>
         <translation>Нажмите что бы выбрать</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="116"/>
-        <source>Delete File</source>
-        <translation>Удалить Файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="134"/>
         <source>Select Application</source>
         <translation>Выбрать Приложение</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="134"/>
         <source>Name:</source>
         <translation>Название:</translation>
     </message>
@@ -315,6 +300,24 @@
     </message>
 </context>
 <context>
+    <name>LDPlugin</name>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="36"/>
+        <source>Start Moving Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="37"/>
+        <source>Start Resizing Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
+        <source>Remove Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LDeskBarPlugin</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="232"/>
@@ -360,47 +363,32 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="293"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="202"/>
         <source>Window List</source>
         <translation>Список Окон</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="354"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
         <source>Lumina Desktop</source>
         <translation>Рабочий стол Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="355"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
         <source>Workspace %1</source>
         <translation>Рабочая Область %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="365"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="271"/>
         <source>Terminal</source>
         <translation>Терминал</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="272"/>
         <source>Browse System</source>
         <translation>Обзор Системы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="386"/>
-        <source>Lock Desktop</source>
-        <translation>Заблокировать Рабочий стол</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="387"/>
-        <source>Snap Plugins to Grid</source>
-        <translation>Выровнить Плагин по Сетке</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="388"/>
-        <source>Unlock Desktop</source>
-        <translation>Разблокировать Рабочий стол</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="390"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="291"/>
         <source>Log Out</source>
         <translation>Завершить Сеанс</translation>
     </message>
