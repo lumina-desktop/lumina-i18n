@@ -304,17 +304,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="36"/>
         <source>Start Moving Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать перемещение предмета</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="37"/>
         <source>Start Resizing Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать изменение размера предмета</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Убрать предмет</translation>
     </message>
 </context>
 <context>
