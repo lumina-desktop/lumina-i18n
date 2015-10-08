@@ -142,54 +142,54 @@
         <translation>Dateifehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="169"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="173"/>
         <source>Audio Volume %1%</source>
         <translation>Lautstärke %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="177"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="186"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="181"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="190"/>
         <source>Screen Brightness %1%</source>
         <translation>Bildschirmhelligkeit %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="212"/>
         <source>Invalid file or URL: %1</source>
         <translation>Ungültige Datei oder URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
         <source>File could not be opened: %1</source>
         <translation>Datei konnte nicht geöffnet werden: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="243"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Fehlende Startup-Informationen für Programm-Verknüpfung (deformierte Verknüpfung): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>fehlende URL für URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>fehlender Pfad zum Verzeichnis der Verknüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="270"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>unbekannter Typ für Vernüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
         <source>Application Error</source>
         <translation>Anwendungsfehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>

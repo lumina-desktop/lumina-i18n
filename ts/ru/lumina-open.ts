@@ -142,54 +142,54 @@
         <translation>Ошибка Файла</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="163"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="169"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="173"/>
         <source>Audio Volume %1%</source>
         <translation>Громкость %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="177"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="186"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="181"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="190"/>
         <source>Screen Brightness %1%</source>
         <translation>Яркость Экрана %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="212"/>
         <source>Invalid file or URL: %1</source>
         <translation>Неверный файл или URL-адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
         <source>File could not be opened: %1</source>
         <translation>Файл не может быть открыт: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="239"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="243"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>В ярлыке приложения отсутствует информация для запуска (неверный формат ярлыка): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="250"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>В ярлыке отсутствует URL-адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>В ярлыке отсутствует путь к папке: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="270"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Неизвестный тип ярлыка: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
         <source>Application Error</source>
         <translation>Ошибка Приложения</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="366"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Следующее приложение вызвало ошибку и должно быть закрыто:</translation>
     </message>
