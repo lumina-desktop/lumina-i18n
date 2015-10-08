@@ -650,82 +650,82 @@ New Location: %2</source>
         <translation>Direktori berikut tidak valid dan tidak bisa dibuka:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="281"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="285"/>
         <source>Root</source>
         <translation>Akar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="287"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="291"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Type: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="291"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="295"/>
         <source>Filesystem: %1</source>
         <translation>Sistem berkas %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="461"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="465"/>
         <source>Browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="598"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="602"/>
         <source>Multimedia</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="616"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="620"/>
         <source>Slideshow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="805"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="809"/>
         <source>Items to be removed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="360"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
         <source>Verify Quit</source>
         <translation>memverifikasi Anda ingin keluar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="360"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="364"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Anda memiliki banyak tab yang terbuka, anda yakin bahwa anda ingin keluar?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="804"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
         <source>Verify Removal</source>
         <translation>verifikasi penghapusan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="804"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>PERINGATAN: Ini akan secara permanen menghapus berkas dari sistem!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="804"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
         <source>Are you sure you want to continue?</source>
         <translation>Anda yakin ingin melanjutkan?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="766"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="770"/>
         <source>Rename File</source>
         <translation>Ganti nama berkas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="766"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="770"/>
         <source>New Name:</source>
         <translation>Nama baru:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="780"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="784"/>
         <source>Overwrite File?</source>
         <translation>Timpa Berkas?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="780"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="784"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>berkas yang ada dengan nama yang sama akan diganti.  Apakah Anda yakin ingin melanjutkan?</translation>
     </message>
