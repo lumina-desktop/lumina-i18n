@@ -24,27 +24,27 @@
         <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="138"/>
         <source>Find</source>
         <translation>Εύρεση</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="193"/>
         <source>Set this application as the default </source>
         <translation>Ορισμός αυτής της εφαρμογής ως προεπιλεγμένης</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="215"/>
         <source>OK</source>
         <translation>ΟΚ</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>Cancel</source>
         <translation>Άκυρο</translation>
     </message>
@@ -129,7 +129,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
         <translation type="unfinished"></translation>
     </message>

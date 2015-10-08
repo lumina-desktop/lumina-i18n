@@ -24,27 +24,27 @@
         <translation>Anpassad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
         <translation>Binärens Plats</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="138"/>
         <source>Find</source>
         <translation>Hitta</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="193"/>
         <source>Set this application as the default </source>
         <translation>Sätt detta program som standard</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="215"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -129,7 +129,7 @@
         <translation>Annat </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
         <translation>Hitta Programmets Binär </translation>
     </message>

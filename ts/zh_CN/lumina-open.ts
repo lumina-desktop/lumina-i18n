@@ -24,27 +24,27 @@
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
         <translation>二进制文件位置</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="138"/>
         <source>Find</source>
         <translation>查找</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="193"/>
         <source>Set this application as the default </source>
         <translation>设置该应用程序为默认</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="215"/>
         <source>OK</source>
         <translation>确定</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -129,7 +129,7 @@
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
         <translation>寻找二进制应用程序</translation>
     </message>

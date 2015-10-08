@@ -24,27 +24,27 @@
         <translation>Kohandatud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="145"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
         <translation>Programmi asukoht</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="152"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="138"/>
         <source>Find</source>
         <translation>Otsi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="193"/>
         <source>Set this application as the default </source>
         <translation>Määra vaikeprogrammiks </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="215"/>
         <source>OK</source>
         <translation>Olgu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
         <source>Cancel</source>
         <translation>Loobu</translation>
     </message>
@@ -129,7 +129,7 @@
         <translation>Muu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="273"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
         <translation>Leia programm</translation>
     </message>
