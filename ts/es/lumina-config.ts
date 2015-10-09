@@ -1207,12 +1207,12 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea simple para dar separación visual entre elementos.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
