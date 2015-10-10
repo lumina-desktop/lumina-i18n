@@ -475,12 +475,12 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1437"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vergelijken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
@@ -749,18 +749,18 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="263"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Links onderaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="264"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechts Onderaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="302"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="303"/>
         <source>Select Color</source>
-        <translation type="unfinished">Kleur kiezen</translation>
+        <translation>Kleur kiezen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="463"/>
@@ -904,32 +904,32 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Dag in numeriek formaat zonder voorgaande nul (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Dag in numeriek formaat met voorgaande nul (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Dag in afgekort formaat (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Dag voluit (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Maand in numeriek formaat zonder voorgaande nul (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2032"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Maand in numeriek formaat met voorgaande nul (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
