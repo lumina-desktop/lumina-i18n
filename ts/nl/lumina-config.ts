@@ -267,7 +267,7 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="240"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="296"/>
@@ -450,7 +450,7 @@ De huidige toetstoewijzingen zullen tevens worden genegeerd.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1391"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Landinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
