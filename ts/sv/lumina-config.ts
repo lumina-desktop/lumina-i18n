@@ -1212,7 +1212,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel linje för att ge visuell separation mellan objekt.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>

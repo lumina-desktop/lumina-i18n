@@ -257,133 +257,133 @@
         <translation>(Ограниченный доступ) </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="453"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="460"/>
         <source>Capacity: %1</source>
         <translation>Емкость: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="458"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="465"/>
         <source>Files: %1 (%2)</source>
         <translation>Файлы: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="463"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="470"/>
         <source>Dirs: %1</source>
         <translation>Папки: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="714"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="725"/>
         <source>New Document</source>
         <translation>Новый документ</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="714"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="735"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="725"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="746"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="725"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="736"/>
         <source>Error Creating Document</source>
         <translation>Ошибка создания документа</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="725"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="736"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>Документ не может быть создан. Пожалуйста, убедитесь, что у вас есть соответствующие права.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="735"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="746"/>
         <source>New Directory</source>
         <translation>Новый каталог</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="745"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="756"/>
         <source>Invalid Name</source>
         <translation>Недопустимое имя</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="745"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="756"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>Файл или каталог с таким именем уже существует! Пожалуйста, выберите другое имя.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="749"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="760"/>
         <source>Error Creating Directory</source>
         <translation>Ошибка создания каталога</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="749"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="760"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>Каталог не может быть создан. Пожалуйста, убедитесь, что у вас есть соответствующие права, чтобы изменить текущий каталог.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="770"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="781"/>
         <source>Current</source>
         <translation>Текущий</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="869"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="880"/>
         <source>File Checksums:</source>
         <translation>Контрольные суммы файла:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="886"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="897"/>
         <source>Missing Utility</source>
         <translation>Утилита не найдена</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="886"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="897"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>Утилита &quot;Lumina-FileInfo&quot; не может быть найдена в системе. Пожалуйста, установите ее в первую очередь.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="904"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="915"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="905"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="916"/>
         <source>Open With...</source>
         <translation>Открыть в ...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="907"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="918"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="908"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="919"/>
         <source>View Checksums</source>
         <translation>Посмотреть Контрольные суммы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="912"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="923"/>
         <source>Cut Selection</source>
         <translation>Вырезать выделенное</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="913"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="924"/>
         <source>Copy Selection</source>
         <translation>Копировать выделенное</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="914"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="925"/>
         <source>Paste</source>
         <translation>Вставить</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="916"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="927"/>
         <source>Delete Selection</source>
         <translation>Удалить выделенное</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="919"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="930"/>
         <source>File Properties</source>
         <translation>Свойства файла</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="922"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="933"/>
         <source>Open Terminal here</source>
         <translation>Открыть здесь Терминал</translation>
     </message>
@@ -667,22 +667,22 @@ New Location: %2</source>
         <translation>Файловая система: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="465"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="471"/>
         <source>Browser</source>
         <translation>Браузер</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="602"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="608"/>
         <source>Multimedia</source>
         <translation>Мультимедиа</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="620"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="626"/>
         <source>Slideshow</source>
         <translation>Слайдшоу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="809"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="800"/>
         <source>Items to be removed:</source>
         <translation>Объекты будут удалены:</translation>
     </message>
@@ -697,37 +697,37 @@ New Location: %2</source>
         <translation>У вас открыто несколько вкладок. Вы уверены, что хотите выйти?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="799"/>
         <source>Verify Removal</source>
         <translation>Проверка Удаления</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="799"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>Внимание: Это навсегда удалит файл(ы) из системы!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="808"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="799"/>
         <source>Are you sure you want to continue?</source>
         <translation>Вы уверены, что хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="770"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="761"/>
         <source>Rename File</source>
         <translation>Переименовать файл</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="770"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="761"/>
         <source>New Name:</source>
         <translation>Новое Имя:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="784"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="775"/>
         <source>Overwrite File?</source>
         <translation>Перезаписать файл?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="784"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="775"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Существующий файл с таким именем будет заменен. Вы уверены, что хотите продолжить?</translation>
     </message>
