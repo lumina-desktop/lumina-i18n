@@ -38,12 +38,12 @@
         <translation>설정하기 위해 누름</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
         <source>Select Application</source>
         <translation>프로그램 선택</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
@@ -313,6 +313,16 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
+        <source>Increase Desktop Icon Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
+        <source>Decrease Desktop Icon Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
         <translation type="unfinished"></translation>
     </message>
@@ -368,27 +378,27 @@
         <translation>창 목록</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Lumina Desktop</source>
         <translation>루미나 데스크탑</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Workspace %1</source>
         <translation>작업 공간 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="273"/>
         <source>Terminal</source>
         <translation>터미널</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Browse System</source>
         <translation>시스템 돌아보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="291"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="293"/>
         <source>Log Out</source>
         <translation>로그 아웃</translation>
     </message>

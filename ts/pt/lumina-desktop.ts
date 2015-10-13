@@ -38,12 +38,12 @@
         <translation>Clique para Definir</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
         <source>Select Application</source>
         <translation>Selecionar Aplicativo </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
@@ -313,6 +313,16 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
+        <source>Increase Desktop Icon Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
+        <source>Decrease Desktop Icon Sizes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
         <translation type="unfinished"></translation>
     </message>
@@ -368,27 +378,27 @@
         <translation>Lista de Janelas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="260"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="262"/>
         <source>Lumina Desktop</source>
         <translation>Área de Trabalho Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Workspace %1</source>
         <translation>Espaço de trabalho %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="273"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Browse System</source>
         <translation>Navegar no Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="291"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="293"/>
         <source>Log Out</source>
         <translation>Sair</translation>
     </message>
