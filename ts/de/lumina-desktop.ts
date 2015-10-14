@@ -230,32 +230,32 @@
 <context>
     <name>ItemWidget</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="34"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="35"/>
         <source>Go Back</source>
         <translation>Gehe zurück</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="133"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="135"/>
         <source>Pin to Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="139"/>
         <source>Remove from Favorites</source>
         <translation>Aus den Favoriten entfernen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="140"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="142"/>
         <source>Add to Favorites</source>
         <translation>Zu den Favoriten hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="146"/>
         <source>Remove from Quicklaunch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="149"/>
         <source>Add to Quicklaunch</source>
         <translation type="unfinished"></translation>
     </message>

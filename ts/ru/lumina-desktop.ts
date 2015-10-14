@@ -230,32 +230,32 @@
 <context>
     <name>ItemWidget</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="34"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="35"/>
         <source>Go Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="133"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="135"/>
         <source>Pin to Desktop</source>
         <translation>Вывод на рабочий стол</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="139"/>
         <source>Remove from Favorites</source>
         <translation>Удалить из избранного</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="140"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="142"/>
         <source>Add to Favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="146"/>
         <source>Remove from Quicklaunch</source>
         <translation>Удалить из Быстрого запуска</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="149"/>
         <source>Add to Quicklaunch</source>
         <translation>Добавить в Быстрый запуск</translation>
     </message>
@@ -314,12 +314,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение размеров иконок рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшение размеров иконок рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>

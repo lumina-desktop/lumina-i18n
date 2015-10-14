@@ -230,32 +230,32 @@
 <context>
     <name>ItemWidget</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="34"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="35"/>
         <source>Go Back</source>
         <translation>Gå bakåt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="133"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="135"/>
         <source>Pin to Desktop</source>
         <translation>Fäst på skrivbordet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="137"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="139"/>
         <source>Remove from Favorites</source>
         <translation>Ta bort från favoriter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="140"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="142"/>
         <source>Add to Favorites</source>
         <translation>Lägg till i favoriter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="146"/>
         <source>Remove from Quicklaunch</source>
         <translation>Ta bort från Snabbstart</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="149"/>
         <source>Add to Quicklaunch</source>
         <translation>Lägg till i Snabbstart</translation>
     </message>
@@ -314,12 +314,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka storlek på skrivbordsikonerna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minska storlek på skrivbordsikonerna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
