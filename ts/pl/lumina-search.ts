@@ -114,17 +114,22 @@
         <translation>Zrób nowy zrzut ekranu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
+        <source>Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
         <translation>Przeszukaj: %1 -- Smart: %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>Off</source>
         <translation>Wyłączone</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>On</source>
         <translation>Włączone</translation>
     </message>

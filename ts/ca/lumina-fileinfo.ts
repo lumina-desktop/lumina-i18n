@@ -5,116 +5,112 @@
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="27"/>
         <source>File Information</source>
         <translation>Informació del fitxer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
-        <source>File Properties</source>
-        <translation>Propietats del fitxer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="59"/>
         <source>Owner:</source>
         <translation>Propietari:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
         <translation>Grup:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="87"/>
         <source>Permissions:</source>
         <translation>Permisos:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="101"/>
         <source>Created:</source>
         <translation>Creat:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="108"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation>Nota: l&apos;hora de la creació d&apos;un fitxer pot ser més recent que l&apos;hora de modificació si els permisos n&apos;han canviat recentment.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="118"/>
         <source>Last Modified:</source>
         <translation>Última modificació:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="125"/>
         <source>Type:</source>
         <translation>Tipus:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="132"/>
         <source>MimeType:</source>
         <translation>Tipus MIME:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="167"/>
         <source>File Size:</source>
         <translation>Mida del fitxer:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="192"/>
         <source>Edit Shortcut</source>
         <translation>Edita la drecera</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="215"/>
         <source>Working Dir:</source>
         <translation>Directori de treball:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="222"/>
         <source>Use startup notification</source>
         <translation>Usa la notificació d&apos;inici</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="236"/>
         <source>Icon:</source>
         <translation>Icona:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="243"/>
         <source>Command:</source>
         <translation>Ordre:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="250"/>
         <source>Comment:</source>
         <translation>Comentari:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Run in terminal</source>
         <translation>Executa en un terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Options</source>
         <translation>Opcions</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="322"/>
         <source>No Icon</source>
         <translation>Sense icona</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="383"/>
         <source>Save</source>
         <translation>Desa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="390"/>
         <source>Close</source>
         <translation>Tanca</translation>
     </message>

@@ -5,116 +5,112 @@
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="27"/>
         <source>File Information</source>
         <translation>파일 정보</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
-        <source>File Properties</source>
-        <translation>파일 속성</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="59"/>
         <source>Owner:</source>
         <translation>소유자:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
         <translation>그룹:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="87"/>
         <source>Permissions:</source>
         <translation>권한:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="101"/>
         <source>Created:</source>
         <translation>만든 시간:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="108"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation>주의: 파일의 권한이 최근 바뀌었다면 파일을 만든 시간이 수정 시간보다 나중일 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="118"/>
         <source>Last Modified:</source>
         <translation>최종 수정:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="125"/>
         <source>Type:</source>
         <translation>종류:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="132"/>
         <source>MimeType:</source>
         <translation>MIME 형식:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="167"/>
         <source>File Size:</source>
         <translation>파일 크기:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="192"/>
         <source>Edit Shortcut</source>
         <translation>바로 가기 편집</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="215"/>
         <source>Working Dir:</source>
         <translation>작업 디렉터리:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="222"/>
         <source>Use startup notification</source>
         <translation>시작 알림 사용</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="236"/>
         <source>Icon:</source>
         <translation>아이콘:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="243"/>
         <source>Command:</source>
         <translation>명령:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="250"/>
         <source>Comment:</source>
         <translation>설명:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Run in terminal</source>
         <translation>터미널에서 실행</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Options</source>
         <translation>선택사항</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="322"/>
         <source>No Icon</source>
         <translation>아이콘 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="383"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="390"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>

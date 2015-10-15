@@ -5,116 +5,112 @@
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="27"/>
         <source>File Information</source>
         <translation>Faili andmed</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
-        <source>File Properties</source>
-        <translation>Faili omadused</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="59"/>
         <source>Owner:</source>
         <translation>Omanik:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="70"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
         <translation>Grupp:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="84"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="87"/>
         <source>Permissions:</source>
         <translation>Õigused:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="98"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="101"/>
         <source>Created:</source>
         <translation>Loodud:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="105"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="108"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation>Märkus: juhul kui faili õiguseid on hiljuti muudetud, võib loomisaeg olla hilisem kui muutmisaeg.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="115"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="118"/>
         <source>Last Modified:</source>
         <translation>Viimati muudetud:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="122"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="125"/>
         <source>Type:</source>
         <translation>Tüüp:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="129"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="132"/>
         <source>MimeType:</source>
         <translation>MIME-tüüp:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="164"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="167"/>
         <source>File Size:</source>
         <translation>Faili maht:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="189"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="192"/>
         <source>Edit Shortcut</source>
         <translation>Muuda otseteed</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="212"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="215"/>
         <source>Working Dir:</source>
         <translation>Töökaust:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="222"/>
         <source>Use startup notification</source>
         <translation>Kasuta käivitamisel teavitamist</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="233"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="236"/>
         <source>Icon:</source>
         <translation>Ikoon:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="240"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="243"/>
         <source>Command:</source>
         <translation>Käsk:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="247"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="250"/>
         <source>Comment:</source>
         <translation>Kommentaar:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="257"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Run in terminal</source>
         <translation>Käivita terminalis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="264"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Name:</source>
         <translation>Nimi:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Options</source>
         <translation>Valikud</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="319"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="322"/>
         <source>No Icon</source>
         <translation>Ikoon puudub</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="380"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="383"/>
         <source>Save</source>
         <translation>Salvesta</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="387"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="390"/>
         <source>Close</source>
         <translation>Sulge</translation>
     </message>

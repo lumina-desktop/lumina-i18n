@@ -114,17 +114,22 @@
         <translation>Criar nova imagem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
+        <source>Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
         <translation type="unfinished">Pesquisa: %1 -- Smart: %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>Off</source>
         <translation>Desligado</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>On</source>
         <translation>Ligado</translation>
     </message>
