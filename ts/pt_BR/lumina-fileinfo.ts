@@ -15,102 +15,102 @@
         <translation type="unfinished">Proprietário:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="76"/>
         <source>Group:</source>
         <translation type="unfinished">Grupo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="87"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="93"/>
         <source>Permissions:</source>
         <translation type="unfinished">Permissões:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="101"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="107"/>
         <source>Created:</source>
         <translation type="unfinished">Criado:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="108"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="114"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="118"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="127"/>
         <source>Last Modified:</source>
         <translation type="unfinished">Última modificação:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="125"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="134"/>
         <source>Type:</source>
         <translation type="unfinished">Tipo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="132"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="141"/>
         <source>MimeType:</source>
         <translation type="unfinished">Tipo MIME:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="167"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="188"/>
         <source>File Size:</source>
         <translation type="unfinished">Tamanho do arquivo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="192"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Edit Shortcut</source>
         <translation type="unfinished">Editar atalho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="215"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="242"/>
         <source>Working Dir:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="222"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="249"/>
         <source>Use startup notification</source>
         <translation type="unfinished">Usar notificações de inicialização</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="236"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="263"/>
         <source>Icon:</source>
         <translation type="unfinished">Ícone:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="270"/>
         <source>Command:</source>
         <translation type="unfinished">Comando:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="277"/>
         <source>Comment:</source>
         <translation type="unfinished">Comentário:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="287"/>
         <source>Run in terminal</source>
         <translation type="unfinished">Executar no terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="294"/>
         <source>Name:</source>
         <translation type="unfinished">Nome:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="301"/>
         <source>Options</source>
         <translation type="unfinished">Opções</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="322"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="349"/>
         <source>No Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="383"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="410"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="390"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="417"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>

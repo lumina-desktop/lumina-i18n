@@ -15,102 +15,102 @@
         <translation>Владелец:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="76"/>
         <source>Group:</source>
         <translation>Группа:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="87"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="93"/>
         <source>Permissions:</source>
         <translation>Разрешения:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="101"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="107"/>
         <source>Created:</source>
         <translation>Созданный:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="108"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="114"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation>Примечание: время создания файла может быть более позднее, чем время изменения, если права на файл были недавно изменены.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="118"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="127"/>
         <source>Last Modified:</source>
         <translation>Последнее изменение:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="125"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="134"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="132"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="141"/>
         <source>MimeType:</source>
         <translation>MIME-тип:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="167"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="188"/>
         <source>File Size:</source>
         <translation>Размер файла:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="192"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
         <source>Edit Shortcut</source>
         <translation>Изменить ссылку</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="215"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="242"/>
         <source>Working Dir:</source>
         <translation>Рабочий каталог:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="222"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="249"/>
         <source>Use startup notification</source>
         <translation>Уведомление</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="236"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="263"/>
         <source>Icon:</source>
         <translation>Иконка:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="243"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="270"/>
         <source>Command:</source>
         <translation>Команда:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="277"/>
         <source>Comment:</source>
         <translation>Комментарий:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="287"/>
         <source>Run in terminal</source>
         <translation>Запуск в терминале</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="294"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="301"/>
         <source>Options</source>
         <translation>Опции</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="322"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="349"/>
         <source>No Icon</source>
         <translation>Нет иконки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="383"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="410"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="390"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="417"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>

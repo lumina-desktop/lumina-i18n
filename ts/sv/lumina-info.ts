@@ -19,82 +19,82 @@
         <translation>Skrivbords Version:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="99"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="102"/>
         <source>OS Build:</source>
         <translation>OS Bygge:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="122"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="128"/>
         <source>Qt Version:</source>
         <translation>Qt-version:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="194"/>
         <source>Source Repository:</source>
         <translation>Källkods Repository:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="137"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="143"/>
         <source>View Information</source>
         <translation>Visa Information</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="165"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="171"/>
         <source>Lumina Website:</source>
         <translation>Luminas Webbsida:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="172"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="178"/>
         <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt; Öppnas i en webbläsare&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="208"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="214"/>
         <source>Report a Bug:</source>
         <translation>Rapportera ett fel:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="215"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="221"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Open in Web Browser&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Öppnas i en Webbläsare&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="233"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="239"/>
         <source>License</source>
         <translation>Licens</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
         <source>Acknowledgements</source>
         <translation>Tillkännagivanden</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="268"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="274"/>
         <source>Project Lead:</source>
         <translation>Projekt ledare:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="275"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="281"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="288"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="294"/>
         <source>Contributors:</source>
         <translation>Personer som bidragit:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="301"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="307"/>
         <source>Sponsors:</source>
         <translation>Sponsorer:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="363"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="369"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Öppnas i en webbläsare&lt;a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="389"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="395"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
