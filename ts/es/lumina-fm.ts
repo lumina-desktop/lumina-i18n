@@ -552,12 +552,12 @@ Ubicación Nueva: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="177"/>
@@ -697,22 +697,22 @@ Ubicación Nueva: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>New Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>Name:</source>
-        <translation type="unfinished">Nombre:</translation>
+        <translation>Nombre:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre no Válido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished">Este nombre de marcador ya existe. Por favor escoja otro.</translation>
+        <translation>Este nombre de marcador ya existe. Por favor elija otro.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>

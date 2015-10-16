@@ -548,7 +548,7 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
-        <source>Disk Usage</source>
+        <source>Disk I/O</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
