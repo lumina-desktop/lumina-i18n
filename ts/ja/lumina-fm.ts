@@ -773,17 +773,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="823"/>
         <source>New Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい名前:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを上書きしますか?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>既にある同名のフィアルに上書きされます。本当に続けますか?</translation>
     </message>
 </context>
 <context>
@@ -806,12 +806,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
-        <translation type="unfinished"></translation>
+        <translation>再生中:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>停止</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
