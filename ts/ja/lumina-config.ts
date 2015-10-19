@@ -426,12 +426,13 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1236"/>
         <source>Return to system defaults</source>
         <translatorcomment>ボタンのキャプション</translatorcomment>
-        <translation>システムをデフォルト設定に戻す</translation>
+        <translation>システムのデフォルト設定に戻す</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1243"/>
         <source>Return to Lumina defaults</source>
-        <translation>Lumina をデフォルト設定に戻す</translation>
+        <translatorcomment>このボタンで起動される LUtils::LoadSystemDefaults() @ libLumina/LuminaUtils.cpp は &quot;Return to system defaults&quot; のように /etc 以下のファイルはロードしない。</translatorcomment>
+        <translation>Lumina のデフォルト設定に戻す</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1731"/>
@@ -486,12 +487,13 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
         <source>Collate</source>
-        <translation>文字照合</translation>
+        <translatorcomment>collate については残しておいたほうが利用者が調べやすいと判断した</translatorcomment>
+        <translation>Collate(文字照合)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
         <source>CType</source>
-        <translation>CType</translation>
+        <translation>ctype (文字判別処理)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
