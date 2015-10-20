@@ -32,18 +32,18 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="61"/>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="87"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="46"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="72"/>
         <source>Click to Set</source>
         <translation>单击以设定</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Select Application</source>
         <translation>选择程序</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Name:</source>
         <translation>名称：</translation>
     </message>
@@ -555,27 +555,27 @@
 <context>
     <name>NotePadPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="90"/>
         <source>Note Files (*.note)</source>
         <translation>笔记文件(*.note)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="90"/>
         <source>Text Files (*)</source>
         <translation>文本文件(*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="91"/>
         <source>Open a note file</source>
         <translation>打开笔记文件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="131"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="128"/>
         <source>New Note Name:</source>
         <translation>新笔记名称：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="133"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="130"/>
         <source>Create a new note</source>
         <translation>创建新便笺</translation>
     </message>

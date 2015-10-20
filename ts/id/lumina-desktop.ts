@@ -32,18 +32,18 @@
 <context>
     <name>AppLauncherPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="61"/>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="87"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="46"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="72"/>
         <source>Click to Set</source>
         <translation>klik untuk mengatur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Select Application</source>
         <translation>Pilih Aplikasi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="145"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="130"/>
         <source>Name:</source>
         <translation>Nama:</translation>
     </message>
@@ -555,27 +555,27 @@
 <context>
     <name>NotePadPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="90"/>
         <source>Note Files (*.note)</source>
         <translation>Catatan berkas (*.note)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="90"/>
         <source>Text Files (*)</source>
         <translation>Berkas Teks (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="91"/>
         <source>Open a note file</source>
         <translation>Buka berkas catatan</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="131"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="128"/>
         <source>New Note Name:</source>
         <translation>membuka berkas catatan:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="133"/>
+        <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="130"/>
         <source>Create a new note</source>
         <translation>Membuat catatan baru</translation>
     </message>
