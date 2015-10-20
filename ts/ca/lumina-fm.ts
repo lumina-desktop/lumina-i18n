@@ -118,6 +118,11 @@
         <translation>Esborra els ítems</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <source>Stop loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
         <translation>Afegeix les imatges seleccionades a la presentació</translation>
@@ -189,11 +194,6 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
         <source>Go to home directory</source>
         <translation>Vés al directori principal</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
-        <source>Stopl loading the directory</source>
-        <translation>Atura la càrrega del directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>

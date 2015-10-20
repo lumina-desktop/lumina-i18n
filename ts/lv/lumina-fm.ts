@@ -118,6 +118,11 @@
         <translation>Dzēst vienumus</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <source>Stop loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
         <translation>Pievienot atlasīto attēlu slaidrādei</translation>
@@ -188,11 +193,6 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
-        <source>Stopl loading the directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

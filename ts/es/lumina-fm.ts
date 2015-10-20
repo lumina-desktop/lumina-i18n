@@ -118,6 +118,11 @@
         <translation>Eliminar elementos</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <source>Stop loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
         <translation>Añadir imágenes seleccionadas a la presentación</translation>
@@ -189,11 +194,6 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
         <source>Go to home directory</source>
         <translation>Ir a la carpeta personal</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
-        <source>Stopl loading the directory</source>
-        <translation>Cancelar la carga del directorio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>

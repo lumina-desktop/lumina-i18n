@@ -62,7 +62,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="231"/>
@@ -122,6 +122,11 @@
         <translation>アイテムを削除します</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <source>Stop loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
         <translation>選択した画像ファイルをスライドショーとして表示します</translation>
@@ -150,7 +155,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="93"/>
         <source>Slideshow</source>
-        <translation type="unfinished">スライドショー</translation>
+        <translation>スライドショー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
@@ -196,11 +201,6 @@
         <translation>ホームディレクトリーへ移動します</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
-        <source>Stopl loading the directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
         <source>Close this browser</source>
@@ -244,12 +244,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="464"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>使用済み容量: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="469"/>
         <source>Files: %1 (%2)</source>
-        <translation>使用済み容量: %1</translation>
+        <translation>ファイル数: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="474"/>
@@ -611,7 +611,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="234"/>
         <source>Show Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>アクションボタンを表示する</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="245"/>
@@ -720,17 +720,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>Name:</source>
-        <translation type="unfinished">名前:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">名前が無効です</translation>
+        <translation>名前が無効です</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished">このブックマーク名はすでに使用されています。別の名前を選択してください。</translation>
+        <translation>このブックマーク名はすでに使用されています。別の名前を選択してください。</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>
@@ -809,7 +809,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="107"/>
         <source>(No Running Video)</source>
-        <translation type="unfinished"></translation>
+        <translation>(再生中の動画はありません)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
@@ -829,7 +829,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
         <source>Finished</source>
-        <translation type="unfinished">完了</translation>
+        <translation>終了</translation>
     </message>
 </context>
 <context>
@@ -837,7 +837,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>
@@ -871,7 +871,8 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="212"/>
         <source>Go to Beginning</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>キャプション</translatorcomment>
+        <translation>先頭に移動します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="215"/>
@@ -879,7 +880,7 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="304"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="320"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="218"/>
@@ -889,12 +890,14 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
         <source>Go to Previous</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>キャプション</translatorcomment>
+        <translation>前に戻ります</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="234"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>キーボードショートカットなので、訳してはいけない!</translatorcomment>
+        <translation>Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="267"/>
@@ -904,17 +907,18 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="301"/>
         <source>Go to Next</source>
-        <translation type="unfinished"></translation>
+        <translation>次に移動します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="307"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>キーボードショートカットなので、訳してはいけない!</translatorcomment>
+        <translation>Right</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="317"/>
         <source>Go to End</source>
-        <translation type="unfinished"></translation>
+        <translation>末尾に移動します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="323"/>

@@ -118,6 +118,11 @@
         <translation>항목 삭제</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <source>Stop loading the directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
         <translation>선택한 그림을 슬라이드쇼에 더하기</translation>
@@ -189,11 +194,6 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
         <source>Go to home directory</source>
         <translation>홈 디렉터리로 가기</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
-        <source>Stopl loading the directory</source>
-        <translation>디렉터리 읽기 중지</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>

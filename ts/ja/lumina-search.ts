@@ -12,7 +12,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>検索開始:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
@@ -55,22 +55,23 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ツールチップ</translatorcomment>
+        <translation>検索パラメーターを設定します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
         <source>Stop Active Search</source>
-        <translation type="unfinished"></translation>
+        <translation>動作中の検索を停止</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="64"/>
         <source>Files or Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルとディレクトリー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
@@ -80,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムを起動</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="119"/>
@@ -91,7 +92,8 @@
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="122"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="125"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ツールチップ</translatorcomment>
+        <translation>スクリーンショットを保存します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="128"/>
@@ -102,37 +104,40 @@
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="133"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="136"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>終了</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="141"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>アクションボタンの文字?</translatorcomment>
+        <translation>スナップ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>動作未定義に見えるが... ZFS snapshot のこと?</translatorcomment>
+        <translation>新しいスナップショットを作成します。</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>キーボードショートカットなので訳してはいけない!</translatorcomment>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>検索: %1 -- スマート検索: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>オフ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>オン</translation>
     </message>
 </context>
 <context>
@@ -140,12 +145,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>検索しています: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>検索を開始しています: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
