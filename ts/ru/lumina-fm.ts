@@ -120,7 +120,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить загрузку каталога</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
