@@ -519,7 +519,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1870"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1872"/>
         <source>No Preview Available</source>
         <translation>Nem áll rendelkezésre előnézet</translation>
     </message>
@@ -655,49 +655,49 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
         <translation>A fájl nem létezik</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="703"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="705"/>
         <source>Find Background Image(s)</source>
         <translation>Háttérkép(ek) keresése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="937"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="939"/>
         <source>Audio Volume Up</source>
         <translation>(FEL)Hangosítás</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="938"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="940"/>
         <source>Audio Volume Down</source>
         <translation>(LE)Halkítás</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="939"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="941"/>
         <source>Screen Brightness Up</source>
         <translation>Fényerő növelése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="940"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="942"/>
         <source>Screen Brightness Down</source>
         <translation>Fényerő csökkentése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="941"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="943"/>
         <source>Take Screenshot</source>
         <translation>Képernyőkép készítése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1048"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1079"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1111"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1142"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1171"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1193"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1215"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1237"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1050"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1081"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1113"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1144"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1173"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1195"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1217"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1239"/>
         <source>Click to Set</source>
         <translation>Kattintson a beállításhoz</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1271"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1273"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -764,200 +764,200 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="463"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="723"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="725"/>
         <source>Solid Color: %1</source>
         <translation>Homogén szín: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="942"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="944"/>
         <source>Lock Screen</source>
         <translation>Képernyő lezárása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1477"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1828"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1479"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1830"/>
         <source>Select Binary</source>
         <translation>Bináris kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1484"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1831"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1486"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1833"/>
         <source>Invalid Binary</source>
         <translation>Érvénytelen bináris</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1484"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1486"/>
         <source>The selected binary is not executable!</source>
         <translation>A kiválasztott bináris nem futtatható</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1646"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1660"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1905"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1931"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1648"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1662"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1907"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1933"/>
         <source>Local</source>
         <translation>Helyi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1653"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1667"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1912"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1938"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1655"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1669"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1914"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1940"/>
         <source>System</source>
         <translation>Rendszer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1828"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1830"/>
         <source>Application Binaries (*)</source>
         <translation>Alkalmazás Binárisok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1831"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1833"/>
         <source>The selected file is not executable!</source>
         <translation>A kiválasztott fájl nem futtatható!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1845"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1847"/>
         <source>Select File</source>
         <translation>Fájl kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1845"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1847"/>
         <source>All Files (*)</source>
         <translation>Minden fájl (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1950"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1952"/>
         <source>Select an image</source>
         <translation>Egy kép kijelölése</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1951"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1953"/>
         <source>Images</source>
         <translation>Képek</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1955"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1957"/>
         <source>Reset User Image</source>
         <translation>Felhasználói kép nullázása (alapértelmezett sablonra)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1955"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1957"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation>Szeretné visszaállítani a felhasználói (profil)képet a rendszer alapértelmezett képére?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2003"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
         <source>Valid Time Codes:</source>
         <translation>Érvényes időkódok:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2004"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2006"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>%1: Óra, vezető nulla nélkül (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2005"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2007"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: Óra, vezető nullával (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2006"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2008"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: Percek, vezető nulla nélkül (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2007"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2009"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: Percek, vezető nullával (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2008"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2010"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: Másodpercek, vezető nulla nélkül (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2009"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2011"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: Másodpercek, vezető nullával (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2010"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2012"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation>%1: de/du (12-órás) óra (nagy- vagy kisbetűkkel)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2011"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2013"/>
         <source>%1: Timezone</source>
         <translation>%1: Időzóna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2012"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2014"/>
         <source>Time Codes</source>
         <translation>Időkódok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2026"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
         <source>Valid Date Codes:</source>
         <translation>Érvényes dátum-kódok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2027"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>%1: Számban megadott nap vezető nulla nélkül (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2028"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation>%1: Számokkal megadott nap vezető nullával (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2029"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: Nap, rövidítve (helyileg)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2030"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2032"/>
         <source>%1: Day as full name (localized)</source>
         <translation>%1: Nap teljes névvel (helyileg)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation>%1: Hónap számokkal, vezető nulla nélkül (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2032"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2034"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation>%1: Hónap számokkal, vezető nullával (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2035"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: Hónap rövidítve (helyileg)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2034"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2036"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: Hónap, teljes névvel (helyileg)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2035"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2037"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation>%1: Évszám utolsó két számjegye (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2036"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: Évszám négyjegyűen (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2037"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2040"/>
         <source>Date Codes</source>
         <translation>Dátum-kódok</translation>
     </message>

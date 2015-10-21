@@ -744,7 +744,7 @@ New Location: %2</source>
         <translation>スライドショー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="862"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
         <source>Items to be removed:</source>
         <translation>これらのアイテムが削除されます:</translation>
     </message>
@@ -759,37 +759,37 @@ New Location: %2</source>
         <translation>複数のタブを開いています。終了しますか?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>Verify Removal</source>
         <translation>削除の確認</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>警告: これらのファイルはシステムから永久に削除されます!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>Are you sure you want to continue?</source>
         <translation>本当に続けますか?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="823"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
         <source>Rename File</source>
         <translation>ファイル名の変更</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="823"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
         <source>New Name:</source>
         <translation>新しい名前:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
         <source>Overwrite File?</source>
         <translation>ファイルを上書きしますか?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>既にある同名のフィアルに上書きされます。本当に続けますか?</translation>
     </message>

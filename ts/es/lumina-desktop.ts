@@ -549,7 +549,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>E/S de Disco</translation>
     </message>
 </context>
 <context>

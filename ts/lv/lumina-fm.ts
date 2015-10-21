@@ -725,7 +725,7 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Slaidrāde</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="862"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
         <source>Items to be removed:</source>
         <translation>Noņemamie vienumi:</translation>
     </message>
@@ -740,37 +740,37 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Jums ir atvērtas vairākas cilnes. Vai tiešām vēlaties iziet?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>Verify Removal</source>
         <translation>Noņemšanas pārbaude</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>UZMANĪBU: Tas neatgriezeniski dzēsīs failu(-s) no sistēmas!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="861"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
         <source>Are you sure you want to continue?</source>
         <translation>Vai tiešām vēlaties turpināt?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="823"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
         <source>Rename File</source>
         <translation>Pārdēvēt failu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="823"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
         <source>New Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
         <source>Overwrite File?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
