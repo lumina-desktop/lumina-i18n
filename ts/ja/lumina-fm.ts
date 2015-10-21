@@ -258,119 +258,119 @@
         <translation>ディレクトリー: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="756"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="757"/>
         <source>New Document</source>
         <translation>新しいドキュメント</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="756"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="777"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="757"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="778"/>
         <source>Name:</source>
         <translation>名前:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="767"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="768"/>
         <source>Error Creating Document</source>
         <translation>ドキュメントの作成中にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="767"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="768"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>ドキュメントを作成できません。パーミッション設定を確認してください。</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="777"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="778"/>
         <source>New Directory</source>
         <translation>新しいディレクトリー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="788"/>
         <source>Invalid Name</source>
         <translation>名前が無効です</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="788"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>同名のファイルまたはディレクトリーが存在します。別の名前にしてください。</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="791"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
         <source>Error Creating Directory</source>
         <translation>ディレクトリーの作成時にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="791"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>ディレクトリーを作成できません。現在作業中のディレクトリーの書き込みパーミッション設定を確認してください。</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="812"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="813"/>
         <source>Current</source>
         <translatorcomment>スナップショットが存在する場合にはスナップショット名が入る</translatorcomment>
         <translation>最新版</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="919"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="920"/>
         <source>File Checksums:</source>
         <translation>ファイルのチェックサム</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="936"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="937"/>
         <source>Missing Utility</source>
         <translation>ユーティリティーがありません</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="936"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="937"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>&quot;lumina-fileinfo&quot; ユーティリティーはシステムに存在しません。先にインストールしてください。</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="954"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="955"/>
         <source>Open</source>
         <translation>開く</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="955"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="956"/>
         <source>Open With...</source>
         <translation>アプリケーションで開く...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="957"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="958"/>
         <source>Rename</source>
         <translation>名前を変更</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="958"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="959"/>
         <source>View Checksums</source>
         <translation>チェックサムを表示</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="962"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="963"/>
         <source>Cut Selection</source>
         <translation>選択したアイテムを切り取る</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="963"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="964"/>
         <source>Copy Selection</source>
         <translation>選択したアイテムをコピー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="964"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="965"/>
         <source>Paste</source>
         <translation>貼り付け</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="967"/>
         <source>Delete Selection</source>
         <translation>選択したアイテムを削除</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="969"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="970"/>
         <source>File Properties</source>
         <translation>ファイルのプロパティ</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="972"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="973"/>
         <source>Open Terminal here</source>
         <translation>ここで端末を開く</translation>
     </message>
