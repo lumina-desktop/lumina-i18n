@@ -515,7 +515,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="134"/>
         <source>Group Mode</source>
-        <translation>グループモード</translation>
+        <translation>グループ表示モード</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="150"/>
@@ -649,12 +649,14 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="63"/>
         <source>Prefer Tabs</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;New Browser&quot;で複数のファイルリストをひとつのウィンドウで表示するモードの選択肢</translatorcomment>
+        <translation>タブ表示</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="64"/>
         <source>Prefer Columns</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;New Browser&quot;で複数のファイルリストをひとつのウィンドウで表示するモードの選択肢</translatorcomment>
+        <translation>カラム表示</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="93"/>
