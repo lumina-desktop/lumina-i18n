@@ -117,7 +117,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
         <source>---Calculating---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Hesaplanıyor---</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="62"/>
@@ -198,18 +198,18 @@
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source> Folders: </source>
-        <translation type="unfinished"></translation>
+        <translation> Klasörler: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>Files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalar: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
         <source>  Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>  Hesaplanıyor...</translation>
     </message>
 </context>
 </TS>

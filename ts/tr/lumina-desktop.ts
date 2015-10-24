@@ -146,47 +146,47 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturum Başlatılıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Ayarları Yükleniyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Tercihleri Yükleniyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Preparing System Tray …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildirim Alanı Hazırlanıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager …</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere Yöneticisi Başlatılıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting Applications …</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamalar Algılanıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Preparing Menus …</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüler Hazırlanıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Preparing Workspace …</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma Alanı Hazırlanıyor …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamamlanıyor …</translation>
     </message>
 </context>
 <context>
@@ -232,32 +232,32 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="37"/>
         <source>Go Back</source>
-        <translation type="unfinished">Geri Git</translation>
+        <translation>Geri Git</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
         <source>Pin to Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstüne Sabitle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="148"/>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Sık Kullanılanlardan Kaldır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="151"/>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Sık Kullanılanlara Ekle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="155"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı Başlattan Kaldır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="158"/>
         <source>Add to Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı Başlata Ekle</translation>
     </message>
 </context>
 <context>
@@ -304,27 +304,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="36"/>
         <source>Start Moving Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğe Taşımayı Başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="37"/>
         <source>Start Resizing Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğe Yeniden Boyutlandırmayı Başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü Simge Boyutlarını Artır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Desktop Icon Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü Simge Boyutlarını Azalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğeyi Kaldır</translation>
     </message>
 </context>
 <context>
@@ -417,7 +417,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/LStartButton.h" line="51"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı Başlattan Kaldır</translation>
     </message>
 </context>
 <context>
@@ -549,7 +549,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>Disk I/O</translation>
     </message>
 </context>
 <context>
@@ -681,99 +681,99 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Aramak için yaz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="168"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalara Gözat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="193"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamalara Gözat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="225"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Denetim Paneli</translation>
+        <translation>Denetim Paneli</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="250"/>
         <source>Quick Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı Ayarlar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="290"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Çık</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="358"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamaları Yönet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="441"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstünü Yapılandır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="962"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Oturumunu Kapat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="892"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemi Yeniden Başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="917"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemi Kapat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="936"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sistem Güncellemeleri Gerçekleştiriyor)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="830"/>
         <source>Suspend System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemi Askıya Al</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="998"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="270"/>
         <source>%1% (Plugged In)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Prize Takılı)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="274"/>
         <source>%1% (%2 Estimated)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Tahmini %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="275"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% Kaldı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="291"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="418"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="429"/>
         <source>Workspace %1/%2</source>
-        <translation type="unfinished">Çalışma Alanı %1/%2</translation>
+        <translation>Çalışma Alanı %1/%2</translation>
     </message>
 </context>
 <context>

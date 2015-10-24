@@ -267,7 +267,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="240"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzen:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="296"/>
@@ -724,37 +724,37 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="258"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="259"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Döşe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="260"/>
         <source>Center</source>
-        <translation type="unfinished">Orta</translation>
+        <translation>Ortala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="261"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="262"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst Sağ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="263"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Sol</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="264"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Sağ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="302"/>
@@ -1202,32 +1202,32 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama Menüsü</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizgi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğeler arasında görsel ayrım sağlamak için basit çizgi.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Çalışma Alanı Değiştirici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstünü Göster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Birleştirilmiş sistem erişimi ve uygulama başlatma menüsü.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="164"/>

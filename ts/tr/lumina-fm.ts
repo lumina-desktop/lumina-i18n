@@ -120,7 +120,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizini yüklemeyi durdur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
@@ -517,7 +517,7 @@ Yeni Konum: %2</translation>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="171"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="174"/>
         <source>New Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Gözatıcı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="283"/>
@@ -542,22 +542,22 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="303"/>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Pencere</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="306"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Yer İmi Ekle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="177"/>
@@ -642,27 +642,27 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="93"/>
         <source>F5</source>
-        <translation type="unfinished">F5</translation>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="94"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="95"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished">Ctrl+V</translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="96"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished">Ctrl+X</translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
         <source>Delete</source>
-        <translation type="unfinished">Sil</translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
@@ -697,22 +697,22 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>New Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Yer İmi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>Name:</source>
-        <translation type="unfinished">Ad:</translation>
+        <translation>Ad:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">Geçersiz Ad</translation>
+        <translation>Geçersiz Ad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished">Bu yer imi adı zaten mevcut. Lütfen başka bir ad seçin.</translation>
+        <translation>Bu yer imi adı zaten mevcut. Lütfen başka bir ad seçin.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>
@@ -727,7 +727,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
         <source>Items to be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldırılacak öğeler:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="394"/>
