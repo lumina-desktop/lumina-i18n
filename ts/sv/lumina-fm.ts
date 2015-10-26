@@ -715,17 +715,17 @@ Ny Plats: %2</translation>
         <translation>Det här bokmärks namnet finns redan. Välj ett annat namn.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
         <source>Multimedia</source>
         <translation>Multimedia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="690"/>
         <source>Slideshow</source>
         <translation>Bildspel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
         <source>Items to be removed:</source>
         <translation>Filer som ska bli borttagna:</translation>
     </message>
@@ -740,37 +740,37 @@ Ny Plats: %2</translation>
         <translation>Du har flera flikar öppna. Är du säker på att du vill avsluta?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Verify Removal</source>
         <translation>Verifiera Borttagande</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>VARNING: Detta kommer att permanent ta bort filerna från systemet!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Are you sure you want to continue?</source>
         <translation>Är du säker på att du vill fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>Rename File</source>
         <translation>Byt namn på fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>New Name:</source>
         <translation>Nytt namn:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>Overwrite File?</source>
         <translation>Skriv över fil?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>En befintlig fil med samma namn kommer att ersättas. Är du säker på att du vill fortsätta?</translation>
     </message>

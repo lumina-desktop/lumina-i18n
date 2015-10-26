@@ -715,17 +715,17 @@ Yeni Konum: %2</translation>
         <translation>Bu yer imi adı zaten mevcut. Lütfen başka bir ad seçin.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
         <source>Multimedia</source>
         <translation>Çokluortam</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="690"/>
         <source>Slideshow</source>
         <translation>Slayt Gösterisi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
         <source>Items to be removed:</source>
         <translation>Kaldırılacak öğeler:</translation>
     </message>
@@ -740,37 +740,37 @@ Yeni Konum: %2</translation>
         <translation>Açık birden çok sekmeniz mevcut. Çıkmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Verify Removal</source>
         <translation>Kaldırmayı Doğrula</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>UYARI: Bu dosya ya da dosyaları sistemden kalıcı olarak silecektir!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Are you sure you want to continue?</source>
         <translation>Devam etmek istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>Rename File</source>
         <translation>Dosyayı Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>New Name:</source>
         <translation>Yeni Ad:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>Overwrite File?</source>
         <translation>Dosyanın Üzerine Yazılsın Mı?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Aynı ada sahip mevcut bir dosya yenisiyle değiştirilecek. İlerlemek istediğinize emin misiniz?</translation>
     </message>

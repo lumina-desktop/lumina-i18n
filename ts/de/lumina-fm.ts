@@ -716,17 +716,17 @@ Neue Position: %2</translation>
         <translation>Der Name des Lesezeichens ist bereits vorhanden. Bitte einen anderen Namen wählen.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="670"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
         <source>Multimedia</source>
         <translation>Multimedia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="690"/>
         <source>Slideshow</source>
         <translation>Präsentation</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="865"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
         <source>Items to be removed:</source>
         <translation>Elemente, welche entfernt werden sollen:</translation>
     </message>
@@ -741,37 +741,37 @@ Neue Position: %2</translation>
         <translation>Es sind mehrere Reiter offen. Soll wirklich beendet werden?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Verify Removal</source>
         <translation>Entfernen überprüfen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>ACHTUNG: Dies wird die Datei(en) dauerhaft vom System entfernen!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="864"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>Are you sure you want to continue?</source>
         <translation>Sind Sie sicher, dass Sie fortsetzen möchten?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>Rename File</source>
         <translation>Datei umbenennen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="825"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
         <source>New Name:</source>
         <translation>Neuer Name:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>Overwrite File?</source>
         <translation>Datei überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="839"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Eine vorhandene Datei mit dem gleichen Namen wird ersetzt. Fortfahren?</translation>
     </message>
