@@ -120,7 +120,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura la càrrega del directori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
@@ -552,12 +552,12 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una adreça d&apos;interès</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="177"/>
@@ -697,22 +697,22 @@ Localització nova: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>New Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça d&apos;interès nova</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">El nom no és vàlid</translation>
+        <translation>El nom no és vàlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished">Aquest nom de marcador ja existeix. Trieu-ne un altre.</translation>
+        <translation>Aquest nom d&apos;adreça d&apos;interès ja existeix. Trieu-ne un altre.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
