@@ -5,112 +5,112 @@
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="27"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Information</source>
         <translation type="unfinished">Information Fichier</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="59"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
         <translation type="unfinished">Propriétaire:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="76"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
         <translation type="unfinished">Groupe:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="93"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="90"/>
         <source>Permissions:</source>
         <translation type="unfinished">Permissions:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="107"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="104"/>
         <source>Created:</source>
         <translation type="unfinished">Créé:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="114"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="111"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation type="unfinished">Note: La date à laquelle un fichier est créé peut être plus récente que la date de modification si les permissions du fichier ont été modifiées récemment.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="127"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="124"/>
         <source>Last Modified:</source>
         <translation type="unfinished">Dernière Modification:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="134"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="131"/>
         <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="141"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="138"/>
         <source>MimeType:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="185"/>
         <source>File Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="216"/>
         <source>Edit Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="242"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="249"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="246"/>
         <source>Use startup notification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="263"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Icon:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="270"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Command:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="277"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Comment:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="287"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="284"/>
         <source>Run in terminal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="294"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="291"/>
         <source>Name:</source>
         <translation type="unfinished">Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="301"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="298"/>
         <source>Options</source>
         <translation type="unfinished">Options</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="349"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
         <source>No Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="410"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="417"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -165,49 +165,49 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="245"/>
         <source>Select a binary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Error</source>
         <translation type="unfinished">Erreur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Invalid selection: Not a valid executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="260"/>
         <source>Select a directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Select an icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Images (%1);; All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source> Folders: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>Files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>  Calculating...</source>
         <translation type="unfinished"></translation>
     </message>

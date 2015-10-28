@@ -5,112 +5,112 @@
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="27"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Information</source>
         <translation>Información del Archivo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="59"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
         <translation>Propietario:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="76"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
         <translation>Grupo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="93"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="90"/>
         <source>Permissions:</source>
         <translation>Permisos:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="107"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="104"/>
         <source>Created:</source>
         <translation>Creado:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="114"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="111"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
         <translation>Nota: La fecha en la que un archivo fue creado puede ser más reciente que la fecha en la que se modificó, si los permisos del archivo cambiaron recientemente.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="127"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="124"/>
         <source>Last Modified:</source>
         <translation>Última Modificación:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="134"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="131"/>
         <source>Type:</source>
         <translation>Tipo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="141"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="138"/>
         <source>MimeType:</source>
         <translation>Tipo MIME:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="185"/>
         <source>File Size:</source>
         <translation>Tamaño del Archivo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="219"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="216"/>
         <source>Edit Shortcut</source>
         <translation>Editar Acceso Directo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="242"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
         <translation>Directorio de Trabajo:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="249"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="246"/>
         <source>Use startup notification</source>
         <translation>Usar notificación al inicio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="263"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Icon:</source>
         <translation>Icono:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="270"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Command:</source>
         <translation>Comando:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="277"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Comment:</source>
         <translation>Comentario:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="287"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="284"/>
         <source>Run in terminal</source>
         <translation>Ejecutar en terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="294"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="291"/>
         <source>Name:</source>
         <translation>Nombre:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="301"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="298"/>
         <source>Options</source>
         <translation>Opciones</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="349"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
         <source>No Icon</source>
         <translation>Sin Icono</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="410"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
         <source>Save</source>
         <translation>Guardar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="417"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
         <source>Close</source>
         <translation>Cerrar</translation>
     </message>
@@ -165,49 +165,49 @@
         <translation>URL:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="243"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="245"/>
         <source>Select a binary</source>
         <translation>Seleccione un ejecutable</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="246"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Invalid selection: Not a valid executable</source>
         <translation>Selección no válida: Ejecutable no válido</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="258"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="260"/>
         <source>Select a directory</source>
         <translation>Seleccione un directorio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Select an icon</source>
         <translation>Seleccione un icono</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="271"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Images (%1);; All Files (*)</source>
         <translation>Imágenes (%1);; Todos los Archivos (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source> Folders: </source>
         <translation>Directorios:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="294"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>Files: </source>
         <translation>Archivos:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>  Calculating...</source>
         <translation>Calculando…</translation>
     </message>
