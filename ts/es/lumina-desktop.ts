@@ -188,6 +188,11 @@
         <source>Finalizing …</source>
         <translation>Finalizando ...</translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
+        <source>Starting App: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DesktopViewPlugin</name>

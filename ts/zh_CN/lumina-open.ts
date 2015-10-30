@@ -137,59 +137,59 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="49"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="50"/>
         <source>File Error</source>
         <translation>文件错误</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="167"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="173"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="185"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="191"/>
         <source>Audio Volume %1%</source>
         <translation>音频音量 %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="181"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="190"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="199"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
         <source>Screen Brightness %1%</source>
         <translation>屏幕亮度 %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="212"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
         <source>Invalid file or URL: %1</source>
         <translation>无效的文件或网址：%1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="234"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="252"/>
         <source>File could not be opened: %1</source>
         <translation>无法打开文件： %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="243"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>应用程序快捷方式缺少启动信息（错误的快捷方式）：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="254"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="272"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>网址快捷方式缺少网址 : %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="283"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>目录的快捷方式是丢失目录的路径 : %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="270"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="288"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>未知类型的快捷方式：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
         <source>Application Error</source>
         <translation>应用程序出错</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="374"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>下面的应用程序遇到错误，需要关闭</translation>
     </message>
