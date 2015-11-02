@@ -191,7 +191,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciant l&apos;aplicació: %1</translation>
     </message>
 </context>
 <context>
