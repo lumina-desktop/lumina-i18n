@@ -194,7 +194,8 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>スプラッシュ画面のテキスト</translatorcomment>
+        <translation>アプリケーションを起動しています: %1</translation>
     </message>
 </context>
 <context>
