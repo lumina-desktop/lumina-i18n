@@ -324,13 +324,13 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
-        <source>Increase Desktop Icon Sizes</source>
-        <translation>デスクトップアイコンを大きくする</translation>
+        <source>Increase Item Sizes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
-        <source>Decrease Desktop Icon Sizes</source>
-        <translation>デスクトップアイコンを小さくする</translation>
+        <source>Decrease Item Sizes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>

@@ -318,13 +318,13 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
-        <source>Increase Desktop Icon Sizes</source>
-        <translation>Augmenta la mida de les icones de l&apos;escriptori</translation>
+        <source>Increase Item Sizes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
-        <source>Decrease Desktop Icon Sizes</source>
-        <translation>Redueix la mida de les icones de l&apos;escriptori</translation>
+        <source>Decrease Item Sizes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
