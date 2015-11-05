@@ -155,7 +155,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation>Seçimi çokluortam oynatıcıda sıraya al</translation>
+        <translation>Seçimi multimedya oynatıcıda sıraya al</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="112"/>
@@ -717,7 +717,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
         <source>Multimedia</source>
-        <translation>Çokluortam</translation>
+        <translation>Multimedya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="690"/>

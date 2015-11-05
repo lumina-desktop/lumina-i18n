@@ -68,7 +68,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Multimedia</source>
-        <translation>Çoklu Ortam</translation>
+        <translation>Multimedya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulama Başlatılıyor: %1</translation>
     </message>
 </context>
 <context>
@@ -319,12 +319,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğe Boyutlarını Büyüt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Öğe Boyutlarını Küçült</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
@@ -620,27 +620,27 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="100"/>
         <source>Multimedia Files</source>
-        <translation>Çoklu Ortam Dosyaları</translation>
+        <translation>Multimedya Dosyaları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="101"/>
         <source>Select Multimedia Files</source>
-        <translation>Çoklu Ortam Dosyaları Seç</translation>
+        <translation>Multimedya Dosyaları Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="128"/>
         <source>Select Multimedia Directory</source>
-        <translation>Çoklu Ortam Dizini Seç</translation>
+        <translation>Multimedya Dizini Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="157"/>
         <source>Enter a valid URL for a multimedia file or stream:</source>
-        <translation>Bir çoklu ortam dosyası ya da akışı için geçerli bir URL girin:</translation>
+        <translation>Bir multimedya dosyası ya da akışı için geçerli bir URL girin:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation>Çoklu ortam URL</translation>
+        <translation>Multimedya URL</translation>
     </message>
 </context>
 <context>
@@ -965,7 +965,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="289"/>
         <source>Multimedia</source>
-        <translation>Çoklu Ortam</translation>
+        <translation>Multimedya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="290"/>

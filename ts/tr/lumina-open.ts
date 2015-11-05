@@ -71,7 +71,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Multimedia</source>
-        <translation>Çoklu Ortam</translation>
+        <translation>Multimedya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
