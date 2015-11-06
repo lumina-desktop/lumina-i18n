@@ -155,7 +155,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj wybrany element do kolejki odtwarzacza multimediów</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="112"/>

@@ -191,7 +191,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchamianie: %1</translation>
     </message>
 </context>
 <context>
@@ -319,12 +319,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwiększ wielkość elementu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmniejsz wielkość elementu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>

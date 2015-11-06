@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="da">
 <context>
     <name>AppLaunchButtonPlugin</name>
     <message>
@@ -186,12 +186,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Afslutter ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Starter Progr: %1</translation>
     </message>
 </context>
 <context>
@@ -199,37 +199,37 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="28"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Klip</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="31"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
         <source>Increase Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Forøg ikoner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="34"/>
         <source>Decrease Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Formindsk ikoner</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="39"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskaber</translation>
     </message>
 </context>
 <context>
@@ -237,12 +237,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="37"/>
         <source>Go Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbage</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
         <source>Pin to Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sæt på skrivebordet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="148"/>
@@ -824,7 +824,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="33"/>
         <source>Go Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilbage</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
