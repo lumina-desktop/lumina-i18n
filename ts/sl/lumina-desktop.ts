@@ -240,27 +240,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="150"/>
         <source>Pin to Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="154"/>
         <source>Remove from Favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="151"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="157"/>
         <source>Add to Favorites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="155"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="161"/>
         <source>Remove from Quicklaunch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="158"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="164"/>
         <source>Add to Quicklaunch</source>
         <translation type="unfinished"></translation>
     </message>
@@ -694,89 +694,94 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="168"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="171"/>
         <source>Browse Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="193"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
         <source>Browse Applications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="225"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
         <source>Control Panel</source>
         <translation type="unfinished">Nadzorna plošča</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="250"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
         <source>Quick Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="290"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="358"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
         <source>Manage Applications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="441"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
+        <source>Show Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="488"/>
         <source>Configure Desktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="962"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1042"/>
         <source>Sign Out User</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="892"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
         <source>Restart System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="917"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>
         <source>Power Off System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="936"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1013"/>
         <source>(System Performing Updates)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="830"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="901"/>
         <source>Suspend System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="998"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1081"/>
         <source>Back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="270"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="346"/>
         <source>%1% (Plugged In)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="274"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="350"/>
         <source>%1% (%2 Estimated)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="275"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="351"/>
         <source>%1% Remaining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="291"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="418"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="429"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="367"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="511"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="522"/>
         <source>Workspace %1/%2</source>
         <translation type="unfinished"></translation>
     </message>
