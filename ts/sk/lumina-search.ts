@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="sk">
 <context>
     <name>ConfigUI</name>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="14"/>
         <source>Search Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenie vyhľadávania </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začať vyhľadávať </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Vylúčené priečinky </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť ako predvolené </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte priečinok na vyhľadanie </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Okrem priečinkov </translation>
     </message>
 </context>
 <context>
@@ -44,94 +44,94 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhľadať... </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Text na vyhľadanie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenie parametrov pre vyhľadávanie </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
         <source>Stop Active Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastaviť aktuálne vyhľadávanie </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="54"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikácie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="64"/>
         <source>Files or Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbory alebo adresáre </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatvoriť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustiť položku </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="119"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="122"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="125"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť snímku obrazovky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="128"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="133"/>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="136"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončiť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="141"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Prichytiť </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Urobiť novú snímku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhľadávanie %1 -- %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypnuté </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapnuté </translation>
     </message>
 </context>
 <context>
@@ -139,17 +139,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhľadávam: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustenie vyhľadávania %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhľadávanie ukončené </translation>
     </message>
 </context>
 </TS>
