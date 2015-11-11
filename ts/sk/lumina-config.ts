@@ -106,12 +106,12 @@ Má sa prepísať?</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="77"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrať</translation>
     </message>
 </context>
 <context>
@@ -139,12 +139,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Desktop Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenie pracovnej plochy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Číslo obrazovky: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="197"/>
@@ -159,7 +159,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="214"/>
         <source> Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation> minút(y)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="217"/>
@@ -210,42 +210,42 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="945"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient elektronickej pošty:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="972"/>
         <source>File Manager:</source>
-        <translation type="unfinished"></translation>
+        <translation>Správca súborov:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="985"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtuálny terminál: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1021"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Špecifické typy súborov </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1063"/>
         <source>Default Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvolená aplikácia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1068"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1078"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyčistiť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1101"/>
         <source>Set App</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenie aplikácie </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1111"/>
@@ -321,27 +321,27 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="481"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednoduchý prístup k menu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="504"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložené utility</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="603"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazenie obsahu zložky Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="830"/>
         <source>Auto-Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky spustené </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="851"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikácia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="861"/>
@@ -391,7 +391,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1274"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formát času:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1286"/>
