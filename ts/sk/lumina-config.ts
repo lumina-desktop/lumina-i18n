@@ -1385,12 +1385,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="304"/>
         <source>Main background color for the window/dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Farba pozadia pre okno/dialóg. </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="309"/>
         <source>Base Window Color (Alternate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Základná farba okna (alternatíva) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="310"/>
@@ -1400,12 +1400,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="315"/>
         <source>Primary Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Primárna farba</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="316"/>
         <source>Dominant color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Základná farba pre tému. </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="321"/>
@@ -1460,17 +1460,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="351"/>
         <source>Highlight Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Farba zvýraznenia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="352"/>
         <source>Color used for highlighting an item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Farba používaná pre zvýraznenie položiek. </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="357"/>
         <source>Highlight Color (Disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Farba zvýraznenia (deaktivovaná)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="358"/>
