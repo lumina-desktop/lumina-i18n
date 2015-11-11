@@ -192,7 +192,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation>Obrázky (%2);;Všetky súbory (*)</translation>
+        <translation>Obrázky (%1);;Všetky súbory (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="296"/>

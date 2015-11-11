@@ -776,7 +776,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="351"/>
         <source>%1% Remaining</source>
-        <translation>Zostáva %1</translation>
+        <translation>Zostáva %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="367"/>

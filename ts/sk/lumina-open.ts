@@ -166,7 +166,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation>Zástupca aplikácie - chýbajúce informacie</translation>
+        <translation>Zástupca aplikácie - chýbajúce informácie: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="272"/>
