@@ -325,12 +325,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムを大きくする</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムを小さくする</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
@@ -740,7 +740,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
         <source>Show Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリー別表示</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="488"/>
