@@ -267,7 +267,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="240"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Elrendezés:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="296"/>
@@ -303,7 +303,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="358"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished">Színséma:</translation>
+        <translation>Színséma:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="374"/>
@@ -455,17 +455,17 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyelv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenetek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Idő</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1427"/>
