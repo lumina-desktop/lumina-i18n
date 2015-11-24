@@ -55,8 +55,8 @@
     <name>AppMenu</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
-        <source>Open Home</source>
-        <translation>ホームを開く</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">ファイルを探索</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
@@ -405,9 +405,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
-        <source>Browse System</source>
-        <translatorcomment>ファイルマネージャーを起動する</translatorcomment>
-        <translation>システムを探索する</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">ファイルを探索</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
@@ -657,11 +656,6 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
-        <source>Settings</source>
-        <translation>設定</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="29"/>
         <source>Screensaver</source>
         <translation>スクリーンセーバー</translation>
@@ -672,9 +666,14 @@
         <translation>デスクトップ</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
-        <source>Screen Configuration</source>
-        <translation>画面の設定</translation>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
@@ -722,11 +721,6 @@
         <translation>コントロールパネル</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
-        <source>Quick Settings</source>
-        <translation>クイック設定</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
         <translatorcomment>「ログアウト」ダイアログに移動するボタン。画面ロックなど、本当のログアウト以外の動作もあるので、&quot;Leave&quot;?</translatorcomment>
@@ -756,6 +750,11 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
         <source>Restart System</source>
         <translation>システムの再起動</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>

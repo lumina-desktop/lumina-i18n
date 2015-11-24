@@ -52,8 +52,8 @@
     <name>AppMenu</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
-        <source>Open Home</source>
-        <translation>Öffne Home</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">Dateien durchsehen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
@@ -399,8 +399,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
-        <source>Browse System</source>
-        <translation>System durchstöbern</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">Dateien durchsehen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
@@ -646,11 +646,6 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="29"/>
         <source>Screensaver</source>
         <translation>Bildschirmschoner</translation>
@@ -661,9 +656,14 @@
         <translation>Arbeitsfläche</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
-        <source>Screen Configuration</source>
-        <translation>Bildschirmkonfiguration</translation>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
@@ -709,11 +709,6 @@
         <translation>Kontrollleiste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
-        <source>Quick Settings</source>
-        <translation>Schnelleinstellungen</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
         <translation>Verlassen</translation>
@@ -742,6 +737,11 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
         <source>Restart System</source>
         <translation>System neustarten</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>

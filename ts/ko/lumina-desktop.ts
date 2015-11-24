@@ -52,8 +52,8 @@
     <name>AppMenu</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
-        <source>Open Home</source>
-        <translation>홈 열기</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">파일 둘러보기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
@@ -399,8 +399,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
-        <source>Browse System</source>
-        <translation>시스템 돌아보기</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">파일 둘러보기</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
@@ -646,11 +646,6 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
-        <source>Settings</source>
-        <translation>설정</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="29"/>
         <source>Screensaver</source>
         <translation>화면 보호기</translation>
@@ -661,9 +656,14 @@
         <translation>바탕 화면</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
-        <source>Screen Configuration</source>
-        <translation>화면 설정</translation>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
@@ -709,11 +709,6 @@
         <translation>제어판</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
-        <source>Quick Settings</source>
-        <translation>빠른 설정</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
         <translation>떠나기</translation>
@@ -742,6 +737,11 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
         <source>Restart System</source>
         <translation>시스템 재시동</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>

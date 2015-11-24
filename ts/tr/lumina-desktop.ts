@@ -52,8 +52,8 @@
     <name>AppMenu</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
-        <source>Open Home</source>
-        <translation>Ev Dizinini Aç</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">Dosyalara Gözat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
@@ -399,8 +399,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
-        <source>Browse System</source>
-        <translation>Sisteme Gözat</translation>
+        <source>Browse Files</source>
+        <translation type="unfinished">Dosyalara Gözat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
@@ -646,11 +646,6 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
-        <source>Settings</source>
-        <translation>Ayarlar</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="29"/>
         <source>Screensaver</source>
         <translation>Ekran Koruyucu</translation>
@@ -661,9 +656,14 @@
         <translation>Masaüstü</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
-        <source>Screen Configuration</source>
-        <translation>Ekran Yapılandırması</translation>
+        <source>Display</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
@@ -709,11 +709,6 @@
         <translation>Denetim Paneli</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
-        <source>Quick Settings</source>
-        <translation>Hızlı Ayarlar</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
         <translation>Çık</translation>
@@ -742,6 +737,11 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
         <source>Restart System</source>
         <translation>Sistemi Yeniden Başlat</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
+        <source>Preferences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>
