@@ -137,11 +137,6 @@ Current keyboard bindings will also be ignored.</source>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>桌面配置</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
         <translation>屏幕编号：</translation>
@@ -257,6 +252,11 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>主题</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

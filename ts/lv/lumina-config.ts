@@ -139,11 +139,6 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>Darbvirsmas konfigurācija</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
         <translation>Ekrāna numurs:</translation>
@@ -258,6 +253,11 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>Tēma</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

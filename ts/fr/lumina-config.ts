@@ -139,11 +139,6 @@ Les raccourcis clavier courants seront également ignorés.</translation>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>Configuration du bureau</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
         <translation>Numéro de l&apos;écran:</translation>
@@ -258,6 +253,11 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>Thème</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

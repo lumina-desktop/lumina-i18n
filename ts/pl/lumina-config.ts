@@ -139,11 +139,6 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>Konfiguracja pulpitu</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
         <translation>Numer ekranu:</translation>
@@ -258,6 +253,11 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>Motyw</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

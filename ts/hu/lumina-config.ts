@@ -139,11 +139,6 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>Asztal beállítása</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
         <translation>Képernyőszám:</translation>
@@ -258,6 +253,11 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>Téma</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

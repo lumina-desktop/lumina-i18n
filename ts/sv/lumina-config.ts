@@ -119,12 +119,12 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="14"/>
         <source>Key Press Detection</source>
-        <translation>Tangent nertryckt detektion</translation>
+        <translation>Kortkommandon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
         <source>Press the keys you wish to assign.</source>
-        <translation>Tryck på tangenterna du vill tilldela.</translation>
+        <translation>Ange kortkommando.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="65"/>
@@ -139,14 +139,9 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
 <context>
     <name>MainUI</name>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
-        <source>Desktop Configuration</source>
-        <translation>Skrivbordskonfiguration</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation>Skärmnummer:</translation>
+        <translation>Skrivbordskonfiguration</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="197"/>
@@ -258,6 +253,11 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="290"/>
         <source>Theme</source>
         <translation>Tema</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
+        <source>Lumina Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
@@ -515,13 +515,13 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
         <source>Window Theme Preview</source>
-        <translation>Förhandsvisning av Fönstertema</translation>
+        <translation>Förhandsgranska Fönstertema </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1872"/>
         <source>No Preview Available</source>
-        <translation>Ingen förhandsvisning tillgänglig</translation>
+        <translation>Ingen förhandsgransning tillgänglig</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1638"/>
@@ -601,12 +601,12 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="224"/>
         <source>Align in a Row</source>
-        <translation>Justera radvis</translation>
+        <translation>Sortera radvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
         <source>Align in a Column</source>
-        <translation>Justera kolumnvis</translation>
+        <translation>Sortera kolumnvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
@@ -616,7 +616,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
         <source>Underneath Mouse</source>
-        <translation>Under musen</translation>
+        <translation>Under mus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="433"/>
