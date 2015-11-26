@@ -257,7 +257,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>

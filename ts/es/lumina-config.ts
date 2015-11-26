@@ -257,7 +257,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones de Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
