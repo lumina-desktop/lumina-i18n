@@ -268,14 +268,99 @@
 <context>
     <name>LAppMenuPlugin</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="31"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="34"/>
         <source>Quickly launch applications or open files</source>
         <translation>Schnell ein Programm oder eine Datei öffnen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="32"/>
-        <source>Start Here</source>
-        <translation>Hier beginnen</translation>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="35"/>
+        <source>Applications</source>
+        <translation type="unfinished">Anwendungen</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="59"/>
+        <source>Browse Files</source>
+        <translation type="unfinished">Dateien durchsehen</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="64"/>
+        <source>Install Applications</source>
+        <translation type="unfinished">Anwendungen installieren</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="70"/>
+        <source>Control Panel</source>
+        <translation type="unfinished">Kontrollleiste</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="81"/>
+        <source>Multimedia</source>
+        <translation type="unfinished">Multimedia</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="82"/>
+        <source>Development</source>
+        <translation type="unfinished">Entwicklung</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="83"/>
+        <source>Education</source>
+        <translation type="unfinished">Bildung</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="84"/>
+        <source>Games</source>
+        <translation type="unfinished">Spiele</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="85"/>
+        <source>Graphics</source>
+        <translation type="unfinished">Grafik</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="86"/>
+        <source>Network</source>
+        <translation type="unfinished">Netzwerk</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="87"/>
+        <source>Office</source>
+        <translation type="unfinished">Büro</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="88"/>
+        <source>Science</source>
+        <translation type="unfinished">Wissenschaft</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="89"/>
+        <source>Settings</source>
+        <translation type="unfinished">Einstellungen</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="90"/>
+        <source>System</source>
+        <translation type="unfinished">System</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
+        <source>Utility</source>
+        <translation type="unfinished">Dienstprogramm</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
+        <source>Wine</source>
+        <translation type="unfinished">Wine</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
+        <source>Unsorted</source>
+        <translation type="unfinished">Unsortiert</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="130"/>
+        <source>Leave</source>
+        <translation type="unfinished">Verlassen</translation>
     </message>
 </context>
 <context>
@@ -404,8 +489,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
-        <source>Log Out</source>
-        <translation>Abmelden</translation>
+        <source>Leave</source>
+        <translation type="unfinished">Verlassen</translation>
     </message>
 </context>
 <context>

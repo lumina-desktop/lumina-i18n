@@ -55,46 +55,56 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="221"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Open in Web Browser&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="239"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="244"/>
+        <source>Community Support:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="251"/>
+        <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="262"/>
         <source>License</source>
         <translation>许可协议</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="279"/>
         <source>Acknowledgements</source>
         <translation>致谢</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="274"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="297"/>
         <source>Project Lead:</source>
         <translation>项目领导：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="281"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="304"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="294"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="317"/>
         <source>Contributors:</source>
         <translation>贡献者：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="307"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="330"/>
         <source>Sponsors:</source>
         <translation>赞助者</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="369"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="392"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;打开网络浏览器&lt;a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="395"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="418"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>

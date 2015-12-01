@@ -55,46 +55,56 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="221"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Open in Web Browser&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;웹 브라우저로 열기&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="239"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="244"/>
+        <source>Community Support:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="251"/>
+        <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="262"/>
         <source>License</source>
         <translation>라이센스</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="256"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="279"/>
         <source>Acknowledgements</source>
         <translation>감사의 글</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="274"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="297"/>
         <source>Project Lead:</source>
         <translation>프로젝트 리드:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="281"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="304"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="294"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="317"/>
         <source>Contributors:</source>
         <translation>기여한 사람들:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="307"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="330"/>
         <source>Sponsors:</source>
         <translation>후원자:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="369"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="392"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;웹 브라우저로 열기&lt;a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="395"/>
+        <location filename="../../lumina-git/lumina-info/MainUI.ui" line="418"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
