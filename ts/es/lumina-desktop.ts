@@ -468,27 +468,27 @@
         <translation>Lista de Ventanas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
         <source>Lumina Desktop</source>
         <translation>Escritorio Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
         <source>Workspace %1</source>
         <translation>Área de trabajo %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
         <source>Terminal</source>
         <translation>Terminal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
         <source>Browse Files</source>
         <translation>Explorar Archivos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="297"/>
         <source>Leave</source>
         <translation type="unfinished">Salir</translation>
     </message>

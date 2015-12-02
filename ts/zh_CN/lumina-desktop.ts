@@ -468,27 +468,27 @@
         <translation>窗口列表</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="265"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
         <source>Lumina Desktop</source>
         <translation>Lumina桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
         <source>Workspace %1</source>
         <translation>工作空间 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
         <source>Terminal</source>
         <translation>终端</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
         <source>Browse Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="296"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="297"/>
         <source>Leave</source>
         <translation type="unfinished"></translation>
     </message>
