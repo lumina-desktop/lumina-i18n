@@ -333,17 +333,17 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificar Acceso Directo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="768"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar Cambios</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="778"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar Combinación de Teclas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>

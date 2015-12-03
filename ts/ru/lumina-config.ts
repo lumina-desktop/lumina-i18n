@@ -332,17 +332,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить ярлык</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="768"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить изменения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="778"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить горячие клавиши:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>
