@@ -468,27 +468,27 @@
         <translation>Список Окон</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
         <source>Lumina Desktop</source>
         <translation>Рабочий стол Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="268"/>
         <source>Workspace %1</source>
         <translation>Рабочая Область %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
         <source>Terminal</source>
         <translation>Терминал</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
         <source>Browse Files</source>
         <translation>Просмотр файлов</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="297"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="298"/>
         <source>Leave</source>
         <translation>Оставить</translation>
     </message>

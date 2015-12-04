@@ -468,27 +468,27 @@
         <translation>Leihoen zerrenda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="266"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Mahaigaina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="267"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="268"/>
         <source>Workspace %1</source>
         <translation>%1 laneko area</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="277"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
         <source>Terminal</source>
         <translation>Terminala</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="278"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
         <source>Browse Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="297"/>
+        <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="298"/>
         <source>Leave</source>
         <translation type="unfinished"></translation>
     </message>
