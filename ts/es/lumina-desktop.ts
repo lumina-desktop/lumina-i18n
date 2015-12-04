@@ -841,7 +841,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1042"/>
         <source>Sign Out User</source>
-        <translation>Desloguear Usuario</translation>
+        <translation>Cerrar Sesión</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
