@@ -929,42 +929,42 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2057"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: Jour nom complet (localisée)</translation>
+        <translation>%1: Jour nom complet (localisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2058"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Mois format numérique court (2)</translation>
+        <translation type="unfinished">%1: Mois en format 1 ou 2 chiffres (ex: 2, 12)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2059"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Mois format numérique long (02)</translation>
+        <translation type="unfinished">%1: Mois en format 2 chiffres (ex: 02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2060"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Mois format alphanumérique court (localisé)</translation>
+        <translation type="unfinished">%1: Mois en format lettres court (localisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2061"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished">%1: Mois format alphanumérique long (localisé)</translation>
+        <translation type="unfinished">%1: Mois en format lettres long (localisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2062"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished">%1: Année format numérique sur 2 digits (15)</translation>
+        <translation type="unfinished">%1: Année format numérique sur 2 chiffres (ex: 15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2063"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Année en format numérique sur 4 chiffres (ex: 2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2064"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished"></translation>
+        <translation>Le texte peut être inclus dans des apostrophes afin d&apos;ignorer les substitutions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2065"/>
@@ -1032,7 +1032,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="257"/>
         <source>Sample</source>
-        <translation type="unfinished">Échantillon</translation>
+        <translation type="unfinished">Exemple</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="287"/>
@@ -1212,27 +1212,27 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu de l&apos;application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="93"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="94"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne simple indiquant la séparation des items</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélecteur d&apos;espace de travail</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
@@ -1437,7 +1437,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="328"/>
         <source>Alternate color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur alternative pour le thème</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="333"/>
@@ -1487,7 +1487,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="358"/>
         <source>Color used for highlighting an item (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur utilisée pour mettre en évidence un objet (plus atténuée).</translation>
     </message>
 </context>
 <context>
@@ -1520,20 +1520,21 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Appliquer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>Theme Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème existant</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>This theme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce thème existe déjà.
+ Voulez-vous l&apos;écraser ?</translation>
     </message>
 </context>
 </TS>
