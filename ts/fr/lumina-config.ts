@@ -1032,12 +1032,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="257"/>
         <source>Sample</source>
-        <translation type="unfinished">Exemple</translation>
+        <translation>Échantillon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="287"/>
         <source>Plugins</source>
-        <translation type="unfinished">Greffons</translation>
+        <translation type="unfinished">Modules</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
@@ -1237,7 +1237,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accès simplifié au serveur et Menu de lancement d&apos;application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="164"/>
@@ -1252,7 +1252,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="188"/>
         <source>Desktop Icons View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vues des Icônes du bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="189"/>
@@ -1267,7 +1267,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="196"/>
         <source>Keep simple text notes on your desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Garder les notes texte simples sur votre bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="202"/>
