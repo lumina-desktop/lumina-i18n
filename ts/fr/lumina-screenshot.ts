@@ -16,12 +16,12 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
         <source>New Screenshot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveaux paramètres de capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure les bordures</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
@@ -41,17 +41,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Toute la session</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fenêtre unique</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="92"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecran unique</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="134"/>
@@ -84,17 +84,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliché</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Prendre un nouveau cliché</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers PNG (*.png);;Tous les fichiers (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="88"/>

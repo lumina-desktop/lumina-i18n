@@ -904,12 +904,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
         <source>Time Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Règles de temps</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2053"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Règles de date valides:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2054"/>
@@ -934,27 +934,27 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2058"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Mois en format 1 ou 2 chiffres (ex: 2, 12)</translation>
+        <translation>%1: Mois en 1 ou 2 chiffres (ex: 2, 12)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2059"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Mois en format 2 chiffres (ex: 02)</translation>
+        <translation>%1: Mois en 2 chiffres (ex: 02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2060"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Mois en format lettres court (localisé)</translation>
+        <translation>%1: Mois en lettres abrégé (localisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2061"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished">%1: Mois en format lettres long (localisé)</translation>
+        <translation>%1: Mois en lettres (localisé)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2062"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished">%1: Année format numérique sur 2 chiffres (ex: 15)</translation>
+        <translation>%1: Année en 2 chiffres (ex: 15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2063"/>
@@ -969,7 +969,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2065"/>
         <source>Date Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Règles sur la date</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1037,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="287"/>
         <source>Plugins</source>
-        <translation type="unfinished">Modules</translation>
+        <translation>Greffons</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="24"/>
@@ -1510,12 +1510,12 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished">Enregistrer</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ThemeDialog.ui" line="101"/>

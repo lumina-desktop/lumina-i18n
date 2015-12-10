@@ -96,42 +96,42 @@
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Réseau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureau</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Science</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitaires</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Autre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechcher les Applications binaires</translation>
     </message>
 </context>
 <context>
@@ -139,13 +139,13 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="50"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de fichier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="185"/>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="191"/>
         <source>Audio Volume %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume audio %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="199"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Information de lancement manquant (raccourci malformé): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="272"/>
@@ -176,22 +176,22 @@
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="283"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin vers le répertoire manquant dans le raccourci du répertoire: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="288"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Type du raccourci inconnu: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
         <source>Application Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de l&apos;application</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
         <source>The following application experienced an error and needed to close:</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application suivante a rencontré une erreur et doit être fermée:</translation>
     </message>
 </context>
 </TS>
