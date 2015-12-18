@@ -496,12 +496,12 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="128"/>
         <source>View Mode</source>
-        <translation>Görünüm Kipi</translation>
+        <translation>Görünüm Modu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="134"/>
         <source>Group Mode</source>
-        <translation>Grup Kipi</translation>
+        <translation>Grup Modu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="150"/>

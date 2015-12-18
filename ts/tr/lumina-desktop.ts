@@ -866,7 +866,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="901"/>
         <source>Suspend System</source>
-        <translation>Sistemi Askıya Al</translation>
+        <translation>Sistemi Beklet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1081"/>
@@ -931,7 +931,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation>Askıya Al</translation>
+        <translation>Beklet</translation>
     </message>
 </context>
 <context>
