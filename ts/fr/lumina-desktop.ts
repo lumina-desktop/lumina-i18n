@@ -51,11 +51,6 @@
 <context>
     <name>AppMenu</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="48"/>
-        <source>Browse Files</source>
-        <translation>Explorer des fichiers</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Install Applications</source>
         <translation>Installer les applications</translation>
