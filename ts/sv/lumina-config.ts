@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation>Välj program</translation>
+        <translation>Välj Program</translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="73"/>
         <source>Screen Number:</source>
-        <translation>Skrivbordskonfiguration</translation>
+        <translation>Skärmnummer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="197"/>
@@ -161,7 +161,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="217"/>
         <source>Every </source>
-        <translation>Varje</translation>
+        <translation>Var</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1699"/>
@@ -217,7 +217,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1022"/>
         <source>Specific File Types</source>
-        <translation>Specifika Filtyper</translation>
+        <translation>Specifika filtyper</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1064"/>
@@ -378,7 +378,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1151"/>
         <source>General Options</source>
-        <translation>Allmänna inställningar</translation>
+        <translation>Allmänna Inställningar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1159"/>
@@ -525,13 +525,13 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1539"/>
         <source>Window Theme Preview</source>
-        <translation>Förhandsgranska Fönstertema </translation>
+        <translation>Förhandsvisning av Fönstertema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1593"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1898"/>
         <source>No Preview Available</source>
-        <translation>Ingen förhandsgransning tillgänglig</translation>
+        <translation>Ingen förhandsvisning tillgänglig</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1639"/>
@@ -611,22 +611,22 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="225"/>
         <source>Align in a Row</source>
-        <translation>Sortera radvis</translation>
+        <translation>Justera radvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
         <source>Align in a Column</source>
-        <translation>Sortera kolumnvis</translation>
+        <translation>Justera kolumnvis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
         <source>Cascade</source>
-        <translation>Kaskad</translation>
+        <translation>Lägg på rad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Underneath Mouse</source>
-        <translation>Under mus</translation>
+        <translation>Under musen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="435"/>

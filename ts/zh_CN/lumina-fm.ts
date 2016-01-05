@@ -384,73 +384,73 @@
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="17"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="19"/>
         <source>Calculating</source>
         <translation>计算</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Overwrite Files?</source>
         <translation>覆盖文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Do you want to overwrite the existing files?</source>
         <translatorcomment>你要改写现有的文件吗？</translatorcomment>
         <translation>你要改写现有的文件吗？</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
         <source>Removing: %1</source>
         <translation>正在删除：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="149"/>
         <source>Copying: %1 to %2</source>
         <translation>复制 %1 至 %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="150"/>
         <source>Restoring: %1 as %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="149"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
         <source>Moving: %1 to %2</source>
         <translatorcomment>移动：%1 至 %2</translatorcomment>
         <translation>移动：%1 至 %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="162"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
         <source>Could not remove these files:</source>
         <translatorcomment>无法移动文件：</translatorcomment>
         <translation>无法移动文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="163"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
         <source>Could not copy these files:</source>
         <translatorcomment>无法复制这些文件：</translatorcomment>
         <translation>无法复制这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
         <source>Could not restore these files:</source>
         <translatorcomment>无法恢复这些文件：</translatorcomment>
         <translation>无法恢复这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="167"/>
         <source>Could not move these files:</source>
         <translatorcomment>无法移动这些文件：</translatorcomment>
         <translation>无法移动这些文件：</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="169"/>
         <source>File Errors</source>
         <translation>文件错误</translation>
     </message>
@@ -458,12 +458,12 @@
 <context>
     <name>FOWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>Invalid Move</source>
         <translation>非法移动</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
 
 Old Location: %1

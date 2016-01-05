@@ -763,7 +763,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Preferences</source>
-        <translation>Inställningar</translation>
+        <translation>Egenskaper</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>

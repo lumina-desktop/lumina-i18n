@@ -274,92 +274,92 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="35"/>
         <source>Applications</source>
-        <translation type="unfinished">アプリケーション</translation>
+        <translation>アプリケーション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="59"/>
         <source>Browse Files</source>
-        <translation type="unfinished">ファイルを探索</translation>
+        <translation>ファイルを探索</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="64"/>
         <source>Install Applications</source>
-        <translation type="unfinished">アプリケーションをインストールします</translation>
+        <translation>アプリケーションをインストールします</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="70"/>
         <source>Control Panel</source>
-        <translation type="unfinished">コントロールパネル</translation>
+        <translation>コントロールパネル</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="81"/>
         <source>Multimedia</source>
-        <translation type="unfinished">マルチメディア</translation>
+        <translation>マルチメディア</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="82"/>
         <source>Development</source>
-        <translation type="unfinished">開発</translation>
+        <translation>開発</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="83"/>
         <source>Education</source>
-        <translation type="unfinished">教育</translation>
+        <translation>教育</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="84"/>
         <source>Games</source>
-        <translation type="unfinished">ゲーム</translation>
+        <translation>ゲーム</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="85"/>
         <source>Graphics</source>
-        <translation type="unfinished">グラフィックス</translation>
+        <translation>グラフィックス</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="86"/>
         <source>Network</source>
-        <translation type="unfinished">ネットワーク</translation>
+        <translation>ネットワーク</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="87"/>
         <source>Office</source>
-        <translation type="unfinished">オフィス</translation>
+        <translation>オフィス</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="88"/>
         <source>Science</source>
-        <translation type="unfinished">科学</translation>
+        <translation>科学</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="89"/>
         <source>Settings</source>
-        <translation type="unfinished">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="90"/>
         <source>System</source>
-        <translation type="unfinished">システム</translation>
+        <translation>システム</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
         <source>Utility</source>
-        <translation type="unfinished">ユーティリティー</translation>
+        <translation>ユーティリティー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
         <source>Wine</source>
-        <translation type="unfinished">Wine</translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
         <source>Unsorted</source>
-        <translation type="unfinished">未分類</translation>
+        <translation>未分類</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="130"/>
         <source>Leave</source>
-        <translation type="unfinished">席を外す</translation>
+        <translation>席を外す</translation>
     </message>
 </context>
 <context>
@@ -485,12 +485,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
         <source>Browse Files</source>
-        <translation type="unfinished">ファイルを探索</translation>
+        <translation>ファイルを探索</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="298"/>
         <source>Leave</source>
-        <translation type="unfinished">席を外す</translation>
+        <translation>席を外す</translation>
     </message>
 </context>
 <context>
@@ -664,37 +664,39 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="135"/>
         <source>Name:</source>
-        <translation type="unfinished">名前:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="137"/>
         <source>Invalid Note Name: Try Again</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ウインドウのタイトル</translatorcomment>
+        <translation>メモの名前が不完全: 再変更</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="138"/>
         <source>Select a Note Name</source>
-        <translation type="unfinished"></translation>
+        <translation>メモの名前を指定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="165"/>
         <source>Open Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストファイルを開く</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="166"/>
         <source>Create a Note</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>メニュー項目</translatorcomment>
+        <translation>新しいメモを作成</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="169"/>
         <source>Rename Note</source>
-        <translation type="unfinished"></translation>
+        <translation>メモの名前を変更</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="170"/>
         <source>Delete Note</source>
-        <translation type="unfinished"></translation>
+        <translation>メモを削除</translation>
     </message>
 </context>
 <context>
@@ -771,12 +773,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>ディスプレイ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
@@ -857,7 +859,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>

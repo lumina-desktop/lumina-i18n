@@ -382,67 +382,67 @@
         <translation>Zastavit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="17"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="19"/>
         <source>Calculating</source>
         <translation>Počítá se</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Overwrite Files?</source>
         <translation>Přepsat soubory?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Do you want to overwrite the existing files?</source>
         <translation>Chcete přepsat existující soubory?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
         <translation>Poznámka: Jinak přidá pouze číslo k názvu souboru.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="146"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
         <source>Removing: %1</source>
         <translation>Odstraňování: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="147"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="149"/>
         <source>Copying: %1 to %2</source>
         <translation>Kopírování: %1 do %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="150"/>
         <source>Restoring: %1 as %2</source>
         <translation type="unfinished">Obnovení: %1 jako %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="149"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
         <source>Moving: %1 to %2</source>
         <translation>Přesunování: 1% do %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="162"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
         <source>Could not remove these files:</source>
         <translation>Nelze smazat tyto soubory:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="163"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
         <source>Could not copy these files:</source>
         <translation>Nelze kopírovat tyto soubory:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
         <source>Could not restore these files:</source>
         <translation>Nelze obnovit tyto soubory:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="167"/>
         <source>Could not move these files:</source>
         <translation>Nelze přesunout tyto soubory:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="169"/>
         <source>File Errors</source>
         <translation>Chyby souboru</translation>
     </message>
@@ -450,12 +450,12 @@
 <context>
     <name>FOWorker</name>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>Invalid Move</source>
         <translation>Neplatný přesun</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="315"/>
+        <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>It is not possible to move a directory into itself. Please make a copy of the directory instead.
 
 Old Location: %1

@@ -252,7 +252,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina の設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
@@ -334,17 +334,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカットを編集</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="768"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>変更を適用</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="778"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>キーバインドを変更:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>
