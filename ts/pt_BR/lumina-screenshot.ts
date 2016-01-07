@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation>Ainda sem captura de tela</translation>
+        <translation>Não há Capturas de tela até o momento</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="58"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir bordas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
@@ -41,17 +41,17 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="78"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessão inteira</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="85"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Somente janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="92"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Somente tela </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="134"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Take new snapshot</source>
-        <translation>Capturar nova imagem</translation>
+        <translation>Obter nova captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>

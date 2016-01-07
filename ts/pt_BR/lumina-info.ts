@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="102"/>
         <source>OS Build:</source>
-        <translation type="unfinished">Sistema:</translation>
+        <translation>Sistema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="128"/>
@@ -41,32 +41,32 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="171"/>
         <source>Lumina Website:</source>
-        <translation type="unfinished"></translation>
+        <translation>Site do Lumina:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="178"/>
         <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Abrir em um navegador web&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="214"/>
         <source>Report a Bug:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar um bug:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="221"/>
         <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Abrir em um navegador web&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="244"/>
         <source>Community Support:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suporte da comunidade:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="251"/>
         <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Abrir em um navegador web&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="262"/>

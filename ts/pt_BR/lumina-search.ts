@@ -116,12 +116,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished">Pesquisa: %1 -- Smart: %2</translation>
+        <translation>Pesquisa: %1 -- Inteligente: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
