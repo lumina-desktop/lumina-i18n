@@ -55,8 +55,8 @@
     <name>AppMenu</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
-        <source>Install Applications</source>
-        <translation>アプリケーションをインストールします</translation>
+        <source>Manage Applications</source>
+        <translation type="unfinished">アプリケーションの管理</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
