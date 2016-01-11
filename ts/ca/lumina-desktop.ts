@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Manage Applications</source>
-        <translation type="unfinished">Gestiona les aplicacions</translation>
+        <translation>Gestiona les aplicacions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
