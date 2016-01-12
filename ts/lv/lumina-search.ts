@@ -106,12 +106,12 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="141"/>
         <source>Snap</source>
-        <translation type="unfinished">Uzņemt</translation>
+        <translation>Uzņemt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished">Veikt momentuzņēmumu</translation>
+        <translation>Izveidot jaunu momentuzņēmumu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="29"/>
