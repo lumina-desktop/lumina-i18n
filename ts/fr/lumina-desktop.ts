@@ -771,11 +771,6 @@
         <translation>Affichage</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
-        <source>Window Theme</source>
-        <translation>Thème de fenêtre</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="50"/>
         <source>Control Panel</source>
         <translation>Panneau de contrôle</translation>
@@ -1054,16 +1049,11 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>
-        <source>Application Appearance</source>
-        <translation>Apparence Application</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="561"/>
         <source>Screensaver Settings</source>
         <translation>Réglages Économiseur d’Écran</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="603"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="581"/>
         <source>About the Lumina Desktop</source>
         <translation>A propos du bureau Lumina</translation>
     </message>

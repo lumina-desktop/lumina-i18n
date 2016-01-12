@@ -771,11 +771,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="40"/>
-        <source>Window Theme</source>
-        <translation>窗口主题</translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="50"/>
         <source>Control Panel</source>
         <translation>控制面板</translation>
@@ -1054,16 +1049,11 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>
-        <source>Application Appearance</source>
-        <translation>应用程序外观</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="561"/>
         <source>Screensaver Settings</source>
         <translation>屏幕保护设置</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="603"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="581"/>
         <source>About the Lumina Desktop</source>
         <translation>关于Lumina 桌面</translation>
     </message>
