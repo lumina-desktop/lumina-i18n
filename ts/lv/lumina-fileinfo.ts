@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="14"/>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="24"/>
         <source>File Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informācija par failu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation type="unfinished"></translation>
+        <translation>Īpašnieks:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="73"/>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupa:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="90"/>
         <source>Permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļaujas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="104"/>
         <source>Created:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izveidots:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="111"/>
@@ -37,32 +37,32 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="124"/>
         <source>Last Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pēdējoreiz modificēts:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="131"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="138"/>
         <source>MimeType:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mime tips:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="185"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faila lielums:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="216"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Labot saīsni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Darba katalogs:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="246"/>
@@ -72,57 +72,57 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komentārs:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="284"/>
         <source>Run in terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaist terminālī</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="291"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosaukums:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="298"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcijas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
         <source>No Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav ikonas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabāt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="53"/>
         <source>---Calculating---</source>
-        <translation type="unfinished"></translation>
+        <translation>---Izskaitļo---</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="62"/>
         <source>Read/Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasīt/Rakstīt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="63"/>
@@ -187,7 +187,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties ikonu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="273"/>
