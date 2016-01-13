@@ -747,7 +747,7 @@ Jaunā atrašanās vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
-        <translation>UZMANĪBU: Tas neatgriezeniski dzēsīs failu(-s) no sistēmas!</translation>
+        <translation>UZMANĪBU: Tas neatgriezeniski dzēsīs failu/-s no sistēmas!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>

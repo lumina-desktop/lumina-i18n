@@ -124,7 +124,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="42"/>
         <source>Press the keys you wish to assign.</source>
-        <translation>Nospiediet taustiņus, kurus vēlaties piešķirt</translation>
+        <translation>Nospiediet taustiņus, kurus vēlaties piešķirt.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/KeyCatch.ui" line="65"/>
@@ -156,7 +156,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="214"/>
         <source> Minutes</source>
-        <translation> minūtes</translation>
+        <translation> Minūtes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="217"/>
@@ -959,7 +959,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2064"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished">%1: Gads kā divciparu skaitlis (15) {1:?} {4-?} {2015)?}</translation>
+        <translation>%1: Gads kā četrciparu skaitlis (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2065"/>
@@ -1447,7 +1447,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="334"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation>Motīva alternatīvā krāsa (mierīgāka)</translation>
+        <translation>Motīva alternatīvā krāsa (mierīgāka).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="339"/>

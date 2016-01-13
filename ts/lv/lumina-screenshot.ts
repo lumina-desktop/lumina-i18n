@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="65"/>
         <source> Seconds</source>
-        <translation> sekundes</translation>
+        <translation> Sekundes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="68"/>

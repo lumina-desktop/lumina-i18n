@@ -44,7 +44,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation>Meklēt ...</translation>
+        <translation>Meklēt...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
