@@ -894,7 +894,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation>%1:AM/PM (12-Heure) horloge (majuscule ou minuscule)</translation>
+        <translation>%1: AM/PM (12-Heure) horloge (majuscule ou minuscule)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>

@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation>Ignorer les répertoires</translation>
+        <translation>Exclure des répertoires</translation>
     </message>
 </context>
 <context>
@@ -79,7 +79,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
-        <translation>Objet du lancement</translation>
+        <translation>Lancer l’Élément</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="119"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation>Cherche: %1 -- Malin: %2</translation>
+        <translation>Recherche: %1 -- Malin: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
@@ -139,17 +139,17 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation>Recherche de %1</translation>
+        <translation>Recherche : %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
-        <translation>Démarrage de la recherche de %1</translation>
+        <translation>Démarrage de la Recherche: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
-        <translation>Recherche terminée</translation>
+        <translation>Recherche Terminée</translation>
     </message>
 </context>
 </TS>
