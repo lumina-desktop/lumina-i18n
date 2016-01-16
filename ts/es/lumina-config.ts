@@ -146,17 +146,17 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="197"/>
         <source>Single Background</source>
-        <translation>Fondo de Pantalla Simple</translation>
+        <translation>Fondo de pantalla simple</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="207"/>
         <source>Rotate Background</source>
-        <translation>Rotar el Fondo de Pantalla</translation>
+        <translation>Rotar el fondo de pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="214"/>
         <source> Minutes</source>
-        <translation> Minutos</translation>
+        <translation>Minutos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="217"/>
@@ -192,7 +192,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="801"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation>Nota: Atajos de teclado actuales necesitan ser limpiado y salvado antes de que pueden ser reutilizados.</translation>
+        <translation>Nota: Los atajos de teclado actuales necesitan ser limpiados y salvados antes de que puedan ser reutilizados.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="923"/>
@@ -202,7 +202,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="946"/>
         <source>E-Mail Client:</source>
-        <translation>Cliente de Correo Electrónico:</translation>
+        <translation>Cliente de correo electrónico</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="973"/>
@@ -222,7 +222,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1064"/>
         <source>Default Application</source>
-        <translation>Aplicación Predeterminada</translation>
+        <translation>Aplicación predeterminada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1069"/>
@@ -232,7 +232,7 @@ También se ignorarán las asociaciones de teclado actuales.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1079"/>
         <source>Clear</source>
-        <translation>Limpiar</translation>
+        <translation>Despejar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1102"/>
