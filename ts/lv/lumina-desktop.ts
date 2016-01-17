@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>AppLaunchButtonPlugin</name>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="32"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklikšķiniet, lai norādītu lietotni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="38"/>
         <source>Launch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaist %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="45"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērt %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
