@@ -21,12 +21,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties lietotni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosaukums:</translation>
     </message>
 </context>
 <context>
@@ -35,17 +35,17 @@
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="45"/>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="71"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikšķiniet, lai iestatītu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties lietotni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosaukums:</translation>
     </message>
 </context>
 <context>
@@ -53,12 +53,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārvaldīt lietotnes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="70"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="81"/>
@@ -657,7 +657,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="135"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nosaukums:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="137"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="50"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="56"/>
@@ -806,7 +806,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
@@ -816,7 +816,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pārvaldīt lietotnes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
@@ -1035,7 +1035,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="473"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="495"/>
