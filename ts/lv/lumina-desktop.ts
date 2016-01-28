@@ -63,72 +63,72 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="67"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multivide</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="68"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Izstrāde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="69"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Izglītība</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="70"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Spēles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="71"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="72"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="73"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Birojs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="74"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Zinātne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="75"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="76"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="77"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilītas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="78"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="79"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesakārtots</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="36"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietojumprogrammas</translation>
     </message>
 </context>
 <context>
@@ -136,52 +136,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializē sesiju …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādē sistēmas iestatījumus …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādē lietotāja preferences …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Preparing System Tray …</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagatavo sistēmas ikonjoslu …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager …</source>
-        <translation type="unfinished"></translation>
+        <translation>Startē logu pārvaldnieku …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting Applications …</source>
-        <translation type="unfinished"></translation>
+        <translation>Detektē lietojumprogrammas …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Preparing Menus …</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagatavo izvēlnes …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Preparing Workspace …</source>
-        <translation type="unfinished"></translation>
+        <translation>Sagatavo darbvirsmu …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Pabeidz …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/BootSplash.cpp" line="45"/>
@@ -257,7 +257,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="170"/>
         <source>Add to Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot ātrai palaišanai</translation>
     </message>
 </context>
 <context>
@@ -265,92 +265,92 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="34"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ātri startēt lietojumprogrammas vai atvērt failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="35"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietojumprogrammas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="59"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārlūkot failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="64"/>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalēt lietojumprogrammas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="70"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Vadības panelis</translation>
+        <translation>Vadības panelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="81"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multivide</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="82"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Izstrāde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="83"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Izglītība</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="84"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>Spēles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="85"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="86"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="87"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Birojs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="88"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zinātne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="89"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="90"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistēma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilītas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nesakārtots</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="130"/>
@@ -381,7 +381,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="138"/>
         <source>Use System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantot sistēmas laiku</translation>
     </message>
 </context>
 <context>
@@ -480,7 +480,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="279"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pārlūkot failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/LDesktop.cpp" line="298"/>
@@ -518,7 +518,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
@@ -601,7 +601,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="37"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ātri startēt lietojumprogrammas vai atvērt failus</translation>
     </message>
 </context>
 <context>
@@ -609,7 +609,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
@@ -695,7 +695,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
@@ -786,7 +786,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="171"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pārlūkot failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
@@ -969,7 +969,7 @@
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lietojumprogrammas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
@@ -1065,52 +1065,52 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="289"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Multivide</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="290"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izstrāde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="291"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izglītība</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="292"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spēles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="293"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="294"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tīkls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="295"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Birojs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="296"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zinātne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="297"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="298"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistēma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="299"/>
@@ -1120,12 +1120,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="300"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="301"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nesakārtots</translation>
     </message>
 </context>
 </TS>
