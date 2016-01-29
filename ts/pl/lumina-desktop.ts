@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Manage Applications</source>
-        <translation type="unfinished">Zarządzaj aplikacjami</translation>
+        <translation>Zarządzaj aplikacjami</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/AppMenu.cpp" line="57"/>
@@ -389,12 +389,12 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="36"/>
         <source>Start Moving Item</source>
-        <translation type="unfinished">Zacznij przesuwać element</translation>
+        <translation>Zacznij przesuwać element</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="37"/>
         <source>Start Resizing Item</source>
-        <translation type="unfinished">Zacznij zmieniać rozmiar elementu</translation>
+        <translation>Zacznij zmieniać rozmiar elementu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
