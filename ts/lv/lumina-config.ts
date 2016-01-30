@@ -151,7 +151,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="207"/>
         <source>Rotate Background</source>
-        <translation>Mainīt fonus</translation>
+        <translation>Rotēt fonus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="214"/>
@@ -1091,12 +1091,12 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="66"/>
         <source>This is the main system access button for the user (applications, directories, settings, log out).</source>
-        <translation type="unfinished"></translation>
+        <translation>Šī ir lietoāja galvenā sistēmas piekļūšanas poga (lietojumprogrammas, katalogi, iestatījumi, izrakstīšanās).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="79"/>
         <source>Desktop Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbvirsmas josla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="80"/>
@@ -1161,22 +1161,22 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="135"/>
         <source>Task Manager (No Groups)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzdevumu pārvaldnieks (bez grupām)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="136"/>
         <source>View and control any running application windows (every window has a button)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skatīt un kontrolēt jebkuras palaistās lietojumprogrammas logus (katram logam ir poga)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="142"/>
         <source>System Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas ikonjosla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Display area for dockable system applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Displeja apgabals dokojamām sistēmas lietojumprogrammām</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
@@ -1191,7 +1191,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="73"/>
         <source>This provides instant-access to application that are installed on the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis nodrošina tūlītēju piekļuvi sistēmā uzstādītajām lietojumprogrammām.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="174"/>
@@ -1237,7 +1237,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="157"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unificēta izvēlne sistēmas piekļuvei un lietojumprogrammu startēšanai.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="164"/>
@@ -1407,7 +1407,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="310"/>
         <source>Main background color for widgets that list or display collections of items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamatkrāsa fonam ekrānvadīklām, kas attēlo vai uzskaita kolekciju vienumus.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="315"/>
@@ -1447,7 +1447,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="334"/>
         <source>Alternate color for the theme (more subdued).</source>
-        <translation>Motīva alternatīvā krāsa (mierīgāka).</translation>
+        <translation>Motīva alternatīvā krāsa (blāvāka).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="339"/>
@@ -1467,7 +1467,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="346"/>
         <source>Color used for borders or other accents (more subdued).</source>
-        <translation>Apmales un citu akcentu krāsa (mierīgāka).</translation>
+        <translation>Apmales un citu akcentu krāsa (blāvāka).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="351"/>
@@ -1487,7 +1487,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="358"/>
         <source>Color used for highlighting an item (more subdued).</source>
-        <translation>Krāsa, lai izceltu vienumu (mierīgāka).</translation>
+        <translation>Krāsa, lai izceltu vienumu (blāvāka).</translation>
     </message>
 </context>
 <context>
