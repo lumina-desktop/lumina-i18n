@@ -252,7 +252,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
@@ -333,17 +333,17 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="737"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificēt īsceļu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="768"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Pielietot izmaiņu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="778"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mainīt taustiņu piesaisti:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="831"/>
@@ -383,7 +383,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1159"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot numlock pie startēšanas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1166"/>
@@ -739,7 +739,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="260"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Elements</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="261"/>
@@ -787,18 +787,18 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1505"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1856"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlēties bināru failu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1512"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1859"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs binārais fails</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1512"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlētais binārais fails nav izpildāms!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1674"/>
@@ -819,7 +819,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1856"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotnes binārie faili (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1859"/>
@@ -829,7 +829,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1873"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties failu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1873"/>
@@ -849,7 +849,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1983"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Atiestatīt lietotāja attēlu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1983"/>
@@ -859,52 +859,52 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2031"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Derīgi laika kodi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2032"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: stunda bez nulles sākumā (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2033"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: stunda ar nulli priekšgalā (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2034"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: minūtes bez nulles priekšgalā (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2035"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: minūtes ar nulli priekšgalā (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2036"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: sekundes bez nulles priekšgalā (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2037"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: sekundes ar nulli priekšgalā (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2038"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: AM/PM (12-stundu) pulkstenis (lielie vai mazie burti)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2039"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Laika josla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2040"/>
         <source>Time Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Laika kodi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2054"/>
@@ -964,7 +964,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2065"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished"></translation>
+        <translation>Teksts var būt iekļauts apostrofos, lai ignorētu aizvietošanu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="2066"/>
@@ -987,7 +987,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="114"/>
         <source>Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mala:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.ui" line="131"/>
@@ -1242,7 +1242,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="164"/>
         <source>Pin an application shortcut directly to the panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Piespraust lietotnes īsceļu tieši pie paneļa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="182"/>
@@ -1287,12 +1287,12 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="210"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekot sistēmas statistikai, tādai kā CPU/atmiņas izlietojums un CPU temperatūra.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="232"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminālis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="233"/>
@@ -1302,7 +1302,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="239"/>
         <source>File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Failu pārvaldnieks</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="240"/>
@@ -1312,42 +1312,42 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="246"/>
         <source>Applications</source>
-        <translation type="unfinished">Lietotnes</translation>
+        <translation>Lietojumprogrammas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="247"/>
         <source>Show the system applications menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt sistēmas lietojumprogrammu izvēlni.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="253"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Atdalītājs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="254"/>
         <source>Static horizontal line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Statiska horizontālā līnija.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="260"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="261"/>
         <source>Show the desktop settings menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt darbvirsmas iestatījumu izvēlni.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="267"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Logu saraksts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="268"/>
         <source>List the open application windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērto lietojumprogrammu logu saraksts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="274"/>
@@ -1417,7 +1417,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="316"/>
         <source>Dominant color for the theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dominējošā tēmas krāsa.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="321"/>
@@ -1427,7 +1427,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="322"/>
         <source>Dominant color for the theme (more subdued).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dominējosā tēmas krāsa (blāvāka).</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="327"/>
