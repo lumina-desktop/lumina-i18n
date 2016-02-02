@@ -248,118 +248,118 @@
         <translation>Répertoires: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="757"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="761"/>
         <source>New Document</source>
         <translation>Nouveau document</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="757"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="778"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="761"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="782"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="768"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="772"/>
         <source>Error Creating Document</source>
         <translation>Erreur de création du document</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="768"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="772"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>Le document ne peut pas être créé. Assurez vous d&apos;avoir les permissions adéquates.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="778"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="782"/>
         <source>New Directory</source>
         <translation>Nouveau répertoire</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="788"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
         <source>Invalid Name</source>
         <translation>Nom invalide</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="788"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>Un fichier ou répertoire possédant le même nom existe déjà. Veuillez utiliser un autre nom.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="796"/>
         <source>Error Creating Directory</source>
         <translation>Erreur lors de la création du répertoire</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="796"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>Le répertoire ne peut pas être créé. Veuillez assurer que vous ayez les permissions pour modifier le répertoire actuel.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="813"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
         <source>Current</source>
         <translation>Actuel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="920"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="924"/>
         <source>File Checksums:</source>
         <translation>Somme de contrôle de fichier:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="937"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="941"/>
         <source>Missing Utility</source>
         <translation>Utilitaires manquant</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="937"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="941"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>L&apos;utilitaire &quot;lumina-fileinfo&quot; est introuvable. Veuillez l&apos;installer.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="955"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="959"/>
         <source>Open</source>
         <translation>Ouvrir</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="956"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="960"/>
         <source>Open With...</source>
         <translation>Ouvir avec...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="958"/>
-        <source>Rename</source>
-        <translation>Renommer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="959"/>
-        <source>View Checksums</source>
-        <translation>Afficher la Somme de contrôle de fichier</translation>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="962"/>
+        <source>Rename...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="963"/>
+        <source>View Checksums...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="974"/>
+        <source>File Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="967"/>
         <source>Cut Selection</source>
         <translation>Couper la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="964"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="968"/>
         <source>Copy Selection</source>
         <translation>Copier la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="965"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="969"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="967"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="971"/>
         <source>Delete Selection</source>
         <translation>Supprimer la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="970"/>
-        <source>File Properties</source>
-        <translation>Propriétés du fichier</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="973"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="977"/>
         <source>Open Terminal here</source>
         <translation>Ouvrir un terminal ici</translation>
     </message>
@@ -486,128 +486,163 @@ New Location: %2</source>
         <translation>Fichier</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="124"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="126"/>
         <source>View</source>
         <translation>Afficher</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="128"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="130"/>
         <source>View Mode</source>
         <translation>Mode d&apos;affichage</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="134"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="136"/>
         <source>Group Mode</source>
         <translation>Rôle du groupe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="150"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="154"/>
         <source>Bookmarks</source>
         <translation>Signets</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="158"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="162"/>
         <source>External Devices</source>
         <translation>Périphérique externe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="171"/>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="174"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="169"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="191"/>
         <source>New Browser</source>
         <translation>Nouveau navigateur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="283"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="267"/>
+        <source>Search Directory...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="300"/>
         <source>Increase Icon Size</source>
         <translation>Augmenter la taille de l&apos;icône</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="288"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="305"/>
         <source>Decrease Icon Size</source>
         <translation>Diminuer la taille de l&apos;icône</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="293"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="310"/>
         <source>Larger Icons</source>
         <translation>Icônes plus grands</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="298"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="313"/>
+        <source>Ctrl++</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
         <translation>Icônes plus petits</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="303"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="324"/>
+        <source>Ctrl+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="332"/>
         <source>New Window</source>
         <translation>Nouvelle fenêtre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="306"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="335"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="314"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="343"/>
         <source>Add Bookmark</source>
         <translation>Ajouter un signet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="317"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="346"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="177"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="398"/>
+        <source>Delete Selection</source>
+        <translation type="unfinished">Supprimer la sélection</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="401"/>
+        <source>Del</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="409"/>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="420"/>
+        <source>Close Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="194"/>
         <source>Ctrl+T</source>
         <translation>Ctrl+T</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="185"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="202"/>
         <source>Exit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="205"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="196"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="213"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Préférences</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="224"/>
         <source>Show Hidden Files</source>
         <translation>Afficher les fichiers cachés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="212"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="229"/>
         <source>Scan for Devices</source>
         <translation>Rechercher les périphériques</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="220"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="237"/>
         <source>Manage Bookmarks</source>
         <translation>Gérer les signets</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="234"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="251"/>
         <source>Show Action Buttons</source>
         <translation>Afficher les Boutons d&apos;action</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="245"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="262"/>
         <source>Load Thumbnails</source>
         <translation>Charger les vignettes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="250"/>
-        <source>Search Directory</source>
-        <translation>Repértoire de recherche</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="253"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="270"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>
@@ -622,7 +657,7 @@ New Location: %2</source>
         <translation>Liste basique</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="92"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="423"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
@@ -637,137 +672,157 @@ New Location: %2</source>
         <translation>Colonnes préférées</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="93"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="412"/>
         <source>F5</source>
         <translation>F5</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="94"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="379"/>
         <source>Ctrl+C</source>
         <translation>Ctrl+C</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="95"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="354"/>
+        <source>Rename...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="357"/>
+        <source>F2</source>
+        <translation type="unfinished">F2</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
+        <source>Cut Selection</source>
+        <translation type="unfinished">Couper la sélection</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="376"/>
+        <source>Copy Selection</source>
+        <translation type="unfinished">Copier la sélection</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="387"/>
+        <source>Paste</source>
+        <translation type="unfinished">Coller</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="390"/>
         <source>Ctrl+V</source>
         <translation>Ctrl+V</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="368"/>
         <source>Ctrl+X</source>
         <translation>Ctrl-X</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
-        <source>Delete</source>
-        <translation>Supprimer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
         <source>Invalid Directories</source>
         <translation>Répertoires invalides</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>Les répertoires suivants sont invalides et ne peuvent pas être ouverts:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="311"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="312"/>
         <source>Root</source>
         <translation>Superutilisateur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="317"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="318"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Type: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="321"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="322"/>
         <source>Filesystem: %1</source>
         <translation>Système de fichiers: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="503"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="543"/>
         <source>Browser</source>
         <translation>Navigateur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
         <source>New Bookmark</source>
         <translation>Nouveau signet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="530"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
         <source>Invalid Name</source>
         <translation>Nom invalide</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="535"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Raccourci déjà utilisé. Veuillez choisir un autre nom.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="672"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="682"/>
         <source>Multimedia</source>
         <translation>Multimédia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="690"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
         <source>Slideshow</source>
         <translation>Diaporama</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="867"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="877"/>
         <source>Items to be removed:</source>
         <translation>Elements à supprimer:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="394"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
         <source>Verify Quit</source>
         <translation>Vérifier la sortie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="394"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Des onglets sont ouverts. Etes-vous sûr de vouloir sortir?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>Verify Removal</source>
         <translation>Vérifier la suppression</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>ATTENTION: Ceci supprime définitivement le(s) fichier(s) du système!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="866"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>Are you sure you want to continue?</source>
         <translation>Voulez-vous vraiment continuer ?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>Rename File</source>
         <translation>Renommer un fichier</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="827"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>New Name:</source>
         <translation>Nouveau nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
         <source>Overwrite File?</source>
         <translation>Écraser le fichier ?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="841"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Un fichier existant avec le même nom sera remplacé. Etes vous sûr de vouloir procéder?</translation>
     </message>
