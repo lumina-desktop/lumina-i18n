@@ -248,118 +248,118 @@
         <translation>Adresáre: %1 </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="761"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
         <source>New Document</source>
         <translation>Nový dokument</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="761"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="782"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Name:</source>
         <translation>Meno:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="772"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>Error Creating Document</source>
         <translation>Chyba pri vytvorení dokumentu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="772"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>Dokument nie je možné vytvoriť. Uistite sa, či máté dostatočné práva.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="782"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>New Directory</source>
         <translation>Nový priečinok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
         <source>Invalid Name</source>
         <translation>Neplatné meno</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="792"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>Súbor alebo adresár s takým istým názvom už existuje. Prosím, použite iný názov.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="796"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
         <source>Error Creating Directory</source>
         <translation>Chyba pri vytváraní adresára</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="796"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>Priečinok nemôže byť vytvorený. Prosím uistite sa, či máte dostatočné práva na úpravu aktuálneho adresára. </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="842"/>
         <source>Current</source>
         <translation>Aktuálny</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="924"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="949"/>
         <source>File Checksums:</source>
         <translation>Kontrolný súčet súboru</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="941"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
         <source>Missing Utility</source>
         <translation>Chýbajú utility</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="941"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>&quot;lumina-fileinfo&quot; utility nie je možné nájsť v systéme. Prosím najprv ju nainštalujte. </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="959"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="984"/>
         <source>Open</source>
         <translation>Otvoriť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="960"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="985"/>
         <source>Open With...</source>
         <translation>Otvoriť s...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="962"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Rename...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="963"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>View Checksums...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="974"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="999"/>
         <source>File Properties...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="967"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="992"/>
         <source>Cut Selection</source>
         <translation>Vystrihnúť výber</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="968"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="993"/>
         <source>Copy Selection</source>
         <translation>Kopírovať označené</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="969"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>Paste</source>
         <translation>Vložiť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="971"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="996"/>
         <source>Delete Selection</source>
         <translation>Zmazať výber</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="977"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="1002"/>
         <source>Open Terminal here</source>
         <translation>Tu otvoriť terminál</translation>
     </message>
