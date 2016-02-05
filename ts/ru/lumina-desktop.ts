@@ -829,12 +829,12 @@
         <translation>Настройка рабочего стола</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1042"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
         <translation>Выход пользователя</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="966"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>
         <source>Restart System</source>
         <translation>Перезагрузить систему</translation>
     </message>
@@ -844,44 +844,44 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="994"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1017"/>
         <source>Power Off System</source>
         <translation>Выключение системы</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1013"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1036"/>
         <source>(System Performing Updates)</source>
         <translation>Система выполнения обновлений</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="901"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="924"/>
         <source>Suspend System</source>
         <translation>Приостановить систему</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1081"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1104"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="372"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="373"/>
         <source>%1% (Plugged In)</source>
         <translation>%1% (подключенный)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="376"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="377"/>
         <source>%1% (%2 Estimated)</source>
         <translation>%1% (%2 расчетно)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="377"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="378"/>
         <source>%1% Remaining</source>
         <translation>%1% осталось</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="393"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="537"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="548"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="394"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="546"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="557"/>
         <source>Workspace %1/%2</source>
         <translation>Рабочая Область %1/%2</translation>
     </message>

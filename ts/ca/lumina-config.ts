@@ -719,22 +719,22 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori (un)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori (recursiu)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color sòlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
@@ -802,7 +802,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Troba el directori d&apos;imatges de fons</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>

@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation>Inicia la cerca</translation>
+        <translation>Inicia la cerca:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.ui" line="39"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation>Selecciona Cerca un directori</translation>
+        <translation>Seleccioneu un directori de cerca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/ConfigUI.cpp" line="54"/>
@@ -44,7 +44,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation>Cerca per...</translation>
+        <translation>Cerca...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="23"/>
@@ -54,7 +54,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation>Configura els paràmetres de cerca</translation>
+        <translation>Configureu els paràmetres de cerca</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.ui" line="40"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="96"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation>Cerca: %1 -- Smart: %2</translation>
+        <translation>Cerca: %1 -- Intel·ligent: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/MainUI.cpp" line="99"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation>Cercant %1</translation>
+        <translation>Cercant: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-search/Worker.cpp" line="61"/>

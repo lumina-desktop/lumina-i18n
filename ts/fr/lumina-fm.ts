@@ -62,63 +62,63 @@
         <translation>Formulaire</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="231"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="234"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="246"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
         <translation>Ouvrir l&apos;objet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="256"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="259"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="271"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
         <translation>Ouvrir l&apos;objet (choisir l&apos;application)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="285"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="288"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="300"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
         <translation>Ajouter l&apos;élément aux favoris personnels</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="307"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="310"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="322"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
         <translation>Renommer l&apos;élément</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="336"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
         <translation>Couper les éléments</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="339"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
         <translation>Elements coupés (ajoutés dans le presse-papiers)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="358"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
         <translation>Copier les éléments</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="361"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
         <translation>Copier les éléments dans le presse-papiers</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="380"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="383"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="395"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
         <translation>Coller les éléments depuis le presse-papiers</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="409"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="412"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="424"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
         <translation>Effacer les éléments</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
         <translation>Arrêter le chargement du répertoire</translation>
     </message>
@@ -163,41 +163,41 @@
         <translation>Jouer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="450"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="465"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="453"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="456"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="468"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
         <translation>Retour au répertoire précédent</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="464"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
         <translation>Haut</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="467"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="470"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="482"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
         <translation>Aller au répertoire parent</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="478"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
         <translation>Accueil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="496"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
         <translation>Aller au répertoire d&apos;accueil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="518"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
         <translation>Fermer ce navigateur</translation>
     </message>
@@ -248,118 +248,118 @@
         <translation>Répertoires: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>New Document</source>
         <translation>Nouveau document</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>Error Creating Document</source>
         <translation>Erreur de création du document</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>Le document ne peut pas être créé. Assurez vous d&apos;avoir les permissions adéquates.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>New Directory</source>
         <translation>Nouveau répertoire</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Invalid Name</source>
         <translation>Nom invalide</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>Un fichier ou répertoire possédant le même nom existe déjà. Veuillez utiliser un autre nom.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
         <translation>Erreur lors de la création du répertoire</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>Le répertoire ne peut pas être créé. Veuillez assurer que vous ayez les permissions pour modifier le répertoire actuel.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="842"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="834"/>
         <source>Current</source>
         <translation>Actuel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="949"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
         <translation>Somme de contrôle de fichier:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
         <translation>Utilitaires manquant</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>L&apos;utilitaire &quot;lumina-fileinfo&quot; est introuvable. Veuillez l&apos;installer.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="984"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="979"/>
         <source>Open</source>
         <translation>Ouvrir</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="985"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="980"/>
         <source>Open With...</source>
         <translation>Ouvir avec...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="999"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="992"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
         <translation>Couper la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="993"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
         <translation>Copier la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="989"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="996"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
         <translation>Supprimer la sélection</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="1002"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
         <translation>Ouvrir un terminal ici</translation>
     </message>

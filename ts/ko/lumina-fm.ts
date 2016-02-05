@@ -62,63 +62,63 @@
         <translation>양식</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="231"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="234"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="246"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
         <translation>항목 열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="256"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="259"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="271"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
         <translation>항목 열기 (프로그램 선택)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="285"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="288"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="300"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
         <translation>항목을 즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="307"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="310"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="322"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
         <translation>항목 이름 변경</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="336"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
         <translation>항목 잘라내기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="339"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
         <translation>항목 잘라내기 (클립보드에 추가)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="358"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
         <translation>항목 복사</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="361"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
         <translation>항목을 클립보드로 복사</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="380"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="383"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="395"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
         <translation>클립보드에서 붙여넣기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="409"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="412"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="424"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="492"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
         <translation>디렉터리 읽기 중지</translation>
     </message>
@@ -163,41 +163,41 @@
         <translation>재생</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="450"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="465"/>
         <source>Back</source>
         <translation>뒤로</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="453"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="456"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="468"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
         <translation>이전 디렉터리로 돌아가기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="464"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
         <translation>위로</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="467"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="470"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="482"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
         <translation>상위 디렉터리로 가기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="478"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
         <translation>홈</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="481"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="484"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="496"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
         <translation>홈 디렉터리로 가기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="503"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="506"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="518"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
         <translation>탐색기 닫기</translation>
     </message>
@@ -248,118 +248,118 @@
         <translation>디렉터리: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>New Document</source>
         <translation>새 문서</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="786"/>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>Name:</source>
         <translation>이름:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>Error Creating Document</source>
         <translation>문서 만드는 중 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
         <translation>문서를 만들 수 없습니다. 필요한 권한이 있는지 확인하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>New Directory</source>
         <translation>새 디렉터리</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Invalid Name</source>
         <translation>잘못된 이름</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="817"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
         <translation>같은 이름의 파일이나 디렉터리가 이미 있습니다! 다른 이름을 선택하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
         <translation>디렉터리 만드는 중 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="821"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
         <translation>디렉터리를 만들 수 없습니다. 현재 디렉터리를 변경할 권한이 있는지 확인하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="842"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="834"/>
         <source>Current</source>
         <translation>현재</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="949"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
         <translation>파일 체크섬:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
         <translation>유틸리티 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="966"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
         <translation>&quot;lumina-fileinfo&quot; 유틸리티가 시스템에 없습니다. 먼저 설치하십시오.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="984"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="979"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="985"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="980"/>
         <source>Open With...</source>
         <translation>다른 프로그램으로 열기...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="999"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="992"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
         <translation>선택 항목 삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="993"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
         <translation>선택 항목 복사</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="989"/>
         <source>Paste</source>
         <translation>붙여 넣기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="996"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
         <translation>선택 항목 삭제</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="1002"/>
+        <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
         <translation>여기서 터미널 열기</translation>
     </message>
