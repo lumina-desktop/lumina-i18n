@@ -718,22 +718,22 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл(ы)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог (один)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог (рекурсивно)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Сплошной цвет</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
@@ -801,7 +801,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти каталог фонового изображения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>

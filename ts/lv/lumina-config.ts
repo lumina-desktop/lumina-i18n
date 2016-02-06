@@ -719,22 +719,22 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fails(i)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogs (viens)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogs (rekursīvi)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīrtoņa krāsa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
@@ -802,7 +802,7 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrast fona attēla katalogu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>
