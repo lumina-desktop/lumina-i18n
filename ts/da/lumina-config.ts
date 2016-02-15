@@ -101,7 +101,7 @@ Skal den overskrives?</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation>Vælg et Udvidelsesmodul</translation>
+        <translation>Vælg et Udvidelsesmodul:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
@@ -237,7 +237,7 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1101"/>
         <source>Set App</source>
-        <translation>Sæt Prog.</translation>
+        <translation>Sæt Prog</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1111"/>
@@ -277,7 +277,7 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="316"/>
         <source> point</source>
-        <translation>  point</translation>
+        <translation> point</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="323"/>
@@ -556,7 +556,7 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1712"/>
         <source>Interface Configuration</source>
-        <translation>Indstilling af grænseflade.</translation>
+        <translation>Indstilling af grænseflade</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="468"/>

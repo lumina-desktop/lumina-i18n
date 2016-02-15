@@ -56,17 +56,17 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="221"/>
         <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Åbn i en Web Browser&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="244"/>
         <source>Community Support:</source>
-        <translation type="unfinished"></translation>
+        <translation>Support fra brugerfællesskabet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="251"/>
         <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Åbn i en web browser&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="262"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="297"/>
         <source>Project Lead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt ledelse:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-info/MainUI.ui" line="304"/>
