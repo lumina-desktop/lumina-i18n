@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="he">
 <context>
     <name>MainUI</name>
     <message>
@@ -42,47 +42,47 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="131"/>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="138"/>
         <source>MimeType:</source>
-        <translation type="unfinished"></translation>
+        <translation>טיפוס Mime:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="185"/>
         <source>File Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל קובץ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="216"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>ערוך קיצור דרך</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
-        <translation type="unfinished"></translation>
+        <translation>ספריית עבודה:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="246"/>
         <source>Use startup notification</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בהתראת הפעלה</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="260"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>סמל:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="267"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>פקודה:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>הערה:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="284"/>
@@ -132,32 +132,32 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="64"/>
         <source>Write Only</source>
-        <translation type="unfinished"></translation>
+        <translation>כתיבה בלבד</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="65"/>
         <source>No Access</source>
-        <translation type="unfinished"></translation>
+        <translation>אין גישה</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>קיצור דרך XDG</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="70"/>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>ספרייה</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="71"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>בינארי</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="73"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">מוסתר %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="100"/>
@@ -167,12 +167,12 @@
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="245"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר בינארי</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fileinfo/MainUI.cpp" line="248"/>
