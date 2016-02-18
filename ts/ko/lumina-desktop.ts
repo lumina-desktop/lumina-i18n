@@ -374,12 +374,12 @@
 <context>
     <name>LClock</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="117"/>
         <source>Time Zone (%1)</source>
         <translation>시간대 (%1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="138"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="139"/>
         <source>Use System Time</source>
         <translation>시스템 시간 사용</translation>
     </message>
@@ -864,24 +864,24 @@
         <translation>뒤로</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="373"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="374"/>
         <source>%1% (Plugged In)</source>
         <translation>%1% (연결됨)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="377"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="378"/>
         <source>%1% (%2 Estimated)</source>
         <translation>%1% (%2 예상)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="378"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="379"/>
         <source>%1% Remaining</source>
         <translation>%1% 남음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="394"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="546"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="557"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="395"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="547"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="558"/>
         <source>Workspace %1/%2</source>
         <translation>작업 공간 %1/%2</translation>
     </message>

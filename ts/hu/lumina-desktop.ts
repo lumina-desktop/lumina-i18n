@@ -374,12 +374,12 @@
 <context>
     <name>LClock</name>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="116"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="117"/>
         <source>Time Zone (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="138"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="139"/>
         <source>Use System Time</source>
         <translation type="unfinished"></translation>
     </message>
@@ -864,24 +864,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="373"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="374"/>
         <source>%1% (Plugged In)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="377"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="378"/>
         <source>%1% (%2 Estimated)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="378"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="379"/>
         <source>%1% Remaining</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="394"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="546"/>
-        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="557"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="395"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="547"/>
+        <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="558"/>
         <source>Workspace %1/%2</source>
         <translation type="unfinished">%1/%2 munkaterület</translation>
     </message>
