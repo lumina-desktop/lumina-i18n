@@ -252,7 +252,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina-Einstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
@@ -333,17 +333,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="736"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurzbefehl bearbeiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="767"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderung übernehmen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastenkürzel ändern:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="830"/>
@@ -719,22 +719,22 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei(en)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis (einzeln)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis (rekursiv)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfarbig</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
@@ -802,7 +802,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzeichnis für Hintergrundbilder auswählen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>

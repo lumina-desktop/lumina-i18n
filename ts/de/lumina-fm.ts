@@ -327,17 +327,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfsummen anzeigen...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateieigenschaften...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
@@ -517,7 +517,7 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="169"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="188"/>
@@ -528,7 +528,7 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="267"/>
         <source>Search Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche im Verzeichnis...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="300"/>
@@ -548,7 +548,7 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="313"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg++</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="321"/>
@@ -558,7 +558,7 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="324"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+-</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="332"/>
@@ -583,22 +583,22 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation type="unfinished">Auswahl löschen</translation>
+        <translation>Auswahl löschen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="401"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Entf</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="409"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="420"/>
         <source>Close Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Browser schließen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="194"/>
@@ -688,27 +688,27 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="354"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="357"/>
         <source>F2</source>
-        <translation type="unfinished">F2</translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation type="unfinished">Auswahl ausschneiden</translation>
+        <translation>Auswahl ausschneiden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished">Auswahl kopieren</translation>
+        <translation>Auswahl kopieren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished">Einfügen</translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="390"/>
