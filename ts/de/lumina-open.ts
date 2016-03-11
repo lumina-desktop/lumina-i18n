@@ -49,87 +49,87 @@
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="39"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Email Link)</source>
         <translation>(E-Mail-Verknüpfung)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
-        <source>(Internet URL)</source>
-        <translation>(Internet URL)</translation>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="41"/>
+        <source>(Internet URL - %1)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="119"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="120"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Multimedia</source>
         <translation>Multimedia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Development</source>
         <translation>Entwicklung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="122"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Education</source>
         <translation>Ausbildung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="123"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
         <source>Game</source>
         <translation>Spiel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Graphics</source>
         <translation>Grafik</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Network</source>
         <translation>Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="132"/>
         <source>Office</source>
         <translation>Büro</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="133"/>
         <source>Science</source>
         <translation>Wissenschaft</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="134"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="135"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="136"/>
         <source>Utilities</source>
         <translation>Dienstprogramme</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="137"/>
         <source>Other</source>
         <translation>Andere</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="278"/>
         <source>Find Application Binary</source>
         <translation>Ausführbare Anwendung finden</translation>
     </message>
@@ -159,37 +159,37 @@
         <translation>Ungültige Datei oder URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="252"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
         <source>File could not be opened: %1</source>
         <translation>Datei konnte nicht geöffnet werden: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="261"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="262"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Fehlende Startup-Informationen für Programm-Verknüpfung (deformierte Verknüpfung): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="272"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="273"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>fehlende URL für URL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="283"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="284"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>fehlender Pfad zum Verzeichnis der Verknüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="288"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="289"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>unbekannter Typ für Vernüpfung: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="393"/>
         <source>Application Error</source>
         <translation>Anwendungsfehler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="392"/>
+        <location filename="../../lumina-git/lumina-open/main.cpp" line="393"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Bei folgender Anwendung ist ein Fehler aufgetreten und sie wurde beendet:</translation>
     </message>

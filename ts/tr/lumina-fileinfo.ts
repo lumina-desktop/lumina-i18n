@@ -100,17 +100,17 @@
         <translation>Seçenekler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="336"/>
         <source>No Icon</source>
         <translation>Simge Yok</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="392"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="399"/>
         <source>Close</source>
         <translation>Kapat</translation>
     </message>

@@ -100,17 +100,17 @@
         <translation>선택사항</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="336"/>
         <source>No Icon</source>
         <translation>아이콘 없음</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="392"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="399"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>

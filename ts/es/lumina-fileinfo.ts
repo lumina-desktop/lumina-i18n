@@ -100,17 +100,17 @@
         <translation>Opciones</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="346"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="336"/>
         <source>No Icon</source>
         <translation>Sin Icono</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="407"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="392"/>
         <source>Save</source>
         <translation>Guardar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="414"/>
+        <location filename="../../lumina-git/lumina-fileinfo/MainUI.ui" line="399"/>
         <source>Close</source>
         <translation>Cerrar</translation>
     </message>
