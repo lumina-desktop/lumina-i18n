@@ -471,7 +471,7 @@ Ny Plats: %2</translation>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation>Insikt Filhanterare</translation>
+        <translation>Insight </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="90"/>
