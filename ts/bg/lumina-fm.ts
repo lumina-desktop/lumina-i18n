@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="bg">
 <context>
     <name>BMMDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление на отметки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="40"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Път</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване на отметката</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване на отметката</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Завършено</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване на отметката</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидно име</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вече съществува отметка с това име. Моля, изберете друго.</translation>
     </message>
 </context>
 <context>
@@ -59,309 +59,309 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="246"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне на елемент</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="271"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне на елемент (Избор на програма)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="300"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на елемент към личните предпочитания</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="322"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване на елемент</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
-        <translation type="unfinished"></translation>
+        <translation>Изрязване на елементи</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изрязване на елементи (Добавяне в буфера за обмен)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на елементи</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на елементи в буфера за обмен</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="395"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Вмъкване на елементи от буфера за обмен</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="424"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на елементи</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Прекратяване на зареждането на директорията</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добавяне на избраните изображения към слаидшоу</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="77"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на нова директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="80"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="64"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на нов файл</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="67"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов файл</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="93"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Слайдшоу</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на избраното в мултимедийния плейър</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="112"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Възпроизвеждане</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="465"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="468"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Връщане към предишната директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Нагоре</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="482"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Отиване в родителската директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашна директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="496"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Отиване в домашната директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="518"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне на браузъра</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="131"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="135"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="138"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="142"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата на промяна</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="145"/>
         <source>Date Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата на създаване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="202"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="479"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Ограничен достъп)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="464"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вместимост: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="469"/>
         <source>Files: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлове: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="474"/>
         <source>Dirs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Директории: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов документ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при създаване на документа</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Документа не може да бъде създаден. Моля, уверете се, че разполагате с необходимите права.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправилно име</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл или директория с това име вече съществува! Моля, изберете друго име.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при създаване на директория</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Директорията не може да бъде създадена. Моля, уверете се, че разполагате с необходимите права да променяте текущата директория.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="834"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Текуща</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Контролни суми на файла:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Липсващ инструмент</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструментът &quot;lumina-fileinfo&quot; не може да бъде намерен на системата. Моля, първо го инсталирайте.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="979"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="980"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне с...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
-        <translation type="unfinished"></translation>
+        <translation>Преглед на контролните суми...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства на файла...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Изрязване на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="989"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставяне</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне на терминал тук</translation>
     </message>
 </context>
 <context>
@@ -369,82 +369,82 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Извършване на файлови операции</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="39"/>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="74"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Спиране</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="19"/>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Изчисляване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Overwrite Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Презаписване на файловете?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Do you want to overwrite the existing files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Искате ли да презапишете съществуващите файлове?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="131"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бележка: В противен случай ще бъде добавен номер към името на файла.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="148"/>
         <source>Removing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="149"/>
         <source>Copying: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране: %1 в %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="150"/>
         <source>Restoring: %1 as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване: %1 като %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="151"/>
         <source>Moving: %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Преместване: %1 в %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
         <source>Could not remove these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните файлове не могат да бъдат премахнати:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
         <source>Could not copy these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните файлове не могат да бъдат копирани:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
         <source>Could not restore these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните файлове не могат да бъдат възстановени:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="167"/>
         <source>Could not move these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните файлове не могат да бъдат преместени:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="169"/>
         <source>File Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при файлове</translation>
     </message>
 </context>
 <context>
@@ -452,7 +452,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>Invalid Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправилно преместване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
@@ -460,7 +460,10 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е възможно да преместите директория в самата нея. Вместо това, моля направете копие на директорията.
+
+Старо местоположение: %1
+Ново местоположение: %2</translation>
     </message>
 </context>
 <context>
@@ -468,363 +471,363 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished"></translation>
+        <translation>Вникване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="90"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Лява стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="91"/>
         <source>Shift+Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Дясна стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="114"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="126"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Изглед</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="130"/>
         <source>View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим на изгледа</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="136"/>
         <source>Group Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим в група</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="154"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="162"/>
         <source>External Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Външни устройства</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="169"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="188"/>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="191"/>
         <source>New Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов браузър</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="267"/>
         <source>Search Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене в директория...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="300"/>
         <source>Increase Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличаване размера на иконите</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="305"/>
         <source>Decrease Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Намаляване размера на иконите</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="310"/>
         <source>Larger Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>По-големи икони</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="313"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>По-малки икони</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="324"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="332"/>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов прозорец</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="335"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Н</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="343"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне на отметка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="346"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Д</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="401"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="409"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Опресняване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="420"/>
         <source>Close Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне на браузъра</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="194"/>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Т</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="202"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="205"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="213"/>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="224"/>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Показване на скритите файлове</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="229"/>
         <source>Scan for Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Сканиране за устройства</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="237"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление на отметки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="251"/>
         <source>Show Action Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Показване на бутоните за действия</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="262"/>
         <source>Load Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареждане на плочки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="270"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="61"/>
         <source>Detailed List</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробен списък</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="62"/>
         <source>Basic List</source>
-        <translation type="unfinished"></translation>
+        <translation>Основен списък</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="423"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="63"/>
         <source>Prefer Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитани страници</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="64"/>
         <source>Prefer Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитани колони</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="412"/>
         <source>F5</source>
-        <translation type="unfinished"></translation>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="379"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="354"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="357"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Изрязване на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на избраното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставяне</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="390"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="368"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
         <source>Invalid Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидни директории</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
         <source>The following directories are invalid and could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следните директории са невалидни и не могат да бъдат отворени:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="312"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Root</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="318"/>
         <source>%1 (Type: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Тип: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="322"/>
         <source>Filesystem: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлова система: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="543"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Браузър</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
         <source>New Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова отметка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидно име</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметка с това име вече съществува. Моля, изберете друго.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="682"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Мултимедия</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Слайдшоу</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="877"/>
         <source>Items to be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Елементи, които ще бъдат премахнати:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
         <source>Verify Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвърдете затварянето</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Имате отворени множество подпрозорци. Сигурни ли сте, че искате да ги затворите?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>Verify Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвърждение на премахването</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>ПРЕДУПРЕЖДЕНИЕ: Това завинаги ще изтрие файловете от системата!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурни ли сте, че искате да продължите?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Преименуване на файл</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
         <source>New Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ново име:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Презаписване на файла?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Съществуващ файл със същото име ще бъде заменен. Сигурни ли сте, че искате да продължите?</translation>
     </message>
 </context>
 <context>
@@ -832,37 +835,37 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
         <source>Go To Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Към следващия</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="107"/>
         <source>(No Running Video)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Няма възпроизвеждащо се видео)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Възпроизвеждане:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Спряно</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
         <source>Error Playing File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при възпроизвеждане на файл: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Завършено</translation>
     </message>
 </context>
 <context>
@@ -870,39 +873,39 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>
         <source>Delete this image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на този файл с изображение</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="56"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Завъртане на изображението във файла  обратно на часовниковата стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="69"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Завъртане на изображението във файла по часовниковата стрелка </translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="89"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="92"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличаване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="105"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="108"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Отдалечаване</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="212"/>
         <source>Go to Beginning</source>
-        <translation type="unfinished"></translation>
+        <translation>Към началото</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="215"/>
@@ -910,62 +913,62 @@ New Location: %2</source>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="304"/>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="320"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="218"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Лява стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
         <source>Go to Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Към предишното</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="234"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Лява стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="267"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име на файл</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="301"/>
         <source>Go to Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Към следващото</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="307"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Дясна стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="317"/>
         <source>Go to End</source>
-        <translation type="unfinished"></translation>
+        <translation>Към края</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="323"/>
         <source>Shift+Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Дясна стрелка</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>Verify Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Потвърждение на премахването</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>WARNING: This will permanently delete the file from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>ПРЕДУПРЕЖДЕНИЕ: Това безвъзвратно ще изтрие файла от системата!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурни ли сте, че искате да продължите?</translation>
     </message>
 </context>
 </TS>
