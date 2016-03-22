@@ -65,62 +65,62 @@
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="246"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
-        <translation type="unfinished">Ava</translation>
+        <translation>Ava</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="271"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished">Ava (vali rakendus)</translation>
+        <translation>Ava (vali rakendus)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="300"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished">Lisa lemmikutesse</translation>
+        <translation>Lisa lemmikutesse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="322"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
-        <translation type="unfinished">Nimeta ümber</translation>
+        <translation>Nimeta ümber</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
-        <translation type="unfinished">Lõika</translation>
+        <translation>Lõika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished">Lõika (lisa lõikepuhvrisse)</translation>
+        <translation>Lõika (lisa lõikepuhvrisse)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
-        <translation type="unfinished">Kopeeri</translation>
+        <translation>Kopeeri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished">Kopeeri lõikepuhvrisse</translation>
+        <translation>Kopeeri lõikepuhvrisse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="395"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished">Aseta lõikepuhvrist</translation>
+        <translation>Aseta lõikepuhvrist</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="424"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
-        <translation type="unfinished">Kustuta</translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Peata kausta laadimine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>

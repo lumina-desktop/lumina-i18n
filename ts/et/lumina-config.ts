@@ -252,7 +252,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina sätted</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="132"/>
@@ -328,22 +328,22 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="602"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita töölaua kausta sisu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="736"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda otseteed</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="767"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenda muudatus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda klahviseoseid:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="830"/>
