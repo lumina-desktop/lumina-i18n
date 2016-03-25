@@ -36,7 +36,7 @@
         <translation> </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="88"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="102"/>
         <source>Select Window</source>
         <translatorcomment>スクリーンショットを撮るウィンドウを選択するダイアログのタイトル</translatorcomment>
         <translation>ウィンドウの選択</translation>
@@ -63,46 +63,63 @@
         <translation>ツールバー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="163"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="165"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="166"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="169"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="168"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="171"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="65"/>
         <source>Save Screenshot</source>
         <translatorcomment>&quot;Save&quot;ボタンのツールチップ</translatorcomment>
         <translation>スクリーンショットの保存</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="172"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="174"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="177"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="180"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="179"/>
+        <source>Quick Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="182"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
+        <source>Quick Save Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="198"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="201"/>
         <source>Quit</source>
         <translation>終了</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="206"/>
         <source>Snap</source>
         <translation>撮影</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="209"/>
         <source>Take new snapshot</source>
         <translation>&quot;Snap&quot;ボタンの説明</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="62"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="65"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
         <translation>PNG ファイル (*.png);;すべて (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="88"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="102"/>
         <source>Window:</source>
         <translation>ウィンドウ:</translation>
     </message>
