@@ -79,18 +79,18 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="179"/>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое сохранение</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="182"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
         <source>Quick Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое сохранение скриншота</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрезать</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="198"/>
