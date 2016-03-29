@@ -89,28 +89,28 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="196"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="199"/>
         <source>Edit Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать скриншот</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="202"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="221"/>
         <source>Take new Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Сделать новый скриншот</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="207"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="213"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="218"/>
