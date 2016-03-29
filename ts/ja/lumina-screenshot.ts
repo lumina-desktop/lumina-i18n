@@ -77,7 +77,6 @@
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="174"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
@@ -93,25 +92,46 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
-        <source>Crop</source>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
+        <source>Ctrl+Shift+S</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="198"/>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="201"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="196"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="199"/>
+        <source>Edit Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="202"/>
+        <source>Ctrl+E</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="221"/>
+        <source>Take new Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="207"/>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="210"/>
         <source>Quit</source>
         <translation>終了</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="206"/>
-        <source>Snap</source>
-        <translation>撮影</translation>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="213"/>
+        <source>Ctrl+Q</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="209"/>
-        <source>Take new snapshot</source>
-        <translation>&quot;Snap&quot;ボタンの説明</translation>
+        <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="218"/>
+        <source>Snap</source>
+        <translation>撮影</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.cpp" line="65"/>
