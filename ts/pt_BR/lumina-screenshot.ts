@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="33"/>
         <source>No Screenshot Yet</source>
-        <translation>Não há Capturas de tela até o momento</translation>
+        <translation>Nenhuma captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="43"/>
@@ -78,39 +78,39 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="179"/>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvamento rápido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="182"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
         <source>Quick Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvamento rápido de captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="196"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="199"/>
         <source>Edit Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="202"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="221"/>
         <source>Take new Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirar uma nova captura de tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="207"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="213"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="218"/>

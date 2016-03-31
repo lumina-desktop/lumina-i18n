@@ -474,12 +474,12 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Ieskats</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="90"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="96"/>
         <source>Shift+Left</source>
         <translation>Shift+Pa kreisi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="91"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
         <source>Shift+Right</source>
         <translation>Shift+Pa labi</translation>
     </message>
@@ -650,12 +650,12 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="61"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="67"/>
         <source>Detailed List</source>
         <translation>Detalizēts saraksts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="62"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="68"/>
         <source>Basic List</source>
         <translation>Pamatsaraksts</translation>
     </message>
@@ -665,12 +665,12 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="63"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="69"/>
         <source>Prefer Tabs</source>
         <translation>Dot priekšroku cilnēm</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="64"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="70"/>
         <source>Prefer Columns</source>
         <translation>Dot priekšroku kolonnām</translation>
     </message>
@@ -720,112 +720,112 @@ Jaunā atrašanās vieta: %2</translation>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
         <source>Invalid Directories</source>
         <translation>Nederīgi katalogi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="189"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>Sekojošie katalogi ir nederīgi un nav atverami:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="312"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="318"/>
         <source>Root</source>
         <translation>Sakne</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="318"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="324"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Tips: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="322"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="328"/>
         <source>Filesystem: %1</source>
         <translation>Failu sistēma: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="543"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="549"/>
         <source>Browser</source>
         <translation>Pārlūks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="576"/>
         <source>New Bookmark</source>
         <translation>Jauna grāmatzīme</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="570"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="576"/>
         <source>Name:</source>
         <translation>Vārds:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="581"/>
         <source>Invalid Name</source>
         <translation>Nederīgs vārds</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="575"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="581"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Jau eksistē grāmatzīme ar šādu vārdu. Lūdzu, izvēlieties citu.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="682"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
         <source>Multimedia</source>
         <translation>Multivide</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="700"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="706"/>
         <source>Slideshow</source>
         <translation>Slaidrāde</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="877"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="883"/>
         <source>Items to be removed:</source>
         <translation>Noņemamie vienumi:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="405"/>
         <source>Verify Quit</source>
         <translation>Iziešanas pārbaude</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="399"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="405"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Jums ir atvērtas vairākas cilnes. Vai tiešām vēlaties iziet?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
         <source>Verify Removal</source>
         <translation>Noņemšanas pārbaude</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>UZMANĪBU: Tas neatgriezeniski dzēsīs failu/-s no sistēmas!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="876"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
         <source>Are you sure you want to continue?</source>
         <translation>Vai tiešām vēlaties turpināt?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="843"/>
         <source>Rename File</source>
         <translation>Pārdēvēt failu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="837"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="843"/>
         <source>New Name:</source>
         <translation>Jauns nosaukums:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="857"/>
         <source>Overwrite File?</source>
         <translation>Vai pārrakstīt failu?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="851"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="857"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Esošais fails ar šādu pat nosaukumu tiks aizvietots. Vai tiešām vēlaties turpināt?</translation>
     </message>
