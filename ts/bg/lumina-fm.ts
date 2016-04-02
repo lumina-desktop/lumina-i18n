@@ -474,12 +474,12 @@ New Location: %2</source>
         <translation>Вникване</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
         <source>Shift+Left</source>
         <translation>Shift+Лява стрелка</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="98"/>
         <source>Shift+Right</source>
         <translation>Shift+Дясна стрелка</translation>
     </message>
@@ -650,12 +650,12 @@ New Location: %2</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="67"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="68"/>
         <source>Detailed List</source>
         <translation>Подробен списък</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="68"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="69"/>
         <source>Basic List</source>
         <translation>Основен списък</translation>
     </message>
@@ -665,12 +665,12 @@ New Location: %2</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="69"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="70"/>
         <source>Prefer Tabs</source>
         <translation>Предпочитани страници</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="70"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="71"/>
         <source>Prefer Columns</source>
         <translation>Предпочитани колони</translation>
     </message>
@@ -720,112 +720,112 @@ New Location: %2</source>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="196"/>
         <source>Invalid Directories</source>
         <translation>Невалидни директории</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="195"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="196"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>Следните директории са невалидни и не могат да бъдат отворени:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="318"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="319"/>
         <source>Root</source>
         <translation>Root</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="324"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="325"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Тип: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="328"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="329"/>
         <source>Filesystem: %1</source>
         <translation>Файлова система: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="549"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="550"/>
         <source>Browser</source>
         <translation>Браузър</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="576"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
         <source>New Bookmark</source>
         <translation>Нова отметка</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="576"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
         <source>Name:</source>
         <translation>Име:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="581"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>Invalid Name</source>
         <translation>Невалидно име</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="581"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Отметка с това име вече съществува. Моля, изберете друго.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="688"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="689"/>
         <source>Multimedia</source>
         <translation>Мултимедия</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="706"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="707"/>
         <source>Slideshow</source>
         <translation type="unfinished">Слайдшоу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
         <source>Items to be removed:</source>
         <translation>Елементи, които ще бъдат премахнати:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="405"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="406"/>
         <source>Verify Quit</source>
         <translation>Потвърдете затварянето</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="405"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="406"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Имате отворени множество подпрозорци. Сигурни ли сте, че искате да ги затворите?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="883"/>
         <source>Verify Removal</source>
         <translation>Потвърждение на премахването</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="883"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>ПРЕДУПРЕЖДЕНИЕ: Това завинаги ще изтрие файловете от системата!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="882"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="883"/>
         <source>Are you sure you want to continue?</source>
         <translation>Сигурни ли сте, че искате да продължите?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="843"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="844"/>
         <source>Rename File</source>
         <translation>Преименуване на файл</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="843"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="844"/>
         <source>New Name:</source>
         <translation>Ново име:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="857"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="858"/>
         <source>Overwrite File?</source>
         <translation>Презаписване на файла?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="857"/>
+        <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="858"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Съществуващ файл със същото име ще бъде заменен. Сигурни ли сте, че искате да продължите?</translation>
     </message>
