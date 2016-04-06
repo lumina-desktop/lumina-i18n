@@ -333,17 +333,17 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="736"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér genvej</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="767"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfør ændring</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="777"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift taste binding:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="830"/>
@@ -403,24 +403,24 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1274"/>
         <source>Time Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsformat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1286"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1330"/>
         <source>View format codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis format koder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1318"/>
         <source>Date Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoformat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1301"/>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1345"/>
         <source>Sample:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøve:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1217"/>
@@ -505,38 +505,38 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1483"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal af arbejdsområder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1500"/>
         <source>New Window Placement</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny vinduesplacering</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1510"/>
         <source>Focus Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokuspolitik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1520"/>
         <source>Window Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinduestema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinduestema forhåndsvisning</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1764"/>
         <source>No Preview Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen forhåndsvisning tilgængelig</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1638"/>
         <source>Save Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem ændringer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1641"/>
@@ -581,57 +581,57 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1723"/>
         <source>Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sessions Indstillinger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1742"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Genveje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1745"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastaturgenveje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="226"/>
         <source>Click To Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik for fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="227"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktiv mus fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="228"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Streng mus fokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="230"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilpas i en række</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="231"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tilpas i en kolonne</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="232"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaskade</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="233"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Under mus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="440"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem ændringer?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="440"/>
@@ -677,22 +677,22 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="993"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Lydstyrke Ned</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="994"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Skærmlysstyrke Op</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="995"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Skærmlysstyrke Ned</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="996"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Tag skærmbillede</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1114"/>
@@ -704,27 +704,27 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1280"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1302"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik for at vælge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1336"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="251"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid (Dato som værktøjstip)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil(er)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe (Enkelt)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
@@ -754,49 +754,49 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="264"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="265"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Flise</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="266"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrér</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="267"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Øverst til venstre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="268"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Øverst til højre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="269"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederst til venstre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="270"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederst til højre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="308"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="309"/>
         <source>Select Color</source>
-        <translation type="unfinished">Vælg farve</translation>
+        <translation>Vælg farve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="470"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="732"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensfarvet farve: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
@@ -855,37 +855,37 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1739"/>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1739"/>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle filer (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1843"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg et billede</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1844"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Billeder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1848"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nulstil Bruger billede</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1848"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du gerne nulstille bruger billedet til system standard?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1887"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gyldig tids koder:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1888"/>
@@ -1073,7 +1073,7 @@ Aktuelle tastatur forbindelser wil også blive ignoreret.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrér</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/PanelWidget.cpp" line="26"/>
