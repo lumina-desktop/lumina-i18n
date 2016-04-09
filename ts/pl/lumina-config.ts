@@ -72,7 +72,7 @@
         <source>This color scheme already exists.
  Overwrite it?</source>
         <translation>Ten zestaw kolorów już istnieje.
- Nadpisać go?</translation>
+ Nadpisać?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="117"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation>Wybierz wtyczkę</translation>
+        <translation>Wybierz wtyczkę:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/GetPluginDialog.ui" line="57"/>
@@ -151,7 +151,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="206"/>
         <source>Rotate Background</source>
-        <translation>Rotacyjne tło ekranu:</translation>
+        <translation>Rotacyjne tło ekranu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="213"/>
@@ -177,7 +177,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="723"/>
         <source>Action</source>
-        <translation>Działanie</translation>
+        <translation>Czynność</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.ui" line="728"/>
@@ -802,7 +802,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź katalog z obrazami tła</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>

@@ -719,22 +719,22 @@ Les raccourcis clavier courants seront également ignorés.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="219"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="220"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire (Seul)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="221"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Répertoire (Récursif)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="222"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleur Unie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="252"/>
@@ -802,7 +802,7 @@ Les raccourcis clavier courants seront également ignorés.</translation>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="745"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="771"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Trouver le Répertoire d&apos;Image des Arrière-Plans</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="997"/>
