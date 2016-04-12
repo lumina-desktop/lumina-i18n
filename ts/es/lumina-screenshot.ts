@@ -78,39 +78,39 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="179"/>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardado Rápido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="182"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="185"/>
         <source>Quick Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura de Pantalla de Guardado Rápido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="188"/>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="193"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="196"/>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="199"/>
         <source>Edit Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar Captura de Pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="202"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="221"/>
         <source>Take new Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomar Nueva Captura de Pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="207"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="213"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-screenshot/MainUI.ui" line="218"/>
