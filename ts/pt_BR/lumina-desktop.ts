@@ -376,7 +376,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="121"/>
         <source>Time Zone (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso horário (%1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/clock/LClock.cpp" line="143"/>
@@ -399,17 +399,17 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar tamanho do item</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir tamanho do item</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover item</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="25"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferências</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/SettingsMenu.cpp" line="35"/>
@@ -836,22 +836,22 @@
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferências</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1017"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Desligar sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1036"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sistema aplicando atualizações)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="924"/>

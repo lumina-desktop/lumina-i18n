@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation>Selecionar Aplicativo</translation>
+        <translation>Selecionar aplicativo</translation>
     </message>
 </context>
 <context>
@@ -14,17 +14,17 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation>Editor de esquema de cor</translation>
+        <translation>Editor de paletas de cores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation>Esquema de cor:</translation>
+        <translation>Esquema de cores:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation>Definir nova cor para a seleção</translation>
+        <translation>Definir uma nova cor para a seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="54"/>
@@ -35,7 +35,7 @@
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation>Definir o valor para a seleção manualmente</translation>
+        <translation>Definir manualmente o valor para seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/ColorDialog.ui" line="95"/>
@@ -71,7 +71,7 @@
         <location filename="../../lumina-git/lumina-config/ColorDialog.cpp" line="94"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
-        <translation>Esse esquema de cor já existe.
+        <translation>Esse esquema de cores já existe.
  Substituí-lo?</translation>
     </message>
     <message>
@@ -1202,7 +1202,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="143"/>
         <source>Display area for dockable system applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Área de exibição para aplicativos do sistema acoplável</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="150"/>
@@ -1253,7 +1253,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="100"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternador de espaço de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-config/LPlugins.cpp" line="149"/>
