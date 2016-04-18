@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="da">
 <context>
     <name>BMMDialog</name>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Administrér bogmærker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="35"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="40"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="52"/>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern bogmærke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="65"/>
         <source>Rename BookMark</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb bogmærke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.ui" line="91"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Gennemført</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb bogmærke</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldigt navn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette bogmærke navn findes allerede. Vælg venligst et andet navn.</translation>
     </message>
 </context>
 <context>
@@ -59,46 +59,46 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="246"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn element</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="271"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn element (vælg program)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="300"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj element til personlige favoritter</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="322"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb element</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
-        <translation type="unfinished"></translation>
+        <translation>Klip elementer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klip elementer (tilføj til udklipsholderen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér elementer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
@@ -155,56 +155,56 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæt det valgte i kø i multimedie afspilleren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="112"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="465"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="468"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til forrige mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Op</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="482"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Til overmappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="496"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til hjemmemappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="518"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk denne browser</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="131"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="135"/>
@@ -250,43 +250,43 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyt dokument</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke oprette dokument</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentet kunne ikke oprettes. Sørg venligst for at du har de korrekte tilladelser.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldigt navn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fil eller mappe med det samme navn eksisterer allerede. Vælg venligst et andet navn.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved oprettelse af mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="811"/>
@@ -629,7 +629,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="237"/>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Administrér bogmærker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="251"/>
@@ -754,17 +754,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="577"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navn:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ugyldigt navn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="582"/>
         <source>This bookmark name already exists. Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dette bogmærke navn findes allerede. Vælg venligst et andet navn.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="689"/>
@@ -832,7 +832,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formular</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
@@ -862,7 +862,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gennemført</translation>
     </message>
 </context>
 <context>
@@ -870,7 +870,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formular</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>
