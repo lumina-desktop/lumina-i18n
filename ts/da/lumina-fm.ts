@@ -103,54 +103,54 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopier elementer til udklipsholder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="395"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt elementer fra udklipsholder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="424"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet elementer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop indlæsning af mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj valgte billeder til et slideshow</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="77"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret ny mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="80"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny Mappe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="64"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret en ny fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="67"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="93"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Slideshow</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.ui" line="109"/>
@@ -209,38 +209,38 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="135"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Størrelse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="138"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="142"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændringsdato</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="145"/>
         <source>Date Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprettelsesdato</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="202"/>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="479"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Begrænset Adgang)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="464"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapacitet: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="469"/>
         <source>Files: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="474"/>
@@ -336,32 +336,32 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Filegenskaber...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Klip valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="989"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben terminal her</translation>
     </message>
 </context>
 <context>
@@ -369,17 +369,17 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfører fil operationer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="39"/>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.ui" line="74"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="19"/>
@@ -424,27 +424,27 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="164"/>
         <source>Could not remove these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fjerne disse filer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="165"/>
         <source>Could not copy these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke kopiere disse filer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="166"/>
         <source>Could not restore these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke genskabe disse filer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="167"/>
         <source>Could not move these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke flytte disse filer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="169"/>
         <source>File Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Filfejl</translation>
     </message>
 </context>
 <context>
@@ -452,7 +452,7 @@
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
         <source>Invalid Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldigt træk.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/FODialog.cpp" line="320"/>
@@ -460,7 +460,10 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Det er ikke muligt at flytte en mappe ind i sig selv. Lav venligst en kopi af mappen istedet.
+
+Gl. lokation: %1
+Ny lokation: %2</translation>
     </message>
 </context>
 <context>
@@ -468,12 +471,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsigt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="97"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skift+venstre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="98"/>
@@ -524,12 +527,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="267"/>
         <source>Search Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i bibliotek...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="300"/>
         <source>Increase Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Forøg ikonstørrelse</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="305"/>
@@ -579,7 +582,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slet valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="401"/>
@@ -694,17 +697,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klip valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiér valgte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Indsæt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.ui" line="390"/>
@@ -774,7 +777,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="707"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slideshow</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/MainUI.cpp" line="884"/>
@@ -915,7 +918,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="218"/>
         <source>Shift+Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skift+venstre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
