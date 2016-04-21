@@ -162,13 +162,13 @@ Current keyboard bindings will also be ignored.</source>
         <translation>Každý</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1698"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1718"/>
         <source>Appearance</source>
         <translation>Vzhľad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="992"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1002"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1109"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1119"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -193,52 +193,52 @@ Current keyboard bindings will also be ignored.</source>
         <translation>Poznámka: Súčasné priradenie klávesov je potrebné uložiť skôr, než môžu byť znovu použité.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="922"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1039"/>
         <source>Web Browser:</source>
         <translation>Internetový prehliadač: </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="945"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1062"/>
         <source>E-Mail Client:</source>
         <translation>Klient elektronickej pošty:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="972"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1089"/>
         <source>File Manager:</source>
         <translation>Správca súborov:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="985"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1102"/>
         <source>Virtual Terminal:</source>
         <translation>Virtuálny terminál: </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1021"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="914"/>
         <source>Specific File Types</source>
         <translation>Špecifické typy súborov </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1063"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="956"/>
         <source>Default Application</source>
         <translation>Predvolená aplikácia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1068"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1078"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="971"/>
         <source>Clear</source>
         <translation>Vyčistiť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1101"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="994"/>
         <source>Set App</source>
         <translation>Nastavenie aplikácie </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1111"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1004"/>
         <source>Set Binary</source>
         <translation>Binárne nastavenie </translation>
     </message>
@@ -369,190 +369,195 @@ Current keyboard bindings will also be ignored.</source>
         <translation>Predvolené</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1058"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="951"/>
         <source>Type/Group</source>
         <translation>typ/skupina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1150"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1020"/>
+        <source>Common Applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1170"/>
         <source>General Options</source>
         <translation>Všeobecné nastavenie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1158"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1178"/>
         <source>Enable numlock on startup</source>
         <translation>Povoliť numlock pri štarte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1165"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1185"/>
         <source>Play chimes on startup</source>
         <translation>Zapnúť zvučku pri štarte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1172"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1192"/>
         <source>Play chimes on exit</source>
         <translation>Zapnúť zvučku pri ukončení systému</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1181"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1201"/>
         <source>Change User Icon</source>
         <translation>Zmeniť ikonu užívateľa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1274"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1294"/>
         <source>Time Format:</source>
         <translation>Formát času:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1286"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1330"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1306"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1350"/>
         <source>View format codes</source>
         <translation>Zobraziť formát kódov </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1318"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1338"/>
         <source>Date Format:</source>
         <translation>Formát  dátumu:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1301"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1345"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1321"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1365"/>
         <source>Sample:</source>
         <translation>Vzor:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1217"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1237"/>
         <source>Reset Desktop Settings</source>
         <translation>Vrátiť nastavenie plochy </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1236"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1256"/>
         <source>Return to system defaults</source>
         <translation>Návrat do predvolebných hodnôt systému </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1243"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1263"/>
         <source>Return to Lumina defaults</source>
         <translation>Návrat do Lumina predvolené hodnoty </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1731"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1751"/>
         <source>Applications</source>
         <translation>Programy</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1734"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1754"/>
         <source>Application Management</source>
         <translation>Riadenie aplikácií </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1475"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1495"/>
         <source>Window System</source>
         <translation>Window systém</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1365"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1385"/>
         <source>Display Format</source>
         <translation>Formát zobrazenia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1391"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
         <translation>Lokalizácia:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1427"/>
         <source>Messages</source>
         <translation>Správy</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1437"/>
         <source>Time</source>
         <translation>Čas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1427"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
         <source>Numeric</source>
         <translation>Číselný</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1437"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
         <source>Monetary</source>
         <translation>menový</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
         <source>Collate</source>
         <translation>zoradiť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1477"/>
         <source>CType</source>
         <translation>CType</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1487"/>
         <source>System localization settings (restart required)</source>
         <translation>Nastavenie lokalizácie systému (reštart nutný) </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1483"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1503"/>
         <source>Number of Workspaces</source>
         <translation>Počet pracovných plôch</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1500"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1520"/>
         <source>New Window Placement</source>
         <translation>Nové umiestnenie okna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1510"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1530"/>
         <source>Focus Policy</source>
         <translation>Politika fokusu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1520"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1540"/>
         <source>Window Theme</source>
         <translation>Téma okna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1558"/>
         <source>Window Theme Preview</source>
         <translation>Náhľad témy pre okno</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1612"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1764"/>
         <source>No Preview Available</source>
         <translation>Náhľad nie je k dispozícii</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1638"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1658"/>
         <source>Save Changes</source>
         <translation>Uložiť zmeny</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1641"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1661"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1670"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1690"/>
         <source>toolBar</source>
         <translation>Panel nástrojov</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1709"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1729"/>
         <source>Interface</source>
         <translation>Rozhranie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1712"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1732"/>
         <source>Interface Configuration</source>
         <translation>Konfigurácia rozhrania</translation>
     </message>
@@ -562,7 +567,7 @@ Current keyboard bindings will also be ignored.</source>
         <translation>Pracovná plocha</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1701"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1721"/>
         <source>Desktop Appearance</source>
         <translation>Vzhľad pracovnej plochy</translation>
     </message>
@@ -572,22 +577,22 @@ Current keyboard bindings will also be ignored.</source>
         <translation>Panely</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1720"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1740"/>
         <source>Session</source>
         <translation>Sedenie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1723"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1743"/>
         <source>Session Options</source>
         <translation>Session Options</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1742"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1762"/>
         <source>Shortcuts</source>
         <translation>Skratky</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1745"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
         <source>Keyboard Shortcuts</source>
         <translation>Klávesové skratky</translation>
     </message>

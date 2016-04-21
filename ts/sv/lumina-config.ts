@@ -164,13 +164,13 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Var</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1698"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1718"/>
         <source>Appearance</source>
         <translation>Utseende</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="992"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1002"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1109"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1119"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -195,52 +195,52 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Notera: Nuvarande kortkommandon måste nollställas och sparas innan de kan återanvändas.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="922"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1039"/>
         <source>Web Browser:</source>
         <translation>Webbläsare:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="945"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1062"/>
         <source>E-Mail Client:</source>
         <translation>E-postklient:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="972"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1089"/>
         <source>File Manager:</source>
         <translation>Filhanterare:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="985"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1102"/>
         <source>Virtual Terminal:</source>
         <translation>Virtuell Terminal:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1021"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="914"/>
         <source>Specific File Types</source>
         <translation>Specifika filtyper</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1063"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="956"/>
         <source>Default Application</source>
         <translation>Standardprogram</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1068"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="961"/>
         <source>Description</source>
         <translation>Beskrivning</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1078"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="971"/>
         <source>Clear</source>
         <translation>Rensa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1101"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="994"/>
         <source>Set App</source>
         <translation>Välj Program</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1111"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1004"/>
         <source>Set Binary</source>
         <translation>Välj Binär</translation>
     </message>
@@ -371,190 +371,195 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Program standarder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1058"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="951"/>
         <source>Type/Group</source>
         <translation>Typ/Grupp</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1150"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1020"/>
+        <source>Common Applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1170"/>
         <source>General Options</source>
         <translation>Allmänna Inställningar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1158"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1178"/>
         <source>Enable numlock on startup</source>
         <translation>Aktivera numlock vid uppstart</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1165"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1185"/>
         <source>Play chimes on startup</source>
         <translation>Spela upp ljud vid uppstart</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1172"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1192"/>
         <source>Play chimes on exit</source>
         <translation>Spela upp ljud vid avslut</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1181"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1201"/>
         <source>Change User Icon</source>
         <translation>Ändra användarikon</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1274"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1294"/>
         <source>Time Format:</source>
         <translation>Tidsformat:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1286"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1330"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1306"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1350"/>
         <source>View format codes</source>
         <translation>Visa format koder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1318"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1338"/>
         <source>Date Format:</source>
         <translation>Datumformat:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1301"/>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1345"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1321"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1365"/>
         <source>Sample:</source>
         <translation>Exempel:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1217"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1237"/>
         <source>Reset Desktop Settings</source>
         <translation>Återställ Skrivbordsinställningar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1236"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1256"/>
         <source>Return to system defaults</source>
         <translation>Återgå till standard systeminställningarna</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1243"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1263"/>
         <source>Return to Lumina defaults</source>
         <translation>Återgå till Lumina standardinställningar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1731"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1751"/>
         <source>Applications</source>
         <translation>Program</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1734"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1754"/>
         <source>Application Management</source>
         <translation>Programhanterare</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1475"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1495"/>
         <source>Window System</source>
         <translation>Fönstersystem</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1365"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1385"/>
         <source>Display Format</source>
         <translation>Visningsformat</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1391"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
         <translation>Språkvariant</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1397"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1407"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1427"/>
         <source>Messages</source>
         <translation>Meddelanden</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1417"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1437"/>
         <source>Time</source>
         <translation>Tid</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1427"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
         <source>Numeric</source>
         <translation>Numerisk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1437"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
         <source>Monetary</source>
         <translation>Pengar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1447"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
         <source>Collate</source>
         <translation>Sortera</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1457"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1477"/>
         <source>CType</source>
         <translation>CType</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1467"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1487"/>
         <source>System localization settings (restart required)</source>
         <translation>Systemlokaliseringsinställningar (omstart krävs)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1483"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1503"/>
         <source>Number of Workspaces</source>
         <translation>Antal Arbetsytor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1500"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1520"/>
         <source>New Window Placement</source>
         <translation>Ny Fönsterplacering</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1510"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1530"/>
         <source>Focus Policy</source>
         <translation>Fokuspolicy</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1520"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1540"/>
         <source>Window Theme</source>
         <translation>Fönstertema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1538"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1558"/>
         <source>Window Theme Preview</source>
         <translation>Förhandsvisning av Fönstertema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1592"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1612"/>
         <location filename="../../lumina-git/lumina-config/mainUI.cpp" line="1764"/>
         <source>No Preview Available</source>
         <translation>Ingen förhandsvisning tillgänglig</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1638"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1658"/>
         <source>Save Changes</source>
         <translation>Spara ändringar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1641"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1661"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1670"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1690"/>
         <source>toolBar</source>
         <translation>Verktygsrad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1709"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1729"/>
         <source>Interface</source>
         <translation>Gränssnitt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1712"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1732"/>
         <source>Interface Configuration</source>
         <translation>Interface Inställningar</translation>
     </message>
@@ -564,7 +569,7 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Skrivbord</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1701"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1721"/>
         <source>Desktop Appearance</source>
         <translation>Skrivbordsutseende</translation>
     </message>
@@ -574,22 +579,22 @@ Nuvarande kortkommandon kommer även ignoreras.</translation>
         <translation>Paneler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1720"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1740"/>
         <source>Session</source>
         <translation>Session</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1723"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1743"/>
         <source>Session Options</source>
         <translation>Sessionsinställningar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1742"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1762"/>
         <source>Shortcuts</source>
         <translation>Genvägar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1745"/>
+        <location filename="../../lumina-git/lumina-config/mainUI.ui" line="1765"/>
         <source>Keyboard Shortcuts</source>
         <translation>Kortkommandon</translation>
     </message>
