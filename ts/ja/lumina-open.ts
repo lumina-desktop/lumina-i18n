@@ -4,132 +4,132 @@
 <context>
     <name>LFileDialog</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="14"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="14"/>
         <source>Open With...</source>
         <translation>アプリケーションで開く...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="68"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
         <translation>推奨</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="75"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
         <translation>利用可能</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="82"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="82"/>
         <source>Custom</source>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="131"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
         <translation>バイナリーの場所</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="138"/>
         <source>Find</source>
         <translation>検索</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="193"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="193"/>
         <source>Set this application as the default </source>
         <translation>このアプリケーションをデフォルトにする </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="215"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="215"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="229"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="40"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="40"/>
         <source>(Email Link)</source>
         <translation>(電子メールリンク)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="41"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="41"/>
         <source>(Internet URL - %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="124"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Audio</source>
         <translation>オーディオ</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="125"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
         <source>Video</source>
         <translation>動画</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="126"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Multimedia</source>
         <translation>マルチメディア</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="127"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Development</source>
         <translation>開発</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="128"/>
         <source>Education</source>
         <translation>教育</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="129"/>
         <source>Game</source>
         <translation>ゲーム</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="130"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="130"/>
         <source>Graphics</source>
         <translation>グラフィックス</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="131"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="131"/>
         <source>Network</source>
         <translation>ネットワーク</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="132"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="132"/>
         <source>Office</source>
         <translation>オフィス</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="133"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="133"/>
         <source>Science</source>
         <translation>科学</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="134"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="134"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="135"/>
         <source>System</source>
         <translation>システム</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="136"/>
         <source>Utilities</source>
         <translation>ユーティリティー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="137"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="137"/>
         <source>Other</source>
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/LFileDialog.cpp" line="278"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="278"/>
         <source>Find Application Binary</source>
         <translatorcomment>&quot;Find&quot;とあるが、ファイル指定ダイアログのタイトル</translatorcomment>
         <translation>アプリケーションのバイナリーを指定</translation>
@@ -138,59 +138,59 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="50"/>
         <source>File Error</source>
         <translation>ファイルエラー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="185"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="191"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="185"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="191"/>
         <source>Audio Volume %1%</source>
         <translation>音声ボリューム %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="199"/>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="208"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="199"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="208"/>
         <source>Screen Brightness %1%</source>
         <translation>画面の明るさ %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="230"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="230"/>
         <source>Invalid file or URL: %1</source>
         <translation>無効なファイルまたはURL: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="253"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="253"/>
         <source>File could not be opened: %1</source>
         <translation>ファイルを開けません: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="262"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="262"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>アプリケーションショートカットの起動情報が失われています(無効なショートカット): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="273"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="273"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>URL ショートカットの URL が失われています: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="284"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="284"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>ディレクトリーショートカットのパス情報が失われています: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="289"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="289"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>種類が不明なショートカットです: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="393"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="393"/>
         <source>Application Error</source>
         <translation>アプリケーションエラー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/lumina-open/main.cpp" line="393"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="393"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>このアプリケーションでエラーが発生したため、閉じる必要があります:</translation>
     </message>
