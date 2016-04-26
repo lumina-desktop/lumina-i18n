@@ -34,17 +34,17 @@
         <translation>Keresés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="193"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="199"/>
         <source>Set this application as the default </source>
         <translation>Alkalmazás beállítása alapértelmezettnek</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="215"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="221"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="229"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="235"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>

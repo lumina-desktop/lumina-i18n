@@ -378,7 +378,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions usuals</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
