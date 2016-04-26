@@ -751,32 +751,32 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="29"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="30"/>
         <source>Screensaver</source>
         <translation>屏幕保护</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="32"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="33"/>
         <source>Desktop</source>
         <translation>桌面</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="26"/>
         <source>Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="35"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
         <source>Control Panel</source>
         <translation>控制面板</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="56"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="57"/>
         <source>About Lumina</source>
         <translation>关于Lumina</translation>
     </message>

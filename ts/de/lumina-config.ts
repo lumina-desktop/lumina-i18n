@@ -164,7 +164,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>Alle </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1718"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1724"/>
         <source>Appearance</source>
         <translation>Aussehen</translation>
     </message>
@@ -443,12 +443,42 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>zurücksetzen auf Lumina-Standard</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1751"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
+        <source> Appearance </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
+        <source>   Interface   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
+        <source>     Interface    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
+        <source>    Session    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
+        <source>     Session      </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
         <source>Applications</source>
         <translation>Anwendungen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1754"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
+        <source> Applications </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
         <source>Application Management</source>
         <translation>Anwendungsverwaltung</translation>
     </message>
@@ -534,7 +564,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1612"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1764"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1770"/>
         <source>No Preview Available</source>
         <translation>Keine Vorschau verfügbar</translation>
     </message>
@@ -549,17 +579,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>Strg+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1690"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
         <source>toolBar</source>
         <translation>Werkzeugleiste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1729"/>
-        <source>Interface</source>
-        <translation>Schnittstelle</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1732"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
         <source>Interface Configuration</source>
         <translation>Konfiguration der Schnittstelle</translation>
     </message>
@@ -569,7 +594,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>Arbeitsfläche</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1721"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1730"/>
         <source>Desktop Appearance</source>
         <translation>Erscheinungsbild der Arbeitsfläche</translation>
     </message>
@@ -579,426 +604,426 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <translation>Seitenleisten</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1740"/>
-        <source>Session</source>
-        <translation>Sitzung</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1743"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1758"/>
         <source>Session Options</source>
         <translation>Sitzungsoptionen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1762"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
         <source>Shortcuts</source>
         <translation>Tastenkombinationen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1765"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
+        <source>   Shortcuts   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
         <source>Keyboard Shortcuts</source>
         <translation>Tastenkombinationen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
         <source>Click To Focus</source>
         <translation>Fokus durch Mausklick</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
         <source>Active Mouse Focus</source>
         <translation>Maus-Fokus aktiviert</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="228"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="234"/>
         <source>Strict Mouse Focus</source>
         <translation>strikter Maus-Fokus</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="230"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
         <source>Align in a Row</source>
         <translation>Ausrichtung in einer Reihe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="231"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="237"/>
         <source>Align in a Column</source>
         <translation>Ausrichtung in einer Spalte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="238"/>
         <source>Cascade</source>
         <translation>Kaskadiert</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="239"/>
         <source>Underneath Mouse</source>
         <translation>unterhalb der Maus</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="440"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="446"/>
         <source>Save Changes?</source>
         <translation>Änderungen speichern?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="440"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="446"/>
         <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
         <translation>Sie haben gegenwärtig ungespeicherte Änderungen für diese diesen Bildschirm. Möchtest du erst speichern?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="277"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="469"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="283"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="475"/>
         <source>System Default</source>
         <translation>Standardeinstellung</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="480"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="486"/>
         <source>Screen Resolution:</source>
         <translation>Bildschirmauflösung:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="653"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="659"/>
         <source>No Background</source>
         <translation>Kein Hintergrund</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="653"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="659"/>
         <source>(use system default)</source>
         <translation>(Nutze Standard-Systemeinstellungen)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="673"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="679"/>
         <source>File does not exist</source>
         <translation>Datei existiert nicht</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="712"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="718"/>
         <source>Find Background Image(s)</source>
         <translation>Hintergrundbild(er) finden</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="992"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="998"/>
         <source>Audio Volume Up</source>
         <translation>Lautstärke lauter</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="993"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="999"/>
         <source>Audio Volume Down</source>
         <translation>Lautstärke leiser</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="994"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1000"/>
         <source>Screen Brightness Up</source>
         <translation>Bildschirm heller</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="995"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1001"/>
         <source>Screen Brightness Down</source>
         <translation>Bildschirm dunkler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="996"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1002"/>
         <source>Take Screenshot</source>
         <translation>Bildschirmfoto erstellen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1114"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1145"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1178"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1209"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1236"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1258"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1280"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1302"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1120"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1151"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1184"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1215"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1242"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1264"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1286"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1308"/>
         <source>Click to Set</source>
         <translation>Klicken zum Einstellen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1336"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1342"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="251"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="257"/>
         <source>Time (Date as tooltip)</source>
         <translation>Zeit (Datum als Tooltip)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="219"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="225"/>
         <source>File(s)</source>
         <translation>Datei(en)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="220"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
         <source>Directory (Single)</source>
         <translation>Verzeichnis (einzeln)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="221"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
         <source>Directory (Recursive)</source>
         <translation>Verzeichnis (rekursiv)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="222"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="228"/>
         <source>Solid Color</source>
         <translation>Einfarbig</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="252"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="258"/>
         <source>Date (Time as tooltip)</source>
         <translation>Datum (Zeit als Tooltip)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="253"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
         <source>Time first then Date</source>
         <translation>Zeit zuerst, dann Datum</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="260"/>
         <source>Date first then Time</source>
         <translation>Datum zuerst, dann Zeit</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
         <source>Automatic</source>
         <translation>Automatisch</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="265"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
         <source>Tile</source>
         <translation>Kachel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="266"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
         <source>Center</source>
         <translation>Mitte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="267"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
         <source>Top Left</source>
         <translation>Oben links</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="268"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
         <source>Top Right</source>
         <translation>Oben Rechts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="269"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
         <source>Bottom Left</source>
         <translation>Unten Links</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
         <source>Bottom Right</source>
         <translation>Unten Rechts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="308"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="309"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="314"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="315"/>
         <source>Select Color</source>
         <translation>Farbe wählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="470"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="732"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="476"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="738"/>
         <source>Solid Color: %1</source>
         <translation>Einfarbig: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="745"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="771"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="751"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="777"/>
         <source>Find Background Image Directory</source>
         <translation>Verzeichnis für Hintergrundbilder auswählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="997"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1003"/>
         <source>Lock Screen</source>
         <translation>Bildschirm sperren</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1423"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1722"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1429"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1728"/>
         <source>Select Binary</source>
         <translation>Programm auswählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1430"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1725"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1436"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
         <source>Invalid Binary</source>
         <translation>Ungültiges Programm</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1430"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1436"/>
         <source>The selected binary is not executable!</source>
         <translation>Das ausgewählte Programm ist nicht ausführbar!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1550"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1564"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1798"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1824"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1556"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1570"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1804"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1830"/>
         <source>Local</source>
         <translation>Lokal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1557"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1571"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1805"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1831"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1563"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1577"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1811"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1837"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1722"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1728"/>
         <source>Application Binaries (*)</source>
         <translation>Anwendungsprogramm (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1725"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
         <source>The selected file is not executable!</source>
         <translation>Die ausgewählte Datei ist nicht ausführbar!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1739"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1745"/>
         <source>Select File</source>
         <translation>Datei auswählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1739"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1745"/>
         <source>All Files (*)</source>
         <translation>Alle Dateien (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1843"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1849"/>
         <source>Select an image</source>
         <translation>Bild auswählen</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1844"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1850"/>
         <source>Images</source>
         <translation>Bilder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1848"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1854"/>
         <source>Reset User Image</source>
         <translation>Zurücksetzen des Benutzerbildes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1848"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1854"/>
         <source>Would you like to reset the user image to the system default?</source>
         <translation>Möchtest du das Benutzerbild zurücksetzen?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1887"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1893"/>
         <source>Valid Time Codes:</source>
         <translation>Gültige Zeit Codes:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1888"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1894"/>
         <source>%1: Hour without leading zero (1)</source>
         <translation>%1: Stunde ohne Null am Anfang (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1889"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1895"/>
         <source>%1: Hour with leading zero (01)</source>
         <translation>%1: Stunde mit Null am Anfang (0)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1890"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
         <source>%1: Minutes without leading zero (2)</source>
         <translation>%1: Minuten ohne Null am Anfang (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1891"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1897"/>
         <source>%1: Minutes with leading zero (02)</source>
         <translation>%1: Minuten mit Null am Anfang (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1892"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1898"/>
         <source>%1: Seconds without leading zero (3)</source>
         <translation>%1: Sekunden ohne Null am Anfang (3)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1893"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1899"/>
         <source>%1: Seconds with leading zero (03)</source>
         <translation>%1: Sekunden mit Null am Anfang (03)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1894"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1900"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
         <translation>%1: 12-Stunden Anzeige (Groß- oder Kleinschreibung)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1895"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1901"/>
         <source>%1: Timezone</source>
         <translation>%1: Zeitzone</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1902"/>
         <source>Time Codes</source>
         <translation>Zeit Codes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1910"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1916"/>
         <source>Valid Date Codes:</source>
         <translation>gültige Datum Codes:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1911"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1917"/>
         <source>%1: Numeric day without a leading zero (1)</source>
         <translation>%1: Numerische Anzeige von Tagen ohne Null am Anfang (1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1912"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1918"/>
         <source>%1: Numeric day with leading zero (01)</source>
         <translation>%1: Numerische Anzeige von Tagen mit Null am Anfang (01)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1913"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
         <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: Tag als Abkürzung (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1914"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
         <source>%1: Day as full name (localized)</source>
         <translation>%1: Tag als voller Name (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1915"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
         <source>%1: Numeric month without leading zero (2)</source>
         <translation>%1: Numerischer Monat ohne Null am Anfang (2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1916"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
         <source>%1: Numeric month with leading zero (02)</source>
         <translation>%1: Numerische Monate mit Null am Anfang (02)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1917"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
         <source>%1: Month as abbreviation (localized)</source>
         <translation>%1: Monatsnamen als Abkürzung (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1918"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1924"/>
         <source>%1: Month as full name (localized)</source>
         <translation>%1: volle Monatsnamen (lokal)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1925"/>
         <source>%1: Year as 2-digit number (15)</source>
         <translation>%1: Jahr als zweistellige Nummer (15)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1926"/>
         <source>%1: Year as 4-digit number (2015)</source>
         <translation>%1: Jahr als vierstellige Nummer (2015)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1927"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
         <translation>Text muss in Hochkommas gesetzt werden um Ersetzungen zu ignorieren</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1928"/>
         <source>Date Codes</source>
         <translation>Datums Codes</translation>
     </message>

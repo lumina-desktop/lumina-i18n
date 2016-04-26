@@ -751,32 +751,32 @@
 <context>
     <name>SettingsMenu</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="29"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="30"/>
         <source>Screensaver</source>
         <translation>Ekran Koruyucu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="32"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="33"/>
         <source>Desktop</source>
         <translation>Masaüstü</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="26"/>
         <source>Preferences</source>
         <translation>Tercihler</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="35"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
         <translation>Görüntü</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
         <source>Control Panel</source>
         <translation>Denetim Paneli</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="56"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="57"/>
         <source>About Lumina</source>
         <translation>Lumina Hakkında</translation>
     </message>
