@@ -37,7 +37,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="124"/>
         <source>Last Modified:</source>
-        <translation>Ostatnio zmodyfikowany:</translation>
+        <translation>Zmodyfikowany:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="131"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="185"/>
         <source>File Size:</source>
-        <translation>Rozmiar pliku:</translation>
+        <translation>Rozmiar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="216"/>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="62"/>
         <source>Read/Write</source>
-        <translation>Odczyt/zapis</translation>
+        <translation>odczyt/zapis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="63"/>

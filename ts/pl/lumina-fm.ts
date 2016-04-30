@@ -341,12 +341,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
-        <translation>Wytnij zaznaczenie</translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
-        <translation>Kopiuj zaznaczenie</translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="989"/>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
-        <translation>Usuń zaznaczenie</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="997"/>
@@ -542,7 +542,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="310"/>
         <source>Larger Icons</source>
-        <translation>Duże ikony</translation>
+        <translation>Większe ikony</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="313"/>
@@ -552,7 +552,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
-        <translation>Małe ikony</translation>
+        <translation>Mniejsze ikony</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="324"/>
@@ -582,7 +582,7 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation>Usuń zaznaczone</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="401"/>
@@ -697,12 +697,12 @@ Nowa lokalizacja: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation>Wytnij zaznaczone</translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation>Kopiuj zaznaczone</translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="387"/>

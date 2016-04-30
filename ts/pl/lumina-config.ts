@@ -378,7 +378,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Popularne aplikacje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
@@ -445,27 +445,27 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation> Wygląd </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Interfejs   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>     Interfejs     </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
         <source>    Session    </source>
-        <translation type="unfinished"></translation>
+        <translation>    Sesja    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
         <source>     Session      </source>
-        <translation type="unfinished"></translation>
+        <translation>     Sesja     </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
@@ -475,7 +475,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Aplikacje </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -616,7 +616,7 @@ Obecne przypisania klawiszy zostaną zignorowane.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Skróty   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
