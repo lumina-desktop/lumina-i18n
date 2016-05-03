@@ -445,27 +445,27 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation> Aparença </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Interfície   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>   Interfície   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
         <source>    Session    </source>
-        <translation type="unfinished"></translation>
+        <translation>    Sessió    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
         <source>     Session      </source>
-        <translation type="unfinished"></translation>
+        <translation>     Sessió     </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
@@ -475,7 +475,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Aplicacions </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -616,7 +616,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Dreceres   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
