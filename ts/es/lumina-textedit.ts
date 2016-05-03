@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>ColorDialog</name>
     <message>
@@ -45,22 +45,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>VentanaPrincipal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="49"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pestaña 1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="57"/>
         <source>Find/Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar/Reemplazar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="87"/>
         <source>Find the previous match</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar coincidencia anterior</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="90"/>
