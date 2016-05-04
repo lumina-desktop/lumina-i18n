@@ -252,7 +252,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
@@ -262,7 +262,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="239"/>
         <source>Layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tata Letak:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="295"/>
@@ -313,7 +313,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="401"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursor Tetikus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="480"/>
@@ -328,22 +328,22 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="602"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Isi Folder Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="736"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah Jalan Pintas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="767"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Terapkan Perubahan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="777"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubah Tautan Tombol:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
@@ -378,7 +378,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikasi Umum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
@@ -445,27 +445,27 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation> Penampilan </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   antarmuka   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>    antarmuka    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
         <source>    Session    </source>
-        <translation type="unfinished"></translation>
+        <translation>    Sidang    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
         <source>     Session      </source>
-        <translation type="unfinished"></translation>
+        <translation>     Sidang     </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
@@ -475,7 +475,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Aplikasi </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -490,52 +490,52 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1385"/>
         <source>Display Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format Tampilan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahasa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Bahasa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1427"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesan-pesan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1437"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1447"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1457"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Keuangan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Susun</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1477"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan lokasi sistem (dibutuhkan restart)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
@@ -616,7 +616,7 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>  Jalan pintas  </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
@@ -744,100 +744,100 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="257"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Waktu (Tanggal sebagai tooltip)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="225"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Berkas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori (tunggal)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori (Rekursif)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="228"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Warna Solid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="258"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tanggal (waktu muncul)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
         <source>Time first then Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu pertama kemudian Tanggal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="260"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Kencan pertama kemudian Waktu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
         <source>Tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Tengah</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
         <source>Top Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiri Atas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
         <source>Top Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan Atas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
         <source>Bottom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiri Bawah</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
         <source>Bottom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan Bawah</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="314"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="315"/>
         <source>Select Color</source>
-        <translation type="unfinished">Pilih Warna</translation>
+        <translation>Pilih Warna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="476"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="738"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Warna Solid: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="751"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="777"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cari direktori gambar latar belakang</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1003"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunci Layar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1429"/>
@@ -990,12 +990,12 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: bulan numerik tanpa nol (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: bulan numerik dengan nol terkemuka (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
@@ -1033,47 +1033,47 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Membentuk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="93"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokasi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="114"/>
         <source>Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tepi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="131"/>
         <source>Size:</source>
-        <translation type="unfinished">Ukuran:</translation>
+        <translation>Ukuran:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation> pixel(s) tebal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% panjang</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="183"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Perataan:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="204"/>
         <source>Appearance</source>
-        <translation type="unfinished">Penampilan</translation>
+        <translation>Penampilan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="222"/>
         <source>Auto-hide Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">otomatis menyembunyikan panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="229"/>
@@ -1083,47 +1083,47 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="250"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="257"/>
         <source>Sample</source>
-        <translation type="unfinished">Contoh</translation>
+        <translation>Contoh </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="287"/>
         <source>Plugins</source>
-        <translation type="unfinished">Plugins</translation>
+        <translation>Pengaya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Atas/Kiri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Tengah</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="26"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanan/Bawah</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="27"/>
         <source>Top</source>
-        <translation type="unfinished">Puncak</translation>
+        <translation>Puncak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="28"/>
         <source>Bottom</source>
-        <translation type="unfinished">Dasar</translation>
+        <translation>Dasar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="29"/>
         <source>Left</source>
-        <translation type="unfinished">Kiri</translation>
+        <translation>Kiri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="30"/>
@@ -1268,32 +1268,32 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="72"/>
         <source>Application Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Aplikasi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="93"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Baris</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">garis sederhana untuk memberikan pemisahan visual antara item.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="100"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengalih Area Kerja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="149"/>
         <source>Show Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Desktop</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
         <source>Unified system access and application launch menu.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Akses sistem dan aplikasi menu peluncuran.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
@@ -1338,12 +1338,12 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="209"/>
         <source>System Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitor Sistem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="210"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU dan Memory statistik</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="232"/>

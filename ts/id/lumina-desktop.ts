@@ -6,27 +6,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="32"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation>tetapkan sebuah aplikasi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="38"/>
         <source>Launch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Luncurkan %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="45"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Select Application</source>
-        <translation type="unfinished">Pilih Aplikasi</translation>
+        <translation>Pilih Aplikasi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Name:</source>
-        <translation type="unfinished">Nama:</translation>
+        <translation>Nama:</translation>
     </message>
 </context>
 <context>
@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="52"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikasi Atur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="57"/>
@@ -136,27 +136,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Membentuk</translation>
+        <translation>Membentuk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation type="unfinished"></translation>
+        <translation>Initializing Sesi ...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemuatan Sistem Pengaturan …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemuatan Preferensi pengguna …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Preparing System Tray …</source>
-        <translation type="unfinished"></translation>
+        <translation>Mempersiapkan Sistem Tray …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="30"/>
@@ -816,7 +816,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikasi Atur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
