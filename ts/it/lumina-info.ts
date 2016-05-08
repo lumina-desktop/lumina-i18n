@@ -6,17 +6,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni Desktop Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="61"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Generale</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="79"/>
         <source>Desktop Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione Desktop:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="102"/>
