@@ -6,12 +6,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/ImageEditor.cpp" line="14"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>放大</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/ImageEditor.cpp" line="15"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小</translation>
     </message>
 </context>
 <context>
@@ -26,17 +26,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="37"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>新截图</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="43"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="124"/>
         <source>Include Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>包含边框</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="149"/>
@@ -46,68 +46,68 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="152"/>
         <source>Delay </source>
-        <translation>延迟</translation>
+        <translation>延迟 </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="172"/>
         <source>View/Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>查看/编辑</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="212"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="306"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>保存为</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="222"/>
         <source>Launch Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>启动编辑器</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="245"/>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>剪裁</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="255"/>
         <source>Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>调整大小</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="282"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="298"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="322"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="325"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="67"/>
         <source>Entire Session</source>
-        <translation type="unfinished"></translation>
+        <translation>所有桌面</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="81"/>
         <source>Single Window</source>
-        <translation type="unfinished"></translation>
+        <translation>单一窗口</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="74"/>
         <source>Single Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>单一桌面</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="317"/>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>快速保存</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>

@@ -79,7 +79,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
-        <translation type="unfinished"></translation>
+        <translation>启动项目</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="119"/>
@@ -116,7 +116,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="29"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="96"/>

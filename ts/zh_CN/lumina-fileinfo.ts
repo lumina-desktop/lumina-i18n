@@ -162,12 +162,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="100"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="245"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个程序</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="248"/>
@@ -177,39 +177,39 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"></translation>
+        <translation>无效选择: 不是可执行文件</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="260"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>选择目录</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图标</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="273"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>图像 (%1);; 所有文件 (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="296"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source> Folders: </source>
-        <translation type="unfinished"></translation>
+        <translation>目录:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="296"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>Files: </source>
-        <translation type="unfinished"></translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="298"/>
         <source>  Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>计算中...</translation>
     </message>
 </context>
 </TS>
