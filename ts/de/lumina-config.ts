@@ -378,7 +378,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Häufige Anwendungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
@@ -393,12 +393,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1185"/>
         <source>Play chimes on startup</source>
-        <translation>Startsound abspielen</translation>
+        <translation>Melodie beim Hochfahren abspielen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1192"/>
         <source>Play chimes on exit</source>
-        <translation>Sound beim Beenden</translation>
+        <translation>Melodie beim Beenden abspielen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1201"/>
@@ -430,42 +430,42 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1237"/>
         <source>Reset Desktop Settings</source>
-        <translation>Zurücksetzen der Einstellungen der Arbeitsoberfläche</translation>
+        <translation>Zurücksetzen der Arbeitsflächeneinstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1256"/>
         <source>Return to system defaults</source>
-        <translation>zurücksetzen auf Standardeinstellung</translation>
+        <translation>Zurücksetzen auf Standardeinstellung</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1263"/>
         <source>Return to Lumina defaults</source>
-        <translation>zurücksetzen auf Lumina-Standard</translation>
+        <translation>Zurücksetzen auf Lumina-Standard</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation> Erscheinungsbild </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Oberfläche   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>     Oberfläche    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
         <source>    Session    </source>
-        <translation type="unfinished"></translation>
+        <translation>    Sitzung    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
         <source>     Session      </source>
-        <translation type="unfinished"></translation>
+        <translation>     Sitzung      </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
@@ -475,7 +475,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Anwendungen </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -485,17 +485,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1495"/>
         <source>Window System</source>
-        <translation>X-Window-System</translation>
+        <translation>Fenstersystem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1385"/>
         <source>Display Format</source>
-        <translation>Anzeigenformat</translation>
+        <translation>Anzeigeformat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
-        <translation>Sprachregion</translation>
+        <translation>Spracheinstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
@@ -525,7 +525,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
         <source>Collate</source>
-        <translation>Vergleichen</translation>
+        <translation>Zuordnen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1477"/>
@@ -535,7 +535,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
         <source>System localization settings (restart required)</source>
-        <translation>Sprachregionseinstellungen (benötigt Neustart)</translation>
+        <translation>Sprachregionseinstellungen (Neustart erforderlich)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
@@ -545,22 +545,22 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1520"/>
         <source>New Window Placement</source>
-        <translation>Neue Fensterplatzierung</translation>
+        <translation>Platzierung neuer Fenster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1530"/>
         <source>Focus Policy</source>
-        <translation>Regeln für den Fokus</translation>
+        <translation>Fokussierungsrichtlinie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1540"/>
         <source>Window Theme</source>
-        <translation>Fenster Thema</translation>
+        <translation>Fensterdekoration</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1558"/>
         <source>Window Theme Preview</source>
-        <translation>Vorschau für Fenster Thema</translation>
+        <translation>Vorschau für Fensterdekoration</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1612"/>
@@ -586,7 +586,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
         <source>Interface Configuration</source>
-        <translation>Konfiguration der Schnittstelle</translation>
+        <translation>Oberflächeneinstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="468"/>
@@ -606,17 +606,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1758"/>
         <source>Session Options</source>
-        <translation>Sitzungsoptionen</translation>
+        <translation>Sitzungseinstellungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
         <source>Shortcuts</source>
-        <translation>Tastenkombinationen</translation>
+        <translation>Tastenkürzel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Tastenkürzel   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
@@ -631,17 +631,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
         <source>Active Mouse Focus</source>
-        <translation>Maus-Fokus aktiviert</translation>
+        <translation>Mausfokus aktiviert</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="234"/>
         <source>Strict Mouse Focus</source>
-        <translation>strikter Maus-Fokus</translation>
+        <translation>Strikter Mausfokus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
         <source>Align in a Row</source>
-        <translation>Ausrichtung in einer Reihe</translation>
+        <translation>Ausrichtung in einer Zeile</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="237"/>
@@ -651,12 +651,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="238"/>
         <source>Cascade</source>
-        <translation>Kaskadiert</translation>
+        <translation>Abgestuft</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="239"/>
         <source>Underneath Mouse</source>
-        <translation>unterhalb der Maus</translation>
+        <translation>Unter dem Mauszeiger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="446"/>
@@ -666,13 +666,13 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="446"/>
         <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation>Sie haben gegenwärtig ungespeicherte Änderungen für diese diesen Bildschirm. Möchtest du erst speichern?</translation>
+        <translation>Sie haben noch ungesicherte Änderungen. Möchten Sie diese zuerst speichern?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="283"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="475"/>
         <source>System Default</source>
-        <translation>Standardeinstellung</translation>
+        <translation>Voreinstellung des Systems</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="486"/>
@@ -687,27 +687,27 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="659"/>
         <source>(use system default)</source>
-        <translation>(Nutze Standard-Systemeinstellungen)</translation>
+        <translation>(Nutze Voreinstellung des Systems)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="679"/>
         <source>File does not exist</source>
-        <translation>Datei existiert nicht</translation>
+        <translation>Datei nicht gefunden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="718"/>
         <source>Find Background Image(s)</source>
-        <translation>Hintergrundbild(er) finden</translation>
+        <translation>Hintergrundbild(er) suchen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="998"/>
         <source>Audio Volume Up</source>
-        <translation>Lautstärke lauter</translation>
+        <translation>Lautstärke hoch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="999"/>
         <source>Audio Volume Down</source>
-        <translation>Lautstärke leiser</translation>
+        <translation>Lautstärke runter</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1000"/>
@@ -734,7 +734,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1286"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1308"/>
         <source>Click to Set</source>
-        <translation>Klicken zum Einstellen</translation>
+        <translation>Klicken zum festlegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1342"/>
@@ -804,17 +804,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
         <source>Top Right</source>
-        <translation>Oben Rechts</translation>
+        <translation>Oben rechts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
         <source>Bottom Left</source>
-        <translation>Unten Links</translation>
+        <translation>Unten links</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
         <source>Bottom Right</source>
-        <translation>Unten Rechts</translation>
+        <translation>Unten rechts</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="314"/>
@@ -843,7 +843,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1429"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1728"/>
         <source>Select Binary</source>
-        <translation>Programm auswählen</translation>
+        <translation>Ausführbare Datei auswählen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1436"/>
@@ -910,7 +910,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1854"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation>Möchtest du das Benutzerbild zurücksetzen?</translation>
+        <translation>Möchten Sie das Benutzerbild auf Voreinstellung zurücksetzen?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1893"/>
@@ -920,32 +920,32 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1894"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation>%1: Stunde ohne Null am Anfang (1)</translation>
+        <translation>%1: Stunde ohne führende Null (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1895"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation>%1: Stunde mit Null am Anfang (0)</translation>
+        <translation>%1: Stunde mit führender Null (0)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation>%1: Minuten ohne Null am Anfang (2)</translation>
+        <translation>%1: Minuten ohne führende Null (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1897"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation>%1: Minuten mit Null am Anfang (02)</translation>
+        <translation>%1: Minuten mit führender Null (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1898"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation>%1: Sekunden ohne Null am Anfang (3)</translation>
+        <translation>%1: Sekunden ohne führende Null (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1899"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation>%1: Sekunden mit Null am Anfang (03)</translation>
+        <translation>%1: Sekunden mit führender Null (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1900"/>

@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="14"/>
         <source>Customize Colors</source>
-        <translation type="unfinished">Anpassa färger</translation>
+        <translation>Anpassa Färger</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="24"/>
@@ -16,12 +16,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="29"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Färg</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="34"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Exempel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="44"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="87"/>
         <source>Find the previous match</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta föregående träff</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="90"/>
@@ -78,12 +78,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="110"/>
         <source>Find the next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta nästa träff</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="120"/>
         <source>Replace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="139"/>
@@ -93,7 +93,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>
         <source>Replace next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersätt nästa träff</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
@@ -103,12 +103,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="197"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="210"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="214"/>
@@ -159,17 +159,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="300"/>
         <source>Save File</source>
-        <translation type="unfinished">Spara fil</translation>
+        <translation>Spara fil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="303"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="311"/>
         <source>Save File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara fil som</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="316"/>

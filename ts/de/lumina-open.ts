@@ -56,7 +56,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="41"/>
         <source>(Internet URL - %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Webadresse - %1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
