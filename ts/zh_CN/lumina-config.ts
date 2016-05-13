@@ -347,7 +347,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
         <source>Auto-Started</source>
-        <translation>自动播放</translation>
+        <translation>自动启动</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="851"/>
@@ -367,7 +367,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="891"/>
         <source>File Defaults</source>
-        <translation>文件的默认值</translation>
+        <translation>文件的默认打开方式</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="951"/>
@@ -773,12 +773,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
         <source>Time first then Date</source>
-        <translation>时间显示于日期之前</translation>
+        <translation>时间显示于日期之上</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="260"/>
         <source>Date first then Time</source>
-        <translation>日期显示于时间之前</translation>
+        <translation>日期显示于时间之上</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
@@ -1206,7 +1206,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="128"/>
         <source>Task Manager</source>
-        <translation>任务管理器</translation>
+        <translation>任务列表</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>

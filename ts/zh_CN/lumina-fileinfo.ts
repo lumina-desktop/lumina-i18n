@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN">
 <context>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="216"/>
         <source>Edit Shortcut</source>
-        <translation>编辑快捷键</translation>
+        <translation>编辑快捷方式</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="239"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished">XDG 快捷键</translation>
+        <translation>XDG 快捷方式</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="70"/>
