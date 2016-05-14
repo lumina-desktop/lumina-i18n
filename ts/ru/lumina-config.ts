@@ -788,12 +788,12 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный экран</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
         <source>Fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Поместить в экран</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
