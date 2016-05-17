@@ -216,7 +216,7 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="914"/>
         <source>Specific File Types</source>
         <translatorcomment>Specific文件类型</translatorcomment>
-        <translation>针对文件类型</translation>
+        <translation>根据文件类型</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="956"/>
@@ -367,7 +367,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="891"/>
         <source>File Defaults</source>
-        <translation>文件的默认打开方式</translation>
+        <translation>默认打开方式</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="951"/>

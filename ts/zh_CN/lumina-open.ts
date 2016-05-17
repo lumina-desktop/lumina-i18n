@@ -16,7 +16,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="75"/>
         <source>Available</source>
-        <translation>进入</translation>
+        <translation type="unfinished">可选程序</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="82"/>
