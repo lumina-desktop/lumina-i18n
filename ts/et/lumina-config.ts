@@ -1058,27 +1058,27 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="131"/>
         <source>Size:</source>
-        <translation type="unfinished">Suurus:</translation>
+        <translation>Suurus:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
         <source> pixel(s) thick</source>
-        <translation type="unfinished"></translation>
+        <translation> piksli laiune</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>
         <source>% length</source>
-        <translation type="unfinished">% pikkusest</translation>
+        <translation>% pikkusest</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="183"/>
         <source>Alignment:</source>
-        <translation type="unfinished">Joondamine:</translation>
+        <translation>Joondus:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="204"/>
         <source>Appearance</source>
-        <translation type="unfinished">Välimus</translation>
+        <translation>Välimus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="222"/>
@@ -1098,7 +1098,7 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="257"/>
         <source>Sample</source>
-        <translation type="unfinished">Näidis</translation>
+        <translation>Näidis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="287"/>
@@ -1108,37 +1108,37 @@ Kasutuses olevaid klahvikombinatsioone hetkel ei töödelda.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Top/Left</source>
-        <translation type="unfinished">Üleval/vasakul</translation>
+        <translation>Üleval/vasakul</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Center</source>
-        <translation type="unfinished">Keskel</translation>
+        <translation>Keskel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="26"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished">All/paremal</translation>
+        <translation>All/paremal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="27"/>
         <source>Top</source>
-        <translation type="unfinished">Üleval</translation>
+        <translation>Ülal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="28"/>
         <source>Bottom</source>
-        <translation type="unfinished">All</translation>
+        <translation>All</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="29"/>
         <source>Left</source>
-        <translation type="unfinished">Vasakul</translation>
+        <translation>Vasakul</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="30"/>
         <source>Right</source>
-        <translation type="unfinished">Paremal</translation>
+        <translation>Paremal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="49"/>
