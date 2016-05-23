@@ -460,7 +460,7 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished">Není možné přesunout složku do sebe sama. Raději vytvořte kopii této složky.Původní umístění: %1
+        <translation>Není možné přesunout složku do sebe sama. Raději vytvořte kopii této složky.Původní umístění: %1
 Nové umístění: %2</translation>
     </message>
 </context>
@@ -469,7 +469,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished">Vhled</translation>
+        <translation type="unfinished">Náhled</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
