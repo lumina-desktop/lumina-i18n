@@ -753,22 +753,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra&apos;n les opcions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre&apos;n el lloc web</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Més</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="113"/>
@@ -777,95 +777,99 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="148"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="239"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="365"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="154"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="245"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="371"/>
         <source>Back to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna als canals</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="163"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="169"/>
         <source>Feed Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació del canal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="215"/>
         <source>Remove Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina el canal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="260"/>
         <source>New Feed Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Subscripció de canal nova</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="278"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="284"/>
         <source>RSS URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL de l&apos;RSS</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="306"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="312"/>
         <source>Add to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix als canals</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="380"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="386"/>
         <source>Feed Reader Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració del lector de canals</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="401"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="407"/>
         <source>Manual Sync Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Només sincronització manual</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="414"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguns canals RSS poden sol·licitar intervals d&apos;actualització personalitzats en lloc d&apos;utilitzar aquest paràmetre.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="411"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="417"/>
         <source>Default Sync Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval de sincronització per defecte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="442"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="454"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="448"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="460"/>
         <source>Hour(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hores</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="449"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="455"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="493"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="499"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa la configuració</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="46"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="60"/>
         <source>Add RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix un canal RSS</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="47"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="61"/>
         <source>View Feed Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra els detalls del canal</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="48"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished">Paràmetres</translation>
+        <translation>Paràmetres</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="64"/>
         <source>Update Feeds Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitza ara els canals</translation>
     </message>
 </context>
 <context>

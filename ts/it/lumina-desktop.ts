@@ -780,90 +780,90 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="148"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="239"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="365"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="154"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="245"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="371"/>
         <source>Back to Feeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="163"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="169"/>
         <source>Feed Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="215"/>
         <source>Remove Feed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="260"/>
         <source>New Feed Subscription</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="278"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="284"/>
         <source>RSS URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="306"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="312"/>
         <source>Add to Feeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="380"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="386"/>
         <source>Feed Reader Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="401"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="407"/>
         <source>Manual Sync Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="414"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="411"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="417"/>
         <source>Default Sync Interval</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="442"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="454"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="448"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="460"/>
         <source>Hour(s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="449"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="455"/>
         <source>Minutes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="493"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="499"/>
         <source>Save Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="46"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="60"/>
         <source>Add RSS Feed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="47"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="61"/>
         <source>View Feed Details</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="48"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="62"/>
         <source>Settings</source>
         <translation type="unfinished">Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="64"/>
         <source>Update Feeds Now</source>
         <translation type="unfinished"></translation>
     </message>

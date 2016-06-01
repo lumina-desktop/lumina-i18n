@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="143"/>
         <source>View Information</source>
-        <translation>Mostra la informació</translation>
+        <translation>Mostra&apos;n la informació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="171"/>
