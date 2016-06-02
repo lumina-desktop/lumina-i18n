@@ -378,7 +378,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicações Comuns</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
@@ -445,27 +445,27 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation> Aparência </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Interface   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>     Interface    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
         <source>    Session    </source>
-        <translation type="unfinished"></translation>
+        <translation>    Sessão    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
         <source>     Session      </source>
-        <translation type="unfinished"></translation>
+        <translation>     Sessão      </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
@@ -475,7 +475,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Aplicações </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -616,7 +616,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Atalhos   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
@@ -789,7 +789,7 @@ As atuais vinculações de teclado também serão ignoradas.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>

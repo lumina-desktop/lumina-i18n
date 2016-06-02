@@ -320,7 +320,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="87"/>
         <source>Office</source>
-        <translation type="unfinished">Escritório</translation>
+        <translation>Escritório</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="88"/>
@@ -672,7 +672,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="165"/>
         <source>Open Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Arquivo de Texto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="166"/>
@@ -845,7 +845,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.ui" line="499"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar Configurações</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="60"/>
@@ -860,7 +860,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssfeeder/RSSFeedPlugin.cpp" line="64"/>
@@ -976,12 +976,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="924"/>
         <source>Suspend System</source>
-        <translation type="unfinished"></translation>
+        <translation>Suspender Sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1104"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="389"/>
@@ -996,7 +996,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="394"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% Restantes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="410"/>
