@@ -753,22 +753,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Skata opcijas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērt tīmekļa vietni</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Vairāk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="113"/>
@@ -777,85 +777,89 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="154"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="238"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="384"/>
         <source>Back to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Atpakaļ uz plūsmām</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="172"/>
         <source>Feed Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Plūsmas informācija</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="205"/>
         <source>Remove Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Noņemt plūsmu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="256"/>
         <source>New Feed Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna parakstīšanās uz plūsmu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="280"/>
         <source>RSS URL</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="295"/>
         <source>Load a preset RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādēt RSS plūsmas sagatavi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="325"/>
         <source>Add to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot plūsmām</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="402"/>
         <source>Feed Reader Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Plūsmas lasītāja iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="423"/>
         <source>Manual Sync Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikai manuāla sinhronizēšana</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="430"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Dažas RSS plūsmas var pieprasīt pielāgotu atjaunošanas intervālu, neizmantojot šo iestatījumu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="433"/>
         <source>Default Sync Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklusētais sinhronizēšanas intervāls</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="464"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="476"/>
         <source>Hour(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stunda(as)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="471"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minūtes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="515"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabāt iestatījumus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="70"/>
         <source>Add RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot RSS plūsmu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="71"/>
