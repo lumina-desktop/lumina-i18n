@@ -1358,12 +1358,12 @@ Pašreizējā taustiņu piesaiste arī tiks ignorēta.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
         <source>RSS Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS lasītājs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
         <source>Monitor RSS Feeds (Requires internet connection)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārraudzīt RSS plūsmas (nepieciešams interneta savienojums)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="239"/>

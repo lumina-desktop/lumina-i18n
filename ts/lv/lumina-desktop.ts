@@ -864,57 +864,57 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="71"/>
         <source>View Feed Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Skatīt plūsmas informāciju</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
         <source>Settings</source>
-        <translation type="unfinished">Iestatījumi</translation>
+        <translation>Iestatījumi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
         <source>Update Feeds Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunināt plūsmas tagad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="78"/>
         <source>Lumina Desktop RSS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina darbvirsmas RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
         <source>Feed URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plūsmas URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Virsraksts: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="145"/>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Apraksts: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīmekļa vietne: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>
         <source>Last Build Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pēdējā būvējuma datums: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="148"/>
         <source>Last Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pēdējā sinhronizācija: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="149"/>
         <source>Next Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nākamā sinhronizēšana: %1</translation>
     </message>
 </context>
 <context>
