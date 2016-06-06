@@ -975,17 +975,17 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1918"/>
         <source>Valid Date Codes:</source>
-        <translation>gültige Datum Codes:</translation>
+        <translation>gültige Datumsformate:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation>%1: Numerische Anzeige von Tagen ohne Null am Anfang (1)</translation>
+        <translation>%1: Numerische Anzeige von Tagen ohne führende Null (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation>%1: Numerische Anzeige von Tagen mit Null am Anfang (01)</translation>
+        <translation>%1: Numerische Anzeige von Tagen mit führender Null (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
@@ -1000,12 +1000,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation>%1: Numerischer Monat ohne Null am Anfang (2)</translation>
+        <translation>%1: Numerischer Monat ohne führende Null (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1924"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation>%1: Numerische Monate mit Null am Anfang (02)</translation>
+        <translation>%1: Numerischer Monate mit führender Null (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1925"/>
@@ -1020,12 +1020,12 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1927"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation>%1: Jahr als zweistellige Nummer (15)</translation>
+        <translation>%1: zweistellige Jahreszahl (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1928"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation>%1: Jahr als vierstellige Nummer (2015)</translation>
+        <translation>%1: vierstellige Jahreszahl (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1929"/>
@@ -1035,7 +1035,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1930"/>
         <source>Date Codes</source>
-        <translation>Datums Codes</translation>
+        <translation>Datumsformate</translation>
     </message>
 </context>
 <context>
@@ -1083,7 +1083,7 @@ Aktuell festgelegte Tastenkürzel werden ignoriert.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="222"/>
         <source>Auto-hide Panel</source>
-        <translation>Seitenleiste automatisch ausblenden</translation>
+        <translation>Leiste automatisch ausblenden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="229"/>
