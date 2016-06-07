@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="194"/>
         <source>Source Repository:</source>
-        <translation>Repozitář zdrojového kódu</translation>
+        <translation>Repozitář zdrojového kódu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="143"/>
