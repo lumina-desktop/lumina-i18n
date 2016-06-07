@@ -1358,12 +1358,12 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
         <source>RSS Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lector RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
         <source>Monitor RSS Feeds (Requires internet connection)</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitora canals RSS (cal connexió a Internet)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="239"/>
