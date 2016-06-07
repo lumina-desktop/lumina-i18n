@@ -113,7 +113,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="78"/>
         <source>Utility</source>
-        <translation>Utility</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="79"/>
@@ -141,12 +141,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation>Spouští se sezení…</translation>
+        <translation>Spouští se sezení …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation>Načítá se nastavení systému...</translation>
+        <translation>Načítá se nastavení systému</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="24"/>
@@ -340,12 +340,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
         <source>Utility</source>
-        <translation type="unfinished">Utility</translation>
+        <translation type="unfinished">Nástroje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
         <source>Wine</source>
-        <translation type="unfinished">Wine</translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
@@ -368,7 +368,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation>%1 % (%2 zbývá)</translation>
+        <translation>%1 % (%2 Zbývá)</translation>
     </message>
 </context>
 <context>
@@ -427,7 +427,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="235"/>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Zvuk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="237"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="266"/>
         <source>Lumina Desktop</source>
-        <translation>prostředí Lumina</translation>
+        <translation>Prostředí Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="267"/>

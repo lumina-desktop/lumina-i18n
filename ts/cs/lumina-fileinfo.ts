@@ -162,7 +162,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="100"/>
         <source>URL:</source>
-        <translation>Adresa URL:</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="245"/>

@@ -419,7 +419,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="151"/>
         <source>Moving: %1 to %2</source>
-        <translation>Přesunování: 1% do %2</translation>
+        <translation>Přesunování: %1 do %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="164"/>
@@ -460,7 +460,9 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation>Není možné přesunout složku do sebe sama. Raději vytvořte kopii této složky.Původní umístění: %1
+        <translation>Není možné přesunout složku do sebe sama. Raději vytvořte kopii této složky.
+
+Původní umístění: %1
 Nové umístění: %2</translation>
     </message>
 </context>

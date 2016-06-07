@@ -61,7 +61,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Audio</source>
-        <translation>Audio</translation>
+        <translation>Zvuk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
@@ -166,17 +166,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="262"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished">Application shortcut is missing the launching information (malformed shortcut): %1</translation>
+        <translation>Zástupci aplikace chybí informace o zahájení (chybné zkratky):% 1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="273"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished">URL shortcut is missing the URL: %1</translation>
+        <translation>URL zástupci chybí URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="284"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished">Directory shortcut is missing the path to the directory: %1</translation>
+        <translation type="unfinished">Zástupci složky chybí cesta do složky: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="289"/>
