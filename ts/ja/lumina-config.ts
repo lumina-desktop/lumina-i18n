@@ -380,6 +380,7 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
+        <translatorcomment>Web ブラウザーやE-mailクライアントに何を使うかという設定を行うタブ。</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
