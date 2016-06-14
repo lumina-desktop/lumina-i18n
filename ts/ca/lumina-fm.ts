@@ -474,12 +474,12 @@ Localització nova: %2</translation>
         <translation>Comprensió</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="95"/>
         <source>Shift+Left</source>
         <translation>Majúscules + Esquerra</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="98"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="96"/>
         <source>Shift+Right</source>
         <translation>Majúscula + Dreta</translation>
     </message>
@@ -650,12 +650,12 @@ Localització nova: %2</translation>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="66"/>
         <source>Detailed List</source>
         <translation>Llista detallada</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="67"/>
         <source>Basic List</source>
         <translation>Llista bàsica</translation>
     </message>
@@ -665,12 +665,12 @@ Localització nova: %2</translation>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="70"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
         <source>Prefer Tabs</source>
         <translation>Prefereix les pestanyes</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="71"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
         <source>Prefer Columns</source>
         <translation>Prefereix les columnes</translation>
     </message>
@@ -720,112 +720,112 @@ Localització nova: %2</translation>
         <translation>Ctrl+X</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="194"/>
         <source>Invalid Directories</source>
         <translation>Directoris no vàlids</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="194"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>Els directoris següents no són vàlids i no s&apos;han pogut obrir:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="319"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="317"/>
         <source>Root</source>
         <translation>Arrel</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="325"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="323"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Tipus: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="329"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="327"/>
         <source>Filesystem: %1</source>
         <translation>Sistema de fitxers: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="550"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="548"/>
         <source>Browser</source>
         <translation>Navegador</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="575"/>
         <source>New Bookmark</source>
         <translation>Adreça d&apos;interès nova</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="575"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="582"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="580"/>
         <source>Invalid Name</source>
         <translation>El nom no és vàlid</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="582"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="580"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Aquest nom d&apos;adreça d&apos;interès ja existeix. Trieu-ne un altre.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="689"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="687"/>
         <source>Multimedia</source>
         <translation>Multimèdia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="707"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="705"/>
         <source>Slideshow</source>
         <translation>Projecció de diapositives</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="884"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="882"/>
         <source>Items to be removed:</source>
         <translation>Ítems per suprimir:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="406"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="404"/>
         <source>Verify Quit</source>
         <translation>Verifiqueu la sortida</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="406"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="404"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Teniu diverses pestanyes obertes. Esteu segur que voleu sortir?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>Verify Removal</source>
         <translation>Verificació de la supressió</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>AVÍS: això suprimirà permanentment el fitxer o fitxers del sistema!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>Are you sure you want to continue?</source>
         <translation>Esteu segur que voleu continuar?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="844"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="842"/>
         <source>Rename File</source>
         <translation>Reanomena el fitxer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="844"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="842"/>
         <source>New Name:</source>
         <translation>Nom nou:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="858"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="856"/>
         <source>Overwrite File?</source>
         <translation>Voleu sobreescriure el fitxer?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="858"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="856"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Se substituirà un fitxer existent amb el mateix nom. Esteu segur que voleu continuar?</translation>
     </message>

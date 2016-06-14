@@ -59,77 +59,77 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="114"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="115"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="116"/>
         <source>Multimedia</source>
         <translation>Multimédiá</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Development</source>
         <translation>Vývoj</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Education</source>
         <translation>Vzdelávanie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="130"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Game</source>
         <translation>Hra</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="131"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Graphics</source>
         <translation>Grafika</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="132"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Network</source>
         <translation>Sieť</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="133"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Office</source>
         <translation>Kancelária</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="134"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Science</source>
         <translation>Veda</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Settings</source>
         <translation>Nastavenie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
         <source>System</source>
         <translation>Systém</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="137"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Utilities</source>
         <translation>Nástroje</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Other</source>
         <translation>Ostatné </translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="279"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="271"/>
         <source>Find Application Binary</source>
         <translation>Nájsť binárne aplikácie </translation>
     </message>

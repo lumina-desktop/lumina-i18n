@@ -471,12 +471,12 @@ New Location: %2</source>
         <translation>En profondeur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="95"/>
         <source>Shift+Left</source>
         <translation>Maj. gauche</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="98"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="96"/>
         <source>Shift+Right</source>
         <translation>Maj. Droite</translation>
     </message>
@@ -647,12 +647,12 @@ New Location: %2</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="66"/>
         <source>Detailed List</source>
         <translation>Liste détaillée</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="67"/>
         <source>Basic List</source>
         <translation>Liste basique</translation>
     </message>
@@ -662,12 +662,12 @@ New Location: %2</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="70"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
         <source>Prefer Tabs</source>
         <translation>Onglets préférés</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="71"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
         <source>Prefer Columns</source>
         <translation>Colonnes préférées</translation>
     </message>
@@ -717,112 +717,112 @@ New Location: %2</source>
         <translation>Ctrl-X</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="194"/>
         <source>Invalid Directories</source>
         <translation>Répertoires invalides</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="194"/>
         <source>The following directories are invalid and could not be opened:</source>
         <translation>Les répertoires suivants sont invalides et ne peuvent pas être ouverts:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="319"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="317"/>
         <source>Root</source>
         <translation>Superutilisateur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="325"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="323"/>
         <source>%1 (Type: %2)</source>
         <translation>%1 (Type: %2)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="329"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="327"/>
         <source>Filesystem: %1</source>
         <translation>Système de fichiers: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="550"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="548"/>
         <source>Browser</source>
         <translation>Navigateur</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="575"/>
         <source>New Bookmark</source>
         <translation>Nouveau signet</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="577"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="575"/>
         <source>Name:</source>
         <translation>Nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="582"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="580"/>
         <source>Invalid Name</source>
         <translation>Nom invalide</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="582"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="580"/>
         <source>This bookmark name already exists. Please choose another.</source>
         <translation>Raccourci déjà utilisé. Veuillez choisir un autre nom.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="689"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="687"/>
         <source>Multimedia</source>
         <translation>Multimédia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="707"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="705"/>
         <source>Slideshow</source>
         <translation>Diaporama</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="884"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="882"/>
         <source>Items to be removed:</source>
         <translation>Elements à supprimer:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="406"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="404"/>
         <source>Verify Quit</source>
         <translation>Vérifier la sortie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="406"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="404"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
         <translation>Des onglets sont ouverts. Etes-vous sûr de vouloir sortir?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>Verify Removal</source>
         <translation>Vérifier la suppression</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
         <translation>ATTENTION: Ceci supprime définitivement le(s) fichier(s) du système!</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="883"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>Are you sure you want to continue?</source>
         <translation>Voulez-vous vraiment continuer ?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="844"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="842"/>
         <source>Rename File</source>
         <translation>Renommer un fichier</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="844"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="842"/>
         <source>New Name:</source>
         <translation>Nouveau nom:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="858"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="856"/>
         <source>Overwrite File?</source>
         <translation>Écraser le fichier ?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="858"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="856"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
         <translation>Un fichier existant avec le même nom sera remplacé. Etes vous sûr de vouloir procéder?</translation>
     </message>

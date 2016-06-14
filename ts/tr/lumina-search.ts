@@ -119,17 +119,17 @@
         <translation>Çık</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="95"/>
         <source>Search: %1 -- Smart: %2</source>
         <translation>Ara: %1 -- Akıllı: %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="99"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>Off</source>
         <translation>Kapalı</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="99"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>On</source>
         <translation>Açık</translation>
     </message>

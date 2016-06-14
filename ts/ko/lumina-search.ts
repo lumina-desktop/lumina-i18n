@@ -119,17 +119,17 @@
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="96"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="95"/>
         <source>Search: %1 -- Smart: %2</source>
         <translation>검색: %1 -- 스마트: %2</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="99"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>Off</source>
         <translation>꺼짐</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="99"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>On</source>
         <translation>켜짐</translation>
     </message>

@@ -59,77 +59,77 @@
         <translation>(Internet URL - %1)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="114"/>
         <source>Audio</source>
         <translation>Lyd</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="115"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="116"/>
         <source>Multimedia</source>
         <translation>Multimedie</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Development</source>
         <translation>Udvikling</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Education</source>
         <translation>Uddannelse</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="130"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Game</source>
         <translation>Spil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="131"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Graphics</source>
         <translation>Grafik</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="132"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Network</source>
         <translation>Netværk</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="133"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Office</source>
         <translation>Kontor</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="134"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Science</source>
         <translation>Videnskab</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Settings</source>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="137"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Utilities</source>
         <translation>Værktøjer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Other</source>
         <translation>Andre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="279"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="271"/>
         <source>Find Application Binary</source>
         <translation>Find binær program fil</translation>
     </message>

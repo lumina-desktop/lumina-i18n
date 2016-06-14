@@ -506,6 +506,15 @@
     </message>
 </context>
 <context>
+    <name>LSession</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="158"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="326"/>
+        <source>Desktop</source>
+        <translation type="unfinished">שולחן עבודה</translation>
+    </message>
+</context>
+<context>
     <name>LSysDashboard</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="43"/>
