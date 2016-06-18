@@ -252,7 +252,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="17"/>
         <source>Lumina Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina beállítások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
@@ -313,7 +313,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="401"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egérmutatók:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="480"/>
@@ -328,22 +328,22 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="602"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Asztal mappa tartalmának mutatása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="736"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikon módosítása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="767"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Változtatás alkalmazása</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="777"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozzárendelt gomb módosítása:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
@@ -378,7 +378,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
         <source>Common Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Közös alkalmazások</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
@@ -445,17 +445,17 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
         <source> Appearance </source>
-        <translation type="unfinished"></translation>
+        <translation>  Megjelenés  </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
         <source>   Interface   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Felület   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
         <source>     Interface    </source>
-        <translation type="unfinished"></translation>
+        <translation>     Felület    </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
@@ -475,7 +475,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
         <source> Applications </source>
-        <translation type="unfinished"></translation>
+        <translation> Alkalmazások </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
@@ -495,7 +495,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Területi beállítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
@@ -515,12 +515,12 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1447"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Szám</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1457"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Pénzügyi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
@@ -535,7 +535,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>A rendszer nyelvi beállításai (újraindítás szükséges)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
@@ -571,7 +571,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1658"/>
         <source>Save Changes</source>
-        <translation>Változások mentése</translation>
+        <translation>Változtatások mentése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1661"/>
@@ -581,22 +581,22 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
         <source>toolBar</source>
-        <translation>eszközTár</translation>
+        <translation>Eszköztár</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
         <source>Interface Configuration</source>
-        <translation>Csatlakozási lehetőségek beállítása</translation>
+        <translation>Eszközbeállítás</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="468"/>
         <source>Desktop</source>
-        <translation>(Munka)asztal</translation>
+        <translation>Asztal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1730"/>
         <source>Desktop Appearance</source>
-        <translation>(Munka)asztal megjelenése</translation>
+        <translation>Asztal megjelenése</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="610"/>
@@ -611,12 +611,12 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
         <source>Shortcuts</source>
-        <translation>Gyorsbillentyűk/Parancsikonok</translation>
+        <translation>Gyorsbillentyűk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
         <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
+        <translation>   Gyorsbillentyűk   </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
@@ -626,7 +626,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="231"/>
         <source>Click To Focus</source>
-        <translation>Kattintás a fókuszra</translation>
+        <translation>A fókusz a kattintást követi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
@@ -641,7 +641,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="235"/>
         <source>Align in a Row</source>
-        <translation>Sorba Rendezés </translation>
+        <translation>Sorba rendezés</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
@@ -677,7 +677,7 @@ A jelenlegi billentyű-kapcsolatok is mellőzve lesznek.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="487"/>
         <source>Screen Resolution:</source>
-        <translation>Képernyő felbontása</translation>
+        <translation>Képernyő felbontása:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
