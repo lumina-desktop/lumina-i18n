@@ -11,7 +11,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="68"/>
         <source>Preferred</source>
-        <translation>Tercih Edilen</translation>
+        <translation>Tercih edilen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="75"/>

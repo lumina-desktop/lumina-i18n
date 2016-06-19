@@ -257,7 +257,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
         <source>Wallpaper</source>
-        <translation>Duvar Kağıdı</translation>
+        <translation>Duvar kağıdı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="239"/>
@@ -267,7 +267,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="295"/>
         <source>Font:</source>
-        <translation>Yazı Tipi:</translation>
+        <translation>Yazı tipi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="309"/>
@@ -495,7 +495,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
         <source>Locale</source>
-        <translation>Yerel Ayar</translation>
+        <translation>Yerel ayar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
@@ -581,7 +581,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
         <source>toolBar</source>
-        <translation>Araç Çubuğu</translation>
+        <translation>araç Çubuğu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
@@ -1172,7 +1172,7 @@ Geçerli klavye atamaları da görmezden gelinecektir.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="86"/>
         <source>Spacer</source>
-        <translation>Ara Boşluk</translation>
+        <translation>Ara boşluk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>

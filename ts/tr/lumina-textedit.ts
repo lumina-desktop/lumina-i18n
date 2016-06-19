@@ -88,7 +88,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="139"/>
         <source>Match case</source>
-        <translation>Büyük/Küçük harf eşleştir</translation>
+        <translation>Büyük/küçük harf eşleştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>

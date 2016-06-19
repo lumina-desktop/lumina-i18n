@@ -470,7 +470,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="268"/>
         <source>Workspace %1</source>
-        <translation>Çalışma Alanı %1</translation>
+        <translation>Çalışma alanı %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="278"/>
@@ -494,7 +494,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="132"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="140"/>
         <source>Workspace %1</source>
-        <translation>Çalışma Alanı %1</translation>
+        <translation>Çalışma alanı %1</translation>
     </message>
 </context>
 <context>
@@ -552,12 +552,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="296"/>
         <source>Workspace</source>
-        <translation>Çalışma Alanı</translation>
+        <translation>Çalışma alanı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="344"/>
         <source>Locale</source>
-        <translation>Yerel Ayar</translation>
+        <translation>Yerel ayar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="378"/>
@@ -767,7 +767,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüm Seçenekleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
@@ -777,7 +777,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="113"/>
@@ -786,7 +786,11 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="154"/>
@@ -927,7 +931,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="30"/>
         <source>Screensaver</source>
-        <translation>Ekran Koruyucu</translation>
+        <translation>Ekran koruyucu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="33"/>
@@ -1057,7 +1061,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="633"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="644"/>
         <source>Workspace %1/%2</source>
-        <translation>Çalışma Alanı %1/%2</translation>
+        <translation>Çalışma alanı %1/%2</translation>
     </message>
 </context>
 <context>
@@ -1075,7 +1079,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="71"/>
         <source>Restart</source>
-        <translation>Yeniden Başlat</translation>
+        <translation>Yeniden başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="87"/>
@@ -1132,7 +1136,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="24"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="27"/>
         <source>Favorites</source>
-        <translation>Sık Kullanılanlar</translation>
+        <translation>Sık kullanılanlar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="65"/>

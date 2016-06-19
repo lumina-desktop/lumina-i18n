@@ -91,7 +91,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="317"/>
         <source>Contributors:</source>
-        <translation>Katkıda Bulunanlar:</translation>
+        <translation>Katkıda bulunanlar:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="330"/>

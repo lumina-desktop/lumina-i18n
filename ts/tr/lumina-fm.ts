@@ -150,7 +150,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="93"/>
         <source>Slideshow</source>
-        <translation>Slayt Gösterisi</translation>
+        <translation>Slayt gösterisi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="109"/>
@@ -414,7 +414,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="150"/>
         <source>Restoring: %1 as %2</source>
-        <translation>Geri Yükleniyor: %1 %2 olarak</translation>
+        <translation>Geri yükleniyor: %1 %2 olarak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="151"/>
@@ -506,7 +506,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="154"/>
         <source>Bookmarks</source>
-        <translation>Yer İmleri</translation>
+        <translation>Yer imleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="162"/>
@@ -742,7 +742,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="327"/>
         <source>Filesystem: %1</source>
-        <translation>Dosya Sistemi: %1</translation>
+        <translation>Dosya sistemi: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="548"/>
@@ -777,7 +777,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="705"/>
         <source>Slideshow</source>
-        <translation>Slayt Gösterisi</translation>
+        <translation>Slayt gösterisi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="882"/>
@@ -802,7 +802,7 @@ Yeni Konum: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
-        <translation>UYARI: Bu dosya ya da dosyaları sistemden kalıcı olarak silecektir!</translation>
+        <translation>UYARI: Bu işlemle dosya(lar) sistemden kalıcı olarak silinecek!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="881"/>
