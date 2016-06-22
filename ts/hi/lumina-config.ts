@@ -1609,4 +1609,56 @@ Current keyboard bindings will also be ignored.</source>
         <translation>थीम पहले से ही मौजूद है| क्या आप इसे ओवर राइट करना चाहते हैं?</translation>
     </message>
 </context>
+<context>
+    <name>mainWindow</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
+        <source>MainWindow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
+        <source>toolBar</source>
+        <translation type="unfinished">टूलबार</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="43"/>
+        <source>Save</source>
+        <translation type="unfinished">संचित</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="46"/>
+        <source>Save current changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="49"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">कंट्रोल+S</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="54"/>
+        <source>Back to settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="57"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="60"/>
+        <source>Back to overall settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="63"/>
+        <source>Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_main</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">फॉर्म</translation>
+    </message>
+</context>
 </TS>
