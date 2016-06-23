@@ -103,7 +103,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="76"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="77"/>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="99"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="100"/>
@@ -832,7 +832,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="409"/>
         <source>Feed Reader Settings</source>
-        <translation>Configuració del lector de canals</translation>
+        <translation>Paràmetres del lector de canals</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="430"/>
@@ -878,7 +878,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
@@ -1283,7 +1283,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="297"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="298"/>

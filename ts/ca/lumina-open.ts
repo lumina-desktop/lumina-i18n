@@ -111,7 +111,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>

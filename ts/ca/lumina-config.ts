@@ -430,7 +430,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1237"/>
         <source>Reset Desktop Settings</source>
-        <translation>Reestableix els paràmetres de l&apos;escriptori</translation>
+        <translation>Restableix els paràmetres de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1256"/>
@@ -1408,7 +1408,7 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="267"/>
         <source>Settings</source>
-        <translation>Paràmetres</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="268"/>
@@ -1568,17 +1568,17 @@ També s&apos;ignoraran les associacions de tecles actuals.</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia el fons de pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres del fons de pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change background image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia la imatge de fons</translation>
     </message>
 </context>
 <context>
@@ -1633,43 +1633,43 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Finestra principal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
         <source>toolBar</source>
-        <translation type="unfinished">Barra d&apos;eines</translation>
+        <translation>Barra d&apos;eines</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="43"/>
         <source>Save</source>
-        <translation type="unfinished">Desa</translation>
+        <translation>Desa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="46"/>
         <source>Save current changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa els canvis actuals</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="49"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="54"/>
         <source>Back to settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna a la configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="57"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="60"/>
         <source>Back to overall settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna a la configuració general</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="63"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
 </context>
 <context>
@@ -1677,32 +1677,32 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="28"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished">Configuració de la interfície</translation>
+        <translation>Configuració de la interfície</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
         <source>Appearance</source>
-        <translation type="unfinished">Aparença</translation>
+        <translation>Aparença</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
         <source>Desktop Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de sessió d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de les aplicacions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="76"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
 </context>
 </TS>

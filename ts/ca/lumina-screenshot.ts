@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="43"/>
         <source>Settings</source>
-        <translation>Allunya</translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="124"/>
