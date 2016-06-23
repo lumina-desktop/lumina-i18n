@@ -1587,6 +1587,21 @@ Current keyboard bindings will also be ignored.</source>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>強調表示されたアイテムで使用される色 (より控えめな色)。</translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
+        <source>Change Wallpaper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
+        <source>Wallpaper Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
+        <source>Change background image(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeDialog</name>
@@ -1685,6 +1700,31 @@ Current keyboard bindings will also be ignored.</source>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
         <source>Form</source>
         <translation type="unfinished">フォーム</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="28"/>
+        <source>Interface Configuration</source>
+        <translation type="unfinished">インターフェイス設定</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
+        <source>Appearance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
+        <source>Desktop Session Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
+        <source>Application Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="76"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
