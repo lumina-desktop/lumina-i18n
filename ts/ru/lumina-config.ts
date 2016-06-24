@@ -1567,17 +1567,17 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить обои рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Обои рабочего стола настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change background image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить фоновое изображение (я)</translation>
     </message>
 </context>
 <context>
@@ -1631,43 +1631,43 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Главное окно</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
         <source>toolBar</source>
-        <translation type="unfinished">Панель инструментов</translation>
+        <translation>Панель инструментов</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="43"/>
         <source>Save</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="46"/>
         <source>Save current changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить данные изменения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="49"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="54"/>
         <source>Back to settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуться к настройкам</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="57"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="60"/>
         <source>Back to overall settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад к общим настройкам</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="63"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
 </context>
 <context>
@@ -1675,32 +1675,32 @@ Current keyboard bindings will also be ignored.</source>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="28"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished">Настройка интерфейса</translation>
+        <translation>Настройка интерфейса</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
         <source>Appearance</source>
-        <translation type="unfinished">Оформление</translation>
+        <translation>Оформление</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
         <source>Desktop Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры сеанса рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
         <source>Application Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки приложения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="76"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры рабочего стола</translation>
     </message>
 </context>
 </TS>
