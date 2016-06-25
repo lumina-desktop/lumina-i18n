@@ -1580,6 +1580,21 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
         <source>Change background image(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
+        <source>Change Desktop Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
+        <source>Theme Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
+        <source>Change interface fonts and colors</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeDialog</name>
@@ -1718,6 +1733,86 @@ binding Keyboard sekarang ini juga akan diabaikan</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="76"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_theme</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Membentuk</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="32"/>
+        <source>Font:</source>
+        <translation type="unfinished">Fonta:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="46"/>
+        <source>Font Size:</source>
+        <translation type="unfinished">Ukuran Fonta:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="53"/>
+        <source> point</source>
+        <translation type="unfinished"> poin</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="60"/>
+        <source>Theme Template:</source>
+        <translation type="unfinished">Tema Template:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="76"/>
+        <source>Create/Edit a theme template (Advanced)</source>
+        <translation type="unfinished">Buat / Mengedit template tema (Lanjutan)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="82"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="116"/>
+        <source>Edit</source>
+        <translation type="unfinished">Sunting</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="94"/>
+        <source>Color Scheme:</source>
+        <translation type="unfinished">Skema warna:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="110"/>
+        <source>Create/Edit a color scheme</source>
+        <translation type="unfinished">membuat / mengedit skema warna</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="128"/>
+        <source>Icon Pack:</source>
+        <translation type="unfinished">Icon Pack:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="138"/>
+        <source>Mouse Cursors:</source>
+        <translation type="unfinished">Kursor Tetikus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="51"/>
+        <source>Theme Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="66"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="80"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="131"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="157"/>
+        <source>Local</source>
+        <translation type="unfinished">Lokal</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="73"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="87"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="164"/>
+        <source>System</source>
+        <translation type="unfinished">Sistem</translation>
     </message>
 </context>
 <context>
