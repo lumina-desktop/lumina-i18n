@@ -226,7 +226,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished">Renk Seç</translation>
+        <translation>Renk Seç</translation>
     </message>
 </context>
 <context>
@@ -680,132 +680,132 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Startup Services and Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç Hizmetleri ve Uygulamaları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Startup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Automatically start applications or services</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygulamaları ya da hizmetleri otomatik başlat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Default Applications for File Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya Türü için Varsayılan Uygulamalar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Mimetype Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mimtürü Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Change default applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan uygulamaları değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished">Klavye Kısayolları</translation>
+        <translation>Klavye Kısayolları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Change keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavye kısayollarını değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere Yöneticisi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Change window settings and appearances</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere ayarlarını ve görünümlerini değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Desktop Icons and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü Simgeleri ve Eklentileri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Desktop Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü Eklentileri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Change what icons or tools are embedded on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstüne yerleştirilecek simgeleri ya da araçları değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Floating Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüzen Paneller ve Eklentiler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneller ve Eklentiler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Change any floating panels and what they show</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüzen panelleri ve gösterdiklerini değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Context Menu and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlam Menü ve Eklentiler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Menu Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Menü Eklentileri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Change what options are shown on the desktop context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü bağlam menüsünde gösterilecek seçenekleri değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Localization Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerelleştirme Seçenekleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerel Ayar Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Change the default locale settings for this user</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu kullanıcı için varsayılan yerel ayar ayarlarını değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>General Options</source>
-        <translation type="unfinished">Genel Seçenekler</translation>
+        <translation>Genel Seçenekler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat/tarih biçimleri gibi temel kullanıcı ayarlarını değiştir</translation>
     </message>
 </context>
 <context>
@@ -915,62 +915,62 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="39"/>
         <source>Add New Startup Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Başlangıç Hizmeti Ekle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="75"/>
         <source>Application</source>
-        <translation type="unfinished">Uygulama</translation>
+        <translation>Uygulama</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="85"/>
         <source>Binary</source>
-        <translation type="unfinished">İkili</translation>
+        <translation>İkili</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="95"/>
         <source>File</source>
-        <translation type="unfinished">Dosya</translation>
+        <translation>Dosya</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="63"/>
         <source>Startup Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlangıç Hizmetleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Select Binary</source>
-        <translation type="unfinished">İkili Seç</translation>
+        <translation>İkili Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished">Uygulama İkilileri (*)</translation>
+        <translation>Uygulama İkilileri (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Geçersiz İkili</translation>
+        <translation>Geçersiz İkili</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished">Seçili dosya çalıştırılabilir değil!</translation>
+        <translation>Seçili dosya çalıştırılabilir değil!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="144"/>
         <source>Select File</source>
-        <translation type="unfinished">Dosya Seç</translation>
+        <translation>Dosya Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="144"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">Tüm Dosyalar (*)</translation>
+        <translation>Tüm Dosyalar (*)</translation>
     </message>
 </context>
 <context>
@@ -978,83 +978,83 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="39"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="62"/>
         <source>Specific File Types</source>
-        <translation type="unfinished">Belirli Dosya Türleri</translation>
+        <translation>Belirli Dosya Türleri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="99"/>
         <source>Type/Group</source>
-        <translation type="unfinished">Tür/Kategori</translation>
+        <translation>Tür/Kategori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="104"/>
         <source>Default Application</source>
-        <translation type="unfinished">Varsayılan Uygulama</translation>
+        <translation>Varsayılan Uygulama</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="109"/>
         <source>Description</source>
-        <translation type="unfinished">Açıklama</translation>
+        <translation>Açıklama</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="119"/>
         <source>Clear</source>
-        <translation type="unfinished">Temizle</translation>
+        <translation>Temizle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="142"/>
         <source>Set App</source>
-        <translation type="unfinished">Uygulama Ayarla</translation>
+        <translation>Uygulama Ayarla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="152"/>
         <source>Set Binary</source>
-        <translation type="unfinished">İkili Ayarla</translation>
+        <translation>İkili Ayarla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="168"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Temel Ayarlar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="187"/>
         <source>Web Browser:</source>
-        <translation type="unfinished">Web Tarayıcısı:</translation>
+        <translation>Web Tarayıcısı:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="210"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished">E-Posta İstemcisi:</translation>
+        <translation>E-Posta İstemcisi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="237"/>
         <source>File Manager:</source>
-        <translation type="unfinished">Dosya Yöneticisi:</translation>
+        <translation>Dosya Yöneticisi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="250"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished">Sanal Uçbirim:</translation>
+        <translation>Sanal Uçbirim:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="257"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="267"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="43"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan Uygulamalar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="62"/>
@@ -1066,27 +1066,27 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="307"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="339"/>
         <source>Click to Set</source>
-        <translation type="unfinished">Ayarlamak için Tıkla</translation>
+        <translation>Ayarlamak için Tıkla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="162"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="404"/>
         <source>Select Binary</source>
-        <translation type="unfinished">İkili Seç</translation>
+        <translation>İkili Seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Geçersiz İkili</translation>
+        <translation>Geçersiz İkili</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished">Seçilen ikili çalıştırılabilir değil!</translation>
+        <translation>Seçilen ikili çalıştırılabilir değil!</translation>
     </message>
 </context>
 <context>
@@ -1099,72 +1099,72 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="60"/>
         <source>Action</source>
-        <translation type="unfinished">Eylem</translation>
+        <translation>Eylem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="65"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished">Klavye Kısayolu</translation>
+        <translation>Klavye Kısayolu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="73"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished">Kısayolu Değiştir</translation>
+        <translation>Kısayolu Değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="94"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished">Kısayolu Temizle</translation>
+        <translation>Kısayolu Temizle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="104"/>
         <source>Apply Change</source>
-        <translation type="unfinished">Değişikliği Uygula</translation>
+        <translation>Değişikliği Uygula</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="114"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished">Tuş Atamasını Değiştir:</translation>
+        <translation>Tuş Atamasını Değiştir:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="137"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished">Not: Kullanımdaki tuş atamalarının yeniden kullanılabilmesi için önce temizlenip kaydedilmesi gereklidir.</translation>
+        <translation>Not: Kullanımdaki tuş atamalarının yeniden kullanılabilmesi için önce temizlenmesi ve kaydedilmesi gereklidir.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="59"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished">Klavye Kısayolları</translation>
+        <translation>Klavye Kısayolları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="65"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished">Ses Düzeyini Arttır</translation>
+        <translation>Ses Düzeyini Arttır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="66"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished">Ses Düzeyini Azalt</translation>
+        <translation>Ses Düzeyini Azalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="67"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished">Ekran Parlaklığını Arttır</translation>
+        <translation>Ekran Parlaklığını Arttır</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="68"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished">Ekran Parlaklığını Azalt</translation>
+        <translation>Ekran Parlaklığını Azalt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="69"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished">Ekran Görüntüsü Al</translation>
+        <translation>Ekran Görüntüsü Al</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="70"/>
         <source>Lock Screen</source>
-        <translation type="unfinished">Kilit Ekranı</translation>
+        <translation>Kilit Ekranı</translation>
     </message>
 </context>
 <context>
@@ -1172,78 +1172,78 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished">Çalışma Alanı Sayısı</translation>
+        <translation>Çalışma Alanı Sayısı</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="51"/>
         <source>New Window Placement</source>
-        <translation type="unfinished">Yeni Pencere Yerleşimi</translation>
+        <translation>Yeni Pencere Yerleşimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="61"/>
         <source>Focus Policy</source>
-        <translation type="unfinished">Odaklama Davranış Biçimi</translation>
+        <translation>Odaklama Davranış Biçimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="71"/>
         <source>Window Theme</source>
-        <translation type="unfinished">Pencere Teması</translation>
+        <translation>Pencere Teması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="89"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished">Pencere Teması Önizlemesi</translation>
+        <translation>Pencere Teması Önizlemesi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="143"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="167"/>
         <source>No Preview Available</source>
-        <translation type="unfinished">Kullanılabilir Önizleme Yok</translation>
+        <translation>Kullanılabilir Önizleme Yok</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="62"/>
         <source>Window Manager Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencere Yöneticisi Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="65"/>
         <source>Click To Focus</source>
-        <translation type="unfinished">Odaklama İçin Tıklansın</translation>
+        <translation>Odaklama İçin Tıklansın</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="66"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished">Etkin Fare Odaklaması</translation>
+        <translation>Etkin Fare Odaklaması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="67"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished">Tam Fare Odaklaması</translation>
+        <translation>Tam Fare Odaklaması</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="70"/>
         <source>Align in a Row</source>
-        <translation type="unfinished">Satıra hizala</translation>
+        <translation>Satıra hizala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="71"/>
         <source>Align in a Column</source>
-        <translation type="unfinished">Sütuna hizala</translation>
+        <translation>Sütuna hizala</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="72"/>
         <source>Cascade</source>
-        <translation type="unfinished">Basamakla</translation>
+        <translation>Basamakla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="73"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished">Fare Altı</translation>
+        <translation>Fare Altı</translation>
     </message>
 </context>
 <context>
@@ -1251,22 +1251,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished">Yerleşik Gereçler</translation>
+        <translation>Yerleşik Gereçler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished">Masaüstü Klasörü İçeriğini Göster</translation>
+        <translation>Masaüstü Klasörü İçeriğini Göster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="53"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarları</translation>
+        <translation>Masaüstü Ayarları</translation>
     </message>
 </context>
 <context>
@@ -1274,17 +1274,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished">Hızlı Erişim Menüsü</translation>
+        <translation>Hızlı Erişim Menüsü</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarları</translation>
+        <translation>Masaüstü Ayarları</translation>
     </message>
 </context>
 <context>
@@ -1292,12 +1292,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarları</translation>
+        <translation>Masaüstü Ayarları</translation>
     </message>
 </context>
 <context>
@@ -1310,7 +1310,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="32"/>
         <source>Search for....</source>
-        <translation type="unfinished"></translation>
+        <translation>Ara...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="32"/>
@@ -1330,7 +1330,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
@@ -1343,57 +1343,57 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished">Sistem yerelleştirme ayarları (yeniden başlatma gerekli)</translation>
+        <translation>Sistem yerelleştirme ayarları (yeniden başlatma gerekli)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="39"/>
         <source>Language</source>
-        <translation type="unfinished">Dil</translation>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
         <source>Messages</source>
-        <translation type="unfinished">İletiler</translation>
+        <translation>İletiler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
         <source>Time</source>
-        <translation type="unfinished">Saat</translation>
+        <translation>Saat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
         <source>Numeric</source>
-        <translation type="unfinished">Sayısal</translation>
+        <translation>Sayısal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
         <source>Monetary</source>
-        <translation type="unfinished">Parasal</translation>
+        <translation>Parasal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
         <source>Collate</source>
-        <translation type="unfinished">Harmanla</translation>
+        <translation>Harmanla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation type="unfinished">CType</translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarları</translation>
+        <translation>Masaüstü Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">Sistem Varsayılanı</translation>
+        <translation>Sistem Varsayılanı</translation>
     </message>
 </context>
 <context>
@@ -1401,229 +1401,229 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished">Başlangıçta sayısal tuş takımı kilidini etkinleştir</translation>
+        <translation>Başlangıçta sayısal tuş takımı kilidini etkinleştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="41"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished">Başlangıçta ses oynat</translation>
+        <translation>Başlangıçta ses oynat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="48"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished">Çıkışta ses oynat</translation>
+        <translation>Çıkışta ses oynat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="57"/>
         <source>Change User Icon</source>
-        <translation type="unfinished">Kullanıcı Simgesini Değiştir</translation>
+        <translation>Kullanıcı Simgesini Değiştir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="95"/>
         <source>Time Format:</source>
-        <translation type="unfinished">Saat Biçimi:</translation>
+        <translation>Saat Biçimi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="107"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="151"/>
         <source>View format codes</source>
-        <translation type="unfinished">Biçim kodlarını görüntüle</translation>
+        <translation>Biçim kodlarını görüntüle</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="122"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="166"/>
         <source>Sample:</source>
-        <translation type="unfinished">Örnek:</translation>
+        <translation>Örnek:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="139"/>
         <source>Date Format:</source>
-        <translation type="unfinished">Tarih Biçimi:</translation>
+        <translation>Tarih Biçimi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="186"/>
         <source>Display Format</source>
-        <translation type="unfinished">Görünüm Biçimi</translation>
+        <translation>Görünüm Biçimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="217"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarlarını Sıfırla</translation>
+        <translation>Masaüstü Ayarlarını Sıfırla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="236"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished">Sistem varsayılanlarına dön</translation>
+        <translation>Sistem varsayılanlarına dön</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="243"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished">Lumina varsayılanlarına dön</translation>
+        <translation>Lumina varsayılanlarına dön</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished">Saat (Tarih araç ipucu olarak)</translation>
+        <translation>Saat (Tarih araç ipucu olarak)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished">Tarih (Saat araç ipucu olarak)</translation>
+        <translation>Tarih (Saat araç ipucu olarak)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
         <source>Time first then Date</source>
-        <translation type="unfinished">Önce Saat sonra Tarih</translation>
+        <translation>Önce Saat sonra Tarih</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
         <source>Date first then Time</source>
-        <translation type="unfinished">Önce Tarih sonra Saat</translation>
+        <translation>Önce Tarih sonra Saat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Masaüstü Ayarları</translation>
+        <translation>Masaüstü Ayarları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
         <source>Select an image</source>
-        <translation type="unfinished">Bir resim seç</translation>
+        <translation>Bir resim seç</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
         <source>Images</source>
-        <translation type="unfinished">Görüntüler</translation>
+        <translation>Resimler</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Reset User Image</source>
-        <translation type="unfinished">Kullanıcı Resmini Sıfırla</translation>
+        <translation>Kullanıcı Resmini Sıfırla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished">Kullanıcı resmini sistem varsayılanına sıfırlamak ister misiniz?</translation>
+        <translation>Kullanıcı resmini sistem varsayılanına sıfırlamak ister misiniz?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished">Geçerli Zaman Kodları:</translation>
+        <translation>Geçerli Zaman Kodları:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished">%1: Ön sıfırsız saat (1)</translation>
+        <translation>%1: Ön sıfırsız saat (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished">%1: Ön sıfırlı saat (01)</translation>
+        <translation>%1: Ön sıfırlı saat (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished">%1: Ön sıfırsız dakika (2)</translation>
+        <translation>%1: Ön sıfırsız dakika (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished">%1: Ön sıfırlı dakika (02)</translation>
+        <translation>%1: Ön sıfırlı dakika (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished">%1: Ön sıfırsız saniye (3)</translation>
+        <translation>%1: Ön sıfırsız saniye (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished">%1: Ön sıfırlı saniye (03)</translation>
+        <translation>%1: Ön sıfırlı saniye (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished">%1: AM/PM (12 saat) biçimi (büyük ya da küçük harf)</translation>
+        <translation>%1: AM/PM (12 saat) biçimi (büyük ya da küçük harf)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished">%1: Zaman dilimi</translation>
+        <translation>%1: Zaman dilimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
         <source>Time Codes</source>
-        <translation type="unfinished">Zaman Kodları</translation>
+        <translation>Zaman Kodları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished">Geçerli Zaman Kodları:</translation>
+        <translation>Geçerli Tarih Kodları:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished">%1: Ön sıfırsız sayısal gün (1)</translation>
+        <translation>%1: Ön sıfırsız sayısal gün (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished">%1: Ön sıfırlı sayısal gün (01)</translation>
+        <translation>%1: Ön sıfırlı sayısal gün (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Kısaltma şeklinde gün (yerelleştirilmiş)</translation>
+        <translation>%1: Kısaltma şeklinde gün (yerelleştirilmiş)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: Tam adıyla gün (yerelleştirilmiş)</translation>
+        <translation>%1: Tam adıyla gün (yerelleştirilmiş)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Ön sıfırsız sayısal ay (2)</translation>
+        <translation>%1: Ön sıfırsız sayısal ay (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Ön sıfırlı sayısal ay (02)</translation>
+        <translation>%1: Ön sıfırlı sayısal ay (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Kısaltma şeklinde ay (yerelleştirilmiş)</translation>
+        <translation>%1: Kısaltma şeklinde ay (yerelleştirilmiş)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished">%1: Tam adıyla ay (yerelleştirilmiş)</translation>
+        <translation>%1: Tam adıyla ay (yerelleştirilmiş)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished">%1: 2 haneli sayı şeklinde yıl (15)</translation>
+        <translation>%1: 2 haneli sayı şeklinde yıl (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished">%1: 4 haneli sayı şeklinde yıl (2015)</translation>
+        <translation>%1: 4 haneli sayı şeklinde yıl (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished">Değiştirmeleri görmezden gelmek için metin tek tırnak içine alınabilir</translation>
+        <translation>Değiştirmeleri görmezden gelmek için metin tek tırnak içine alınabilir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
         <source>Date Codes</source>
-        <translation type="unfinished">Zaman Kodları</translation>
+        <translation>Tarih Kodları</translation>
     </message>
 </context>
 <context>
