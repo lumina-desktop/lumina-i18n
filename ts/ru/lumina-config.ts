@@ -225,7 +225,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished">Выберите цвет</translation>
+        <translation>Выберите цвет</translation>
     </message>
 </context>
 <context>
@@ -779,32 +779,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Localization Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Варианты локализации</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Региональные настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Change the default locale settings for this user</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение параметров по умолчанию для локали этого пользователя</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>General Options</source>
-        <translation type="unfinished">Общие Параметры</translation>
+        <translation>Общие Параметры</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательские настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение основных пользовательских настроек, таких как время/формат даты</translation>
     </message>
 </context>
 <context>
@@ -1295,7 +1295,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Параметры рабочего стола</translation>
+        <translation>Параметры рабочего стола</translation>
     </message>
 </context>
 <context>
@@ -1328,7 +1328,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательские настройки</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
@@ -1386,12 +1386,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Параметры рабочего стола</translation>
+        <translation>Параметры рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
 </context>
 <context>
@@ -1466,162 +1466,162 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished">Время (Дата, как подсказка)</translation>
+        <translation>Время (Дата, как подсказка)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished">Дата (Время, как подсказка)</translation>
+        <translation>Дата (Время, как подсказка)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
         <source>Time first then Date</source>
-        <translation type="unfinished">Вначале Время потом Дата</translation>
+        <translation>Вначале Время потом Дата</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
         <source>Date first then Time</source>
-        <translation type="unfinished">Вначале Дата потом Время</translation>
+        <translation>Вначале Дата потом Время</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Параметры рабочего стола</translation>
+        <translation>Параметры рабочего стола</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
         <source>Select an image</source>
-        <translation type="unfinished">Выберите изображение</translation>
+        <translation>Выберите изображение</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
         <source>Images</source>
-        <translation type="unfinished">Изображения</translation>
+        <translation>Изображения</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Reset User Image</source>
-        <translation type="unfinished">Сброс изображения пользователя</translation>
+        <translation>Сброс изображения пользователя</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished">Хотите вернуть изображения пользователя по умолчанию?</translation>
+        <translation>Хотите вернуть изображения пользователя по умолчанию?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished">Допустимые коды Времени:</translation>
+        <translation>Допустимые коды Времени:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished">%1: Часы без первого нуля (1)</translation>
+        <translation>%1: Часы без первого нуля (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished">%1: Часы с первым нулем (01)</translation>
+        <translation>%1: Часы с первым нулем (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished">%1: Минуты без первого нуля (2)</translation>
+        <translation>%1: Минуты без первого нуля (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished">%1: Минуты с первым нулем (02)</translation>
+        <translation>%1: Минуты с первым нулем (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished">%1: Секунды без первого нуля (3)</translation>
+        <translation>%1: Секунды без первого нуля (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished">%1: Секунды с первым нулем (03)</translation>
+        <translation>%1: Секунды с первым нулем (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished">%1: AM / PM (12-часовой) часы (верхний или нижний регистр)</translation>
+        <translation>%1: AM / PM (12-часовой) часы (верхний или нижний регистр)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished">%1: Временная зона</translation>
+        <translation>%1: Временная зона</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
         <source>Time Codes</source>
-        <translation type="unfinished">Коды Времени</translation>
+        <translation>Коды Времени</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished">Допустимые коды Даты:</translation>
+        <translation>Допустимые коды Даты:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished">%1: Дни без первого нуля (1)</translation>
+        <translation>%1: Дни без первого нуля (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished">%1: Дни с первым нулем (01)</translation>
+        <translation>%1: Дни с первым нулем (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished">%1: День, как аббревиатура</translation>
+        <translation>%1: День, как аббревиатура</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: День, как полное наименование</translation>
+        <translation>%1: День, как полное наименование</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Месяц без первого нуля (2)</translation>
+        <translation>%1: Месяц без первого нуля (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Месяц с первым нулем (02)</translation>
+        <translation>%1: Месяц с первым нулем (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Месяц, как аббревиатура</translation>
+        <translation>%1: Месяц, как аббревиатура</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished">%1: Месяц, как полное наименование</translation>
+        <translation>%1: Месяц, как полное наименование</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished">%1: Год, как 2-ое число (15)</translation>
+        <translation>%1: Год, как 2-ое число (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished">%1: Год, как 4-ое число (2015)</translation>
+        <translation>%1: Год, как 4-ое число (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished">Текст может быть в одиночных кавычках, чтобы игнорировать замены</translation>
+        <translation>Текст может быть в одиночных кавычках, чтобы игнорировать замены</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
         <source>Date Codes</source>
-        <translation type="unfinished">Коды Даты</translation>
+        <translation>Коды Даты</translation>
     </message>
 </context>
 <context>
