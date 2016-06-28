@@ -1603,6 +1603,76 @@
         <source>Change default applications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
+        <source>Keyboard Shortcuts</source>
+        <translation type="unfinished">Klaviatuuri kiirklahvid</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
+        <source>Change keyboard shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
+        <source>Window Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
+        <source>Window Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
+        <source>Change window settings and appearances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
+        <source>Desktop Icons and Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
+        <source>Desktop Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
+        <source>Change what icons or tools are embedded on the desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
+        <source>Floating Panels and Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
+        <source>Panels and Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
+        <source>Change any floating panels and what they show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
+        <source>Context Menu and Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
+        <source>Menu Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
+        <source>Change what options are shown on the desktop context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeDialog</name>
@@ -1886,6 +1956,212 @@
     </message>
 </context>
 <context>
+    <name>page_fluxbox_keys</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="14"/>
+        <source>page_fluxbox_keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="60"/>
+        <source>Action</source>
+        <translation type="unfinished">Toiming</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="65"/>
+        <source>Keyboard Shortcut</source>
+        <translation type="unfinished">Kiirklahvid</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="73"/>
+        <source>Modify Shortcut</source>
+        <translation type="unfinished">Muuda otseteed</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="94"/>
+        <source>Clear Shortcut</source>
+        <translation type="unfinished">Kustuta kiirklahv</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="104"/>
+        <source>Apply Change</source>
+        <translation type="unfinished">Rakenda muudatus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="114"/>
+        <source>Change Key Binding:</source>
+        <translation type="unfinished">Muuda klahviseoseid:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="137"/>
+        <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
+        <translation type="unfinished">Märkus: praegused klahvikombinatsioonid tuleb kustutada enne kui neid saab uuesti kasutada.</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="59"/>
+        <source>Keyboard Shortcuts</source>
+        <translation type="unfinished">Klaviatuuri kiirklahvid</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="65"/>
+        <source>Audio Volume Up</source>
+        <translation type="unfinished">Heli tugevamaks</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="66"/>
+        <source>Audio Volume Down</source>
+        <translation type="unfinished">Heli vaiksemaks</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="67"/>
+        <source>Screen Brightness Up</source>
+        <translation type="unfinished">Ekraan heledamaks</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="68"/>
+        <source>Screen Brightness Down</source>
+        <translation type="unfinished">Ekraan tumedamaks</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="69"/>
+        <source>Take Screenshot</source>
+        <translation type="unfinished">Tee ekraanipilt</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="70"/>
+        <source>Lock Screen</source>
+        <translation type="unfinished">Lukustuskuva</translation>
+    </message>
+</context>
+<context>
+    <name>page_fluxbox_settings</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
+        <source>Number of Workspaces</source>
+        <translation type="unfinished">Tööruumide arv</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="51"/>
+        <source>New Window Placement</source>
+        <translation type="unfinished">Uute akende paigutus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="61"/>
+        <source>Focus Policy</source>
+        <translation type="unfinished">Fookuse reegel</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="71"/>
+        <source>Window Theme</source>
+        <translation type="unfinished">Akna kujundus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="89"/>
+        <source>Window Theme Preview</source>
+        <translation type="unfinished">Akna kujunduse eelvaade</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="143"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="167"/>
+        <source>No Preview Available</source>
+        <translation type="unfinished">Eelvaade puudub</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="62"/>
+        <source>Window Manager Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="65"/>
+        <source>Click To Focus</source>
+        <translation type="unfinished">Hiireklõpsuga</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="66"/>
+        <source>Active Mouse Focus</source>
+        <translation type="unfinished">Hiire liigutamisel</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="67"/>
+        <source>Strict Mouse Focus</source>
+        <translation type="unfinished">Rangelt hiire all</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="70"/>
+        <source>Align in a Row</source>
+        <translation type="unfinished">Joonda ritta</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="71"/>
+        <source>Align in a Column</source>
+        <translation type="unfinished">Joonda tulpa</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="72"/>
+        <source>Cascade</source>
+        <translation type="unfinished">Kaskaad</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="73"/>
+        <source>Underneath Mouse</source>
+        <translation type="unfinished">Hiire alla</translation>
+    </message>
+</context>
+<context>
+    <name>page_interface_desktop</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
+        <source>Embedded Utilities</source>
+        <translation type="unfinished">Sisseehitatud tööriistad</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
+        <source>Display Desktop Folder Contents</source>
+        <translation type="unfinished">Näita töölaua kausta sisu</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="53"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_interface_menu</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
+        <source>Quick-Access Menu</source>
+        <translation type="unfinished">Kiirmenüü</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_interface_panels</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>page_main</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
@@ -1921,6 +2197,124 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="83"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_session_locale</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
+        <source>System localization settings (restart required)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="39"/>
+        <source>Language</source>
+        <translation type="unfinished">Keel</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
+        <source>Messages</source>
+        <translation type="unfinished">Teated</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
+        <source>Time</source>
+        <translation type="unfinished">Aeg</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
+        <source>Numeric</source>
+        <translation type="unfinished">Arv</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
+        <source>Monetary</source>
+        <translation type="unfinished">Raha</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
+        <source>Collate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
+        <source>CType</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>page_session_options</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
+        <source>Enable numlock on startup</source>
+        <translation type="unfinished">Lülita numbrilukk käivitamisel sisse</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="41"/>
+        <source>Play chimes on startup</source>
+        <translation type="unfinished">Mängi käivitamisel heli</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="48"/>
+        <source>Play chimes on exit</source>
+        <translation type="unfinished">Mängi väljumisel heli</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="57"/>
+        <source>Change User Icon</source>
+        <translation type="unfinished">Muuda kasutaja ikooni</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="95"/>
+        <source>Time Format:</source>
+        <translation type="unfinished">Ajavorming:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="107"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="151"/>
+        <source>View format codes</source>
+        <translation type="unfinished">Kuva vormingu koodid</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="122"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="166"/>
+        <source>Sample:</source>
+        <translation type="unfinished">Näide:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="139"/>
+        <source>Date Format:</source>
+        <translation type="unfinished">Kuupäevavorming</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="186"/>
+        <source>Display Format</source>
+        <translation type="unfinished">Kuvavorming</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="217"/>
+        <source>Reset Desktop Settings</source>
+        <translation type="unfinished">Taasta töölaua sätted</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="236"/>
+        <source>Return to system defaults</source>
+        <translation type="unfinished">Taasta süsteemi vaiksesätted</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="243"/>
+        <source>Return to Lumina defaults</source>
+        <translation type="unfinished">Taasta Lumina vaikeväärtused</translation>
     </message>
 </context>
 <context>
