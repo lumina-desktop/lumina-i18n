@@ -115,908 +115,6 @@ Voleu sobreescriure&apos;l?</translation>
     </message>
 </context>
 <context>
-    <name>MainUI</name>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="73"/>
-        <source>Screen Number:</source>
-        <translation>Número de pantalla:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="196"/>
-        <source>Single Background</source>
-        <translation>Fons d&apos;escriptori únic</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="206"/>
-        <source>Rotate Background</source>
-        <translation>Rotació dels fons</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="213"/>
-        <source> Minutes</source>
-        <translation>Minuts</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="216"/>
-        <source>Every </source>
-        <translation>Cada</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1724"/>
-        <source>Appearance</source>
-        <translation>Aparença</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1109"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1119"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="723"/>
-        <source>Action</source>
-        <translation>Acció</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="728"/>
-        <source>Keyboard Shortcut</source>
-        <translation>Drecera del teclat</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="757"/>
-        <source>Clear Shortcut</source>
-        <translation>Elimina la drecera</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="800"/>
-        <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation>Nota: les associacions de tecles actuals s&apos;han de netejar i desar abans que es puguin reutilitzar.</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1039"/>
-        <source>Web Browser:</source>
-        <translation>Navegador web:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1062"/>
-        <source>E-Mail Client:</source>
-        <translation>Client de correu:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1089"/>
-        <source>File Manager:</source>
-        <translation>Gestor de fitxers:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1102"/>
-        <source>Virtual Terminal:</source>
-        <translation>Terminal virtual:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="914"/>
-        <source>Specific File Types</source>
-        <translation>Tipus de fitxers específics</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="956"/>
-        <source>Default Application</source>
-        <translation>Aplicació per defecte</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="961"/>
-        <source>Description</source>
-        <translation>Descripció</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="971"/>
-        <source>Clear</source>
-        <translation>Neteja</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="994"/>
-        <source>Set App</source>
-        <translation>Estableix l&apos;aplicació</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1004"/>
-        <source>Set Binary</source>
-        <translation>Estableix el binari</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="289"/>
-        <source>Theme</source>
-        <translation>Tema</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="17"/>
-        <source>Lumina Settings</source>
-        <translation>Paràmetres del Lumina</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
-        <source>Wallpaper</source>
-        <translation>Fons de pantalla</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="239"/>
-        <source>Layout:</source>
-        <translation>Disposició:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="295"/>
-        <source>Font:</source>
-        <translation>Tipus de lletra:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="309"/>
-        <source>Font Size:</source>
-        <translation>Mida de la lletra:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="316"/>
-        <source> point</source>
-        <translation>punt</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="323"/>
-        <source>Theme Template:</source>
-        <translation>Plantilla del tema:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="339"/>
-        <source>Create/Edit a theme template (Advanced)</source>
-        <translation>Creeu / editeu una plantilla de tema (avançat)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="345"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="379"/>
-        <source>Edit</source>
-        <translation>Edita</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="357"/>
-        <source>Color Scheme:</source>
-        <translation>Esquema de colors:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="373"/>
-        <source>Create/Edit a color scheme</source>
-        <translation>Creeu / editeu un esquema de colors</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="391"/>
-        <source>Icon Pack:</source>
-        <translation>Paquet d&apos;icones:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="401"/>
-        <source>Mouse Cursors:</source>
-        <translation>Cursors del ratolí</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="480"/>
-        <source>Quick-Access Menu</source>
-        <translation>Menú d&apos;accés ràpid</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="503"/>
-        <source>Embedded Utilities</source>
-        <translation>Utilitats encastades</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="602"/>
-        <source>Display Desktop Folder Contents</source>
-        <translation>Mostra els continguts de la carpeta de l&apos;escriptori</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="736"/>
-        <source>Modify Shortcut</source>
-        <translation>Modifica la drecera</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="767"/>
-        <source>Apply Change</source>
-        <translation>Aplica el canvi</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="777"/>
-        <source>Change Key Binding:</source>
-        <translation>Canvia la vinculació de les tecles</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
-        <source>Auto-Started</source>
-        <translation>Iniciat automàticament</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="851"/>
-        <source>Application</source>
-        <translation>Aplicació</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="861"/>
-        <source>Binary</source>
-        <translation>Binari</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="871"/>
-        <source>File</source>
-        <translation>Fitxer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="891"/>
-        <source>File Defaults</source>
-        <translation>Opcions per defecte del fitxer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="951"/>
-        <source>Type/Group</source>
-        <translation>Tipus / Grup</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
-        <source>Common Applications</source>
-        <translation>Aplicacions usuals</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
-        <source>General Options</source>
-        <translation>Opcions generals</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1178"/>
-        <source>Enable numlock on startup</source>
-        <translation>Habilita el bloqueig numèric a l&apos;inici</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1185"/>
-        <source>Play chimes on startup</source>
-        <translation>Reprodueix melodies en iniciar</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1192"/>
-        <source>Play chimes on exit</source>
-        <translation>Reprodueix una melodia en sortir</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1201"/>
-        <source>Change User Icon</source>
-        <translation>Canvia la icona de l&apos;usuari</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1294"/>
-        <source>Time Format:</source>
-        <translation>Format de l&apos;hora:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1306"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1350"/>
-        <source>View format codes</source>
-        <translation>Mostra els codis dels formats</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1338"/>
-        <source>Date Format:</source>
-        <translation>Format de la data:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1321"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1365"/>
-        <source>Sample:</source>
-        <translation>Exemple:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1237"/>
-        <source>Reset Desktop Settings</source>
-        <translation>Restableix els paràmetres de l&apos;escriptori</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1256"/>
-        <source>Return to system defaults</source>
-        <translation>Torna als valors per defecte del sistema</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1263"/>
-        <source>Return to Lumina defaults</source>
-        <translation>Torna als valors per defecte del Lumina</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
-        <source> Appearance </source>
-        <translation> Aparença </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
-        <source>   Interface   </source>
-        <translation>   Interfície   </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
-        <source>     Interface    </source>
-        <translation>   Interfície   </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
-        <source>    Session    </source>
-        <translation>    Sessió    </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
-        <source>     Session      </source>
-        <translation>     Sessió     </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
-        <source>Applications</source>
-        <translation>Aplicacions</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
-        <source> Applications </source>
-        <translation> Aplicacions </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
-        <source>Application Management</source>
-        <translation>Gestió d&apos;aplicacions</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1495"/>
-        <source>Window System</source>
-        <translation>Sistema de finestres</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1385"/>
-        <source>Display Format</source>
-        <translation>Format de visualització</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
-        <source>Locale</source>
-        <translation>Llengua</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
-        <source>Language</source>
-        <translation>Llengua</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1427"/>
-        <source>Messages</source>
-        <translation>Missatges</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1437"/>
-        <source>Time</source>
-        <translation>Hora</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1447"/>
-        <source>Numeric</source>
-        <translation>Numèric</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1457"/>
-        <source>Monetary</source>
-        <translation>Moneda</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
-        <source>Collate</source>
-        <translation>Compara</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1477"/>
-        <source>CType</source>
-        <translation>CTipus</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
-        <source>System localization settings (restart required)</source>
-        <translation>Paràmetres de llengua del sistema (cal reiniciar)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
-        <source>Number of Workspaces</source>
-        <translation>Nombre d&apos;espais de treball</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1520"/>
-        <source>New Window Placement</source>
-        <translation>Nou emplaçament de la finestra</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1530"/>
-        <source>Focus Policy</source>
-        <translation>Política del focus</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1540"/>
-        <source>Window Theme</source>
-        <translation>Tema de les finestres</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1558"/>
-        <source>Window Theme Preview</source>
-        <translation>Previsualització del tema de les finestres</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1612"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1773"/>
-        <source>No Preview Available</source>
-        <translation>No hi ha cap previsualització disponible</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1658"/>
-        <source>Save Changes</source>
-        <translation>Desa els canvis</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1661"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
-        <source>toolBar</source>
-        <translation>Barra d&apos;eines</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
-        <source>Interface Configuration</source>
-        <translation>Configuració de la interfície</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="468"/>
-        <source>Desktop</source>
-        <translation>Escriptori</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1730"/>
-        <source>Desktop Appearance</source>
-        <translation>Aparença de l&apos;escriptori</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="610"/>
-        <source>Panels</source>
-        <translation>Plafons</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1758"/>
-        <source>Session Options</source>
-        <translation>Opcions de la sessió</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
-        <source>Shortcuts</source>
-        <translation>Dreceres</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
-        <source>   Shortcuts   </source>
-        <translation>   Dreceres   </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
-        <source>Keyboard Shortcuts</source>
-        <translation>Dreceres del teclat</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="231"/>
-        <source>Click To Focus</source>
-        <translation>Clic per al focus</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
-        <source>Active Mouse Focus</source>
-        <translation>Focus del ratolí actiu</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
-        <source>Strict Mouse Focus</source>
-        <translation>Focus del ratolí estricte</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="235"/>
-        <source>Align in a Row</source>
-        <translation>Alinea en una fila</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
-        <source>Align in a Column</source>
-        <translation>Alinea en una columna</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="237"/>
-        <source>Cascade</source>
-        <translation>Cascada</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="238"/>
-        <source>Underneath Mouse</source>
-        <translation>Sota el ratolí</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>Save Changes?</source>
-        <translation>Voleu desar els canvis?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation>Teniu canvis encara no desats per a aquesta pantalla. Voleu desar-los primer?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="284"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="476"/>
-        <source>System Default</source>
-        <translation>Valor per defecte del sistema</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="487"/>
-        <source>Screen Resolution:</source>
-        <translation>Resolució de pantalla:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>No Background</source>
-        <translation>Sense fons</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>(use system default)</source>
-        <translation>(usa el valor per defecte del sistema)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="680"/>
-        <source>File does not exist</source>
-        <translation>El fitxer no existeix</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="719"/>
-        <source>Find Background Image(s)</source>
-        <translation>Troba imatges de fons</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="999"/>
-        <source>Audio Volume Up</source>
-        <translation>Volum de l&apos;àudio amunt</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1000"/>
-        <source>Audio Volume Down</source>
-        <translation>Volum de l&apos;àudio avall</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1001"/>
-        <source>Screen Brightness Up</source>
-        <translation>Brillantor de la pantalla amunt</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1002"/>
-        <source>Screen Brightness Down</source>
-        <translation>Brillantor de la pantalla avall</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1003"/>
-        <source>Take Screenshot</source>
-        <translation>Fes una captura de pantalla</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1121"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1153"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1186"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1218"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1245"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1267"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1289"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1311"/>
-        <source>Click to Set</source>
-        <translation>Cliqueu per establir-ho</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1345"/>
-        <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="256"/>
-        <source>Time (Date as tooltip)</source>
-        <translation>Hora (data com a ajuda informativa)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="224"/>
-        <source>File(s)</source>
-        <translation>Fitxer(s)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="225"/>
-        <source>Directory (Single)</source>
-        <translation>Directori (un)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
-        <source>Directory (Recursive)</source>
-        <translation>Directori (recursiu)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
-        <source>Solid Color</source>
-        <translation>Color sòlid</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="257"/>
-        <source>Date (Time as tooltip)</source>
-        <translation>Data (hora com a ajuda informativa)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="258"/>
-        <source>Time first then Date</source>
-        <translation>Primer l&apos;hora, després la data</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
-        <source>Date first then Time</source>
-        <translation>Primer la data, després l&apos;hora</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="269"/>
-        <source>Automatic</source>
-        <translation>Automàtic</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
-        <source>Fullscreen</source>
-        <translation>Pantalla completa</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
-        <source>Fit screen</source>
-        <translation>Ajusta a la pantalla</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
-        <source>Tile</source>
-        <translation>Mosaic</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
-        <source>Center</source>
-        <translation>Centre</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
-        <source>Top Left</source>
-        <translation>Dalt a l&apos;esquerra</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
-        <source>Top Right</source>
-        <translation>Dalt a la dreta</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
-        <source>Bottom Left</source>
-        <translation>Inferior esquerra</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="277"/>
-        <source>Bottom Right</source>
-        <translation>Inferior dreta</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="315"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="316"/>
-        <source>Select Color</source>
-        <translation>Seleccioneu un color</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="477"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="739"/>
-        <source>Solid Color: %1</source>
-        <translation>Color sòlid: %1</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="752"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="778"/>
-        <source>Find Background Image Directory</source>
-        <translation>Troba el directori d&apos;imatges de fons</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1004"/>
-        <source>Lock Screen</source>
-        <translation>Bloqueja la pantalla</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1432"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Select Binary</source>
-        <translation>Seleccioneu el binari</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>Invalid Binary</source>
-        <translation>Binari no vàlid</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <source>The selected binary is not executable!</source>
-        <translation>El binari seleccionat no és executable!</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1559"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1573"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1807"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1833"/>
-        <source>Local</source>
-        <translation>Localització</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1566"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1580"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1814"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1840"/>
-        <source>System</source>
-        <translation>Sistema</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Application Binaries (*)</source>
-        <translation>Binaris d&apos;aplicacions (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>The selected file is not executable!</source>
-        <translation>El fitxer seleccionat no és executable!</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>Select File</source>
-        <translation>Seleccioneu un fitxer</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>All Files (*)</source>
-        <translation>Tots els fitxers (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1852"/>
-        <source>Select an image</source>
-        <translation>Seleccioneu una imatge</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1853"/>
-        <source>Images</source>
-        <translation>Imatges</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Reset User Image</source>
-        <translation>Reestableix la imatge de l&apos;usuari</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Would you like to reset the user image to the system default?</source>
-        <translation>Voleu reestablir la imatge de l&apos;usuari la predeterminada del sistema?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
-        <source>Valid Time Codes:</source>
-        <translation>Codis d&apos;hora vàlids:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1897"/>
-        <source>%1: Hour without leading zero (1)</source>
-        <translation>%1: Hora sense el zero davant (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1898"/>
-        <source>%1: Hour with leading zero (01)</source>
-        <translation>%1: Hora amb el zero davant (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1899"/>
-        <source>%1: Minutes without leading zero (2)</source>
-        <translation>%1: Minuts sense el zero davant (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1900"/>
-        <source>%1: Minutes with leading zero (02)</source>
-        <translation>%1: Minuts amb el zero davant (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1901"/>
-        <source>%1: Seconds without leading zero (3)</source>
-        <translation>%1: Segons sense el zero davant (3)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1902"/>
-        <source>%1: Seconds with leading zero (03)</source>
-        <translation>%1: Segons amb el zero davant (03)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1903"/>
-        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation>%1: Rellotge amb AM/PM (12 hores) (en majúscules o minúscules)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1904"/>
-        <source>%1: Timezone</source>
-        <translation>%1: Zora horària</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1905"/>
-        <source>Time Codes</source>
-        <translation>Codis d&apos;hora</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
-        <source>Valid Date Codes:</source>
-        <translation>Codis d&apos;hora vàlids:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
-        <source>%1: Numeric day without a leading zero (1)</source>
-        <translation>%1: Dia numèric sense el zero davant (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
-        <source>%1: Numeric day with leading zero (01)</source>
-        <translation>%1: Dia numèric amb el zero davant (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
-        <source>%1: Day as abbreviation (localized)</source>
-        <translation>%1: Dia com a abreviatura (localitzat)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
-        <source>%1: Day as full name (localized)</source>
-        <translation>%1: Dia amb el nom complet (localitzat)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1924"/>
-        <source>%1: Numeric month without leading zero (2)</source>
-        <translation>%1: Mes numèric sense el zero davant (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1925"/>
-        <source>%1: Numeric month with leading zero (02)</source>
-        <translation>%1: Mes numèric amb el zero davant (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1926"/>
-        <source>%1: Month as abbreviation (localized)</source>
-        <translation>%1: Més com a abreviatura (localitzat)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1927"/>
-        <source>%1: Month as full name (localized)</source>
-        <translation>%1: Mes amb el nom sencer (localitzat)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1928"/>
-        <source>%1: Year as 2-digit number (15)</source>
-        <translation>%1: Any com a número binari (15)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1929"/>
-        <source>%1: Year as 4-digit number (2015)</source>
-        <translation>%1: Any com a número de quatre xifres (2015)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1930"/>
-        <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation>El text pot encabir-se entre cometes simples per ignorar substitucions</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1931"/>
-        <source>Date Codes</source>
-        <translation>Codis de la data</translation>
-    </message>
-</context>
-<context>
     <name>PanelWidget</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="32"/>
@@ -1084,45 +182,51 @@ Voleu sobreescriure&apos;l?</translation>
         <translation>Connectors</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="19"/>
         <source>Top/Left</source>
         <translation>A dalt a l&apos;esquerra</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="20"/>
         <source>Center</source>
         <translation>Al centre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="26"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="21"/>
         <source>Bottom/Right</source>
         <translation>A baix a la dreta</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="27"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="22"/>
         <source>Top</source>
         <translation>Dalt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="28"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="23"/>
         <source>Bottom</source>
         <translation>A baix</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="29"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Left</source>
         <translation>Esquerra</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="30"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Right</source>
         <translation>Dreta</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="49"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="109"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="44"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="104"/>
         <source>Panel %1</source>
         <translation>Plafó %1</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Seleccioneu un color</translation>
     </message>
 </context>
 <context>
@@ -1576,101 +680,131 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Startup Services and Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveis i aplicacions de l&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Startup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de l&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Automatically start applications or services</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia automàticament aplicacions o serveis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Default Applications for File Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions per a tipus de fitxers per defecte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Mimetype Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de tipus MIME</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Change default applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia les aplicacions per defecte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished">Dreceres del teclat</translation>
+        <translation>Dreceres del teclat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Change keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia les dreceres del teclat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestor de finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferències de les finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Change window settings and appearances</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia els paràmetres i l&apos;aparença de les finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Desktop Icons and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Icones i connectors de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Desktop Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectors de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Change what icons or tools are embedded on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia les icones o les eines encastades a l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Floating Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plafons i connectors flotants</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plafons i connectors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Change any floating panels and what they show</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvia qualsevol plafó flotant i el que mostren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Context Menu and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual i connectors</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Menu Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectors del menú</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Change what options are shown on the desktop context menu</source>
+        <translation>Canvia les opcions que es mostren al menú contextual de l&apos;escriptori</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Localization Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Locale Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Change the default locale settings for this user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>General Options</source>
+        <translation type="unfinished">Opcions generals</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>User Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>Change basic user settings such as time/date formats</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1766,12 +900,12 @@ Voleu sobreescriure&apos;l?</translation>
         <translation>Seleccioneu el monitor / escriptori per configurar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>Unsaved Changes</source>
         <translation>Canvis sense desar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>This page currently has unsaved changes, do you wish to save them now?</source>
         <translation>Aquesta pàgina té canvis sense desar. Els voleu desar ara?</translation>
     </message>
@@ -1781,62 +915,62 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="39"/>
         <source>Add New Startup Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix un servei nou a l&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="75"/>
         <source>Application</source>
-        <translation type="unfinished">Aplicació</translation>
+        <translation>Aplicació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="85"/>
         <source>Binary</source>
-        <translation type="unfinished">Binari</translation>
+        <translation>Binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="95"/>
         <source>File</source>
-        <translation type="unfinished">Fitxer</translation>
+        <translation>Fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="63"/>
         <source>Startup Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveis de l&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Select Binary</source>
-        <translation type="unfinished">Seleccioneu el binari</translation>
+        <translation>Seleccioneu el binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished">Binaris d&apos;aplicacions (*)</translation>
+        <translation>Binaris d&apos;aplicacions (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Binari no vàlid</translation>
+        <translation>Binari no vàlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished">El fitxer seleccionat no és executable!</translation>
+        <translation>El fitxer seleccionat no és executable!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="144"/>
         <source>Select File</source>
-        <translation type="unfinished">Seleccioneu un fitxer</translation>
+        <translation>Seleccioneu un fitxer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="144"/>
         <source>All Files (*)</source>
-        <translation type="unfinished">Tots els fitxers (*)</translation>
+        <translation>Tots els fitxers (*)</translation>
     </message>
 </context>
 <context>
@@ -1844,83 +978,83 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="39"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="62"/>
         <source>Specific File Types</source>
-        <translation type="unfinished">Tipus de fitxers específics</translation>
+        <translation>Tipus de fitxers específics</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="99"/>
         <source>Type/Group</source>
-        <translation type="unfinished">Tipus / Grup</translation>
+        <translation>Tipus / Grup</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="104"/>
         <source>Default Application</source>
-        <translation type="unfinished">Aplicació per defecte</translation>
+        <translation>Aplicació per defecte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="109"/>
         <source>Description</source>
-        <translation type="unfinished">Descripció</translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="119"/>
         <source>Clear</source>
-        <translation type="unfinished">Neteja</translation>
+        <translation>Neteja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="142"/>
         <source>Set App</source>
-        <translation type="unfinished">Estableix l&apos;aplicació</translation>
+        <translation>Estableix l&apos;aplicació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="152"/>
         <source>Set Binary</source>
-        <translation type="unfinished">Estableix el binari</translation>
+        <translation>Estableix el binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="168"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres bàsics</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="187"/>
         <source>Web Browser:</source>
-        <translation type="unfinished">Navegador web:</translation>
+        <translation>Navegador web:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="210"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished">Client de correu:</translation>
+        <translation>Client de correu:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="237"/>
         <source>File Manager:</source>
-        <translation type="unfinished">Gestor de fitxers:</translation>
+        <translation>Gestor de fitxers:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="250"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished">Terminal virtual:</translation>
+        <translation>Terminal virtual:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="257"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="267"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="43"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions per defecte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="62"/>
@@ -1932,27 +1066,27 @@ Voleu sobreescriure&apos;l?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="307"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="339"/>
         <source>Click to Set</source>
-        <translation type="unfinished">Cliqueu per establir-ho</translation>
+        <translation>Cliqueu-hi per establir-ho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="162"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="404"/>
         <source>Select Binary</source>
-        <translation type="unfinished">Seleccioneu el binari</translation>
+        <translation>Seleccioneu el binari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Binari no vàlid</translation>
+        <translation>Binari no vàlid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished">El binari seleccionat no és executable!</translation>
+        <translation>El binari seleccionat no és executable!</translation>
     </message>
 </context>
 <context>
@@ -1960,77 +1094,77 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="14"/>
         <source>page_fluxbox_keys</source>
-        <translation type="unfinished"></translation>
+        <translation>page_fluxbox_keys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="60"/>
         <source>Action</source>
-        <translation type="unfinished">Acció</translation>
+        <translation>Acció</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="65"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished">Drecera del teclat</translation>
+        <translation>Drecera del teclat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="73"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished">Modifica la drecera</translation>
+        <translation>Modifica la drecera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="94"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished">Elimina la drecera</translation>
+        <translation>Neteja la drecera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="104"/>
         <source>Apply Change</source>
-        <translation type="unfinished">Aplica el canvi</translation>
+        <translation>Aplica el canvi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="114"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished">Canvia la vinculació de les tecles</translation>
+        <translation>Canvia la vinculació de les tecles:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="137"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished">Nota: les associacions de tecles actuals s&apos;han de netejar i desar abans que es puguin reutilitzar.</translation>
+        <translation>Nota: les associacions de tecles actuals s&apos;han de netejar i desar abans que es puguin reutilitzar.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="59"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished">Dreceres del teclat</translation>
+        <translation>Dreceres del teclat</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="65"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished">Volum de l&apos;àudio amunt</translation>
+        <translation>Volum de l&apos;àudio amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="66"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished">Volum de l&apos;àudio avall</translation>
+        <translation>Volum de l&apos;àudio avall</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="67"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished">Brillantor de la pantalla amunt</translation>
+        <translation>Brillantor de la pantalla amunt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="68"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished">Brillantor de la pantalla avall</translation>
+        <translation>Brillantor de la pantalla avall</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="69"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished">Fes una captura de pantalla</translation>
+        <translation>Fes una captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="70"/>
         <source>Lock Screen</source>
-        <translation type="unfinished">Bloqueja la pantalla</translation>
+        <translation>Bloqueja la pantalla</translation>
     </message>
 </context>
 <context>
@@ -2038,78 +1172,78 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished">Nombre d&apos;espais de treball</translation>
+        <translation>Nombre d&apos;espais de treball</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="51"/>
         <source>New Window Placement</source>
-        <translation type="unfinished">Nou emplaçament de la finestra</translation>
+        <translation>Nou emplaçament de la finestra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="61"/>
         <source>Focus Policy</source>
-        <translation type="unfinished">Política del focus</translation>
+        <translation>Política del focus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="71"/>
         <source>Window Theme</source>
-        <translation type="unfinished">Tema de les finestres</translation>
+        <translation>Tema de les finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="89"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished">Previsualització del tema de les finestres</translation>
+        <translation>Previsualització del tema de les finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="143"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="167"/>
         <source>No Preview Available</source>
-        <translation type="unfinished">No hi ha cap previsualització disponible</translation>
+        <translation>No hi ha cap previsualització disponible</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="62"/>
         <source>Window Manager Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres del gestor de finestres</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="65"/>
         <source>Click To Focus</source>
-        <translation type="unfinished">Clic per al focus</translation>
+        <translation>Clicar per al focus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="66"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished">Focus del ratolí actiu</translation>
+        <translation>Focus del ratolí actiu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="67"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished">Focus del ratolí estricte</translation>
+        <translation>Focus del ratolí estricte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="70"/>
         <source>Align in a Row</source>
-        <translation type="unfinished">Alinea en una fila</translation>
+        <translation>Alinea en una fila</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="71"/>
         <source>Align in a Column</source>
-        <translation type="unfinished">Alinea en una columna</translation>
+        <translation>Alinea en una columna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="72"/>
         <source>Cascade</source>
-        <translation type="unfinished">Cascada</translation>
+        <translation>Cascada</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="73"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished">Sota el ratolí</translation>
+        <translation>Sota el ratolí</translation>
     </message>
 </context>
 <context>
@@ -2117,22 +1251,22 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished">Utilitats encastades</translation>
+        <translation>Utilitats encastades</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished">Mostra els continguts de la carpeta de l&apos;escriptori</translation>
+        <translation>Mostra els continguts de la carpeta de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="53"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
 </context>
 <context>
@@ -2140,17 +1274,17 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
         <source>Quick-Access Menu</source>
-        <translation type="unfinished">Menú d&apos;accés ràpid</translation>
+        <translation>Menú d&apos;accés ràpid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
 </context>
 <context>
@@ -2158,7 +1292,12 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
     </message>
 </context>
 <context>
@@ -2171,30 +1310,30 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="32"/>
         <source>Search for....</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="32"/>
         <source>Interface Configuration</source>
         <translation>Configuració de la interfície</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="35"/>
         <source>Appearance</source>
         <translation>Aparença</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
         <source>Desktop Session Options</source>
         <translation>Opcions de sessió d&apos;escriptori</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="40"/>
-        <source>Application Settings</source>
-        <translation>Paràmetres de les aplicacions</translation>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
+        <source>User Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="83"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
         <source>Desktop Settings</source>
         <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
@@ -2204,47 +1343,57 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished">Paràmetres de llengua del sistema (cal reiniciar)</translation>
+        <translation>Paràmetres de la llengua del sistema (cal reiniciar)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="39"/>
         <source>Language</source>
-        <translation type="unfinished">Llengua</translation>
+        <translation>Llengua</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
         <source>Messages</source>
-        <translation type="unfinished">Missatges</translation>
+        <translation>Missatges</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
         <source>Time</source>
-        <translation type="unfinished">Hora</translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
         <source>Numeric</source>
-        <translation type="unfinished">Numèric</translation>
+        <translation>Numèric</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
         <source>Monetary</source>
-        <translation type="unfinished">Moneda</translation>
+        <translation>Moneda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
         <source>Collate</source>
-        <translation type="unfinished">Compara</translation>
+        <translation>Acara</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation type="unfinished">CTipus</translation>
+        <translation>CTipus</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
+        <source>System Default</source>
+        <translation type="unfinished">Valor per defecte del sistema</translation>
     </message>
 </context>
 <context>
@@ -2252,69 +1401,229 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished">Habilita el bloqueig numèric a l&apos;inici</translation>
+        <translation>Habilita el bloqueig numèric a l&apos;inici</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="41"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished">Reprodueix melodies en iniciar</translation>
+        <translation>Reprodueix melodies en iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="48"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished">Reprodueix una melodia en sortir</translation>
+        <translation>Reprodueix melodies en sortir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="57"/>
         <source>Change User Icon</source>
-        <translation type="unfinished">Canvia la icona de l&apos;usuari</translation>
+        <translation>Canvia la icona de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="95"/>
         <source>Time Format:</source>
-        <translation type="unfinished">Format de l&apos;hora:</translation>
+        <translation>Format de l&apos;hora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="107"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="151"/>
         <source>View format codes</source>
-        <translation type="unfinished">Mostra els codis dels formats</translation>
+        <translation>Mostra els codis dels formats</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="122"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="166"/>
         <source>Sample:</source>
-        <translation type="unfinished">Exemple:</translation>
+        <translation>Exemple:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="139"/>
         <source>Date Format:</source>
-        <translation type="unfinished">Format de la data:</translation>
+        <translation>Format de la data:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="186"/>
         <source>Display Format</source>
-        <translation type="unfinished">Format de visualització</translation>
+        <translation>Format de visualització</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="217"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished">Restableix els paràmetres de l&apos;escriptori</translation>
+        <translation>Restableix els paràmetres de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="236"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished">Torna als valors per defecte del sistema</translation>
+        <translation>Torna als valors per defecte del sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="243"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished">Torna als valors per defecte del Lumina</translation>
+        <translation>Torna als valors per defecte del Lumina</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
+        <source>Time (Date as tooltip)</source>
+        <translation type="unfinished">Hora (data com a ajuda informativa)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
+        <source>Date (Time as tooltip)</source>
+        <translation type="unfinished">Data (hora com a ajuda informativa)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
+        <source>Time first then Date</source>
+        <translation type="unfinished">Primer l&apos;hora, després la data</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
+        <source>Date first then Time</source>
+        <translation type="unfinished">Primer la data, després l&apos;hora</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
+        <source>Select an image</source>
+        <translation type="unfinished">Seleccioneu una imatge</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
+        <source>Images</source>
+        <translation type="unfinished">Imatges</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Reset User Image</source>
+        <translation type="unfinished">Reestableix la imatge de l&apos;usuari</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Would you like to reset the user image to the system default?</source>
+        <translation type="unfinished">Voleu reestablir la imatge de l&apos;usuari la predeterminada del sistema?</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
+        <source>Valid Time Codes:</source>
+        <translation type="unfinished">Codis d&apos;hora vàlids:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
+        <source>%1: Hour without leading zero (1)</source>
+        <translation type="unfinished">%1: Hora sense el zero davant (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
+        <source>%1: Hour with leading zero (01)</source>
+        <translation type="unfinished">%1: Hora amb el zero davant (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
+        <source>%1: Minutes without leading zero (2)</source>
+        <translation type="unfinished">%1: Minuts sense el zero davant (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
+        <source>%1: Minutes with leading zero (02)</source>
+        <translation type="unfinished">%1: Minuts amb el zero davant (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
+        <source>%1: Seconds without leading zero (3)</source>
+        <translation type="unfinished">%1: Segons sense el zero davant (3)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
+        <source>%1: Seconds with leading zero (03)</source>
+        <translation type="unfinished">%1: Segons amb el zero davant (03)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
+        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
+        <translation type="unfinished">%1: Rellotge amb AM/PM (12 hores) (en majúscules o minúscules)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
+        <source>%1: Timezone</source>
+        <translation type="unfinished">%1: Zora horària</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
+        <source>Time Codes</source>
+        <translation type="unfinished">Codis d&apos;hora</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
+        <source>Valid Date Codes:</source>
+        <translation type="unfinished">Codis d&apos;hora vàlids:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
+        <source>%1: Numeric day without a leading zero (1)</source>
+        <translation type="unfinished">%1: Dia numèric sense el zero davant (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
+        <source>%1: Numeric day with leading zero (01)</source>
+        <translation type="unfinished">%1: Dia numèric amb el zero davant (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
+        <source>%1: Day as abbreviation (localized)</source>
+        <translation type="unfinished">%1: Dia com a abreviatura (localitzat)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
+        <source>%1: Day as full name (localized)</source>
+        <translation type="unfinished">%1: Dia amb el nom complet (localitzat)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
+        <source>%1: Numeric month without leading zero (2)</source>
+        <translation type="unfinished">%1: Mes numèric sense el zero davant (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
+        <source>%1: Numeric month with leading zero (02)</source>
+        <translation type="unfinished">%1: Mes numèric amb el zero davant (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
+        <source>%1: Month as abbreviation (localized)</source>
+        <translation type="unfinished">%1: Més com a abreviatura (localitzat)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
+        <source>%1: Month as full name (localized)</source>
+        <translation type="unfinished">%1: Mes amb el nom sencer (localitzat)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
+        <source>%1: Year as 2-digit number (15)</source>
+        <translation type="unfinished">%1: Any com a número binari (15)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
+        <source>%1: Year as 4-digit number (2015)</source>
+        <translation type="unfinished">%1: Any com a número de quatre xifres (2015)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
+        <source>Text may be contained within single-quotes to ignore replacements</source>
+        <translation type="unfinished">El text pot encabir-se entre cometes simples per ignorar substitucions</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
+        <source>Date Codes</source>
+        <translation type="unfinished">Codis de la data</translation>
     </message>
 </context>
 <context>

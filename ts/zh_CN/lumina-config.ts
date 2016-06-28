@@ -115,909 +115,6 @@
     </message>
 </context>
 <context>
-    <name>MainUI</name>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="73"/>
-        <source>Screen Number:</source>
-        <translation>屏幕编号：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="196"/>
-        <source>Single Background</source>
-        <translation>单一背景</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="206"/>
-        <source>Rotate Background</source>
-        <translation>轮换背景</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="213"/>
-        <source> Minutes</source>
-        <translation>分钟</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="216"/>
-        <source>Every </source>
-        <translation>每隔</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1724"/>
-        <source>Appearance</source>
-        <translation>外观</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1109"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1119"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="723"/>
-        <source>Action</source>
-        <translation>动作</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="728"/>
-        <source>Keyboard Shortcut</source>
-        <translation>键盘快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="757"/>
-        <source>Clear Shortcut</source>
-        <translation>清除快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="800"/>
-        <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation>提示: 目前的按键绑定需要被清除并保存后才能被重用。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1039"/>
-        <source>Web Browser:</source>
-        <translation>网页浏览器</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1062"/>
-        <source>E-Mail Client:</source>
-        <translation>邮件客户端</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1089"/>
-        <source>File Manager:</source>
-        <translation>文件管理器</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1102"/>
-        <source>Virtual Terminal:</source>
-        <translation>虚拟终端</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="914"/>
-        <source>Specific File Types</source>
-        <translatorcomment>Specific文件类型</translatorcomment>
-        <translation>根据文件类型</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="956"/>
-        <source>Default Application</source>
-        <translation>默认应用程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="961"/>
-        <source>Description</source>
-        <translation>描述</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="971"/>
-        <source>Clear</source>
-        <translation>清除</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="994"/>
-        <source>Set App</source>
-        <translation>设置 App</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1004"/>
-        <source>Set Binary</source>
-        <translation>设置Binary</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="289"/>
-        <source>Theme</source>
-        <translation>主题</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="17"/>
-        <source>Lumina Settings</source>
-        <translation>Lumina 设置</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
-        <source>Wallpaper</source>
-        <translation>壁纸</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="239"/>
-        <source>Layout:</source>
-        <translation>布局:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="295"/>
-        <source>Font:</source>
-        <translation>字体：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="309"/>
-        <source>Font Size:</source>
-        <translation>字体大小：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="316"/>
-        <source> point</source>
-        <translation>点</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="323"/>
-        <source>Theme Template:</source>
-        <translation>主题模板：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="339"/>
-        <source>Create/Edit a theme template (Advanced)</source>
-        <translation>创建/编辑主题模板（高级）</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="345"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="379"/>
-        <source>Edit</source>
-        <translation>编辑</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="357"/>
-        <source>Color Scheme:</source>
-        <translation>配色方案:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="373"/>
-        <source>Create/Edit a color scheme</source>
-        <translation>创建/编辑配色方案</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="391"/>
-        <source>Icon Pack:</source>
-        <translation>图标包：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="401"/>
-        <source>Mouse Cursors:</source>
-        <translation>鼠标指针:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="480"/>
-        <source>Quick-Access Menu</source>
-        <translation>快速访问菜单</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="503"/>
-        <source>Embedded Utilities</source>
-        <translation>桌面小工具</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="602"/>
-        <source>Display Desktop Folder Contents</source>
-        <translation>显示桌面文件夹的内容</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="736"/>
-        <source>Modify Shortcut</source>
-        <translation>修改快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="767"/>
-        <source>Apply Change</source>
-        <translation>保存更改</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="777"/>
-        <source>Change Key Binding:</source>
-        <translation>改变键绑定:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
-        <source>Auto-Started</source>
-        <translation>自动启动</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="851"/>
-        <source>Application</source>
-        <translation>应用程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="861"/>
-        <source>Binary</source>
-        <translation>二进制</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="871"/>
-        <source>File</source>
-        <translation>文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="891"/>
-        <source>File Defaults</source>
-        <translation>默认打开方式</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="951"/>
-        <source>Type/Group</source>
-        <translation>类型/组</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
-        <source>Common Applications</source>
-        <translation>默认应用程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
-        <source>General Options</source>
-        <translation>一般选项</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1178"/>
-        <source>Enable numlock on startup</source>
-        <translation>启动时自动启用numlock</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1185"/>
-        <source>Play chimes on startup</source>
-        <translation>启动时播放音乐</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1192"/>
-        <source>Play chimes on exit</source>
-        <translation>退出时播放音乐</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1201"/>
-        <source>Change User Icon</source>
-        <translation>更改用户图标</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1294"/>
-        <source>Time Format:</source>
-        <translation>时间格式：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1306"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1350"/>
-        <source>View format codes</source>
-        <translation>查看可用的格式代码</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1338"/>
-        <source>Date Format:</source>
-        <translation>日期格式：</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1321"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1365"/>
-        <source>Sample:</source>
-        <translation>示例</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1237"/>
-        <source>Reset Desktop Settings</source>
-        <translation>重置桌面设置</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1256"/>
-        <source>Return to system defaults</source>
-        <translation>返回系统默认值</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1263"/>
-        <source>Return to Lumina defaults</source>
-        <translation>返回到Lumina默认值</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
-        <source> Appearance </source>
-        <translation> 外观 </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
-        <source>   Interface   </source>
-        <translation>   界面   </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
-        <source>     Interface    </source>
-        <translation>     界面     </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
-        <source>    Session    </source>
-        <translation>    会话    </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
-        <source>     Session      </source>
-        <translation>     会话      </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
-        <source>Applications</source>
-        <translation>应用程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
-        <source> Applications </source>
-        <translation> 应用 </translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
-        <source>Application Management</source>
-        <translation>应用程序管理</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1495"/>
-        <source>Window System</source>
-        <translation> 窗口系统</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1385"/>
-        <source>Display Format</source>
-        <translation>显示格式</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
-        <source>Locale</source>
-        <translation>本地化</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
-        <source>Language</source>
-        <translation>语言</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1427"/>
-        <source>Messages</source>
-        <translation>消息</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1437"/>
-        <source>Time</source>
-        <translation>时间</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1447"/>
-        <source>Numeric</source>
-        <translation>数字</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1457"/>
-        <source>Monetary</source>
-        <translation>货币</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
-        <source>Collate</source>
-        <translation>顺序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1477"/>
-        <source>CType</source>
-        <translation>CType</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
-        <source>System localization settings (restart required)</source>
-        <translation>系统本地化设置 (需要重启)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
-        <source>Number of Workspaces</source>
-        <translation>工作区数量</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1520"/>
-        <source>New Window Placement</source>
-        <translation>新窗口放置</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1530"/>
-        <source>Focus Policy</source>
-        <translation>聚焦策略</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1540"/>
-        <source>Window Theme</source>
-        <translation>窗口主题</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1558"/>
-        <source>Window Theme Preview</source>
-        <translation>预览窗口主题</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1612"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1773"/>
-        <source>No Preview Available</source>
-        <translation>没有可用预览</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1658"/>
-        <source>Save Changes</source>
-        <translation>保存更改</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1661"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
-        <source>toolBar</source>
-        <translation>工具栏</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
-        <source>Interface Configuration</source>
-        <translation>改变界面配置</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="468"/>
-        <source>Desktop</source>
-        <translation>桌面</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1730"/>
-        <source>Desktop Appearance</source>
-        <translation>桌面外观</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="610"/>
-        <source>Panels</source>
-        <translation>面板</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1758"/>
-        <source>Session Options</source>
-        <translation>会话选项</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
-        <source>Shortcuts</source>
-        <translation>快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
-        <source>   Shortcuts   </source>
-        <translation>快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
-        <source>Keyboard Shortcuts</source>
-        <translation>键盘快捷键</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="231"/>
-        <source>Click To Focus</source>
-        <translation>点击聚焦</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
-        <source>Active Mouse Focus</source>
-        <translation>活动鼠标焦点</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
-        <source>Strict Mouse Focus</source>
-        <translation>严格鼠标焦点</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="235"/>
-        <source>Align in a Row</source>
-        <translation>排成一排</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
-        <source>Align in a Column</source>
-        <translation>对其到栏</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="237"/>
-        <source>Cascade</source>
-        <translation>层叠</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="238"/>
-        <source>Underneath Mouse</source>
-        <translation>鼠标下方</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>Save Changes?</source>
-        <translation>保存更改吗？</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation>您在本页有未保存的改动。请问您是否要先保存？</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="284"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="476"/>
-        <source>System Default</source>
-        <translation>系统默认</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="487"/>
-        <source>Screen Resolution:</source>
-        <translation>屏幕分辨率</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>No Background</source>
-        <translation>无背景</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>(use system default)</source>
-        <translation>使用系统默认值</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="680"/>
-        <source>File does not exist</source>
-        <translation>文件不存在。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="719"/>
-        <source>Find Background Image(s)</source>
-        <translation>查找背景图像(s)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="999"/>
-        <source>Audio Volume Up</source>
-        <translation>增加音量</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1000"/>
-        <source>Audio Volume Down</source>
-        <translation>减小音量</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1001"/>
-        <source>Screen Brightness Up</source>
-        <translation>增加屏幕亮度</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1002"/>
-        <source>Screen Brightness Down</source>
-        <translation>减少屏幕亮度</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1003"/>
-        <source>Take Screenshot</source>
-        <translation>截图</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1121"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1153"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1186"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1218"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1245"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1267"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1289"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1311"/>
-        <source>Click to Set</source>
-        <translation>单击以设定</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1345"/>
-        <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="256"/>
-        <source>Time (Date as tooltip)</source>
-        <translation>时间 (日期作为工具提示)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="224"/>
-        <source>File(s)</source>
-        <translation>文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="225"/>
-        <source>Directory (Single)</source>
-        <translation>目录 (单个)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
-        <source>Directory (Recursive)</source>
-        <translation>目录 (包括子目录)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
-        <source>Solid Color</source>
-        <translation>单一颜色</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="257"/>
-        <source>Date (Time as tooltip)</source>
-        <translation>日期 (时间作为工具提示)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="258"/>
-        <source>Time first then Date</source>
-        <translation>时间显示于日期之上</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
-        <source>Date first then Time</source>
-        <translation>日期显示于时间之上</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="269"/>
-        <source>Automatic</source>
-        <translation>自动</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
-        <source>Fullscreen</source>
-        <translation>全屏</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
-        <source>Fit screen</source>
-        <translation>适合屏幕</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
-        <source>Tile</source>
-        <translation>平铺</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
-        <source>Center</source>
-        <translation>居中</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
-        <source>Top Left</source>
-        <translation>左上</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
-        <source>Top Right</source>
-        <translation>右上</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
-        <source>Bottom Left</source>
-        <translation>左下</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="277"/>
-        <source>Bottom Right</source>
-        <translation>右下</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="315"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="316"/>
-        <source>Select Color</source>
-        <translation>选择颜色</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="477"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="739"/>
-        <source>Solid Color: %1</source>
-        <translation>纯色:%1</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="752"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="778"/>
-        <source>Find Background Image Directory</source>
-        <translation>选择背景图像目录</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1004"/>
-        <source>Lock Screen</source>
-        <translation>锁屏</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1432"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Select Binary</source>
-        <translation>选择二进制程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>Invalid Binary</source>
-        <translation>无效的二进制程序</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <source>The selected binary is not executable!</source>
-        <translation>选中的二进制程序不可执行。</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1559"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1573"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1807"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1833"/>
-        <source>Local</source>
-        <translation>本地</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1566"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1580"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1814"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1840"/>
-        <source>System</source>
-        <translation>系统</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Application Binaries (*)</source>
-        <translation>应用程序二进制文件 (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>The selected file is not executable!</source>
-        <translation>选择的文件不可执行!</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>Select File</source>
-        <translation>选择文件</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>All Files (*)</source>
-        <translation>所有文件 (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1852"/>
-        <source>Select an image</source>
-        <translation>选择图片</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1853"/>
-        <source>Images</source>
-        <translation>图片</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Reset User Image</source>
-        <translation>重置用户图标</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Would you like to reset the user image to the system default?</source>
-        <translation>你希望将用户图标重置为系统默认吗？</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
-        <source>Valid Time Codes:</source>
-        <translation>可用的时间代码:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1897"/>
-        <source>%1: Hour without leading zero (1)</source>
-        <translation>%1: 不带前导0的小时 (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1898"/>
-        <source>%1: Hour with leading zero (01)</source>
-        <translation>%1: 带前导0的小时 (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1899"/>
-        <source>%1: Minutes without leading zero (2)</source>
-        <translation>%1: 不带前导0的分钟 (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1900"/>
-        <source>%1: Minutes with leading zero (02)</source>
-        <translation>%1: 带前导0的分钟 (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1901"/>
-        <source>%1: Seconds without leading zero (3)</source>
-        <translation>%1: 不带前导0的秒数 (3)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1902"/>
-        <source>%1: Seconds with leading zero (03)</source>
-        <translation>%1: 带有前导0的秒数 (03)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1903"/>
-        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation>%1: 上午/下午 (12小时) 时钟</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1904"/>
-        <source>%1: Timezone</source>
-        <translation>%1: 时区</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1905"/>
-        <source>Time Codes</source>
-        <translation>时间代码</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
-        <source>Valid Date Codes:</source>
-        <translation>可用的时间代码:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
-        <source>%1: Numeric day without a leading zero (1)</source>
-        <translation>%1: 不包含前导0的日 (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
-        <source>%1: Numeric day with leading zero (01)</source>
-        <translation>%1: 包含前导0的日 (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
-        <source>%1: Day as abbreviation (localized)</source>
-        <translation>%1: 缩略的星期几 (本地化的)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
-        <source>%1: Day as full name (localized)</source>
-        <translation>%1: 完整的星期几 (本地化的)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1924"/>
-        <source>%1: Numeric month without leading zero (2)</source>
-        <translation>%1: 不带前导0的月份 (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1925"/>
-        <source>%1: Numeric month with leading zero (02)</source>
-        <translation>%1: 带前导0的月份 (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1926"/>
-        <source>%1: Month as abbreviation (localized)</source>
-        <translation>%1: 缩略的月份 (本地化的)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1927"/>
-        <source>%1: Month as full name (localized)</source>
-        <translation>%1: 完整的月份 (本地化的)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1928"/>
-        <source>%1: Year as 2-digit number (15)</source>
-        <translation>%1: 两位数年份 (15)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1929"/>
-        <source>%1: Year as 4-digit number (2015)</source>
-        <translation>%1: 四位数年份 (2015)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1930"/>
-        <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation>可将文字包在单引号中来避免转义</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1931"/>
-        <source>Date Codes</source>
-        <translation>日期代码</translation>
-    </message>
-</context>
-<context>
     <name>PanelWidget</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="32"/>
@@ -1085,45 +182,51 @@
         <translation>插件</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="19"/>
         <source>Top/Left</source>
         <translation>靠上/靠左</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="20"/>
         <source>Center</source>
         <translation>居中</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="26"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="21"/>
         <source>Bottom/Right</source>
         <translation>靠下/靠右</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="27"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="22"/>
         <source>Top</source>
         <translation>顶部</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="28"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="23"/>
         <source>Bottom</source>
         <translation>底部</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="29"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Left</source>
         <translation>左侧</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="30"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Right</source>
         <translation>右侧</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="49"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="109"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="44"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="104"/>
         <source>Panel %1</source>
         <translation>面板 %1</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
+        <source>Select Color</source>
+        <translation type="unfinished">选择颜色</translation>
     </message>
 </context>
 <context>
@@ -1674,6 +777,36 @@
         <source>Change what options are shown on the desktop context menu</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Localization Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Locale Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Change the default locale settings for this user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>General Options</source>
+        <translation type="unfinished">一般选项</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>User Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>Change basic user settings such as time/date formats</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeDialog</name>
@@ -1766,12 +899,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>Unsaved Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>This page currently has unsaved changes, do you wish to save them now?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2160,6 +1293,11 @@
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>page_main</name>
@@ -2174,27 +1312,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="32"/>
         <source>Interface Configuration</source>
         <translation type="unfinished">改变界面配置</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="35"/>
         <source>Appearance</source>
         <translation type="unfinished">外观</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
         <source>Desktop Session Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="40"/>
-        <source>Application Settings</source>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
+        <source>User Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="83"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2245,6 +1383,16 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
         <translation type="unfinished">CType</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
+        <source>System Default</source>
+        <translation type="unfinished">系统默认</translation>
     </message>
 </context>
 <context>
@@ -2315,6 +1463,166 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="243"/>
         <source>Return to Lumina defaults</source>
         <translation type="unfinished">返回到Lumina默认值</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
+        <source>Time (Date as tooltip)</source>
+        <translation type="unfinished">时间 (日期作为工具提示)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
+        <source>Date (Time as tooltip)</source>
+        <translation type="unfinished">日期 (时间作为工具提示)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
+        <source>Time first then Date</source>
+        <translation type="unfinished">时间显示于日期之上</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
+        <source>Date first then Time</source>
+        <translation type="unfinished">日期显示于时间之上</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
+        <source>Select an image</source>
+        <translation type="unfinished">选择图片</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
+        <source>Images</source>
+        <translation type="unfinished">图片</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Reset User Image</source>
+        <translation type="unfinished">重置用户图标</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Would you like to reset the user image to the system default?</source>
+        <translation type="unfinished">你希望将用户图标重置为系统默认吗？</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
+        <source>Valid Time Codes:</source>
+        <translation type="unfinished">可用的时间代码:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
+        <source>%1: Hour without leading zero (1)</source>
+        <translation type="unfinished">%1: 不带前导0的小时 (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
+        <source>%1: Hour with leading zero (01)</source>
+        <translation type="unfinished">%1: 带前导0的小时 (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
+        <source>%1: Minutes without leading zero (2)</source>
+        <translation type="unfinished">%1: 不带前导0的分钟 (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
+        <source>%1: Minutes with leading zero (02)</source>
+        <translation type="unfinished">%1: 带前导0的分钟 (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
+        <source>%1: Seconds without leading zero (3)</source>
+        <translation type="unfinished">%1: 不带前导0的秒数 (3)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
+        <source>%1: Seconds with leading zero (03)</source>
+        <translation type="unfinished">%1: 带有前导0的秒数 (03)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
+        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
+        <translation type="unfinished">%1: 上午/下午 (12小时) 时钟</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
+        <source>%1: Timezone</source>
+        <translation type="unfinished">%1: 时区</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
+        <source>Time Codes</source>
+        <translation type="unfinished">时间代码</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
+        <source>Valid Date Codes:</source>
+        <translation type="unfinished">可用的时间代码:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
+        <source>%1: Numeric day without a leading zero (1)</source>
+        <translation type="unfinished">%1: 不包含前导0的日 (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
+        <source>%1: Numeric day with leading zero (01)</source>
+        <translation type="unfinished">%1: 包含前导0的日 (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
+        <source>%1: Day as abbreviation (localized)</source>
+        <translation type="unfinished">%1: 缩略的星期几 (本地化的)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
+        <source>%1: Day as full name (localized)</source>
+        <translation type="unfinished">%1: 完整的星期几 (本地化的)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
+        <source>%1: Numeric month without leading zero (2)</source>
+        <translation type="unfinished">%1: 不带前导0的月份 (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
+        <source>%1: Numeric month with leading zero (02)</source>
+        <translation type="unfinished">%1: 带前导0的月份 (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
+        <source>%1: Month as abbreviation (localized)</source>
+        <translation type="unfinished">%1: 缩略的月份 (本地化的)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
+        <source>%1: Month as full name (localized)</source>
+        <translation type="unfinished">%1: 完整的月份 (本地化的)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
+        <source>%1: Year as 2-digit number (15)</source>
+        <translation type="unfinished">%1: 两位数年份 (15)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
+        <source>%1: Year as 4-digit number (2015)</source>
+        <translation type="unfinished">%1: 四位数年份 (2015)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
+        <source>Text may be contained within single-quotes to ignore replacements</source>
+        <translation type="unfinished">可将文字包在单引号中来避免转义</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
+        <source>Date Codes</source>
+        <translation type="unfinished">日期代码</translation>
     </message>
 </context>
 <context>

@@ -114,908 +114,6 @@
     </message>
 </context>
 <context>
-    <name>MainUI</name>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="73"/>
-        <source>Screen Number:</source>
-        <translation>Екран номер:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="196"/>
-        <source>Single Background</source>
-        <translation>Единичен фон</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="206"/>
-        <source>Rotate Background</source>
-        <translation>Редуване на фона</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="213"/>
-        <source> Minutes</source>
-        <translation>Минути</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="216"/>
-        <source>Every </source>
-        <translation>всеки</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1724"/>
-        <source>Appearance</source>
-        <translation>Изглед</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1109"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1119"/>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="723"/>
-        <source>Action</source>
-        <translation>Действие</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="728"/>
-        <source>Keyboard Shortcut</source>
-        <translation>Клавишна комбинация</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="757"/>
-        <source>Clear Shortcut</source>
-        <translation>Изчистване на клавишната комбинация</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="800"/>
-        <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation>Забележка: Текущите клавишни назначения трябва да бъдат изчистени и запаметени, преди да могат да бъдат преизползвани.</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1039"/>
-        <source>Web Browser:</source>
-        <translation>Уеб браузър:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1062"/>
-        <source>E-Mail Client:</source>
-        <translation>Клиент за е-поща:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1089"/>
-        <source>File Manager:</source>
-        <translation>Файлов мениджър:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1102"/>
-        <source>Virtual Terminal:</source>
-        <translation>Виртуален терминал:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="914"/>
-        <source>Specific File Types</source>
-        <translation>Специфични файлови типове</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="956"/>
-        <source>Default Application</source>
-        <translation>Стандартна програма</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="961"/>
-        <source>Description</source>
-        <translation>Описание</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="971"/>
-        <source>Clear</source>
-        <translation>Изчистване</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="994"/>
-        <source>Set App</source>
-        <translation>Определяне на програма</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1004"/>
-        <source>Set Binary</source>
-        <translation>Определяне на изпълним файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="289"/>
-        <source>Theme</source>
-        <translation>Тема</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="17"/>
-        <source>Lumina Settings</source>
-        <translation>Настройки на Lumina</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="132"/>
-        <source>Wallpaper</source>
-        <translation>Тапет</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="239"/>
-        <source>Layout:</source>
-        <translation>Подреждане:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="295"/>
-        <source>Font:</source>
-        <translation>Шрифт:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="309"/>
-        <source>Font Size:</source>
-        <translation>Размер на шрифта:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="316"/>
-        <source> point</source>
-        <translation>точка</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="323"/>
-        <source>Theme Template:</source>
-        <translation>Шаблон на темата:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="339"/>
-        <source>Create/Edit a theme template (Advanced)</source>
-        <translation>Създаване/Редактиране на шаблон за тема (напреднали)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="345"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="379"/>
-        <source>Edit</source>
-        <translation>Редактиране</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="357"/>
-        <source>Color Scheme:</source>
-        <translation>Цветова схема:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="373"/>
-        <source>Create/Edit a color scheme</source>
-        <translation>Създаване/Редактиране на цветова схема</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="391"/>
-        <source>Icon Pack:</source>
-        <translation>Набор от икони:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="401"/>
-        <source>Mouse Cursors:</source>
-        <translation>Курсори на мишката:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="480"/>
-        <source>Quick-Access Menu</source>
-        <translation>Меню за бърз достъп</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="503"/>
-        <source>Embedded Utilities</source>
-        <translation>Вградени инструменти</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="602"/>
-        <source>Display Desktop Folder Contents</source>
-        <translation>Показване на съдържанието на работния плот</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="736"/>
-        <source>Modify Shortcut</source>
-        <translation>Редактиране на прекия път</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="767"/>
-        <source>Apply Change</source>
-        <translation>Прилагане на промените</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="777"/>
-        <source>Change Key Binding:</source>
-        <translation>Промяна на клавишната комбинация:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="830"/>
-        <source>Auto-Started</source>
-        <translation>Автоматично стартирани</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="851"/>
-        <source>Application</source>
-        <translation>Програма</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="861"/>
-        <source>Binary</source>
-        <translation>Изпълним файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="871"/>
-        <source>File</source>
-        <translation>Файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="891"/>
-        <source>File Defaults</source>
-        <translation>Стандартни настройки за файла</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="951"/>
-        <source>Type/Group</source>
-        <translation>Вид/Група</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1020"/>
-        <source>Common Applications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1170"/>
-        <source>General Options</source>
-        <translation>Основни настройки</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1178"/>
-        <source>Enable numlock on startup</source>
-        <translation>Включване на цифровия блок при стартиране</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1185"/>
-        <source>Play chimes on startup</source>
-        <translation>Просвирване на камбанките при стартиране</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1192"/>
-        <source>Play chimes on exit</source>
-        <translation>Просвирване на камбанките при изход</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1201"/>
-        <source>Change User Icon</source>
-        <translation>Промяна на иконата на потребителя</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1294"/>
-        <source>Time Format:</source>
-        <translation>Формат на часа:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1306"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1350"/>
-        <source>View format codes</source>
-        <translation>Преглед на кодовете на формата</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1338"/>
-        <source>Date Format:</source>
-        <translation>Формат на датата:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1321"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1365"/>
-        <source>Sample:</source>
-        <translation>Мостра:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1237"/>
-        <source>Reset Desktop Settings</source>
-        <translation>Нулиране на настройките на работния плот</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1256"/>
-        <source>Return to system defaults</source>
-        <translation>Връщане към стандартните стойности за системата</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1263"/>
-        <source>Return to Lumina defaults</source>
-        <translation>Връщане към стандартните настройки на Lumina</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1727"/>
-        <source> Appearance </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1738"/>
-        <source>   Interface   </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1741"/>
-        <source>     Interface    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1752"/>
-        <source>    Session    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1755"/>
-        <source>     Session      </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1766"/>
-        <source>Applications</source>
-        <translation>Програми</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1769"/>
-        <source> Applications </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1772"/>
-        <source>Application Management</source>
-        <translation>Управление на програмите</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1495"/>
-        <source>Window System</source>
-        <translation>Прозоречна система</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1385"/>
-        <source>Display Format</source>
-        <translation>Формат на екрана</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1411"/>
-        <source>Locale</source>
-        <translation>Локал</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1417"/>
-        <source>Language</source>
-        <translation>Език</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1427"/>
-        <source>Messages</source>
-        <translation>Съобщения</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1437"/>
-        <source>Time</source>
-        <translation>Час</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1447"/>
-        <source>Numeric</source>
-        <translation>Числово</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1457"/>
-        <source>Monetary</source>
-        <translation>Валутен</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1467"/>
-        <source>Collate</source>
-        <translation>Сверяване</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1477"/>
-        <source>CType</source>
-        <translation>CType</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1487"/>
-        <source>System localization settings (restart required)</source>
-        <translation>Настройки за локализация на системата (изисква се рестартиране)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1503"/>
-        <source>Number of Workspaces</source>
-        <translation>Брой работни плотове</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1520"/>
-        <source>New Window Placement</source>
-        <translation>Местоположение на новите прозорци</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1530"/>
-        <source>Focus Policy</source>
-        <translation>Политика за фокуса</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1540"/>
-        <source>Window Theme</source>
-        <translation>Тема на прозорците</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1558"/>
-        <source>Window Theme Preview</source>
-        <translation>Преглед на темата за прозорците</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1612"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1773"/>
-        <source>No Preview Available</source>
-        <translation>Няма наличен преглед</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1658"/>
-        <source>Save Changes</source>
-        <translation>Запазване на промените</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1661"/>
-        <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1696"/>
-        <source>toolBar</source>
-        <translation>Лента с инструменти</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1744"/>
-        <source>Interface Configuration</source>
-        <translation>Настройка на интерфейса</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="468"/>
-        <source>Desktop</source>
-        <translation>Работен плот</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1730"/>
-        <source>Desktop Appearance</source>
-        <translation>Изглед на работния плот</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="610"/>
-        <source>Panels</source>
-        <translation>Панели</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1758"/>
-        <source>Session Options</source>
-        <translation>Настройки на сесията</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1780"/>
-        <source>Shortcuts</source>
-        <translation>Клавишни комбинации</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1783"/>
-        <source>   Shortcuts   </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.ui" line="1786"/>
-        <source>Keyboard Shortcuts</source>
-        <translation>Клавишни комбинации</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="231"/>
-        <source>Click To Focus</source>
-        <translation>Кликване за фокусиране</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="232"/>
-        <source>Active Mouse Focus</source>
-        <translation>Активен фокус на мишката</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="233"/>
-        <source>Strict Mouse Focus</source>
-        <translation>Стриктен фокус на мишката</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="235"/>
-        <source>Align in a Row</source>
-        <translation>Подреждане в редица</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="236"/>
-        <source>Align in a Column</source>
-        <translation>Подреждане в колона</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="237"/>
-        <source>Cascade</source>
-        <translation type="unfinished">Каскадно</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="238"/>
-        <source>Underneath Mouse</source>
-        <translation>Под курсора на мишката</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>Save Changes?</source>
-        <translation>Запазване на промените?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="447"/>
-        <source>You currently have unsaved changes for this screen. Do you want to save them first?</source>
-        <translation>Има незапазени промени в този екран. Искате ли първо да ги запазите?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="284"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="476"/>
-        <source>System Default</source>
-        <translation>Стандартно за системата</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="487"/>
-        <source>Screen Resolution:</source>
-        <translation>Разделителна способност на екрана:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>No Background</source>
-        <translation>Без фон</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="660"/>
-        <source>(use system default)</source>
-        <translation>(използване на стандартното за системата)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="680"/>
-        <source>File does not exist</source>
-        <translation>Файлът не съществува</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="719"/>
-        <source>Find Background Image(s)</source>
-        <translation>Търсене на фонови изображения</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="999"/>
-        <source>Audio Volume Up</source>
-        <translation>Увеличаване силата на звука</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1000"/>
-        <source>Audio Volume Down</source>
-        <translation>Намаляване силата на звука</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1001"/>
-        <source>Screen Brightness Up</source>
-        <translation>Увеличаване на яркостта на екрана</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1002"/>
-        <source>Screen Brightness Down</source>
-        <translation>Намаляване на яркостта на екрана</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1003"/>
-        <source>Take Screenshot</source>
-        <translation>Снимка на екрана</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1121"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1153"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1186"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1218"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1245"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1267"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1289"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1311"/>
-        <source>Click to Set</source>
-        <translation>Кликнете за да зададете</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1345"/>
-        <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="256"/>
-        <source>Time (Date as tooltip)</source>
-        <translation>Час (Дата като подсказка)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="224"/>
-        <source>File(s)</source>
-        <translation>Файлове</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="225"/>
-        <source>Directory (Single)</source>
-        <translation>Директория (единична)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="226"/>
-        <source>Directory (Recursive)</source>
-        <translation>Директория (рекурсивно)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="227"/>
-        <source>Solid Color</source>
-        <translation>Плътен цвят</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="257"/>
-        <source>Date (Time as tooltip)</source>
-        <translation>Дата (Час като подсказка)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="258"/>
-        <source>Time first then Date</source>
-        <translation>Първо часа, после датата</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="259"/>
-        <source>Date first then Time</source>
-        <translation>Първо деня, после часа</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="269"/>
-        <source>Automatic</source>
-        <translation>Автоматично</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="270"/>
-        <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="271"/>
-        <source>Fit screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="272"/>
-        <source>Tile</source>
-        <translation>Плочка</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="273"/>
-        <source>Center</source>
-        <translation>Център</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="274"/>
-        <source>Top Left</source>
-        <translation>Горе ляво</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="275"/>
-        <source>Top Right</source>
-        <translation>Горе дясно</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="276"/>
-        <source>Bottom Left</source>
-        <translation>Долу ляво</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="277"/>
-        <source>Bottom Right</source>
-        <translation>Долу дясно</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="315"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="316"/>
-        <source>Select Color</source>
-        <translation>Избор на цвят</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="477"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="739"/>
-        <source>Solid Color: %1</source>
-        <translation>Плътен цвят: %1</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="752"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="778"/>
-        <source>Find Background Image Directory</source>
-        <translation>Посочване на директорията с фонови изображения</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1004"/>
-        <source>Lock Screen</source>
-        <translation>Заключване на екрана</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1432"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Select Binary</source>
-        <translation>Избор на изпълним файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>Invalid Binary</source>
-        <translation>Невалиден изпълним файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1439"/>
-        <source>The selected binary is not executable!</source>
-        <translation>Избраният бинарен файл не е изпълним!</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1559"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1573"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1807"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1833"/>
-        <source>Local</source>
-        <translation>Локален</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1566"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1580"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1814"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1840"/>
-        <source>System</source>
-        <translation>Система</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1731"/>
-        <source>Application Binaries (*)</source>
-        <translation>Файлове на програми (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1734"/>
-        <source>The selected file is not executable!</source>
-        <translation>Избраният файл не е изпълним!</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>Select File</source>
-        <translation>Избор на файл</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1748"/>
-        <source>All Files (*)</source>
-        <translation>Всички файлове (*)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1852"/>
-        <source>Select an image</source>
-        <translation>Избор на изображение</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1853"/>
-        <source>Images</source>
-        <translation>Изображения</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Reset User Image</source>
-        <translation>Нулиране на изображението на потребителя</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1857"/>
-        <source>Would you like to reset the user image to the system default?</source>
-        <translation>Искате ли да нулирате изображението на потребителя до стандартното за системата?</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1896"/>
-        <source>Valid Time Codes:</source>
-        <translation>Валидни кодове за час:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1897"/>
-        <source>%1: Hour without leading zero (1)</source>
-        <translation>%1: Час без водеща нула (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1898"/>
-        <source>%1: Hour with leading zero (01)</source>
-        <translation>%1: Час с водеща нула (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1899"/>
-        <source>%1: Minutes without leading zero (2)</source>
-        <translation>%1: Минути без водеща нула (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1900"/>
-        <source>%1: Minutes with leading zero (02)</source>
-        <translation>%1: Минути с водеща нула (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1901"/>
-        <source>%1: Seconds without leading zero (3)</source>
-        <translation>%1: Секунди без водеща нула (3)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1902"/>
-        <source>%1: Seconds with leading zero (03)</source>
-        <translation>%1: Секунди с водеща нула (03)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1903"/>
-        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation>%1: СП/ПП (12-часа) часовник (главни или малки букви)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1904"/>
-        <source>%1: Timezone</source>
-        <translation>%1: Часова зона</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1905"/>
-        <source>Time Codes</source>
-        <translation>Часови кодове</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1919"/>
-        <source>Valid Date Codes:</source>
-        <translation>Валидни кодове за дата:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1920"/>
-        <source>%1: Numeric day without a leading zero (1)</source>
-        <translation>%1: Числов ден без водеща нула (1)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1921"/>
-        <source>%1: Numeric day with leading zero (01)</source>
-        <translation>%1: Числов ден с водеща нула (01)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1922"/>
-        <source>%1: Day as abbreviation (localized)</source>
-        <translation>%1: Ден като съкращение (локализирано)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1923"/>
-        <source>%1: Day as full name (localized)</source>
-        <translation>%1: Ден с пълното име (локализирано)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1924"/>
-        <source>%1: Numeric month without leading zero (2)</source>
-        <translation>%1: Числов месец без водеща нула (2)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1925"/>
-        <source>%1: Numeric month with leading zero (02)</source>
-        <translation>%1: Числов месец с водеща нула (02)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1926"/>
-        <source>%1: Month as abbreviation (localized)</source>
-        <translation>%1: Месец като съкращение (локализирано)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1927"/>
-        <source>%1: Month as full name (localized)</source>
-        <translation>%1: Месец с пълното име (локализирано)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1928"/>
-        <source>%1: Year as 2-digit number (15)</source>
-        <translation>%1: Година като двуцифрено число (15)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1929"/>
-        <source>%1: Year as 4-digit number (2015)</source>
-        <translation>%1: Година като четири цифрено число (2015)</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1930"/>
-        <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation>Текстът може да бъде ограден в единични кавички за да се игнорират заместванията</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainUI.cpp" line="1931"/>
-        <source>Date Codes</source>
-        <translation>Кодове за дата</translation>
-    </message>
-</context>
-<context>
     <name>PanelWidget</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="32"/>
@@ -1083,45 +181,51 @@
         <translation>Приставки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="19"/>
         <source>Top/Left</source>
         <translation>Горе ляво</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="20"/>
         <source>Center</source>
         <translation>Център</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="26"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="21"/>
         <source>Bottom/Right</source>
         <translation>Долу дясно</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="27"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="22"/>
         <source>Top</source>
         <translation>Горе</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="28"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="23"/>
         <source>Bottom</source>
         <translation>Долу</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="29"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Left</source>
         <translation>Ляво</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="30"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Right</source>
         <translation>Дясно</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="49"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="109"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="44"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="104"/>
         <source>Panel %1</source>
         <translation>Панел %1</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
+        <source>Select Color</source>
+        <translation type="unfinished">Избор на цвят</translation>
     </message>
 </context>
 <context>
@@ -1672,6 +776,36 @@
         <source>Change what options are shown on the desktop context menu</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Localization Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Locale Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
+        <source>Change the default locale settings for this user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>General Options</source>
+        <translation type="unfinished">Основни настройки</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>User Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
+        <source>Change basic user settings such as time/date formats</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ThemeDialog</name>
@@ -1764,12 +898,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>Unsaved Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="113"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
         <source>This page currently has unsaved changes, do you wish to save them now?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2158,6 +1292,11 @@
         <source>Form</source>
         <translation type="unfinished">Формуляр</translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>page_main</name>
@@ -2172,27 +1311,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="31"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="32"/>
         <source>Interface Configuration</source>
         <translation type="unfinished">Настройка на интерфейса</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="34"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="35"/>
         <source>Appearance</source>
         <translation type="unfinished">Изглед</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="37"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
         <source>Desktop Session Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="40"/>
-        <source>Application Settings</source>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
+        <source>User Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="83"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2243,6 +1382,16 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
         <translation type="unfinished">CType</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
+        <source>System Default</source>
+        <translation type="unfinished">Стандартно за системата</translation>
     </message>
 </context>
 <context>
@@ -2313,6 +1462,166 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="243"/>
         <source>Return to Lumina defaults</source>
         <translation type="unfinished">Връщане към стандартните настройки на Lumina</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
+        <source>Time (Date as tooltip)</source>
+        <translation type="unfinished">Час (Дата като подсказка)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
+        <source>Date (Time as tooltip)</source>
+        <translation type="unfinished">Дата (Час като подсказка)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
+        <source>Time first then Date</source>
+        <translation type="unfinished">Първо часа, после датата</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
+        <source>Date first then Time</source>
+        <translation type="unfinished">Първо деня, после часа</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
+        <source>Desktop Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
+        <source>Select an image</source>
+        <translation type="unfinished">Избор на изображение</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
+        <source>Images</source>
+        <translation type="unfinished">Изображения</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Reset User Image</source>
+        <translation type="unfinished">Нулиране на изображението на потребителя</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
+        <source>Would you like to reset the user image to the system default?</source>
+        <translation type="unfinished">Искате ли да нулирате изображението на потребителя до стандартното за системата?</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
+        <source>Valid Time Codes:</source>
+        <translation type="unfinished">Валидни кодове за час:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
+        <source>%1: Hour without leading zero (1)</source>
+        <translation type="unfinished">%1: Час без водеща нула (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
+        <source>%1: Hour with leading zero (01)</source>
+        <translation type="unfinished">%1: Час с водеща нула (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
+        <source>%1: Minutes without leading zero (2)</source>
+        <translation type="unfinished">%1: Минути без водеща нула (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
+        <source>%1: Minutes with leading zero (02)</source>
+        <translation type="unfinished">%1: Минути с водеща нула (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
+        <source>%1: Seconds without leading zero (3)</source>
+        <translation type="unfinished">%1: Секунди без водеща нула (3)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
+        <source>%1: Seconds with leading zero (03)</source>
+        <translation type="unfinished">%1: Секунди с водеща нула (03)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
+        <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
+        <translation type="unfinished">%1: СП/ПП (12-часа) часовник (главни или малки букви)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
+        <source>%1: Timezone</source>
+        <translation type="unfinished">%1: Часова зона</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
+        <source>Time Codes</source>
+        <translation type="unfinished">Часови кодове</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
+        <source>Valid Date Codes:</source>
+        <translation type="unfinished">Валидни кодове за дата:</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
+        <source>%1: Numeric day without a leading zero (1)</source>
+        <translation type="unfinished">%1: Числов ден без водеща нула (1)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
+        <source>%1: Numeric day with leading zero (01)</source>
+        <translation type="unfinished">%1: Числов ден с водеща нула (01)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
+        <source>%1: Day as abbreviation (localized)</source>
+        <translation type="unfinished">%1: Ден като съкращение (локализирано)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
+        <source>%1: Day as full name (localized)</source>
+        <translation type="unfinished">%1: Ден с пълното име (локализирано)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
+        <source>%1: Numeric month without leading zero (2)</source>
+        <translation type="unfinished">%1: Числов месец без водеща нула (2)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
+        <source>%1: Numeric month with leading zero (02)</source>
+        <translation type="unfinished">%1: Числов месец с водеща нула (02)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
+        <source>%1: Month as abbreviation (localized)</source>
+        <translation type="unfinished">%1: Месец като съкращение (локализирано)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
+        <source>%1: Month as full name (localized)</source>
+        <translation type="unfinished">%1: Месец с пълното име (локализирано)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
+        <source>%1: Year as 2-digit number (15)</source>
+        <translation type="unfinished">%1: Година като двуцифрено число (15)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
+        <source>%1: Year as 4-digit number (2015)</source>
+        <translation type="unfinished">%1: Година като четири цифрено число (2015)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
+        <source>Text may be contained within single-quotes to ignore replacements</source>
+        <translation type="unfinished">Текстът може да бъде ограден в единични кавички за да се игнорират заместванията</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
+        <source>Date Codes</source>
+        <translation type="unfinished">Кодове за дата</translation>
     </message>
 </context>
 <context>
