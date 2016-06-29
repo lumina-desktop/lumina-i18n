@@ -265,6 +265,14 @@
     </message>
 </context>
 <context>
+    <name>JsonMenu</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="57"/>
+        <source>Error parsing script output: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LAppMenuPlugin</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="37"/>
@@ -463,32 +471,32 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="202"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="203"/>
         <source>Window List</source>
         <translation>ウィンドウの一覧</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="267"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="268"/>
         <source>Lumina Desktop</source>
         <translation>Lumina デスクトップ</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="268"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="269"/>
         <source>Workspace %1</source>
         <translation>ワークスペース %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="278"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="279"/>
         <source>Terminal</source>
         <translation>端末</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="279"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="280"/>
         <source>Browse Files</source>
         <translation>ファイルを探索</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="298"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="310"/>
         <source>Leave</source>
         <translation>席を外す</translation>
     </message>
