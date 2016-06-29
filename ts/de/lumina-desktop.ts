@@ -604,6 +604,21 @@
         <source>Close Window</source>
         <translation>Fenster schließen</translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
+        <source>Show All Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
+        <source>Minimize All Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
+        <source>Close All Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LUserButtonPlugin</name>
