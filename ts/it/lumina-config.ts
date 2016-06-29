@@ -19,7 +19,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation>Schema colore:</translation>
+        <translation>Schema colori:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="51"/>
@@ -96,7 +96,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation>Seleziona Plugin</translation>
+        <translation>Seleziona estensione:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="26"/>
@@ -226,7 +226,7 @@ Sovrascriverlo?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished">Seleziona Colore</translation>
+        <translation>Seleziona Colore</translation>
     </message>
 </context>
 <context>
@@ -440,7 +440,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
         <source>RSS Reader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettore RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
@@ -650,17 +650,17 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica sfondo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni sfondo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change background image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambia immagine di sfondo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
@@ -670,7 +670,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni del tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
@@ -685,7 +685,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Startup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni di avvio.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
@@ -710,7 +710,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished">Scorciatoie tastiera</translation>
+        <translation>Scorciatoie della tastiera</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
@@ -1687,7 +1687,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="51"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impostazioni del tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="66"/>
@@ -1741,7 +1741,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="55"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impostazioni sfondo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="64"/>

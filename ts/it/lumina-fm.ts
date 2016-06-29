@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.ui" line="14"/>
         <source>Manage Bookmarks</source>
-        <translation>Gestire Segnalibri</translation>
+        <translation>Gestisci i segnalibri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.ui" line="35"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.cpp" line="58"/>
         <source>Rename Bookmark</source>
-        <translation>Rinomina Preferito</translation>
+        <translation>Rinomina segnalibro</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.cpp" line="58"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.cpp" line="64"/>
         <source>Invalid Name</source>
-        <translation>Nome non Valido</translation>
+        <translation>Nome non valido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/BMMDialog.cpp" line="64"/>
