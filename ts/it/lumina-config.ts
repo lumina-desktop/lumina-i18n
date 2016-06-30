@@ -63,30 +63,30 @@
         <translation>Salva</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>Color Exists</source>
         <translation>Il colore esiste</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
         <translation>Questo schema colore esiste già.
 Sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="117"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="122"/>
         <source>Select Color</source>
         <translation>Seleziona Colore</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color Value</source>
         <translation>Valore Colore</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color:</source>
         <translation>Colore:</translation>
     </message>
@@ -232,418 +232,428 @@ Sovrascriverlo?</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="65"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
         <source>User Button</source>
         <translation>Pulsante Utente</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="67"/>
         <source>This is the main system access button for the user (applications, directories, settings, log out).</source>
         <translation>Questo è il pulsante principale di accesso al sistema per l&apos;utente (applicazioni, directory, impostazioni, logout)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="79"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
         <source>Desktop Bar</source>
         <translation>Barra del Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="81"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
         <translation>Questo fornisce i collegamenti a tutto nella cartella del desktop - consentendo un facile accesso a tutti i tuoi file/applicazioni preferiti.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="86"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
         <source>Spacer</source>
         <translation>Spaziatore</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="88"/>
         <source>Invisible spacer to separate plugins.</source>
         <translation>Spaziatore invisibile per separare i plugin.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="102"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Controllo per spostarsi tra i vari desktop virtuali.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="107"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
         <source>Battery Monitor</source>
         <translation>Indicatore della batteria</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="109"/>
         <source>Keep track of your battery status.</source>
         <translation>Tieni traccia dello stato della tua batteria.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="114"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
         <source>Time/Date</source>
         <translation>Orario(Data</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="116"/>
         <source>View the current time and date.</source>
         <translation>Mostra ora e data corrente.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
         <source>System Dashboard</source>
         <translation>Dashboard di Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="123"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
         <translation>Visualizza o modifica le impostazioni di sistema (volume audio, luminosità dello schermo, durata della batteria, desktop virtuali).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
         <source>Task Manager</source>
         <translation>Gestore attività</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="130"/>
         <source>View and control any running application windows (every application has a button)</source>
         <translation>Visualizza e controlla tutte le finestre delle applicazioni in esecuzione (ogni applicazione ha un pulsante)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
         <source>Task Manager (No Groups)</source>
         <translation>Gestore attività (No Gruppi)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="137"/>
         <source>View and control any running application windows (every window has a button)</source>
         <translation>Visualizza e controlla tutte le finestre delle applicazioni in esecuzione (ogni finestra ha un pulsante)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="142"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
         <source>System Tray</source>
         <translation>Vassoio di sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="144"/>
         <source>Display area for dockable system applications</source>
         <translation>Area di visualizzazione per le applicazioni di sistema agganciabili</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="151"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Nascondi tutte le finestre aperte e mostra il desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="156"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
         <source>Start Menu</source>
         <translation>Menu Avvio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="74"/>
         <source>This provides instant-access to application that are installed on the system.</source>
         <translation>Questo permette accesso immediato alle applicazioni installate nel sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="174"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="176"/>
         <source>Calendar</source>
         <translation>Calendario</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="175"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="177"/>
         <source>Display a calendar on the desktop</source>
         <translation>Mostra un calendario sul desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="163"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="181"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="183"/>
         <source>Application Launcher</source>
         <translation>Avviatore di applicazioni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="72"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
         <source>Application Menu</source>
         <translation>Menu applicazioni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="93"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
         <source>Line</source>
         <translation>Linea</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="95"/>
         <source>Simple line to provide visual separation between items.</source>
         <translation>Una semplice linea per fornire una visualizzazione separata tra elementi.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="100"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
         <source>Workspace Switcher</source>
         <translation>Selettore spazio di lavoro</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="149"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
         <source>Show Desktop</source>
         <translation>Mostra Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="158"/>
         <source>Unified system access and application launch menu.</source>
         <translation>Accesso unificato al sistema e menu di avvio applicazioni.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="165"/>
         <source>Pin an application shortcut directly to the panel</source>
         <translation>Appendi un shortcut applicazione direttamente al pannello</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="182"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="184"/>
         <source>Desktop button for launching an application</source>
         <translation>Pulsante su desktop per lanciare un&apos;applicazione</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="188"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="190"/>
         <source>Desktop Icons View</source>
         <translation>Mostra icone desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="189"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="191"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>Area per mostrare automaticamente le icone del desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="195"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="197"/>
         <source>Note Pad</source>
         <translation>Pagina note</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="198"/>
         <source>Keep simple text notes on your desktop</source>
         <translation>Mantieni semplici note di testo sul tuo desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="202"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="204"/>
         <source>Audio Player</source>
         <translation>Riproduttore Audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="203"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="205"/>
         <source>Play through lists of audio files</source>
         <translation>Riproduci da liste di file audio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="211"/>
         <source>System Monitor</source>
         <translation>Monitor di Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="210"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="212"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
         <translation>Tieni traccia delle statistiche di sistema, come utilizzo della CPU/Memoria e delle temperature della CPU.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="218"/>
         <source>RSS Reader</source>
         <translation>Lettore RSS</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="219"/>
         <source>Monitor RSS Feeds (Requires internet connection)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="239"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="242"/>
         <source>Terminal</source>
         <translation>Terminale</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="240"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="243"/>
         <source>Start the default system terminal.</source>
         <translation>Avvia il terminale di sistema di default</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="246"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="249"/>
         <source>File Manager</source>
         <translation>Gestore File</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="247"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="250"/>
         <source>Browse the system with the default file manager.</source>
         <translation>Esplora il sistema con il gestore file d default</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="253"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="256"/>
         <source>Applications</source>
         <translation>Applicazioni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="257"/>
         <source>Show the system applications menu.</source>
         <translation>Mostra il menu delle applicazioni di sistema.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="260"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="263"/>
         <source>Separator</source>
         <translation>Separatore</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="264"/>
         <source>Static horizontal line.</source>
         <translation>Linea orizzontale statica</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="267"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="270"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="268"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="271"/>
         <source>Show the desktop settings menu.</source>
         <translation>Mostra il menu delle impostazioni del desktop.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="274"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="277"/>
         <source>Window List</source>
         <translation>Lista delle finestre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="278"/>
         <source>List the open application windows</source>
         <translation>Lista le finestre delle applicazioni aperte</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="281"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="284"/>
         <source>Custom App</source>
         <translation>App personalizzata</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="282"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="285"/>
         <source>Start a custom application</source>
         <translation>Avvia applicazione personalizzata</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="291"/>
+        <source>Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="292"/>
+        <source>Run an external script to generate a menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="302"/>
         <source>Text</source>
         <translation>.Testo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="293"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="303"/>
         <source>Color to use for all visible text.</source>
         <translation>Colore da usare per tutto il testo visibile.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="298"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="308"/>
         <source>Text (Disabled)</source>
         <translation>Testo (Disabilitato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="299"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="309"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>Colore testo per elementi disabilitati o inattivi.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="304"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="314"/>
         <source>Text (Highlighted)</source>
         <translation>Testo (Evidenziato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="305"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="315"/>
         <source>Text color when selection is highlighted.</source>
         <translation>Colore testo quando la selezione e&apos; evidenziata.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="310"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="320"/>
         <source>Base Window Color</source>
         <translation>Colore Finestra Base</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="311"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="321"/>
         <source>Main background color for the window/dialog.</source>
         <translation>Colore di sfondo principale per la finestra/dialogo</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="316"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="326"/>
         <source>Base Window Color (Alternate)</source>
         <translation>Colore Finestra Base (Alterno)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="317"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="327"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation>Colore di sfondo principale per i widget che elencano o mostrano collezioni di oggetti.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="322"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="332"/>
         <source>Primary Color</source>
         <translation>Colore Primario</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="323"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="333"/>
         <source>Dominant color for the theme.</source>
         <translation>Colore dominante per il tema.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="328"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="338"/>
         <source>Primary Color (Disabled)</source>
         <translation>Colore Primario (Disabilitato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="329"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="339"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>Colore dominante per il tema (più contenuto).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="334"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="344"/>
         <source>Secondary Color</source>
         <translation>Colore Secondario</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="335"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="345"/>
         <source>Alternate color for the theme.</source>
         <translation>Colore Alternativo per il tema.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="340"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="350"/>
         <source>Secondary Color (Disabled)</source>
         <translation>Colore Secondario (Disabilitato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="341"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="351"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>Colore alternativo per il tema (più contenuto)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="346"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="356"/>
         <source>Accent Color</source>
         <translation>Colore Risalto</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="347"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="357"/>
         <source>Color used for borders or other accents.</source>
         <translation>Colore usato per orli ed altri risalti.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="352"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="362"/>
         <source>Accent Color (Disabled)</source>
         <translation>Colore Risalto (Disabilitato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="363"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>Colore utilizzato per i bordi o altri accenti (più tenui).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="368"/>
         <source>Highlight Color</source>
         <translation>Colore Evidenziazione</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="359"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="369"/>
         <source>Color used for highlighting an item.</source>
         <translation>Colore usato per evidenziare un elemento.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="364"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="374"/>
         <source>Highlight Color (Disabled)</source>
         <translation>Colore Evidenziazione (Disabilitato)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="365"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="375"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>Colore utilizzato per evidenziare un elemento (più tenue).</translation>
     </message>
@@ -805,6 +815,55 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScriptDialog</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="14"/>
+        <source>Setup a JSON Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="25"/>
+        <source>Visible Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="32"/>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="39"/>
+        <source>Icon:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Annulla</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
+        <source>Apply</source>
+        <translation type="unfinished">Applica</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
+        <source>Select a menu script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="64"/>
+        <source>Select an icon file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

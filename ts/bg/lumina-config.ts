@@ -63,29 +63,29 @@
         <translation>Запазване</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>Color Exists</source>
         <translation>Цветът вече съществува</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
         <translation>Презаписване?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="117"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="122"/>
         <source>Select Color</source>
         <translation>Избор на цвят</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color Value</source>
         <translation>Стойност за цвета</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color:</source>
         <translation>Цвят:</translation>
     </message>
@@ -231,418 +231,428 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="65"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
         <source>User Button</source>
         <translation>Бутон на потребителя</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="67"/>
         <source>This is the main system access button for the user (applications, directories, settings, log out).</source>
         <translation>Това е основният бутон на системата за достъп до потребителя (програми, директории, настройки, отписване).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="79"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
         <source>Desktop Bar</source>
         <translation>Лента на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="81"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
         <translation>Предоставя преки пътища до всичко в директорията на работния плот - позволявайки ви лесен достъп до всичките ви любими файлове/програми.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="86"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
         <source>Spacer</source>
         <translation>Разделител</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="88"/>
         <source>Invisible spacer to separate plugins.</source>
         <translation>Невидим разделител за отделяне на приставките.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="102"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Контроли за превключване между различните виртуални работни плотове.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="107"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
         <source>Battery Monitor</source>
         <translation>Наблюдение на батерията</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="109"/>
         <source>Keep track of your battery status.</source>
         <translation>Следете състоянието на батерията.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="114"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
         <source>Time/Date</source>
         <translation>Час/Дата</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="116"/>
         <source>View the current time and date.</source>
         <translation>Преглед на текущите час и дата.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
         <source>System Dashboard</source>
         <translation>Системно табло</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="123"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
         <translation>Преглед и редактиране на системни настройки (сила на звука, яркост на екрана, живот на батерията, виртуални работни плотове).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
         <source>Task Manager</source>
         <translation>Мениджър на задачите</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="130"/>
         <source>View and control any running application windows (every application has a button)</source>
         <translation>Преглед и контрол на всяка изпълняваща се програма (всяка програма има бутон)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
         <source>Task Manager (No Groups)</source>
         <translation>Мениджър на задачите (Без групи)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="137"/>
         <source>View and control any running application windows (every window has a button)</source>
         <translation>Преглед и контрол на всяка изпълняваща се програма (всяка програма има бутон)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="142"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
         <source>System Tray</source>
         <translation>Системен жлеб</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="144"/>
         <source>Display area for dockable system applications</source>
         <translation>Зона за показване на закачащи се системни приложения</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="151"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Скриване на всички отворени прозорци и показване на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="156"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
         <source>Start Menu</source>
         <translation>Начално меню</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="74"/>
         <source>This provides instant-access to application that are installed on the system.</source>
         <translation>Предоставя незабавен достъп до програми, които са инсталирани на системата.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="174"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="176"/>
         <source>Calendar</source>
         <translation>Календар</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="175"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="177"/>
         <source>Display a calendar on the desktop</source>
         <translation>Показване на календар на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="163"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="181"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="183"/>
         <source>Application Launcher</source>
         <translation>Стартер на програми</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="72"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
         <source>Application Menu</source>
         <translation>Меню с програми</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="93"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
         <source>Line</source>
         <translation>Линия</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="95"/>
         <source>Simple line to provide visual separation between items.</source>
         <translation>Обикновена линия за предоставяне на визуално разграничение между елементите.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="100"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
         <source>Workspace Switcher</source>
         <translation>Превключване между работните плотове</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="149"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
         <source>Show Desktop</source>
         <translation>Показване на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="158"/>
         <source>Unified system access and application launch menu.</source>
         <translation>Единен достъп до системата и меню за стартиране на програми.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="165"/>
         <source>Pin an application shortcut directly to the panel</source>
         <translation>Заковаване на прекия път до програмата за панела</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="182"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="184"/>
         <source>Desktop button for launching an application</source>
         <translation>Бутон на работния плот за стартиране на програмата</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="188"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="190"/>
         <source>Desktop Icons View</source>
         <translation>Изглед на иконите на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="189"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="191"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>Зона за автоматично показване на иконите на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="195"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="197"/>
         <source>Note Pad</source>
         <translation>Бележник</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="198"/>
         <source>Keep simple text notes on your desktop</source>
         <translation>Прости бележки на работния плот</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="202"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="204"/>
         <source>Audio Player</source>
         <translation>Аудио плейър</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="203"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="205"/>
         <source>Play through lists of audio files</source>
         <translation>Просвирване на списъци с аудио файлове</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="211"/>
         <source>System Monitor</source>
         <translation>Наблюдение на системата</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="210"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="212"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
         <translation>Наблюдение на статистики за системата, като употреба на процесора/паметта и температура на процесора.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="218"/>
         <source>RSS Reader</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="219"/>
         <source>Monitor RSS Feeds (Requires internet connection)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="239"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="242"/>
         <source>Terminal</source>
         <translation>Терминал</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="240"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="243"/>
         <source>Start the default system terminal.</source>
         <translation>Стартиране на стандартния терминал за системата.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="246"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="249"/>
         <source>File Manager</source>
         <translation>Файлов мениджър</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="247"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="250"/>
         <source>Browse the system with the default file manager.</source>
         <translation>Разглеждане на системата със стандартния файлов мениджър.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="253"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="256"/>
         <source>Applications</source>
         <translation>Програми</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="257"/>
         <source>Show the system applications menu.</source>
         <translation>Показване на системното меню с програми.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="260"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="263"/>
         <source>Separator</source>
         <translation>Разделител</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="264"/>
         <source>Static horizontal line.</source>
         <translation>Статична хоризонтална линия.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="267"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="270"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="268"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="271"/>
         <source>Show the desktop settings menu.</source>
         <translation>Показване на менюто за настройка на работния плот.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="274"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="277"/>
         <source>Window List</source>
         <translation>Списък с прозорци</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="278"/>
         <source>List the open application windows</source>
         <translation>Извежда списък с отворените прозорци на програми</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="281"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="284"/>
         <source>Custom App</source>
         <translation>Потребителска програма</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="282"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="285"/>
         <source>Start a custom application</source>
         <translation>Стартиране на потребителска програма</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="291"/>
+        <source>Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="292"/>
+        <source>Run an external script to generate a menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="302"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="293"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="303"/>
         <source>Color to use for all visible text.</source>
         <translation>Цвят на всичкия видим текст.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="298"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="308"/>
         <source>Text (Disabled)</source>
         <translation>Текст (Неактивни)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="299"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="309"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>Цвят на текста за забранени или неактивни елементи.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="304"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="314"/>
         <source>Text (Highlighted)</source>
         <translation>Текст (Откроени)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="305"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="315"/>
         <source>Text color when selection is highlighted.</source>
         <translation>Цвета на текста, когато е маркиран.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="310"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="320"/>
         <source>Base Window Color</source>
         <translation>Цвят на основния прозорец</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="311"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="321"/>
         <source>Main background color for the window/dialog.</source>
         <translation>Основният цвят на фона за прозореца/диалога.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="316"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="326"/>
         <source>Base Window Color (Alternate)</source>
         <translation>Цвят на основния прозорец (Алтернативен)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="317"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="327"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation>Основен цвят на фона за графични обекти, които представят списък или показват колекция от елементи.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="322"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="332"/>
         <source>Primary Color</source>
         <translation>Основен цвят</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="323"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="333"/>
         <source>Dominant color for the theme.</source>
         <translation>Преобладаващ цвят на темата.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="328"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="338"/>
         <source>Primary Color (Disabled)</source>
         <translation>Основен цвят (Неактивни)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="329"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="339"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>Преобладаващ цвят за темата (по-приглушен).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="334"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="344"/>
         <source>Secondary Color</source>
         <translation>Вторичен цвят</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="335"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="345"/>
         <source>Alternate color for the theme.</source>
         <translation>Вторичен цвят за темата.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="340"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="350"/>
         <source>Secondary Color (Disabled)</source>
         <translation>Вторичен цвят (неактивни)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="341"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="351"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>Вторичен цвят за темата (по-приглушен).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="346"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="356"/>
         <source>Accent Color</source>
         <translation>Акцентиращ цвят</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="347"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="357"/>
         <source>Color used for borders or other accents.</source>
         <translation>Цвят, използван за рамките или други акценти.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="352"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="362"/>
         <source>Accent Color (Disabled)</source>
         <translation>Акцентиращ цвят (неактивни)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="363"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>Цвят, използван за рамките или други акценти (по-приглушен).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="368"/>
         <source>Highlight Color</source>
         <translation>Цвят на открояването</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="359"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="369"/>
         <source>Color used for highlighting an item.</source>
         <translation>Цвят, използван за открояване на елемент.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="364"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="374"/>
         <source>Highlight Color (Disabled)</source>
         <translation>Цвят на открояването (Неактивни)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="365"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="375"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>Цвят, използван за открояване на елемент (по-приглушен).</translation>
     </message>
@@ -804,6 +814,55 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScriptDialog</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="14"/>
+        <source>Setup a JSON Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="25"/>
+        <source>Visible Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="32"/>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="39"/>
+        <source>Icon:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Отказ</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
+        <source>Apply</source>
+        <translation type="unfinished">Прилагане</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
+        <source>Select a menu script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="64"/>
+        <source>Select an icon file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

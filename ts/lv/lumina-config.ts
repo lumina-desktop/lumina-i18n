@@ -63,30 +63,30 @@
         <translation>Saglabāt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>Color Exists</source>
         <translation>Krāsa eksistē</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
         <translation>Šāda krāsu shēma jau eksistē.
  Vai pārrakstīt?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="117"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="118"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="122"/>
         <source>Select Color</source>
         <translation>Izvēlieties krāsu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color Value</source>
         <translation>Krāsas vērtība</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="138"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color:</source>
         <translation>Krāsa:</translation>
     </message>
@@ -232,418 +232,428 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="65"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
         <source>User Button</source>
         <translation>Lietotāja poga</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="66"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="67"/>
         <source>This is the main system access button for the user (applications, directories, settings, log out).</source>
         <translation>Šī ir lietoāja galvenā sistēmas piekļūšanas poga (lietojumprogrammas, katalogi, iestatījumi, izrakstīšanās).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="79"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
         <source>Desktop Bar</source>
         <translation>Darbvirsmas josla</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="81"/>
         <source>This provides shortcuts to everything in the desktop folder - allowing easy access to all your favorite files/applications.</source>
         <translation>Tas nodrošina saīsnes uz visu, kas ir darbvirsmas mapē, atļaujot vieglu piekļuvi visiem izlases failiem/lietotnēm.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="86"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
         <source>Spacer</source>
         <translation>Starplika</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="87"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="88"/>
         <source>Invisible spacer to separate plugins.</source>
         <translation>Neredzama starplika, lai atdalītu spraudņus.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="102"/>
         <source>Controls for switching between the various virtual desktops.</source>
         <translation>Pārslēgšanās vadība starp dažādām virtuālām darbvirsmām.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="107"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
         <source>Battery Monitor</source>
         <translation>Akumulatora pārraugs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="108"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="109"/>
         <source>Keep track of your battery status.</source>
         <translation>Sekot līdzi akumulatora statusam.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="114"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
         <source>Time/Date</source>
         <translation>Laiks/Datums</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="115"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="116"/>
         <source>View the current time and date.</source>
         <translation>Skatīt pašreizējao laiku un datumu.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="121"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
         <source>System Dashboard</source>
         <translation>Sistēmas infopanelis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="122"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="123"/>
         <source>View or change system settings (audio volume, screen brightness, battery life, virtual desktops).</source>
         <translation>Skatīt vai mainīt sistēmas iestatījumus (audio skaļumu, ekrāna spilgtumu, akumulatora darbības laiku, virtuālās darbvirsmas).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
         <source>Task Manager</source>
         <translation>Uzdevumu pārvaldnieks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="129"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="130"/>
         <source>View and control any running application windows (every application has a button)</source>
         <translation>Skatīt un kontrolēt jebkurus lietotnes logus (katrai lietotnei ir poga)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
         <source>Task Manager (No Groups)</source>
         <translation>Uzdevumu pārvaldnieks (bez grupām)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="136"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="137"/>
         <source>View and control any running application windows (every window has a button)</source>
         <translation>Skatīt un kontrolēt jebkuras palaistās lietojumprogrammas logus (katram logam ir poga)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="142"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
         <source>System Tray</source>
         <translation>Sistēmas ikonjosla</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="143"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="144"/>
         <source>Display area for dockable system applications</source>
         <translation>Displeja apgabals dokojamām sistēmas lietojumprogrammām</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="151"/>
         <source>Hide all open windows and show the desktop</source>
         <translation>Slēpt visus atvērtos logus un rādīt darbvirsmu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="156"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
         <source>Start Menu</source>
         <translation>Sākuma izvēlne</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="74"/>
         <source>This provides instant-access to application that are installed on the system.</source>
         <translation>Šis nodrošina tūlītēju piekļuvi sistēmā uzstādītajām lietojumprogrammām.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="174"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="176"/>
         <source>Calendar</source>
         <translation>Kalendārs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="175"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="177"/>
         <source>Display a calendar on the desktop</source>
         <translation>Rādīt kalendāru uz darbvirsmas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="163"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="181"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="183"/>
         <source>Application Launcher</source>
         <translation>Lietotņu palaidējs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="72"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="73"/>
         <source>Application Menu</source>
         <translation>Lietotņu izvēlne</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="93"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
         <source>Line</source>
         <translation>Līnija</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="95"/>
         <source>Simple line to provide visual separation between items.</source>
         <translation>Vienkārša līnija, lai vizuāli atdalītu vienumus.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="100"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
         <source>Workspace Switcher</source>
         <translation>Darbvietas pārslēdzējs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="149"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="150"/>
         <source>Show Desktop</source>
         <translation>Rādīt darbvirsmu</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="157"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="158"/>
         <source>Unified system access and application launch menu.</source>
         <translation>Unificēta izvēlne sistēmas piekļuvei un lietojumprogrammu startēšanai.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="165"/>
         <source>Pin an application shortcut directly to the panel</source>
         <translation>Piespraust lietotnes īsceļu tieši pie paneļa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="182"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="184"/>
         <source>Desktop button for launching an application</source>
         <translation>Darbvirsmas poga, lai palaistu lietotni</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="188"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="190"/>
         <source>Desktop Icons View</source>
         <translation>Darbvirsmas ikonu skats</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="189"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="191"/>
         <source>Area for automatically showing desktop icons</source>
         <translation>Apgabals automātiskai darbvirsmas ikonu parādīšanai</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="195"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="197"/>
         <source>Note Pad</source>
         <translation>Piezīmju bloks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="196"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="198"/>
         <source>Keep simple text notes on your desktop</source>
         <translation>Tur vienkāršas teksta piezīmes uz darbvirsmas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="202"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="204"/>
         <source>Audio Player</source>
         <translation>Audio atskaņotājs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="203"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="205"/>
         <source>Play through lists of audio files</source>
         <translation>Atskaņot audio failu sarakstus</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="211"/>
         <source>System Monitor</source>
         <translation>Sistēmas monitors</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="210"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="212"/>
         <source>Keep track of system statistics such as CPU/Memory usage and CPU temperatures.</source>
         <translation>Sekot sistēmas statistikai, tādai kā CPU/atmiņas izlietojums un CPU temperatūra.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="216"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="218"/>
         <source>RSS Reader</source>
         <translation>RSS lasītājs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="217"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="219"/>
         <source>Monitor RSS Feeds (Requires internet connection)</source>
         <translation>Pārraudzīt RSS plūsmas (nepieciešams interneta savienojums)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="239"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="242"/>
         <source>Terminal</source>
         <translation>Terminālis</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="240"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="243"/>
         <source>Start the default system terminal.</source>
         <translation>Startēt sistēmas noklusējuma termināli.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="246"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="249"/>
         <source>File Manager</source>
         <translation>Failu pārvaldnieks</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="247"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="250"/>
         <source>Browse the system with the default file manager.</source>
         <translation>Pārlūkot sistēmu ar noklusējuma failu pārvaldnieku.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="253"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="256"/>
         <source>Applications</source>
         <translation>Lietojumprogrammas</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="254"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="257"/>
         <source>Show the system applications menu.</source>
         <translation>Rādīt sistēmas lietojumprogrammu izvēlni.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="260"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="263"/>
         <source>Separator</source>
         <translation>Atdalītājs</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="261"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="264"/>
         <source>Static horizontal line.</source>
         <translation>Statiska horizontālā līnija.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="267"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="270"/>
         <source>Settings</source>
         <translation>Iestatījumi</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="268"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="271"/>
         <source>Show the desktop settings menu.</source>
         <translation>Rādīt darbvirsmas iestatījumu izvēlni.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="274"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="277"/>
         <source>Window List</source>
         <translation>Logu saraksts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="278"/>
         <source>List the open application windows</source>
         <translation>Atvērto lietojumprogrammu logu saraksts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="281"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="284"/>
         <source>Custom App</source>
         <translation>Pielāgota lietotne</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="282"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="285"/>
         <source>Start a custom application</source>
         <translation>Palaist pielāgotu lietotni</translation>
     </message>
     <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="291"/>
+        <source>Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="292"/>
+        <source>Run an external script to generate a menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="302"/>
         <source>Text</source>
         <translation>Teksts</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="293"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="303"/>
         <source>Color to use for all visible text.</source>
         <translation>Lietojamā krāsa redzamajam tekstam.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="298"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="308"/>
         <source>Text (Disabled)</source>
         <translation>Teksts (atspējots)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="299"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="309"/>
         <source>Text color for disabled or inactive items.</source>
         <translation>Teksta krāsa atspējotiem vai neaktīviem vienumiem.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="304"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="314"/>
         <source>Text (Highlighted)</source>
         <translation>Teksts (izcelts)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="305"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="315"/>
         <source>Text color when selection is highlighted.</source>
         <translation>Teksta krāsa izceltai atlasei.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="310"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="320"/>
         <source>Base Window Color</source>
         <translation>Loga bāzes krāsa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="311"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="321"/>
         <source>Main background color for the window/dialog.</source>
         <translation>Galvenā fona krāsa logiem/dialoglogiem.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="316"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="326"/>
         <source>Base Window Color (Alternate)</source>
         <translation>Loga bāzes krāsa (alternatīva)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="317"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="327"/>
         <source>Main background color for widgets that list or display collections of items.</source>
         <translation>Pamatkrāsa fonam ekrānvadīklām, kas attēlo vai uzskaita kolekciju vienumus.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="322"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="332"/>
         <source>Primary Color</source>
         <translation>Primārā krāsa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="323"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="333"/>
         <source>Dominant color for the theme.</source>
         <translation>Dominējošā tēmas krāsa.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="328"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="338"/>
         <source>Primary Color (Disabled)</source>
         <translation>Primārā krāsa (atspējots)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="329"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="339"/>
         <source>Dominant color for the theme (more subdued).</source>
         <translation>Dominējosā tēmas krāsa (blāvāka).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="334"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="344"/>
         <source>Secondary Color</source>
         <translation>Sekundārā krāsa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="335"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="345"/>
         <source>Alternate color for the theme.</source>
         <translation>Motīva alternatīvā krāsa.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="340"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="350"/>
         <source>Secondary Color (Disabled)</source>
         <translation>Sekundārā krāsa (atspējots)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="341"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="351"/>
         <source>Alternate color for the theme (more subdued).</source>
         <translation>Motīva alternatīvā krāsa (blāvāka).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="346"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="356"/>
         <source>Accent Color</source>
         <translation>Akcenta krāsa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="347"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="357"/>
         <source>Color used for borders or other accents.</source>
         <translation>Apmales un citu akcentu krāsa.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="352"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="362"/>
         <source>Accent Color (Disabled)</source>
         <translation>Akcenta krāsa (atspējots)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="363"/>
         <source>Color used for borders or other accents (more subdued).</source>
         <translation>Apmales un citu akcentu krāsa (blāvāka).</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="368"/>
         <source>Highlight Color</source>
         <translation>Izcelšanas krāsa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="359"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="369"/>
         <source>Color used for highlighting an item.</source>
         <translation>Krāsa, lai izceltu vienumu.</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="364"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="374"/>
         <source>Highlight Color (Disabled)</source>
         <translation>Izcelšanas krāsa (atspējots)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="365"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="375"/>
         <source>Color used for highlighting an item (more subdued).</source>
         <translation>Krāsa, lai izceltu vienumu (blāvāka).</translation>
     </message>
@@ -805,6 +815,55 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScriptDialog</name>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="14"/>
+        <source>Setup a JSON Menu Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="25"/>
+        <source>Visible Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="32"/>
+        <source>Executable:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="39"/>
+        <source>Icon:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Atcelt</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
+        <source>Apply</source>
+        <translation type="unfinished">Pielietot</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
+        <source>Select a menu script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="64"/>
+        <source>Select an icon file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
