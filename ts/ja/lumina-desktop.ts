@@ -267,7 +267,7 @@
 <context>
     <name>JsonMenu</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="57"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
         <translation type="unfinished"></translation>
     </message>

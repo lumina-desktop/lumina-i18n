@@ -720,12 +720,12 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore di Finestre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
         <source>Window Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>impostazioni delle finestre</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
@@ -785,7 +785,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni locali</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
@@ -795,12 +795,12 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>General Options</source>
-        <translation type="unfinished">Opzioni Generali</translation>
+        <translation>Opzioni Generali</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni utente:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
@@ -860,7 +860,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Finestra principale</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
@@ -870,17 +870,17 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="50"/>
         <source>Save</source>
-        <translation type="unfinished">Salva</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="53"/>
         <source>Save current changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva le modifiche</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="56"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="61"/>
@@ -1330,7 +1330,7 @@ Sovrascriverlo?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Impostazioni utente:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
