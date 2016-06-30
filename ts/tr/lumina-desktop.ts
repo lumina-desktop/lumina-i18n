@@ -265,7 +265,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="57"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Betik çıktısı ayrıştırmada hata: %1</translation>
     </message>
 </context>
 <context>
