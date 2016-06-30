@@ -226,7 +226,7 @@ Voleu sobreescriure&apos;l?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished">Seleccioneu un color</translation>
+        <translation>Seleccioneu un color</translation>
     </message>
 </context>
 <context>
@@ -780,32 +780,32 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Localization Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de llengua</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de llengua</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Change the default locale settings for this user</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvieu els paràmetres de llengua per defecte per a aquest usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>General Options</source>
-        <translation type="unfinished">Opcions generals</translation>
+        <translation>Opcions generals</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change basic user settings such as time/date formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvieu els paràmetres d&apos;usuari bàsics com ara el format de l&apos;hora i la data</translation>
     </message>
 </context>
 <context>
@@ -1297,7 +1297,7 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
 </context>
 <context>
@@ -1330,7 +1330,7 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
@@ -1388,12 +1388,12 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">Valor per defecte del sistema</translation>
+        <translation>Valor per defecte del sistema</translation>
     </message>
 </context>
 <context>
@@ -1468,162 +1468,162 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished">Hora (data com a ajuda informativa)</translation>
+        <translation>Hora (data com a ajuda informativa)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished">Data (hora com a ajuda informativa)</translation>
+        <translation>Data (hora com a ajuda informativa)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
         <source>Time first then Date</source>
-        <translation type="unfinished">Primer l&apos;hora, després la data</translation>
+        <translation>Primer l&apos;hora, després la data</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
         <source>Date first then Time</source>
-        <translation type="unfinished">Primer la data, després l&apos;hora</translation>
+        <translation>Primer la data, després l&apos;hora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="56"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Paràmetres de l&apos;escriptori</translation>
+        <translation>Paràmetres de l&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="92"/>
         <source>Select an image</source>
-        <translation type="unfinished">Seleccioneu una imatge</translation>
+        <translation>Seleccioneu una imatge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="93"/>
         <source>Images</source>
-        <translation type="unfinished">Imatges</translation>
+        <translation>Imatges</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Reset User Image</source>
-        <translation type="unfinished">Reestableix la imatge de l&apos;usuari</translation>
+        <translation>Restableix la imatge de l&apos;usuari</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="97"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished">Voleu reestablir la imatge de l&apos;usuari la predeterminada del sistema?</translation>
+        <translation>Voleu restablir la imatge de l&apos;usuari a la predeterminada del sistema?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="136"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished">Codis d&apos;hora vàlids:</translation>
+        <translation>Codis d&apos;hora vàlids:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="137"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished">%1: Hora sense el zero davant (1)</translation>
+        <translation>%1: Hora sense el zero davant (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="138"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished">%1: Hora amb el zero davant (01)</translation>
+        <translation>%1: Hora amb el zero davant (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="139"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished">%1: Minuts sense el zero davant (2)</translation>
+        <translation>%1: Minuts sense el zero davant (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="140"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished">%1: Minuts amb el zero davant (02)</translation>
+        <translation>%1: Minuts amb el zero davant (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="141"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished">%1: Segons sense el zero davant (3)</translation>
+        <translation>%1: Segons sense el zero davant (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished">%1: Segons amb el zero davant (03)</translation>
+        <translation>%1: Segons amb el zero davant (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished">%1: Rellotge amb AM/PM (12 hores) (en majúscules o minúscules)</translation>
+        <translation>%1: Rellotge amb AM/PM (12 hores) (en majúscules o minúscules)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="144"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished">%1: Zora horària</translation>
+        <translation>%1: Zona horària</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
         <source>Time Codes</source>
-        <translation type="unfinished">Codis d&apos;hora</translation>
+        <translation>Codis d&apos;hora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="159"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished">Codis d&apos;hora vàlids:</translation>
+        <translation>Codis d&apos;hora vàlids:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="160"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished">%1: Dia numèric sense el zero davant (1)</translation>
+        <translation>%1: Dia numèric sense el zero davant (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="161"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished">%1: Dia numèric amb el zero davant (01)</translation>
+        <translation>%1: Dia numèric amb el zero davant (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="162"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Dia com a abreviatura (localitzat)</translation>
+        <translation>%1: Dia com a abreviatura (localitzat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="163"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: Dia amb el nom complet (localitzat)</translation>
+        <translation>%1: Dia amb el nom complet (localitzat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="164"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Mes numèric sense el zero davant (2)</translation>
+        <translation>%1: Mes numèric sense el zero davant (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Mes numèric amb el zero davant (02)</translation>
+        <translation>%1: Mes numèric amb el zero davant (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Més com a abreviatura (localitzat)</translation>
+        <translation>%1: Mes com a abreviatura (localitzat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished">%1: Mes amb el nom sencer (localitzat)</translation>
+        <translation>%1: Mes amb el nom sencer (localitzat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished">%1: Any com a número binari (15)</translation>
+        <translation>%1: Any com a número binari (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished">%1: Any com a número de quatre xifres (2015)</translation>
+        <translation>%1: Any com a número de quatre xifres (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished">El text pot encabir-se entre cometes simples per ignorar substitucions</translation>
+        <translation>El text pot encabir-se entre cometes simples per ignorar substitucions</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
         <source>Date Codes</source>
-        <translation type="unfinished">Codis de la data</translation>
+        <translation>Codis de la data</translation>
     </message>
 </context>
 <context>
