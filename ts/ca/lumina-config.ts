@@ -520,12 +520,12 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="291"/>
         <source>Menu Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Script del menú</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="292"/>
         <source>Run an external script to generate a menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Executa un script extern per generar un menú</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="302"/>
@@ -823,48 +823,48 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="14"/>
         <source>Setup a JSON Menu Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura un script de menú JSON</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="25"/>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom visible:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="32"/>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Executable:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="39"/>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·la</translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
         <source>Apply</source>
-        <translation type="unfinished">Aplica</translation>
+        <translation>Aplica</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
         <source>Select a menu script</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu  un script de menú</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="64"/>
         <source>Select an icon file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer d&apos;icona</translation>
     </message>
 </context>
 <context>

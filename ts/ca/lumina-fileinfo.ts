@@ -169,12 +169,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Save Application File</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa el fitxer de l&apos;aplicació</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Application Registrations (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Matrícules d&apos;aplicació (*.desktop)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="277"/>
