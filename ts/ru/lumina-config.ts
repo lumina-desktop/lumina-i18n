@@ -410,7 +410,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="198"/>
         <source>Keep simple text notes on your desktop</source>
-        <translation>Создавайте простые текстовые заметки на Рабочем столе</translation>
+        <translation>Храните простые текстовые заметки на вашем рабочем столе</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="204"/>
