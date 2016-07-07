@@ -1045,11 +1045,6 @@ Wilt u het overschrijven?</translation>
         <translation type="unfinished">Formulier</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.ui" line="35"/>
-        <source>NOTE: The desktop will need to be restarted before changes take effect</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.cpp" line="36"/>
         <source>Compositor Settings</source>
         <translation type="unfinished"></translation>
@@ -1378,7 +1373,7 @@ Wilt u het overschrijven?</translation>
         <translation type="unfinished">Weergeef inhoud van de desktop folder</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="53"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="54"/>
         <source>Desktop Settings</source>
         <translation type="unfinished"></translation>
     </message>
