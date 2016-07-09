@@ -11,32 +11,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Search:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluded Directories</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="119"/>
         <source>Save as Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Save as Defaults</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Search Directory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.cpp" line="54"/>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclude Directories</translation>
     </message>
 </context>
 <context>
@@ -44,94 +44,94 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="14"/>
         <source>Search For...</source>
-        <translation type="unfinished"></translation>
+        <translation>Search For...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Type to search</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="30"/>
         <source>Configure search parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Configure search parameters</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="40"/>
         <source>Stop Active Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop Active Search</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="54"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applications</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="64"/>
         <source>Files or Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Files or Directories</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="88"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Close</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="108"/>
         <source>Launch Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch Item</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="119"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Save</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="122"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="125"/>
         <source>Save Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Save Screenshot</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="128"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="133"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="136"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Quit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="141"/>
         <source>Snap</source>
-        <translation type="unfinished"></translation>
+        <translation>Snap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="144"/>
         <source>Take new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Take new snapshot</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="29"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="95"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Search: %1 -- Smart: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Off</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>On</translation>
     </message>
 </context>
 <context>
@@ -139,17 +139,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/Worker.cpp" line="40"/>
         <source>Searching: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Searching: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/Worker.cpp" line="61"/>
         <source>Starting Search: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Starting Search: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/Worker.cpp" line="109"/>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Search Finished</translation>
     </message>
 </context>
 </TS>
