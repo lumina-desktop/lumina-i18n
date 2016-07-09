@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en_GB">
 <context>
     <name>AppDialog</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/AppDialog.ui" line="14"/>
         <source>Select Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Application</translation>
     </message>
 </context>
 <context>
@@ -14,80 +14,81 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour Scheme Editor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="28"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour Scheme:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="51"/>
         <source>Set new color for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Set new colour for selection</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="54"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="70"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="67"/>
         <source>Manually set value for selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Manually set value for selection</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="95"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="100"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Value</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="105"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Sample</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="115"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="135"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Save</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>Color Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour Exists</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="98"/>
         <source>This color scheme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>This colour scheme already exists.
+ Overwrite it?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="121"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="122"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Colour</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour Value</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colour:</translation>
     </message>
 </context>
 <context>
@@ -95,22 +96,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="14"/>
         <source>Select Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Plugin</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="26"/>
         <source>Select a Plugin:</source>
-        <translation type="unfinished"></translation>
+        <translation>Select a Plugin:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="57"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/GetPluginDialog.ui" line="77"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Select</translation>
     </message>
 </context>
 <context>
@@ -118,22 +119,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="32"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="93"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Location</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="114"/>
         <source>Edge:</source>
-        <translation type="unfinished"></translation>
+        <translation>Edge:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="131"/>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Size:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
@@ -143,89 +144,89 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>
         <source>% length</source>
-        <translation type="unfinished"></translation>
+        <translation>% length</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="183"/>
         <source>Alignment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alignment:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="204"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Appearance</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="222"/>
         <source>Auto-hide Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-hide Panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="229"/>
         <source>Use Custom Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Use Custom Colour</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="250"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="257"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Sample</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="287"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="19"/>
         <source>Top/Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Top/Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="20"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Center</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="21"/>
         <source>Bottom/Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Bottom/Right</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="22"/>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Top</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="23"/>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bottom</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="24"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Left</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="25"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Right</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="44"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="104"/>
         <source>Panel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Select Colour</translation>
     </message>
 </context>
 <context>
@@ -233,7 +234,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="80"/>
         <source>Desktop Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Bar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="81"/>
@@ -849,12 +850,12 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
@@ -892,12 +893,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Save</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="101"/>
@@ -933,7 +934,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="50"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Save</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="53"/>
@@ -978,7 +979,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="39"/>
@@ -1041,7 +1042,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.cpp" line="36"/>
@@ -1054,7 +1055,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="39"/>
@@ -1125,7 +1126,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="257"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="267"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="43"/>
@@ -1270,7 +1271,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
@@ -1359,7 +1360,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
@@ -1382,7 +1383,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
@@ -1400,7 +1401,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
@@ -1413,7 +1414,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="32"/>
@@ -1428,7 +1429,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="35"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Appearance</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
@@ -1451,7 +1452,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
@@ -1509,7 +1510,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
@@ -1739,7 +1740,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="32"/>
@@ -1775,7 +1776,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="94"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Colour Scheme:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="110"/>
@@ -1819,7 +1820,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="90"/>
@@ -1871,7 +1872,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="98"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="99"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Select Colour</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="118"/>
@@ -1916,7 +1917,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="129"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Center</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="130"/>
