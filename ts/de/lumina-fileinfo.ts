@@ -13,7 +13,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation>Eigentümer:</translation>
+        <translation>Besitzer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="73"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="111"/>
         <source>Note: The time a file was created might be more recent than the time modified if the file permissions were changed recently.</source>
-        <translation>Hinweis: Der Zeitpunkt an dem eine Datei erstellt wurde, kann ein früherer Zeitpunkt sein, als der Zeitpunkt der letzten Änderung der Datei, wenn die Zugriffsrechte vor kurzem geändert wurden.</translation>
+        <translation>Hinweis: Der Zeitpunkt der Erstellung einer Datei kann ein früherer sein, als der Zeitpunkt der letzten Änderung der Datei, wenn die Zugriffsrechte vor kurzem geändert wurden.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="124"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
-        <translation>Arbeitsordner:</translation>
+        <translation>Arbeitsverzeichnis:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="246"/>
         <source>Use startup notification</source>
-        <translation>Visuelle Rückmeldung über Programmstart geben</translation>
+        <translation>Rückmeldung über den Programmstart geben</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="260"/>
@@ -159,7 +159,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="79"/>
         <source>Hidden %1</source>
-        <translation>ausgeblendet %1</translation>
+        <translation>Ausgeblendet %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="116"/>
@@ -169,12 +169,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Save Application File</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungsdatei speichern</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Application Registrations (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungs-Registrierungen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="277"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="305"/>
         <source>Select an icon</source>
-        <translation>Wähle ein Symbol</translation>
+        <translation>Ein Symbol auswählen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="305"/>

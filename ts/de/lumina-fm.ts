@@ -793,7 +793,7 @@ Neue Position: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="414"/>
