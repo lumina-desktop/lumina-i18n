@@ -228,7 +228,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="144"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.cpp" line="145"/>
         <source>Select Color</source>
-        <translation type="unfinished">色の選択</translation>
+        <translation>色の選択</translation>
     </message>
 </context>
 <context>
