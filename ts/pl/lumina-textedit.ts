@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="242"/>
         <source>toolBar</source>
-        <translation type="unfinished">toolBar</translation>
+        <translation>toolBar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="268"/>

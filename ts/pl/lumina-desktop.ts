@@ -265,7 +265,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd przy przetwarzaniu wyniku skryptu: %1</translation>
     </message>
 </context>
 <context>
@@ -519,7 +519,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="158"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="326"/>
         <source>Desktop</source>
-        <translation type="unfinished">Pulpit</translation>
+        <translation>Pulpit</translation>
     </message>
 </context>
 <context>
@@ -615,17 +615,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
         <source>Show All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wszystkie okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
         <source>Minimize All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalizuj wszystkie okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
         <source>Close All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij wszystkie okna</translation>
     </message>
 </context>
 <context>
@@ -785,22 +785,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formularz</translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl opcje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz stronę internetową</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="113"/>
@@ -816,133 +816,133 @@ p, li { white-space: pre-wrap; }
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="245"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="391"/>
         <source>Back to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Powrót do kanałów</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="172"/>
         <source>Feed Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o kanale</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="212"/>
         <source>Remove Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń kanał</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="263"/>
         <source>New Feed Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa subskrypcja kanału</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="287"/>
         <source>RSS URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres URL kanału RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="302"/>
         <source>Load a preset RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytaj ustawienia kanału RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="332"/>
         <source>Add to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj to kanałów</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="409"/>
         <source>Feed Reader Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia czytnika kanałów</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="430"/>
         <source>Manual Sync Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko ręczna synchronizacja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="437"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre kanały RSS wymagają innych wartości</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="440"/>
         <source>Default Sync Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślny czas synchronizacji</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="471"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="483"/>
         <source>Hour(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Godzin(a)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="478"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuty</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="522"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz ustawienia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="70"/>
         <source>Add RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj kanał RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="71"/>
         <source>View Feed Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl szczegóły kanału</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
         <source>Settings</source>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
         <source>Update Feeds Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj kanał</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="78"/>
         <source>Lumina Desktop RSS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Desktop RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
         <source>Feed URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URL kanału: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tytuł: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="145"/>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Witryna: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>
         <source>Last Build Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data utworzenia: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="148"/>
         <source>Last Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia synchronizacja %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="149"/>
         <source>Next Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Następna synchronizacja: %1</translation>
     </message>
 </context>
 <context>
