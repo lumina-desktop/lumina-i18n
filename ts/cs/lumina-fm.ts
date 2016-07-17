@@ -59,98 +59,98 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="246"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="249"/>
         <source>Open item</source>
-        <translation type="unfinished">Otevřít položku</translation>
+        <translation>Otevřít položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="271"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="274"/>
         <source>Open item (select application)</source>
-        <translation type="unfinished">Otevřít položku (vybrat aplikaci)</translation>
+        <translation>Otevřít položku (vybrat aplikaci)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="300"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="303"/>
         <source>Add item to personal favorites</source>
-        <translation type="unfinished">Přidat položku do oblíbených</translation>
+        <translation>Přidat položku do oblíbených</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="322"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="325"/>
         <source>Rename item</source>
-        <translation type="unfinished">Přejmenovat položku</translation>
+        <translation>Přejmenovat položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="351"/>
         <source>Cut items</source>
-        <translation type="unfinished">Vyjmout položku</translation>
+        <translation>Vyjmout položku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="354"/>
         <source>Cut items (add to the clipboard)</source>
-        <translation type="unfinished">Vyjmout položku (přidat do schránky)</translation>
+        <translation>Vyjmout položku (přidat do schránky)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="373"/>
         <source>Copy items</source>
-        <translation type="unfinished">Kopírovat položky</translation>
+        <translation>Kopírovat položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="376"/>
         <source>Copy items to the clipboard</source>
-        <translation type="unfinished">Kopírovat položky do schránky</translation>
+        <translation>Kopírovat položky do schránky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="395"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="398"/>
         <source>Paste items from clipboard</source>
-        <translation type="unfinished">Vložit položky ze schránky</translation>
+        <translation>Vložit položky ze schránky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="424"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="427"/>
         <source>Delete Items</source>
-        <translation type="unfinished">Smazat položky</translation>
+        <translation>Odstranit položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="507"/>
         <source>Stop loading the directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavit načítání složky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="90"/>
         <source>Add selected images to slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat vybrané obrázky do prezentace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="77"/>
         <source>Create a new directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit novou složku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="80"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Nová složka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="64"/>
         <source>Create a new file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit nový soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="67"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="93"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Prezentace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="109"/>
@@ -209,38 +209,38 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="135"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="138"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="142"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum změny</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="145"/>
         <source>Date Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum vytvoření</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="202"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="479"/>
         <source>(Limited Access) </source>
-        <translation type="unfinished"></translation>
+        <translation>(Limitovaný přístup) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="464"/>
         <source>Capacity: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapacita: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="469"/>
         <source>Files: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubory: %1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="474"/>
@@ -250,7 +250,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="776"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový dokument</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="776"/>
@@ -301,47 +301,47 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Checksum souboru:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybějící nástroj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nástroj &quot;lumina-fileinfo&quot; nebyl nalezen.Prosím nainstalujte ho první.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="979"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="980"/>
         <source>Open With...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít s…</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit Checksums...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastnosti souboru...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyjmout výběr</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="988"/>
@@ -496,12 +496,12 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="130"/>
         <source>View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim zobrazení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="136"/>
         <source>Group Mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim seskupení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="154"/>
@@ -516,7 +516,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="169"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="188"/>
@@ -687,7 +687,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="354"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přejmenovat...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="357"/>
@@ -697,7 +697,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout výběr</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="376"/>
@@ -777,7 +777,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="715"/>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="892"/>
@@ -840,7 +840,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
@@ -878,7 +878,7 @@ Nové umístění: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>

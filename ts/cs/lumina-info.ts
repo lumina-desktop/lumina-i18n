@@ -41,12 +41,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="171"/>
         <source>Lumina Website:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Webové stránky Lumina:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="178"/>
         <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Otevřít v prohlížeči&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Otevřít v prohlížeči&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="214"/>
@@ -56,17 +56,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="221"/>
         <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Otevřít v prohlížeči&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="244"/>
         <source>Community Support:</source>
-        <translation type="unfinished"></translation>
+        <translation>Komunitní podpora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="251"/>
         <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Otevřít v prohlížeči&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="262"/>

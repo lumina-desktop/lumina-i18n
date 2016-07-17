@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="53"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spravovat aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="58"/>
@@ -123,7 +123,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="80"/>
         <source>Unsorted</source>
-        <translation type="unfinished">Nezařazeno</translation>
+        <translation>Nezařazeno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="37"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="18"/>
@@ -146,12 +146,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation>Načítá se nastavení systému</translation>
+        <translation>Načítá se nastavení systému …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítá se uživatelské nastavení …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="27"/>
@@ -161,32 +161,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager …</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouští se správce oken …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting Applications …</source>
-        <translation type="unfinished"></translation>
+        <translation>Detekování aplikací …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Preparing Menus …</source>
-        <translation type="unfinished"></translation>
+        <translation>Příprava menu …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Preparing Workspace …</source>
-        <translation type="unfinished"></translation>
+        <translation>Příprava pracovního prostředí …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokončování …</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouštím aplikaci: %1</translation>
     </message>
 </context>
 <context>
@@ -232,32 +232,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="39"/>
         <source>Go Back</source>
-        <translation type="unfinished">Zpět</translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="161"/>
         <source>Pin to Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat na plochu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="165"/>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat z oblíbených</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="168"/>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat do oblíbených</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="172"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat z rychlého spuštění</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="175"/>
         <source>Add to Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat do rychlého spuštění</translation>
     </message>
 </context>
 <context>
@@ -278,77 +278,77 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="38"/>
         <source>Applications</source>
-        <translation type="unfinished">Aplikace</translation>
+        <translation>Aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="69"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="74"/>
         <source>Install Applications</source>
-        <translation type="unfinished">Instalovat aplikace</translation>
+        <translation>Instalovat aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="80"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Ovládací panel</translation>
+        <translation>Ovládací panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
         <source>Multimedia</source>
-        <translation type="unfinished">Multimédia</translation>
+        <translation>Multimédia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
         <source>Development</source>
-        <translation type="unfinished">Vývoj</translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
         <source>Education</source>
-        <translation type="unfinished">Výuka</translation>
+        <translation>Výuka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="94"/>
         <source>Games</source>
-        <translation type="unfinished">Hry</translation>
+        <translation>Hry</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="95"/>
         <source>Graphics</source>
-        <translation type="unfinished">Grafika</translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="96"/>
         <source>Network</source>
-        <translation type="unfinished">Síť</translation>
+        <translation>Síť</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="97"/>
         <source>Office</source>
-        <translation type="unfinished">Kancelář</translation>
+        <translation>Kancelář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="98"/>
         <source>Science</source>
-        <translation type="unfinished">Věda</translation>
+        <translation>Věda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="99"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="100"/>
         <source>System</source>
-        <translation type="unfinished">Systém</translation>
+        <translation>Systém</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="101"/>
         <source>Utility</source>
-        <translation type="unfinished">Nástroje</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="102"/>
@@ -363,7 +363,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="140"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Opustit</translation>
     </message>
 </context>
 <context>
@@ -384,12 +384,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/clock/LClock.cpp" line="121"/>
         <source>Time Zone (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Časové pásmo (%1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/clock/LClock.cpp" line="143"/>
         <source>Use System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít systémový čas</translation>
     </message>
 </context>
 <context>
@@ -407,17 +407,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvětšit velikost položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmenšit velikost položky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat položku</translation>
     </message>
 </context>
 <context>
@@ -488,12 +488,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="280"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="310"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Opustit</translation>
     </message>
 </context>
 <context>
@@ -510,7 +510,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/LStartButton.h" line="51"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat z rychlého spuštění</translation>
     </message>
 </context>
 <context>
@@ -519,7 +519,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="158"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="326"/>
         <source>Desktop</source>
-        <translation type="unfinished">Plocha</translation>
+        <translation>Plocha</translation>
     </message>
 </context>
 <context>
@@ -545,7 +545,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
         <source>Launch Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit Audio Mixer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
@@ -590,7 +590,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="149"/>
         <source>Activate Window</source>
-        <translation>Aktivní okno</translation>
+        <translation>Aktivovat okno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="152"/>
@@ -615,17 +615,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
         <source>Show All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukázat všechna okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
         <source>Minimize All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalizovat všechna okna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
         <source>Close All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít všechna okna</translation>
     </message>
 </context>
 <context>
@@ -633,7 +633,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="41"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished">Rychlé spuštění aplikace nebo otevření souboru</translation>
+        <translation>Rychlé spuštění aplikace nebo otevření souboru</translation>
     </message>
 </context>
 <context>
@@ -641,7 +641,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
@@ -666,7 +666,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>Diskové I/O</translation>
     </message>
 </context>
 <context>
@@ -674,7 +674,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="97"/>
         <source>Note Files (*.note)</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámky (*.note)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="97"/>
@@ -684,42 +684,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="98"/>
         <source>Open a note file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít poznámku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="135"/>
         <source>Name:</source>
-        <translation type="unfinished">Jméno:</translation>
+        <translation>Jméno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="137"/>
         <source>Invalid Note Name: Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný název poznámky: Zkuste znovu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="138"/>
         <source>Select a Note Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte jméno poznámky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="165"/>
         <source>Open Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít textový soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="166"/>
         <source>Create a Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit poznámku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="169"/>
         <source>Rename Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat poznámku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="170"/>
         <source>Delete Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit poznámku</translation>
     </message>
 </context>
 <context>
@@ -732,12 +732,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
         <source>Clear Playlist</source>
-        <translation>Smazat seznam skladeb</translation>
+        <translation>Vymazat seznam skladeb</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="68"/>
         <source>Shuffle Playlist</source>
-        <translation type="unfinished">Promíchat seznam skladeb</translation>
+        <translation>Promíchat seznam skladeb</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="70"/>
@@ -747,7 +747,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="71"/>
         <source>Add Directory</source>
-        <translation>Přidat adresář</translation>
+        <translation>Přidat složku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="72"/>
@@ -772,12 +772,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="157"/>
         <source>Enter a valid URL for a multimedia file or stream:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložte platnou adresu URL pro soubor s médii nebo stream:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation>URL multimédií</translation>
+        <translation>URL adresa média</translation>
     </message>
 </context>
 <context>
@@ -785,22 +785,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit možnosti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít webovou stránku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Více</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="113"/>
@@ -809,7 +809,11 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="154"/>
@@ -836,7 +840,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="287"/>
         <source>RSS URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="302"/>
@@ -872,17 +876,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="471"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="483"/>
         <source>Hour(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodin(y)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="478"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Minuty</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="522"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit nastavení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="70"/>
@@ -897,7 +901,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
         <source>Settings</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
@@ -907,7 +911,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="78"/>
         <source>Lumina Desktop RSS</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS prostředí Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
@@ -917,22 +921,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Název: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="145"/>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Webová stránka: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>
         <source>Last Build Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslední datum sestavení: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="148"/>
@@ -960,12 +964,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="26"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Předvolby</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Display</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
@@ -983,87 +987,87 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledejte psaním</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="171"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Ovládací panel</translation>
+        <translation>Ovládací panel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Opustit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
         <source>Show Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit kategorie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="488"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení plochy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Odhlásit uživatele</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Restartovat systém</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Předvolby</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1017"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypnout systém</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1036"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(aktualizace výkonu systému)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="924"/>
         <source>Suspend System</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejít do režimu spánku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1125"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpět</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="459"/>
         <source>%1% (Plugged In)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (zapojeno)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="463"/>
@@ -1073,14 +1077,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="464"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% zbývá</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="480"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="633"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="644"/>
         <source>Workspace %1/%2</source>
-        <translation type="unfinished">Pracovní plocha %1/%2</translation>
+        <translation>Pracovní plocha %1/%2</translation>
     </message>
 </context>
 <context>
@@ -1113,7 +1117,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="156"/>
         <source>Lock</source>
-        <translation>Uzamknout</translation>
+        <translation>Zamknout</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="172"/>
@@ -1136,12 +1140,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
-        <translation>Vymazat soubor</translation>
+        <translation>Odstranit soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Vytvořit zkratku</translation>
+        <translation>Vytvořit zkratku</translation>
     </message>
 </context>
 <context>
@@ -1181,7 +1185,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
         <source>Favorite FIles</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblíbené soubory</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="142"/>
@@ -1202,22 +1206,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
         <source>Home Directory</source>
-        <translation>Domovský adresář</translation>
+        <translation>Domovská složka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="322"/>
         <source>Search this Directory</source>
-        <translation>Hledat v adresáři</translation>
+        <translation>Prohledat složku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="375"/>
         <source>Go back to home directory</source>
-        <translation>Přejít do domovské složky</translation>
+        <translation>Zpět do domovské složky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="350"/>
         <source>Open Directory</source>
-        <translation>Otevřít adresář</translation>
+        <translation>Otevřít složku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="458"/>
@@ -1237,7 +1241,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="495"/>
         <source>Desktop Appearance/Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzhled/Pluginy plochy</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="517"/>
@@ -1257,7 +1261,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="288"/>
         <source>All</source>
-        <translation type="unfinished">Vše</translation>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="289"/>
@@ -1312,7 +1316,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="299"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="300"/>

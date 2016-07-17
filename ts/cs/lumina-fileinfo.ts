@@ -28,7 +28,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="104"/>
         <source>Created:</source>
-        <translation type="unfinished">Vytvořeno:</translation>
+        <translation>Vytvořeno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="111"/>
@@ -38,7 +38,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="124"/>
         <source>Last Modified:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naposledy změněno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="131"/>
@@ -48,7 +48,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="138"/>
         <source>MimeType:</source>
-        <translation type="unfinished"></translation>
+        <translation>MIME typ:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="185"/>
@@ -59,7 +59,7 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="216"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="130"/>
         <source>Edit Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit klávesovou zkratku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="239"/>
@@ -69,7 +69,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="246"/>
         <source>Use startup notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít oznámení o spuštění</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="260"/>
@@ -94,32 +94,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="291"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="298"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="336"/>
         <source>No Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ikony</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="392"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="405"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="59"/>
         <source>---Calculating---</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">---Počítání---</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="68"/>
@@ -134,7 +134,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="70"/>
         <source>Write Only</source>
-        <translation type="unfinished">Pouze pro zápis</translation>
+        <translation>Pouze pro zápis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="71"/>
@@ -144,7 +144,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="75"/>
         <source>XDG Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG klávesová zkratka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="76"/>
@@ -154,12 +154,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="77"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="79"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryto %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="116"/>
@@ -169,48 +169,48 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Save Application File</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit soubor aplikace</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Application Registrations (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zápis aplikace (*.desktop)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="277"/>
         <source>Select a binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="280"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="280"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný výběr: Není platný spustitelný soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="292"/>
         <source>Select a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte složku</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="305"/>
         <source>Select an icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte ikonu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="305"/>
         <source>Images (%1);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrázky (%1);; Všechny soubory (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="328"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="330"/>
         <source> Folders: </source>
-        <translation type="unfinished"></translation>
+        <translation> Složky: </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="328"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="330"/>
         <source>  Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>  Počítání...</translation>
     </message>
 </context>
 </TS>

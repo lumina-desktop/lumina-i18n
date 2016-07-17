@@ -6,12 +6,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/ImageEditor.cpp" line="14"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Přiblížit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/ImageEditor.cpp" line="15"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Oddálit</translation>
     </message>
 </context>
 <context>
@@ -26,12 +26,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="37"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nový snímek obrazovky</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="43"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="124"/>
@@ -51,33 +51,33 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="172"/>
         <source>View/Edit</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit/Upravit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="212"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="306"/>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Uložit jako</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="222"/>
         <source>Launch Editor</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout Editor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="245"/>
         <source>Crop</source>
-        <translation type="unfinished"/>
+        <translation>Oříznout</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="255"/>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>Změnit velikost</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="282"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="298"/>
@@ -87,27 +87,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="322"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="325"/>
         <source>Esc</source>
-        <translation type="unfinished"/>
+        <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="67"/>
         <source>Entire Session</source>
-        <translation type="unfinished"/>
+        <translation>Celé sezení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="81"/>
         <source>Single Window</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Jediné okno</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="74"/>
         <source>Single Screen</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Jediná obrazovka</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>
@@ -122,12 +122,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="317"/>
         <source>Quick Save</source>
-        <translation type="unfinished"/>
+        <translation>Rychle uložit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation type="unfinished">PNG  Soubory (*.png);;Všechny soubory (*)</translation>
+        <translation>PNG Soubory (*.png);;Všechny soubory (*)</translation>
     </message>
 </context>
 </TS>

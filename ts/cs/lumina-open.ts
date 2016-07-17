@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="131"/>
         <source>Binary Location</source>
-        <translation type="unfinished">Místo v binárním kódu</translation>
+        <translation>Místo v binárním kódu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="138"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="271"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít soubor aplikace</translation>
     </message>
 </context>
 <context>
@@ -176,7 +176,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="286"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished">Zástupci složky chybí cesta do složky: %1</translation>
+        <translation>Zástupci složky chybí cesta do adresáře: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
