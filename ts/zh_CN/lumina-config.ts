@@ -1387,8 +1387,8 @@
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
-        <source>Quick-Access Menu</source>
-        <translation type="unfinished">快速访问菜单</translation>
+        <source>Context Menu Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
