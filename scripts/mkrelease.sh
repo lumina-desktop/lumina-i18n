@@ -23,7 +23,7 @@ do
    echo "Creating: $i ->  $QMNAME"
 
    /usr/local/lib/qt5/bin/lrelease $i -qm ${PROGDIR}/qmtmp/$QMNAME >/dev/null 2>/dev/null
-   if [ $? -ne 0 ] ; then exit 1; fi
+   if [ $? -ne 0 ] ; then echo "[ERROR] Could not convert localization: $QMNAME" ; fi
 done
 
 cd ${PROGDIR}/qmtmp
