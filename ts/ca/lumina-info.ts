@@ -9,102 +9,87 @@
         <translation>Informació de l&apos;escriptori Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="61"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="60"/>
         <source>General</source>
         <translation>General</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="79"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="83"/>
+        <source>Source Repository</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="112"/>
+        <source>Lumina Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="134"/>
+        <source>Bug Reports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="161"/>
         <source>Desktop Version:</source>
         <translation>Versió de l&apos;escriptori:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="102"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="184"/>
         <source>OS Build:</source>
         <translation>Construcció del sistema:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="128"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="200"/>
         <source>Qt Version:</source>
         <translation>Versió de Qt:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="194"/>
-        <source>Source Repository:</source>
-        <translation>Repositori font:</translation>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="252"/>
+        <source>Ask the Community</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="143"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="215"/>
         <source>View Information</source>
         <translation>Mostra&apos;n la informació</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="171"/>
-        <source>Lumina Website:</source>
-        <translation>Lloc web del Lumina:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="178"/>
-        <source>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://lumina-desktop.org&quot;&gt;Obre al navegador&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="214"/>
-        <source>Report a Bug:</source>
-        <translation>Informeu d&apos;un error:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="221"/>
-        <source>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Open in Web Browser&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://bugs.pcbsd.org/projects/pcbsd&quot;&gt;Obre en un navegador web&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="244"/>
-        <source>Community Support:</source>
-        <translation>Suport de la comunitat:</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="251"/>
-        <source>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Open in web browser&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://webchat.freenode.net/?channels=%23lumina-desktop&quot;&gt;Obre en un navegador web&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="262"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="274"/>
         <source>License</source>
         <translation>Llicència</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="279"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="291"/>
         <source>Acknowledgements</source>
         <translation>Agraïments</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="297"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="309"/>
         <source>Project Lead:</source>
         <translation>Conducció del projecte:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="304"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="316"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="317"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="329"/>
         <source>Contributors:</source>
         <translation>Col·laboradors:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="330"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="342"/>
         <source>Sponsors:</source>
         <translation>Patrocinadors:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="392"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="404"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
         <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Obre en un navegador&lt;a&gt;</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="418"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="430"/>
         <source>Close</source>
         <translation>Tanca</translation>
     </message>
