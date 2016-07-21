@@ -16,17 +16,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="83"/>
         <source>Source Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak Deposu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="112"/>
         <source>Lumina Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Web Sitesi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="134"/>
         <source>Bug Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata Raporları</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="161"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="252"/>
         <source>Ask the Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Topluluğa Sor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="215"/>
