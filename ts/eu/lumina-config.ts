@@ -1794,23 +1794,23 @@ Gainidatzi?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="51"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
         <source>Theme Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="66"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="80"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="131"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="157"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="67"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="81"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="132"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="158"/>
         <source>Local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="73"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="87"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="138"/>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="164"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="74"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="88"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="139"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="165"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
