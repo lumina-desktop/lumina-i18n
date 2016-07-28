@@ -785,7 +785,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Modulo</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
