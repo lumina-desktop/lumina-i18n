@@ -795,7 +795,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation>Apri sito web</translation>
+        <translation>Apri il sito web</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
@@ -883,7 +883,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="71"/>
         <source>View Feed Details</source>
-        <translation>Mostra dettagli del feed</translation>
+        <translation>Mostra i dettagli del feed</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
@@ -893,7 +893,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
         <source>Update Feeds Now</source>
-        <translation>Aggiorna feed adesso</translation>
+        <translation>Aggiorna i feed adesso</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="78"/>
