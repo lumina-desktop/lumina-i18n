@@ -452,7 +452,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="320"/>
         <source>Invalid Move</source>
-        <translation>Ogiltigt drag.</translation>
+        <translation>Ogiltigt drag</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="320"/>

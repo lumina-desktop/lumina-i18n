@@ -16,17 +16,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="83"/>
         <source>Source Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Källkodsarkiv</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="112"/>
         <source>Lumina Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Webbplats för Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="134"/>
         <source>Bug Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugg rapporter</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="161"/>

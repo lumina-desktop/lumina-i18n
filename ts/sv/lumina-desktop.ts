@@ -265,7 +265,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skriptanalysutmatning: %1</translation>
     </message>
 </context>
 <context>
@@ -615,17 +615,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
         <source>Show All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla fönster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
         <source>Minimize All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimera alla fönster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
         <source>Close All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng alla fönster</translation>
     </message>
 </context>
 <context>
