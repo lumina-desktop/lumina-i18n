@@ -269,7 +269,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプト出力の解析に失敗しました: %1</translation>
     </message>
 </context>
 <context>
@@ -524,7 +524,8 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="158"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="326"/>
         <source>Desktop</source>
-        <translation type="unfinished">デスクトップ</translation>
+        <translatorcomment>これ、ファイルパスなので、「デスクトップ」と訳したらまずい</translatorcomment>
+        <translation>Desktop</translation>
     </message>
 </context>
 <context>
@@ -621,17 +622,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
         <source>Show All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのウインドウを開く</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
         <source>Minimize All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのウインドウを最小化</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
         <source>Close All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのウィンドウを閉じる</translation>
     </message>
 </context>
 <context>
@@ -800,7 +801,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>オプションを表示します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
@@ -810,7 +811,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>詳しく表示</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="154"/>
