@@ -506,12 +506,12 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="249"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Door bestanden bladeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="270"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkeuren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="278"/>
@@ -661,22 +661,22 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change background image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondafbeelding(en) wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Change Desktop Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaubladthema veranderen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
@@ -1796,7 +1796,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Thema-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="67"/>
@@ -1850,7 +1850,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="55"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Achtergrondinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="64"/>

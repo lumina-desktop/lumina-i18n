@@ -717,7 +717,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Default Applications for File Type</source>
-        <translation>ファイル種類別デフォルトアプリケーション</translation>
+        <translation>通常使用するアプリケーションをファイル種類ごとに指定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
@@ -727,7 +727,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Change default applications</source>
-        <translation>デフォルトのアプリケーションを変更します</translation>
+        <translation>通常使用するアプリケーションを変更します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
@@ -807,17 +807,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ロケール設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change the default locale settings for this user</source>
-        <translation type="unfinished"></translation>
+        <translation>自分のロケール設定を変更します</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
         <source>General Options</source>
-        <translation type="unfinished">一般設定</translation>
+        <translation>一般設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
@@ -1056,7 +1056,8 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.cpp" line="36"/>
         <source>Compositor Settings</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Window effects&quot; 乃設定画面のタイトル</translatorcomment>
+        <translation>画面効果の設定</translation>
     </message>
 </context>
 <context>
@@ -1084,7 +1085,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="104"/>
         <source>Default Application</source>
-        <translation>デフォルトのアプリケーション</translation>
+        <translation>通常使用するアプリケーション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="109"/>
@@ -1109,38 +1110,38 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="168"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>基本設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="187"/>
         <source>Web Browser:</source>
-        <translation type="unfinished">Webブラウザー</translation>
+        <translation>Webブラウザー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="210"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished">メールクライアント:</translation>
+        <translation>メールクライアント:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="237"/>
         <source>File Manager:</source>
-        <translation type="unfinished">ファイルマネージャー:</translation>
+        <translation>ファイルマネージャー:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="250"/>
         <source>Virtual Terminal:</source>
-        <translation type="unfinished">仮想端末:</translation>
+        <translation>仮想端末:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="257"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="267"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="43"/>
         <source>Default Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>通常使用するアプリケーション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="62"/>
@@ -1299,48 +1300,48 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="81"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished">ワークスペース番号</translation>
+        <translation>ワークスペース番号</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="98"/>
         <source>New Window Placement</source>
-        <translation type="unfinished">新しいディスプレイの表示位置</translation>
+        <translation>新しいディスプレイの表示位置</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="108"/>
         <source>Focus Policy</source>
-        <translation type="unfinished">フォーカスのポリシー</translation>
+        <translation>フォーカス方針</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="118"/>
         <source>Window Theme</source>
-        <translation type="unfinished">ウィンドウのテーマ</translation>
+        <translation>ウィンドウのテーマ</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="136"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished">ウィンドウテーマのプレビュー</translation>
+        <translation>ウィンドウテーマのプレビュー</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="190"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="182"/>
         <source>No Preview Available</source>
-        <translation type="unfinished">プレビューは利用できません</translation>
+        <translation>プレビューは利用できません</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="71"/>
         <source>Window Manager Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウマネージャーの設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="76"/>
         <source>Click To Focus</source>
-        <translation type="unfinished">クリックでフォーカス</translation>
+        <translation>クリックでフォーカス</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="77"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished">マウスを操作してウィンドウ上に乗せるとフォーカス</translation>
+        <translation>マウスを操作してウィンドウ上に乗せるとフォーカス</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="78"/>
@@ -1447,7 +1448,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
         <source>Desktop Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>デスクトップセッションのオプション</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
@@ -1500,22 +1501,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
         <source>Collate</source>
-        <translation type="unfinished">Collate(文字照合)</translation>
+        <translation>Collate(文字照合)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation type="unfinished">ctype (文字判別処理)</translation>
+        <translation>ctype (文字判別処理)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">デスクトップ設定</translation>
+        <translation>デスクトップ設定</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">システムのデフォルト</translation>
+        <translation>システムのデフォルト</translation>
     </message>
 </context>
 <context>
@@ -1523,22 +1524,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">フォーム</translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished">起動時に Numlock キーを有効にする</translation>
+        <translation>起動時に Numlock キーを有効にする</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="41"/>
         <source>Play chimes on startup</source>
-        <translation type="unfinished">起動時にチャイムを再生する</translation>
+        <translation>起動時にチャイムを再生する</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="48"/>
         <source>Play chimes on exit</source>
-        <translation type="unfinished">終了時にチャイムを再生する</translation>
+        <translation>終了時にチャイムを再生する</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="57"/>
@@ -1635,7 +1636,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="142"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished">有効な時刻設定コード:</translation>
+        <translation>有効な時刻設定コード:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="143"/>
@@ -1685,42 +1686,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="165"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished">有効な日付設定コード:</translation>
+        <translation>有効な日付設定コード:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="166"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished">%1: 先頭の0が無い日を表示する (1)</translation>
+        <translation>%1: 先頭の0が無い日を表示する (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="167"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished">%1: 先頭に0を付けて日を表示する (01)</translation>
+        <translation>%1: 先頭に0を付けて日を表示する (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished">%1: 短縮した曜日を表示する (言語設定で変わる)</translation>
+        <translation>%1: 短縮した曜日を表示する (言語設定で変わる)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: 完全な曜日を表示する (言語設定で変わる)</translation>
+        <translation>%1: 完全な曜日を表示する (言語設定で変わる)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: 数字で先頭の0が無い月を表示する (2)</translation>
+        <translation>%1: 数字で先頭の0が無い月を表示する (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: 数字で先頭に0を付けた日を表示する (02)</translation>
+        <translation>%1: 数字で先頭に0を付けた日を表示する (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="172"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished">%1: 月の名前を短縮表示する (言語設定で変わる)</translation>
+        <translation>%1: 月の名前を短縮表示する (言語設定で変わる)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="173"/>
@@ -1825,7 +1826,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="139"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="165"/>
         <source>System</source>
-        <translation type="unfinished">システム</translation>
+        <translation>システム</translation>
     </message>
 </context>
 <context>
@@ -1879,43 +1880,43 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="76"/>
         <source>Screen Resolution:</source>
-        <translation type="unfinished">画面の解像度:</translation>
+        <translation>画面の解像度:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="98"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="99"/>
         <source>Select Color</source>
-        <translation type="unfinished">色の選択</translation>
+        <translation>色の選択</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="118"/>
         <source>File(s)</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="119"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished">ディレクトリー(直下のみ)</translation>
+        <translation>ディレクトリー(直下のみ)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="120"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished">ディレクトリー(再帰)</translation>
+        <translation>ディレクトリー(再帰)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="121"/>
         <source>Solid Color</source>
-        <translation type="unfinished">単色</translation>
+        <translation>指定色</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="125"/>
         <source>Automatic</source>
-        <translation type="unfinished">自動配置</translation>
+        <translation>自動配置</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="126"/>
         <source>Fullscreen</source>
-        <translation type="unfinished">フルスクリーン</translation>
+        <translation>フルスクリーン</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="127"/>

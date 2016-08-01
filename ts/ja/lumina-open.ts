@@ -36,7 +36,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="199"/>
         <source>Set this application as the default </source>
-        <translation>このアプリケーションをデフォルトにする </translation>
+        <translation>このアプリケーションをいつも使用する </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.ui" line="221"/>
