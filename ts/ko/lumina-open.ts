@@ -184,12 +184,12 @@
         <translation>알 수 없는 종류의 바로 가기: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>Application Error</source>
         <translation>프로그램 오류</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>다음의 프로그램에 오류가 발생하여 종료하였습니다:</translation>
     </message>

@@ -184,12 +184,12 @@
         <translation>未知类型的快捷方式：%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>Application Error</source>
         <translation>应用程序出错</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>下面的应用程序遇到错误，需要关闭</translation>
     </message>

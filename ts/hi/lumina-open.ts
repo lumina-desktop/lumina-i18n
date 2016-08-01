@@ -184,12 +184,12 @@
         <translation>अनजान प्रकार का शॉर्टकट:%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>Application Error</source>
         <translation>एप्लीकेशन त्रुटि</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="395"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>इस एप्लीकेशन में त्रुटि है और इसे बंद करने की आवश्यकता है:</translation>
     </message>
