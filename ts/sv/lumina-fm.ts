@@ -199,7 +199,7 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="518"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
-        <translation>Stäng denna webläsaren</translation>
+        <translation>Stäng denna webbläsaren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="131"/>

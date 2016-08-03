@@ -62,7 +62,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="222"/>
         <source>Launch Editor</source>
-        <translation>Starta editor</translation>
+        <translation>Starta redigerare</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="245"/>

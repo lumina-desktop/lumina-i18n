@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation>Lumina Skrivbords Information</translation>
+        <translation>Lumina Skrivbordet-information</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="60"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="276"/>
         <source>Ask the Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga gemenskapen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="233"/>

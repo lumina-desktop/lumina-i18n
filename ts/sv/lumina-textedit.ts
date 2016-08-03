@@ -88,7 +88,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="139"/>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Matcha skiftläge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
         <source>Replace all matches (to end of document)</source>
-        <translation>Byt ut alla matchningar (till slutet av dokumentet)</translation>
+        <translation>Ersätt alla träffar (till slut av dokument)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="197"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="349"/>
         <source>Wrap Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Radbryt linjer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="354"/>
