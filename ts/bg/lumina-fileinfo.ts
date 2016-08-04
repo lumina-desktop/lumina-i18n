@@ -169,7 +169,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Save Application File</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис на файла на програмата</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
