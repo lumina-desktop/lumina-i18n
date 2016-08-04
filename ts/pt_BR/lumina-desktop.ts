@@ -903,37 +903,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
         <source>Feed URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URL da postagem: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Título: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="145"/>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Site: %s</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>
         <source>Last Build Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Última data da compilação: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="148"/>
         <source>Last Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Última sincronização: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="149"/>
         <source>Next Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima sincronização: %1</translation>
     </message>
 </context>
 <context>
@@ -956,7 +956,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exibição</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
@@ -989,7 +989,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar pelos Aplicativos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
@@ -1019,7 +1019,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desconectar Usuário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>

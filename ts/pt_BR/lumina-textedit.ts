@@ -98,58 +98,58 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
         <source>Replace all matches (to end of document)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Substituir todos coincididos (até o final do documento) </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="197"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="210"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="214"/>
         <source>Syntax Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Realce de Sintaxe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="227"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="242"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de ferramentas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="268"/>
         <source>Show Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibir Números de Linha</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="273"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="278"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="128"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="281"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Arquivo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="292"/>
@@ -199,37 +199,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="349"/>
         <source>Wrap Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Quebrar Linhas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="354"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="357"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="365"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="368"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="25"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor de Texto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Open File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Abrir arquivo(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>

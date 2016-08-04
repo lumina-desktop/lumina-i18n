@@ -155,12 +155,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adicionar seleção para uma lista no reprodutor de multimídia </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="112"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="465"/>
@@ -171,35 +171,35 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="468"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltar para a pasta anterior</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Acima</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="482"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para pasta-pai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="496"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a pasta inicial</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="518"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar este navegador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="131"/>
@@ -245,7 +245,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="474"/>
         <source>Dirs: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastas: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="776"/>
@@ -261,12 +261,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>Error Creating Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao Criar Documento</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="787"/>
         <source>The document could not be created. Please ensure that you have the proper permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>O documento não pode ser criado. Por favor, certifique-se que possuí permissão necessária.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="797"/>
@@ -281,37 +281,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Já existe um arquivo ou pasta com este nome. Por favor, use um nome diferente.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao Criar Pasta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>A pasta não pode ser criada. Por favor, verifique suas permissões.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="834"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Atual</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo checksum:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utilitário faltando</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>O &quot;lumina-fileinfo&quot; não pode ser encontrado no sistema. Por favor, instale-o...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="979"/>
@@ -326,17 +326,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="982"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="983"/>
         <source>View Checksums...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ver Checksums...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="994"/>
         <source>File Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades do arquivo...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="987"/>
@@ -399,7 +399,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="131"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: isto irá adicionar um número ao nome do arquivo.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="148"/>
@@ -444,7 +444,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="169"/>
         <source>File Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erros do arquivo</translation>
     </message>
 </context>
 <context>
@@ -460,7 +460,10 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível mover a pasta para ele mesmo. Por favor, faça uma cópia da pasta.
+
+Localização Antiga: %1
+Nova Localização: %2</translation>
     </message>
 </context>
 <context>
@@ -534,47 +537,47 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="305"/>
         <source>Decrease Icon Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir tamanho da ícone</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="310"/>
         <source>Larger Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícones maiores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="313"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl++</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ícones menores</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="324"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="332"/>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="335"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="343"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar Marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="346"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="398"/>
@@ -584,17 +587,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="401"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="409"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="420"/>
         <source>Close Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar Navegador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="194"/>
@@ -664,17 +667,17 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
         <source>Prefer Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preferências das Abas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
         <source>Prefer Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferência das Colunas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="412"/>
         <source>F5</source>
-        <translation type="unfinished"></translation>
+        <translation>F5</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="379"/>
@@ -684,12 +687,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="354"/>
         <source>Rename...</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="357"/>
         <source>F2</source>
-        <translation type="unfinished"></translation>
+        <translation>F2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="365"/>
@@ -714,7 +717,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="368"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="195"/>
@@ -734,7 +737,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="333"/>
         <source>%1 (Type: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Tipo: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="337"/>
@@ -744,12 +747,12 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="558"/>
         <source>Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="585"/>
         <source>New Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Marcador</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="585"/>
@@ -769,7 +772,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="697"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimídia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="715"/>
@@ -779,7 +782,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="892"/>
         <source>Items to be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Itens para ser removidos:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="414"/>
@@ -789,7 +792,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="414"/>
@@ -896,13 +899,13 @@ New Location: %2</source>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="89"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="92"/>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="105"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="108"/>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduzir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="212"/>
