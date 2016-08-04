@@ -135,7 +135,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="80"/>
         <source>New Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova pasta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="64"/>
