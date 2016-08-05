@@ -240,12 +240,12 @@
 <context>
     <name>PlainTextEditor</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="75"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="92"/>
         <source>Save File</source>
         <translation>Запис на файл</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="75"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="92"/>
         <source>Text File (*)</source>
         <translation>Текстов файл (*)</translation>
     </message>
