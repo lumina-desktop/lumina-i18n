@@ -3,7 +3,7 @@ lumina-i18n
 
 i18n files for Lumina, created from http://translate.pcbsd.org
 
-To install these translation files, just extract the dist/lumina-i18n.txz file into ${PREFIX]/share/Lumina-DE/i18n (you may need to create that directory first). Then the next time you log in to the Lumina desktop environment it will read the system locale and load the appropriate translation files.
+To install these translation files, just extract the dist/lumina-i18n.txz file into ${PREFIX]/share/lumina-desktop/i18n (you may need to create that directory first). Then the next time you log in to the Lumina desktop environment it will read the system locale and load the appropriate translation files.
 
 Example (FreeBSD):
 
