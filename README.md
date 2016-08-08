@@ -7,10 +7,10 @@ To install these translation files, just extract the dist/lumina-i18n.txz file i
 
 Example (FreeBSD):
 
-`tar xvf <local copy of repo>/dist/lumina-i18n.txz -C /usr/local/share/Lumina-DE/i18n`
+`tar xvf <local copy of repo>/dist/lumina-i18n.txz -C /usr/local/share/lumina-desktop/i18n`
 
 In the "x11/lumina-i18n" FreeBSD port (with staging and such) it runs these two commands to do the intallation:
 
-`${MKDIR} ${STAGEDIR}${PREFIX}/share/Lumina-DE/i18n`
+`${MKDIR} ${STAGEDIR}${PREFIX}/share/lumina-desktop/i18n`
 
-`tar xvf ${WRKSRC}/dist/${PORTNAME}.txz -C ${STAGEDIR}${PREFIX}/share/Lumina-DE/i18n`
+`tar xvf ${WRKSRC}/dist/${PORTNAME}.txz -C ${STAGEDIR}${PREFIX}/share/lumina-desktop/i18n`
