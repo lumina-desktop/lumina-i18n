@@ -98,7 +98,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
         <source>Replace all matches (to end of document)</source>
-        <translation type="unfinished">Substituir todos coincididos (até o final do documento) </translation>
+        <translation>Substituir todos que coincidirem (até o final do documento)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="197"/>

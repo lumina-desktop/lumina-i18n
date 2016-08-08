@@ -155,7 +155,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished">Adicionar seleção para uma lista no reprodutor de multimídia </translation>
+        <translation type="unfinished">Adicionar seleção para uma lista no reprodutor de multimídia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="112"/>
@@ -496,7 +496,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="130"/>
         <source>View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de Visualização</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="136"/>

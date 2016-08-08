@@ -107,7 +107,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="74"/>
         <source>Single Screen</source>
-        <translation>Somente tela </translation>
+        <translation>Tela Única</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>

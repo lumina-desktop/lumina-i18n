@@ -852,7 +852,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="437"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
-        <translation type="unfinished">Algumas postagens de RSS podem solicitar intervalos de atualizações diferentes dos usados nesta configuração </translation>
+        <translation>Algumas postagens de RSS podem solicitar intervalos de atualizações diferentes dos usados nesta configuração</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="440"/>
@@ -918,7 +918,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation>Site: %s</translation>
+        <translation>Site: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>

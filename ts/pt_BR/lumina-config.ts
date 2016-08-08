@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
         <source> pixel(s) thick</source>
-        <translation>pixel(s) grande(s)</translation>
+        <translation>  pixel(s) grande(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>
@@ -771,7 +771,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Panels and Plugins</source>
-        <translation>Painéis e Plugins </translation>
+        <translation>Painéis e Plugins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
@@ -806,7 +806,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change the default locale settings for this user</source>
-        <translation>Alterar configurações de localização padrão para este usuário </translation>
+        <translation>Alterar configurações de localização padrão para este usuário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
