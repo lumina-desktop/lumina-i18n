@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
         <source> pixel(s) thick</source>
-        <translation>  pixel(s) grande(s)</translation>
+        <translation> pixel(s) grande(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>
@@ -1212,7 +1212,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="161"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished">Alterar chave de ligação:</translation>
+        <translation>Alterar combinação de teclas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="184"/>
@@ -1340,12 +1340,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="81"/>
         <source>Align in a Row</source>
-        <translation type="unfinished">Alinhar em uma linha</translation>
+        <translation>Alinhar em uma linha</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="82"/>
         <source>Align in a Column</source>
-        <translation type="unfinished">Alinhar em uma coluna</translation>
+        <translation>Alinhar em uma coluna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="83"/>
@@ -1355,7 +1355,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="84"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished">Sob o mouse</translation>
+        <translation>Sob o mouse</translation>
     </message>
 </context>
 <context>
@@ -1373,7 +1373,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished">Mostrar conteúdo da pasta Desktop</translation>
+        <translation>Mostrar conteúdo da pasta Área de Trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="54"/>
@@ -1455,27 +1455,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished">Configurações de localização do sistema (necessário reiniciar)</translation>
+        <translation>Configurações do sistema de localização (necessário reiniciar)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="39"/>
         <source>Language</source>
-        <translation type="unfinished">Idioma</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
         <source>Messages</source>
-        <translation type="unfinished">Mensagens</translation>
+        <translation>Mensagens</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
         <source>Time</source>
-        <translation type="unfinished">Hora</translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
@@ -1485,7 +1485,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
         <source>Monetary</source>
-        <translation type="unfinished">Monetário</translation>
+        <translation>Moeda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
@@ -1505,7 +1505,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">Padrão do sistema</translation>
+        <translation>Padrão do sistema</translation>
     </message>
 </context>
 <context>
@@ -1513,12 +1513,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
         <source>Enable numlock on startup</source>
-        <translation type="unfinished">Ativar numlock na inicialização</translation>
+        <translation>Ativar numlock ao iniciar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="41"/>
@@ -1538,7 +1538,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="95"/>
         <source>Time Format:</source>
-        <translation type="unfinished">Formato de hora:</translation>
+        <translation>Formato de hora:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="107"/>
@@ -1550,12 +1550,12 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="122"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="166"/>
         <source>Sample:</source>
-        <translation type="unfinished">Exemplo:</translation>
+        <translation>Exemplo:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="139"/>
         <source>Date Format:</source>
-        <translation type="unfinished">Formato de data:</translation>
+        <translation>Formato da data:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="186"/>
