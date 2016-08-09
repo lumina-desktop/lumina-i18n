@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="nl">
 <context>
     <name>ConfigUI</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="14"/>
         <source>Search Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoekinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="20"/>
         <source>Start Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Begin met zoeken:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="39"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="48"/>
         <source>Excluded Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitgesloten mappen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.ui" line="119"/>
