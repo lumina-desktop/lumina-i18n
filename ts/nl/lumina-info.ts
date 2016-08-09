@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="nl">
 <context>
     <name>MainUI</name>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Desktop informatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="60"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="89"/>
         <source>Source Repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakketbron</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="124"/>
         <source>Lumina Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina Website</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="152"/>
         <source>Bug Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout Raportages</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="179"/>
         <source>Desktop Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Versie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="202"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="218"/>
         <source>Qt Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-versie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="276"/>
@@ -51,37 +51,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="233"/>
         <source>View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie tonen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="298"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licentie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="315"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Erkenningen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="333"/>
         <source>Project Lead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Project beheerder:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="340"/>
         <source>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://github.com/beanpole135&quot;&gt;Ken Moore&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="353"/>
         <source>Contributors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijdragen van:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="366"/>
         <source>Sponsors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sponsoren:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="428"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="454"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsluiten</translation>
     </message>
 </context>
 </TS>
