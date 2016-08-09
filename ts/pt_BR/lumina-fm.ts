@@ -165,7 +165,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="465"/>
         <source>Back</source>
-        <translation type="unfinished">Voltar</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="468"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
-        <translation type="unfinished">Utilitário faltando</translation>
+        <translation>Utilitário faltando</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
@@ -316,12 +316,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="979"/>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="980"/>
         <source>Open With...</source>
-        <translation type="unfinished">Abrir com...</translation>
+        <translation>Abrir com...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="982"/>
@@ -341,12 +341,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="987"/>
         <source>Cut Selection</source>
-        <translation type="unfinished">Recortar seleção</translation>
+        <translation>Cortar seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="988"/>
         <source>Copy Selection</source>
-        <translation type="unfinished">Copiar seleção</translation>
+        <translation>Copiar seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="989"/>
@@ -356,12 +356,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="991"/>
         <source>Delete Selection</source>
-        <translation type="unfinished">Excluir seleção</translation>
+        <translation>Excluir seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished">Abrir terminal aqui</translation>
+        <translation>Abrir terminal aqui</translation>
     </message>
 </context>
 <context>
@@ -501,7 +501,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="136"/>
         <source>Group Mode</source>
-        <translation type="unfinished">Modo em Grupo</translation>
+        <translation>Modo de grupo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="154"/>
@@ -552,7 +552,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
-        <translation type="unfinished">Ícones menores</translation>
+        <translation>Ícones pequenos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="324"/>
@@ -582,7 +582,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation type="unfinished">Excluir seleção</translation>
+        <translation>Excluir seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="401"/>
@@ -667,7 +667,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="68"/>
         <source>Prefer Tabs</source>
-        <translation type="unfinished">Preferências das Abas</translation>
+        <translation>Prefer. abas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="69"/>
@@ -682,7 +682,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="379"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished">Ctrl+C</translation>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="354"/>
@@ -702,12 +702,12 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished">Copiar seleção</translation>
+        <translation>Copiar seleção</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished">Colar</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="390"/>
@@ -855,12 +855,12 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
-        <translation type="unfinished">Reproduzindo:</translation>
+        <translation>Reproduzindo:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
         <source>Stopped</source>
-        <translation type="unfinished">Interrompido</translation>
+        <translation>Parado</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
@@ -883,17 +883,17 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>
         <source>Delete this image file</source>
-        <translation type="unfinished">Remover este arquivo de imagem</translation>
+        <translation>Excluir este arquivo de imagem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="56"/>
         <source>Rotate this image file counter-clockwise</source>
-        <translation type="unfinished">Rotacionar este arquivo de imagem no sentido anti-horário</translation>
+        <translation>Rotacionar este arquivo de imagem no sentido anti-horário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="69"/>
         <source>Rotate this image file clockwise</source>
-        <translation type="unfinished">Rotacionar este arquivo de imagem no sentido horário</translation>
+        <translation>Rotacionar este arquivo de imagem no sentido horário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="89"/>
@@ -973,7 +973,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.cpp" line="125"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished">Você tem certeza de que deseja continuar?</translation>
+        <translation>Você tem certeza de que deseja continuar?</translation>
     </message>
 </context>
 </TS>

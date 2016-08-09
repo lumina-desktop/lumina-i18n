@@ -995,7 +995,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="85"/>
         <source>Binary</source>
-        <translation type="unfinished">Binário</translation>
+        <translation>Binário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="95"/>
@@ -1159,12 +1159,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Binário inválido</translation>
+        <translation>Binário inválido</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished">O binário selecionado não é executável!</translation>
+        <translation>O binário selecionado não é executável!</translation>
     </message>
 </context>
 <context>
@@ -1172,7 +1172,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="14"/>
         <source>page_fluxbox_keys</source>
-        <translation type="unfinished">page_fluxbox_keys</translation>
+        <translation>page_fluxbox_keys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="34"/>
@@ -1217,19 +1217,19 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="184"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished">Nota: atalhos de teclado atuais precisam ser limpos e salvos antes que eles possam ser reutilizados.</translation>
+        <translation>Nota: os atalhos de teclado atuais devem ser limpos e salvos antes de serem reutilizados.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="220"/>
         <source>View Syntax Codes</source>
-        <translation type="unfinished">Ver sintaxe dos códigos</translation>
+        <translation>Ver códigos de sintaxe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="244"/>
         <source>&quot;Mod1&quot;:	Alt key
 &quot;Mod4&quot;: 	Windows/Mac key
 &quot;Control&quot;:	Ctrl key</source>
-        <translation type="unfinished">&quot;Mod1&quot;:	tecla Alt
+        <translation>&quot;Mod1&quot;:	tecla Alt
 &quot;Mod4&quot;: 	tecla Windows/Mac
 &quot;Controle&quot;:	tecla Ctrl</translation>
     </message>
@@ -1241,27 +1241,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="79"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished">Aumentar volume do som</translation>
+        <translation>Aumentar volume</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="80"/>
         <source>Audio Volume Down</source>
-        <translation>Diminuir Volume</translation>
+        <translation>Diminuir volume</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="81"/>
         <source>Screen Brightness Up</source>
-        <translation>Aumentar brilho da tela</translation>
+        <translation>Aumentar brilho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="82"/>
         <source>Screen Brightness Down</source>
-        <translation>Diminuir brilho da tela</translation>
+        <translation>Diminuir brilho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="83"/>
         <source>Take Screenshot</source>
-        <translation>Capturar imagem da tela</translation>
+        <translation>Capturar tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="84"/>
@@ -1289,17 +1289,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="81"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished">Número de espaços de trabalho</translation>
+        <translation>Número de áreas de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="98"/>
         <source>New Window Placement</source>
-        <translation>Posicionamento da nova janela</translation>
+        <translation>Novo posicionamento da janela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="108"/>
         <source>Focus Policy</source>
-        <translation type="unfinished">Política de foco</translation>
+        <translation>Política de foco</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="118"/>
@@ -1325,7 +1325,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="76"/>
         <source>Click To Focus</source>
-        <translation type="unfinished">Clicar para obter o foco</translation>
+        <translation>Clicar para focalizar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="77"/>
@@ -1350,7 +1350,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="83"/>
         <source>Cascade</source>
-        <translation type="unfinished">Cascata</translation>
+        <translation>Em cascata</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="84"/>
@@ -1748,53 +1748,53 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="32"/>
         <source>Font:</source>
-        <translation type="unfinished">Fonte:</translation>
+        <translation>Fonte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="46"/>
         <source>Font Size:</source>
-        <translation type="unfinished">Tamanho da fonte:</translation>
+        <translation>Tamanho da fonte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="53"/>
         <source> point</source>
-        <translation type="unfinished"> ponto</translation>
+        <translation> ponto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="60"/>
         <source>Theme Template:</source>
-        <translation type="unfinished">Modelo de tema:</translation>
+        <translation>Modelo de tema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="76"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished">Criar/editar um modelo de tema (avançado)</translation>
+        <translation>Criar/editar um modelo de tema (avançado)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="82"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="116"/>
         <source>Edit</source>
-        <translation type="unfinished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="94"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished">Esquema de cores:</translation>
+        <translation>Esquema de cores:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="110"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished">Criar/editar um esquema de cor</translation>
+        <translation>Criar/editar um esquema de cor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="128"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished">Pacote de ícones:</translation>
+        <translation>Pacote de ícones:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="138"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished">Cursores do mouse:</translation>
+        <translation>Cursores do mouse:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
@@ -1815,7 +1815,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="139"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="165"/>
         <source>System</source>
-        <translation type="unfinished">Sistema</translation>
+        <translation>Sistema</translation>
     </message>
 </context>
 <context>
@@ -1823,7 +1823,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="90"/>
@@ -1838,12 +1838,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="107"/>
         <source> Minutes</source>
-        <translation type="unfinished"> Minutos</translation>
+        <translation> Minutos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="110"/>
         <source>Every </source>
-        <translation type="unfinished">A cada </translation>
+        <translation>Cada </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="133"/>

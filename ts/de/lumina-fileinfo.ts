@@ -164,7 +164,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="116"/>
         <source>URL:</source>
-        <translation>Adresse (URL):</translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
@@ -174,7 +174,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="236"/>
         <source>Application Registrations (*.desktop)</source>
-        <translation>Anwendungs-Registrierungen</translation>
+        <translation>Anwendungsregistrierungen (*.desktop)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="277"/>

@@ -229,7 +229,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Open File(s)</source>
-        <translation type="unfinished">Abrir arquivo(s)</translation>
+        <translation>Abrir arquivo(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
@@ -252,17 +252,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="285"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
-        <translation type="unfinished"></translation>
+        <translation>O seguinte arquivo foi alterado por algum outro utilitário. Você quer recarregá-lo?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="287"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nota: Você vai perder todas as alterações não salvas)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
         <source>File Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo modificado</translation>
     </message>
 </context>
 </TS>

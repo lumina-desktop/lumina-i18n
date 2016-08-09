@@ -93,12 +93,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>
         <source>Replace next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende overeenkomst vervangen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
         <source>Replace all matches (to end of document)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle overeenkomsten vervangen (tot het einde van het document)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="197"/>
@@ -149,47 +149,47 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="292"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="300"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="303"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="311"/>
         <source>Save File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand opslaan als</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="316"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="319"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="327"/>
         <source>Close File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand sluiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="330"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="338"/>
@@ -229,12 +229,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Open File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand(en) openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Text Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst bestanden (*)</translation>
     </message>
 </context>
 <context>
@@ -242,12 +242,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
         <source>Text File (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestand (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="285"/>
@@ -262,7 +262,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
         <source>File Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand gewijzigd</translation>
     </message>
 </context>
 </TS>

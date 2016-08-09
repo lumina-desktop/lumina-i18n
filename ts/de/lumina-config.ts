@@ -14,7 +14,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="14"/>
         <source>Color Scheme Editor</source>
-        <translation>Editor für Farbschema</translation>
+        <translation>Farbschemaeditor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.ui" line="28"/>
@@ -78,7 +78,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="121"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="122"/>
         <source>Select Color</source>
-        <translation>Farbe wählen</translation>
+        <translation>Farbe auswählen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ColorDialog.cpp" line="142"/>
@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="138"/>
         <source> pixel(s) thick</source>
-        <translation>Pixel fett</translation>
+        <translation> Pixel breit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/PanelWidget.ui" line="157"/>

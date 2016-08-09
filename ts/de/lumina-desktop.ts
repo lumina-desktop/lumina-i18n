@@ -827,7 +827,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="287"/>
         <source>RSS URL</source>
-        <translation>RSS-Adresse (URL)</translation>
+        <translation>RSS-URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="302"/>
@@ -903,7 +903,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
         <source>Feed URL: %1</source>
-        <translation>Feed-Adresse (URL): %1</translation>
+        <translation>Feed-URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
