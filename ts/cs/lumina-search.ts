@@ -31,7 +31,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.cpp" line="41"/>
         <source>Select Search Directory</source>
-        <translation>Vyberte adresář pro vyhledávání</translation>
+        <translation>Vyberte adresář pro hledání</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/ConfigUI.cpp" line="54"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="95"/>
         <source>Search: %1 -- Smart: %2</source>
-        <translation type="unfinished">Hledat: %1 -- Chytrý: %2</translation>
+        <translation>Hledat: %1 -- Chytrý: %2</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.cpp" line="98"/>
