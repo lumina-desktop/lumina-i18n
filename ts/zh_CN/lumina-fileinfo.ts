@@ -62,7 +62,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="239"/>
         <source>Working Dir:</source>
-        <translation>工作目录:</translation>
+        <translation type="unfinished">工作目录：</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="246"/>
