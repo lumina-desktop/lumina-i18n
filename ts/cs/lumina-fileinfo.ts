@@ -84,7 +84,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="274"/>
         <source>Comment:</source>
-        <translation>Komentář:</translation>
+        <translation>Poznámka:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="284"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="291"/>
         <source>Name:</source>
-        <translation>Jméno:</translation>
+        <translation>Název:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="298"/>
         <source>Options</source>
-        <translation>Možnosti</translation>
+        <translation>Volby</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="336"/>
@@ -129,7 +129,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="69"/>
         <source>Read Only</source>
-        <translation>Pouze ke čtení</translation>
+        <translation>Pouze pro čtení</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="70"/>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="330"/>
         <source>  Calculating...</source>
-        <translation>  Počítání...</translation>
+        <translation>  Počítá se...</translation>
     </message>
 </context>
 </TS>
