@@ -923,7 +923,7 @@ Nova Localização: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="218"/>
         <source>Shift+Left</source>
-        <translation type="unfinished">Shift+Esquerdo</translation>
+        <translation>Shift+Esquerda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="228"/>
