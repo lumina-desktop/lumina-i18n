@@ -1015,8 +1015,8 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
-        <translatorcomment>「ログアウト」ダイアログに移動するボタン。画面ロックなど、本当のログアウト以外の動作もあるので、&quot;Leave&quot;?</translatorcomment>
-        <translation>席を外す</translation>
+        <translatorcomment>実際に使ったところ「席を外す」は意味が違う気がします。「退出」「離脱」が良いかもしれません。</translatorcomment>
+        <translation type="unfinished">席を外す</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
