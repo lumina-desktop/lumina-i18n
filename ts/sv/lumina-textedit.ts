@@ -262,7 +262,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
         <source>File Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil modifierad</translation>
     </message>
 </context>
 </TS>

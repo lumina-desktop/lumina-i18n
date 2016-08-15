@@ -1966,7 +1966,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="232"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="257"/>
         <source>Find Background Image Directory</source>
-        <translation>Hitta Bakgrund i en Katalog</translation>
+        <translation>Hitta bakgrundsbilder i en katalog</translation>
     </message>
 </context>
 </TS>
