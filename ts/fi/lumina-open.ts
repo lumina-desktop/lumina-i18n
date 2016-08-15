@@ -96,42 +96,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="121"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkko</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimisto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiede</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="125"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Työkalut</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="271"/>
         <source>Find Application Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi ohjelmatiedosto</translation>
     </message>
 </context>
 <context>
@@ -139,7 +139,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="50"/>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostovirhe</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="186"/>

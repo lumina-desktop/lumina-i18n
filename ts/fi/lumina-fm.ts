@@ -171,55 +171,55 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="468"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="471"/>
         <source>Go back to previous directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaa edelliseen kansioon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="479"/>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Ylemmäs</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="482"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="485"/>
         <source>Go to parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirry yläkansioon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="493"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Koti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="496"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="499"/>
         <source>Go to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirry kotikansioon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="518"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="521"/>
         <source>Close this browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje tämä selain</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="131"/>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="135"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="138"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyyppi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="142"/>
         <source>Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkauspäivä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="145"/>
@@ -271,47 +271,47 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="797"/>
         <source>New Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi kansio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>Invalid Name</source>
-        <translation type="unfinished">Virheellinen nimi</translation>
+        <translation>Virheellinen nimi</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="807"/>
         <source>A file or directory with that name already exists! Please pick a different name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saman niminen tiedosto tai kansio on jo olemassa! Valitse toinen nimi.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>Error Creating Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe luotaessa kansiota</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="811"/>
         <source>The directory could not be created. Please ensure that you have the proper permissions to modify the current directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota ei voitu luoda. Varmista, että sinulla on tarvittavat käyttöoikeudet nykyisen kansion muokkaamiseksi.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="834"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="944"/>
         <source>File Checksums:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoston tarkistussummat:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>Missing Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Puuttuva työkalu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="961"/>
         <source>The &quot;lumina-fileinfo&quot; utility could not be found on the system. Please install it first.</source>
-        <translation type="unfinished"></translation>
+        <translation>”lumina-fileinfo”-työkalua ei löytynyt järjestelmästä. Asenna se ensin.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="979"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="997"/>
         <source>Open Terminal here</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa pääte tähän</translation>
     </message>
 </context>
 <context>
@@ -369,42 +369,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.ui" line="14"/>
         <source>Performing File Operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Toteutetaan tiedostotoimenpiteitä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.ui" line="39"/>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.ui" line="74"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="19"/>
         <source>Calculating</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasketaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="131"/>
         <source>Overwrite Files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvataanko tiedostot?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="131"/>
         <source>Do you want to overwrite the existing files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko korvata olemassa olevat tiedostot?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="131"/>
         <source>Note: It will just add a number to the filename otherwise.</source>
-        <translation type="unfinished"></translation>
+        <translation>Huomaa: muuten lisätään vain numero tiedostonimeen.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="148"/>
         <source>Removing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaan: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/FODialog.cpp" line="149"/>
@@ -460,7 +460,10 @@
 
 Old Location: %1
 New Location: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota ei voi siirtää itseensä. Tee kansiota sen sijaan kopio.
+
+Aiempi sijainti: %1
+Uusi sijainti: %2</translation>
     </message>
 </context>
 <context>
@@ -468,42 +471,42 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished"></translation>
+        <translation>Näkemys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="95"/>
         <source>Shift+Left</source>
-        <translation type="unfinished">Vaihto+Vasen</translation>
+        <translation>Vaihto+Vasen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="96"/>
         <source>Shift+Right</source>
-        <translation type="unfinished">Vaihto+Oikea</translation>
+        <translation>Vaihto+Oikea</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="114"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="126"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Näkymä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="130"/>
         <source>View Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Näkymätila</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="136"/>
         <source>Group Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryhmätila</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="154"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjanmerkit</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="162"/>
@@ -554,42 +557,42 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="324"/>
         <source>Ctrl+-</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+-</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="332"/>
         <source>New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi ikkuna</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="335"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="343"/>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää kirjanmerkki</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="346"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="398"/>
         <source>Delete Selection</source>
-        <translation type="unfinished">Poista valinta</translation>
+        <translation>Poista valinta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="401"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="409"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="420"/>
@@ -624,7 +627,7 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="229"/>
         <source>Scan for Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi laitteita</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="237"/>
@@ -694,47 +697,47 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="365"/>
         <source>Cut Selection</source>
-        <translation type="unfinished">Leikkaa valinta</translation>
+        <translation>Leikkaa valinta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished">Kopioi valinta</translation>
+        <translation>Kopioi valinta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished">Liitä</translation>
+        <translation>Liitä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="390"/>
         <source>Ctrl+V</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+V</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="368"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="195"/>
         <source>Invalid Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellisiä kansioita</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="195"/>
         <source>The following directories are invalid and could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraavat kansiot ovat virheellisiä eikä niitä voi avata:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="327"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Juuri</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="333"/>
         <source>%1 (Type: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (tyyppi: %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="337"/>
@@ -789,42 +792,42 @@ New Location: %2</source>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="97"/>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+H</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="414"/>
         <source>You have multiple tabs open. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Useampia välilehtiä on auki. Haluatko varmasti lopettaa?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="891"/>
         <source>Verify Removal</source>
-        <translation type="unfinished">Vahvista poisto</translation>
+        <translation>Vahvista poisto</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="891"/>
         <source>WARNING: This will permanently delete the file(s) from the system!</source>
-        <translation type="unfinished"></translation>
+        <translation>VAROITUS: Tämä poistaa tiedostot järjestelmästä pysyvästi!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="891"/>
         <source>Are you sure you want to continue?</source>
-        <translation type="unfinished">Haluatko varmasti jatkaa?</translation>
+        <translation>Haluatko varmasti jatkaa?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="852"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta tiedoston nimeä</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="852"/>
         <source>New Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi nimi:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="866"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvataanko tiedosto?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="866"/>
