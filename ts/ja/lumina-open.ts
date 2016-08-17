@@ -185,12 +185,22 @@
         <translation>種類が不明なショートカットです: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <source>Binary Missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
         <source>Application Error</source>
         <translation>アプリケーションエラー</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>このアプリケーションでエラーが発生したため、閉じる必要があります:</translation>
     </message>

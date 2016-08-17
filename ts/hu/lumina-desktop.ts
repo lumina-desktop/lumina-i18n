@@ -466,32 +466,32 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="199"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="198"/>
         <source>Window List</source>
         <translation>Ablaklista</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Lumina Desktop</source>
         <translation>Lumina Desktop</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="265"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Workspace %1</source>
         <translation>%1 munkaterület</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Terminal</source>
         <translation>Terminál</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
         <source>Browse Files</source>
         <translation>Fájlok tallózása</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="306"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="305"/>
         <source>Leave</source>
         <translation>Kilépés</translation>
     </message>

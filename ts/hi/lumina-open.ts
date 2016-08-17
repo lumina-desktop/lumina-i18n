@@ -184,12 +184,22 @@
         <translation>अनजान प्रकार का शॉर्टकट:%1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <source>Binary Missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
         <source>Application Error</source>
         <translation>एप्लीकेशन त्रुटि</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="397"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>इस एप्लीकेशन में त्रुटि है और इसे बंद करने की आवश्यकता है:</translation>
     </message>

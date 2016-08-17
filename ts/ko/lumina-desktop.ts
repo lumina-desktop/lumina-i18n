@@ -466,32 +466,32 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="199"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="198"/>
         <source>Window List</source>
         <translation>창 목록</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Lumina Desktop</source>
         <translation>루미나 데스크탑</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="265"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Workspace %1</source>
         <translation>작업 공간 %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Terminal</source>
         <translation>터미널</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
         <source>Browse Files</source>
         <translation type="unfinished">파일 둘러보기</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="306"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="305"/>
         <source>Leave</source>
         <translation type="unfinished">떠나기</translation>
     </message>

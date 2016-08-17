@@ -466,32 +466,32 @@
 <context>
     <name>LDesktop</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="199"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="198"/>
         <source>Window List</source>
         <translation>Lista delle Finestre</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Lumina Desktop</source>
         <translation>Desktop Lumina</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="265"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Workspace %1</source>
         <translation>Spazio Lavoro %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Terminal</source>
         <translation>Terminale</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="276"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
         <source>Browse Files</source>
         <translation>Sfoglia File</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="306"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="305"/>
         <source>Leave</source>
         <translation>Esci</translation>
     </message>
