@@ -1116,6 +1116,16 @@
         <source>Suspend</source>
         <translation>Suspend</translation>
     </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
+        <source>Apply Updates?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
+        <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>UserItemWidget</name>
