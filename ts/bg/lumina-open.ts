@@ -154,52 +154,52 @@
         <translation>Яркост на екрана %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="232"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="238"/>
         <source>Invalid file or URL: %1</source>
         <translation>Невалиден файл или адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="255"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="260"/>
         <source>File could not be opened: %1</source>
         <translation>Файлът не може да бъде отворен: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="269"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Информацията за стартиране липсва от прекия път (повреден пряк път): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="280"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>Адресът липсва от прекия път към отдалечен адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="286"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>Пътят към директорията липсва от прекия път към директорията: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="296"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Непознат тип пряк път : %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Binary Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
         <source>Application Error</source>
         <translation>Грешка в програмата</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Възникна грешка в програмата и трябваше да бъде затворена:</translation>
     </message>

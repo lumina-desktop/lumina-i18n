@@ -154,52 +154,52 @@
         <translation>Näytön kirkkaus %1 %</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="232"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="238"/>
         <source>Invalid file or URL: %1</source>
         <translation>Virheellinen tiedosto tai verkko-osoite: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="255"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="260"/>
         <source>File could not be opened: %1</source>
         <translation>Tiedostoa ei voitu avata: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="264"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="269"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Sovelluksen pikakuvakkeesta puuttuvat käynnistystiedot (virheellinen pikakuvake): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="275"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="280"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>Verkko-osoitteen pikakuvakkeesta puuttuu verkko-osoite: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="286"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>Kansion pikakuvakkeesta puuttuu kansion sijainti: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="296"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Tuntematon pikakuvaketyyppi: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Binary Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="353"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
         <source>Application Error</source>
         <translation>Sovellusvirhe</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="403"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Seuraavat sovellukset kohtasivat virheen ja ne täytyy sulkea:</translation>
     </message>
