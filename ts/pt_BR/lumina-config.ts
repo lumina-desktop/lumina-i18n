@@ -1548,7 +1548,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="67"/>
         <source>Change User Icon</source>
-        <translation type="unfinished">Alterar o icone do usuário</translation>
+        <translation>Alterar o ícone do usuário</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="105"/>
