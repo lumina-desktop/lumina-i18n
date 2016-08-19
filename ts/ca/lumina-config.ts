@@ -1048,7 +1048,7 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.ui" line="32"/>
         <source>Disable Compositing Manager (session restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhabilita el gestor de composició (cal reiniciar la sessió)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_compton.cpp" line="38"/>
@@ -1538,12 +1538,12 @@ Voleu sobreescriure&apos;l?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="55"/>
         <source>Automatically create/remove desktop symlinks for applications that are installed/removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea / elimina automàticament enllaços simbòlics per a les aplicacions instal·lades / eliminades.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="58"/>
         <source>Manage desktop app links</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestió dels enllaços de les aplicacions d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="67"/>

@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="45"/>
         <source>Desktop</source>
-        <translation type="unfinished">Escriptori</translation>
+        <translation>Escriptori</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="80"/>
@@ -1119,12 +1119,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>Apply Updates?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplico les actualitzacions?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Teniu actualitzacions de sistema per aplicar! Voleu instal·lar-les ara?</translation>
     </message>
 </context>
 <context>
