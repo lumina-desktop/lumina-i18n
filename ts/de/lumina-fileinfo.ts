@@ -8,12 +8,12 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="24"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="89"/>
         <source>File Information</source>
-        <translation>Datei-Informationen</translation>
+        <translation>Dateiinformationen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="56"/>
         <source>Owner:</source>
-        <translation>Besitzer:</translation>
+        <translation>Eigentümer:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.ui" line="73"/>
