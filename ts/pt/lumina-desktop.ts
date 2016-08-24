@@ -56,77 +56,77 @@
         <translation type="unfinished">Área de Trabalho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="80"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="83"/>
         <source>Manage Applications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="85"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="88"/>
         <source>Control Panel</source>
         <translation>Painel de Controle</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="95"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="98"/>
         <source>Multimedia</source>
         <translation>Multimídia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="96"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="99"/>
         <source>Development</source>
         <translation>Desenvolvimento</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="97"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="100"/>
         <source>Education</source>
         <translation>Educação</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="98"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="101"/>
         <source>Games</source>
         <translation>Jogos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="99"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="102"/>
         <source>Graphics</source>
         <translation>Gráficos</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="100"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="103"/>
         <source>Network</source>
         <translation>Rede</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="101"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="104"/>
         <source>Office</source>
         <translation>Escritório</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="102"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="105"/>
         <source>Science</source>
         <translation>Ciência</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="103"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="106"/>
         <source>Settings</source>
         <translation>Definições</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="104"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="107"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="105"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="108"/>
         <source>Utility</source>
         <translation>Utilitário</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="106"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="109"/>
         <source>Wine</source>
         <translation>Vinho</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="107"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="110"/>
         <source>Unsorted</source>
         <translation>Sem ordem</translation>
     </message>
