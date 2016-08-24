@@ -1024,7 +1024,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
-        <translation>Fai Uscire Utente</translation>
+        <translation>Chiudi sessione utente</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>

@@ -471,7 +471,7 @@ Nuova posizione: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation>Intuizione</translation>
+        <translation>Insight</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="95"/>
