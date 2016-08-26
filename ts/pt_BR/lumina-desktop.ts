@@ -53,7 +53,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="45"/>
         <source>Desktop</source>
-        <translation type="unfinished">Área de trabalho</translation>
+        <translation>Área de trabalho</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="83"/>
@@ -270,7 +270,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished">Saída do erro de análise do script: %1</translation>
+        <translation>Erro ao executar o script: %1</translation>
     </message>
 </context>
 <context>

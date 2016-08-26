@@ -1715,12 +1715,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="173"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Mês numérico sem zero à esquerda (2)</translation>
+        <translation>%1: Número do mês sem zero à esquerda (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="174"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Mês numérico com zero à esquerda (02)</translation>
+        <translation>%1: Número do mês com zero à esquerda (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="175"/>
@@ -1814,7 +1814,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
         <source>Theme Settings</source>
-        <translation type="unfinished">Configurações do tema</translation>
+        <translation>Configurações do tema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="67"/>
@@ -1822,7 +1822,7 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="132"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="158"/>
         <source>Local</source>
-        <translation type="unfinished">Local</translation>
+        <translation>Local</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="74"/>
@@ -1843,12 +1843,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="90"/>
         <source>Single Background</source>
-        <translation type="unfinished">Fundo único</translation>
+        <translation>Plano de Fundo Único</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="100"/>
         <source>Rotate Background</source>
-        <translation type="unfinished">Girar o fundo</translation>
+        <translation>Girar o plano de fundo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="107"/>
@@ -1863,28 +1863,28 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="133"/>
         <source>Layout:</source>
-        <translation type="unfinished">Leiaute:</translation>
+        <translation>Disposição:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="55"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished">Configurações do papel de parede</translation>
+        <translation>Configurações do papel de parede</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="64"/>
         <source>System Default</source>
-        <translation type="unfinished">Padrão do sistema</translation>
+        <translation>Padrão do sistema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="65"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="220"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished">Cor sólida: %1</translation>
+        <translation>Cor sólida: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="76"/>
         <source>Screen Resolution:</source>
-        <translation type="unfinished">Resolução da tela:</translation>
+        <translation>Resolução da tela:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="98"/>
@@ -1895,47 +1895,47 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="118"/>
         <source>File(s)</source>
-        <translation type="unfinished">Arquivo(s)</translation>
+        <translation>Arquivo(s)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="119"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished">Diretório (Único)</translation>
+        <translation>Pasta (Única)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="120"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished">Diretório (Recursivo)</translation>
+        <translation>Pasta (Recursiva)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="121"/>
         <source>Solid Color</source>
-        <translation type="unfinished">Cor sólida</translation>
+        <translation>Cor sólida</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="125"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automático</translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="126"/>
         <source>Fullscreen</source>
-        <translation type="unfinished">Tela cheia</translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="127"/>
         <source>Fit screen</source>
-        <translation type="unfinished">Ajustar tela</translation>
+        <translation>Ajustar a tela</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="128"/>
         <source>Tile</source>
-        <translation type="unfinished">Bloco</translation>
+        <translation>Repetir</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="129"/>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centralizar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="130"/>
