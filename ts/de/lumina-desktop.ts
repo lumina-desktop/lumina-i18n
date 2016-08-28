@@ -1059,12 +1059,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="267"/>
         <source>Apply Updates?</source>
-        <translation type="unfinished">Aktualisierungen anwenden?</translation>
+        <translation>Aktualisierungen anwenden?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="267"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished">Sie haben Systemaktualisierungen, die darauf warten, angewendet zu werden! Möchten Sie sie jetzt installieren?</translation>
+        <translation>Sie haben Systemaktualisierungen, die darauf warten, angewendet zu werden! Möchten Sie sie jetzt installieren?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="475"/>
