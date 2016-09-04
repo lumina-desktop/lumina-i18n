@@ -252,7 +252,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="285"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
-        <translation type="unfinished">以下文件已在他处被修改，是否重新加载？</translation>
+        <translation>以下文件已在他处被修改，是否重新加载？</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="287"/>

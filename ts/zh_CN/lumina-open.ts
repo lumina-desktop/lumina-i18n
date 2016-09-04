@@ -186,12 +186,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Binary Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>二进制文件丢失</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到 “%1”。请确认它已被安装。</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
