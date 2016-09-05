@@ -257,7 +257,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="287"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
-        <translation type="unfinished">（注意：未保存修改将会丢失）</translation>
+        <translation>（注意：未保存的修改将会丢失）</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
