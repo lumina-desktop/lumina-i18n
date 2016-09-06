@@ -965,12 +965,12 @@ Sobrescribirlo?</translation>
         <translation>Seleccionar monitor/escritorio para configurar</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="119"/>
         <source>Unsaved Changes</source>
         <translation>Cambios no Guardados</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="117"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="119"/>
         <source>This page currently has unsaved changes, do you wish to save them now?</source>
         <translation>Esta página tiene actualmente cambios sin guardar, gusta guardarlos ahora?</translation>
     </message>
@@ -1430,27 +1430,27 @@ Sobrescribirlo?</translation>
         <translation>Buscar…</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="32"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="45"/>
         <source>Interface Configuration</source>
         <translation>Configuración de Interfaz</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="35"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="48"/>
         <source>Appearance</source>
         <translation>Apariencia</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="38"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="51"/>
         <source>Desktop Session Options</source>
         <translation>Opciones de la Sesión de Escritorio</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="41"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="54"/>
         <source>User Settings</source>
         <translation>Preferencias de Usuario</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="85"/>
+        <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="98"/>
         <source>Desktop Settings</source>
         <translation>Preferencias del Escritorio</translation>
     </message>
