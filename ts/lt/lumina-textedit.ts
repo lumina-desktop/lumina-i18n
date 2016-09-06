@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lt">
 <context>
     <name>ColorDialog</name>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="14"/>
         <source>Customize Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinkinti spalvas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="24"/>
         <source>Item Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento tipas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="29"/>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="34"/>
         <source>Sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Pavyzdys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="44"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.cpp" line="55"/>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti spalvą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="64"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisakyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/ColorDialog.ui" line="71"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Taikyti</translation>
     </message>
 </context>
 <context>
@@ -45,22 +45,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagrindinis langas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="46"/>
         <source>Tab 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortelė 1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="54"/>
         <source>Find/Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti/Pakeisti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="84"/>
         <source>Find the previous match</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti ankstesnį atitikmenį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="87"/>
@@ -68,173 +68,173 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="94"/>
         <source>Find:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="107"/>
         <source>Find the next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti kitą atitikmenį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="117"/>
         <source>Replace:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="136"/>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Skirti raidžių dydį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="158"/>
         <source>Replace next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti kitą atitikmenį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="171"/>
         <source>Replace all matches (to end of document)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti visus atitikmenis (iki dokumento pabaigos)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="194"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Failas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="207"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodinys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="211"/>
         <source>Syntax Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sintaksės paryškinimas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="224"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Taisa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="239"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>įrankių juosta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="265"/>
         <source>Show Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti eilučių numerius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="270"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nėra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="275"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="128"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Naujas failas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="278"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+N</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="286"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Atverti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+O</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="297"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrašyti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="300"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+S</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="308"/>
         <source>Save File As</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrašyti failą kaip</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="313"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Užverti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="316"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+Q</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="324"/>
         <source>Close File</source>
-        <translation type="unfinished"></translation>
+        <translation>Užverti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="327"/>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+W</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="335"/>
         <source>Customize Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinkinti spalvas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="346"/>
         <source>Wrap Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaidyti eilutes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="351"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="354"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+F</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="362"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="365"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+R</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="25"/>
         <source>Text Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstų redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Open File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atverti failą(-us)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
         <source>Text Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstiniai failai (*)</translation>
     </message>
 </context>
 <context>
@@ -242,27 +242,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Įrašyti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
         <source>Text File (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstinis failas (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="286"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis failas buvo pakeistas kitos paslaugų programos. Ar norite įkelti jį iš naujo?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="288"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Pastaba: Jūs prarasite visus šiuo metu neįrašytus pakeitimus)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="292"/>
         <source>File Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Failas keistas</translation>
     </message>
 </context>
 </TS>

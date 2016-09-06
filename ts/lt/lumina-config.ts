@@ -506,7 +506,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="249"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Naršyti failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="270"/>
@@ -656,72 +656,72 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change Wallpaper</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti darbalaukio foną</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukio fono nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="29"/>
         <source>Change background image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti fono paveikslą(-us)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Change Desktop Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti darbalaukio temą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Temos nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="30"/>
         <source>Change interface fonts and colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti sąsajos šriftus ir spalvas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Window Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Langų efektai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="31"/>
         <source>Adjust transparency levels and window effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguliuoti permatomumo lygius ir langų efektus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Startup Services and Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleidimo tarnybos ir programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Startup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleidimo nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="32"/>
         <source>Automatically start applications or services</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatiškai paleisti programas ar tarnybas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Default Applications for File Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytosios failo tipų programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Mimetype Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>MIME tipo nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="33"/>
         <source>Change default applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti numatytąsias programas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="34"/>
@@ -736,7 +736,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
         <source>Window Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Langų tvarkytuvė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="35"/>
@@ -791,37 +791,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Change what options are shown on the desktop context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti kokios parinktys bus rodomos darbalaukio kontekstiniame meniu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Localization Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalizavimo parinktys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Locale Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalės nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Change the default locale settings for this user</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti numatytuosius šio naudotojo lokalės nustatymus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
         <source>General Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Bendros parinktys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudotojo nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="40"/>
         <source>Change basic user settings such as time/date formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Keisti pagrindinius naudotojo nustatymus, tokius kaip laiko/datos formatai</translation>
     </message>
 </context>
 <context>
@@ -860,7 +860,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Taikyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
@@ -878,45 +878,46 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="14"/>
         <source>Theme Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Temų redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="28"/>
         <source>Theme Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Temos pavadinimas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="51"/>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>spalva</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Atsisakyti</translation>
+        <translation>Atsisakyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished">Įrašyti</translation>
+        <translation>Įrašyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="101"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Taikyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>Theme Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema yra</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.cpp" line="65"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.cpp" line="82"/>
         <source>This theme already exists.
  Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ši tema jau yra.
+ Perrašyti ją?</translation>
     </message>
 </context>
 <context>
@@ -924,7 +925,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagrindinis langas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
@@ -966,12 +967,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="119"/>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Neįrašyti pakeitimai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.cpp" line="119"/>
         <source>This page currently has unsaved changes, do you wish to save them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Šiuo metu šiame puslapyje yra neįrašytų pakeitimų, ar norite juos dabar įrašyti?</translation>
     </message>
 </context>
 <context>
@@ -984,32 +985,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="39"/>
         <source>Add New Startup Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėkite naują paleidimo tarnybą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="75"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Programa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="85"/>
         <source>Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvejetainė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="95"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Failas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="63"/>
         <source>Startup Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleidimo tarnybos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pasirinkti dvejetainę</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
@@ -1019,7 +1020,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neteisinga dvejetainė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
@@ -1065,42 +1066,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="39"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Išplėstiniai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="62"/>
         <source>Specific File Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Specifiniai failo tipai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="99"/>
         <source>Type/Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipas/Grupė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="104"/>
         <source>Default Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Numatytoji programa</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="109"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprašas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="119"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Išvalyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="142"/>
         <source>Set App</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti programą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="152"/>
         <source>Set Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti dvejetainę</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="168"/>
@@ -1148,27 +1149,27 @@
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="307"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="339"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustelėkite, kad nustatytumėte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="162"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="404"/>
         <source>Select Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti dvejetainę</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished"></translation>
+        <translation>Neteisinga dvejetainė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.cpp" line="411"/>
         <source>The selected binary is not executable!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkta dvejetainė nėra vykdomoji!</translation>
     </message>
 </context>
 <context>
@@ -1181,17 +1182,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="34"/>
         <source>Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprastas redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="44"/>
         <source>Advanced Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Išplėstinis redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="107"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiksmas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="112"/>
@@ -1243,32 +1244,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="79"/>
         <source>Audio Volume Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Padidinti garso garsį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="80"/>
         <source>Audio Volume Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumažinti garso garsį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="81"/>
         <source>Screen Brightness Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Padidinti ekrano ryškumą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="82"/>
         <source>Screen Brightness Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumažinti ekrano ryškumą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="83"/>
         <source>Take Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Padaryti ekrano kopiją</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.cpp" line="84"/>
         <source>Lock Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Užrakinti ekraną</translation>
     </message>
 </context>
 <context>
@@ -1281,12 +1282,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
         <source>Simple Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Paprastas redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="44"/>
         <source>Advanced Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Išplėstinis redaktorius</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="81"/>
@@ -1332,32 +1333,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="77"/>
         <source>Active Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvus fokusavimas pele</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="78"/>
         <source>Strict Mouse Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Griežtas fokusavimas pele</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="81"/>
         <source>Align in a Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Lygiuoti eilute</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="82"/>
         <source>Align in a Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Lygiuoti stulpeliu</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="83"/>
         <source>Cascade</source>
-        <translation type="unfinished"></translation>
+        <translation>Išdėstyti pakopomis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="84"/>
         <source>Underneath Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Po pele</translation>
     </message>
 </context>
 <context>
@@ -1370,17 +1371,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Įtaisytos paslaugų programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti darbalaukio aplanko turinį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="54"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Darbalaukio nustatymai</translation>
     </message>
 </context>
 <context>
@@ -1398,7 +1399,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Darbalaukio nustatymai</translation>
     </message>
 </context>
 <context>
@@ -1411,7 +1412,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Darbalaukio nustatymai</translation>
     </message>
 </context>
 <context>
@@ -1424,32 +1425,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="32"/>
         <source>Search for....</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoti...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="45"/>
         <source>Interface Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Sąsajos konfigūracija</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="48"/>
         <source>Appearance</source>
-        <translation type="unfinished">Išvaizda</translation>
+        <translation>Išvaizda</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="51"/>
         <source>Desktop Session Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukio seanso parinktys</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="54"/>
         <source>User Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudotojo nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.cpp" line="98"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukio nustatymai</translation>
     </message>
 </context>
 <context>
@@ -1462,52 +1463,52 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="32"/>
         <source>System localization settings (restart required)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos lokalizavimo nustatymai (reikalingas paleidimas iš naujo)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="39"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalba</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pranešimai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Laikas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
         <source>Numeric</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaičiai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
         <source>Monetary</source>
-        <translation type="unfinished"></translation>
+        <translation>Valiuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
         <source>Collate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rikiavimas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation type="unfinished"></translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukio nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos numatytoji</translation>
     </message>
 </context>
 <context>
@@ -1607,87 +1608,87 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
         <source>Date first then Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Data, o paskui laikas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="61"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbalaukio nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="101"/>
         <source>Select an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkite paveikslą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="102"/>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Paveikslai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="106"/>
         <source>Reset User Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti naudotojo paveikslą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="106"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar norėtumėte atstatyti naudotojo paveikslą į sistemos numatytąjį?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinkami laiko kodai:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="146"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Valanda be priekinio nulio (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="147"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Valanda su priekiniu nuliu (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="148"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Minutės be priekinio nulio (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="149"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Minutės su priekiniu nuliu (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="150"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Sekundės be priekinio nulio (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="151"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Sekundės su priekiniu nuliu (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="152"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: AM/PM (12-valandų) laikrodis (didžiosiomis ar mažosiomis raidėmis)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="153"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Laiko juosta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="154"/>
         <source>Time Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Laiko kodai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinkami datos kodai:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
@@ -1811,7 +1812,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
         <source>Theme Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Temos nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="67"/>
@@ -1865,12 +1866,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="55"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Darbalaukio fono nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="64"/>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistemos numatytoji</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="65"/>

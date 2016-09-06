@@ -61,37 +61,37 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="114"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Garsas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="115"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaizdas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="116"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedija</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="117"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Programavimas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="118"/>
         <source>Education</source>
-        <translation type="unfinished"></translation>
+        <translation>Švietimas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="119"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaidimai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="120"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="121"/>
@@ -101,12 +101,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="122"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Raštinė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="123"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Mokslas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="124"/>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="126"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Paslaugų programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/LFileDialog.cpp" line="127"/>
@@ -151,7 +151,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="200"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="209"/>
         <source>Screen Brightness %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano ryškumas %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="238"/>

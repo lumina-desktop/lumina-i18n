@@ -46,12 +46,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="276"/>
         <source>Ask the Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Klausti bendruomenės</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="233"/>
         <source>View Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti informaciją</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="298"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="315"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Padėkos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="333"/>

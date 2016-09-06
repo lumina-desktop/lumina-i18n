@@ -157,7 +157,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="73"/>
         <source>Hidden %1</source>
-        <translation type="unfinished"/>
+        <translation>Paslėptas %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="100"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="248"/>
         <source>Invalid selection: Not a valid executable</source>
-        <translation type="unfinished"/>
+        <translation>Neteisingas pasirinkimas: Neteisingas vykdomasis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fileinfo/MainUI.cpp" line="260"/>
