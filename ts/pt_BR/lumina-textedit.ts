@@ -250,17 +250,17 @@
         <translation>Arquivo de texto (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="285"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="286"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
         <translation>O seguinte arquivo foi alterado por algum outro utilitário. Você quer recarregá-lo?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="287"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="288"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
         <translation>(Nota: Você vai perder todas as alterações não salvas)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="292"/>
         <source>File Modified</source>
         <translation>Arquivo modificado</translation>
     </message>
