@@ -250,17 +250,17 @@
         <translation>Tekstinis failas (*)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="286"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="289"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
         <translation>Šis failas buvo pakeistas kitos paslaugų programos. Ar norite įkelti jį iš naujo?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="288"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
         <translation>(Pastaba: Jūs prarasite visus šiuo metu neįrašytus pakeitimus)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="292"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="295"/>
         <source>File Modified</source>
         <translation>Failas keistas</translation>
     </message>
