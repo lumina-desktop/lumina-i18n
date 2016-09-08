@@ -351,22 +351,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="74"/>
         <source>Start menu alternative which focuses on launching applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternatiivne Start menüü mis fokuseerub rakenduste käivitamisele </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="94"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Rida/Joon</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="95"/>
         <source>Simple line to provide visual separation between items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihtne joon et lihtsustada objektide visuaalset eristamist</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="101"/>
         <source>Workspace Switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Töölaudade Vahetaja</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/LPlugins.cpp" line="130"/>

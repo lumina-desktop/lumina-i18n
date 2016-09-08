@@ -166,22 +166,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="273"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Programos šaukinyje trūksta paleidimo informacijos (netaisyklingas šaukinys): %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="284"/>
         <source>URL shortcut is missing the URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>URL šaukinyje trūksta URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="295"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogo šaukinyje trūksta kelio į katalogą: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="300"/>
         <source>Unknown type of shortcut : %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nežinomas šaukinio tipas : %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="362"/>

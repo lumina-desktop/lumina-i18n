@@ -155,12 +155,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="109"/>
         <source>Enqueue selection in multimedia player</source>
-        <translation type="unfinished"></translation>
+        <translation>Statyti žymėjimą į eilę multimedijos grotuve</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="112"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Groti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.ui" line="465"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="839"/>
         <source>Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Esamas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/DirWidget.cpp" line="949"/>
@@ -471,7 +471,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="14"/>
         <source>Insight</source>
-        <translation type="unfinished"></translation>
+        <translation>Insight</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="95"/>
@@ -547,12 +547,12 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="313"/>
         <source>Ctrl++</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)++</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="321"/>
         <source>Smaller Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mažesnės piktogramos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="324"/>
@@ -627,7 +627,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="229"/>
         <source>Scan for Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoti įrenginių</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="237"/>
@@ -647,12 +647,12 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="270"/>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+F</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="66"/>
         <source>Detailed List</source>
-        <translation type="unfinished"></translation>
+        <translation>Išsamus sąrašas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="67"/>
@@ -702,12 +702,12 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="376"/>
         <source>Copy Selection</source>
-        <translation type="unfinished">Kopijuoti žymėjimą</translation>
+        <translation>Kopijuoti žymėjimą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="387"/>
         <source>Paste</source>
-        <translation type="unfinished">Įdėti</translation>
+        <translation>Įdėti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.ui" line="390"/>
@@ -732,7 +732,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="335"/>
         <source>Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Šaknis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="341"/>
@@ -742,7 +742,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="345"/>
         <source>Filesystem: %1</source>
-        <translation type="unfinished">Failų sistema: %1</translation>
+        <translation>Failų sistema: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="566"/>
@@ -772,7 +772,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="705"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedija</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="723"/>
@@ -797,7 +797,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="98"/>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl(Vald)+L</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="422"/>
@@ -822,22 +822,22 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="860"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Pervadinti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="860"/>
         <source>New Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naujas pavadinimas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="874"/>
         <source>Overwrite File?</source>
-        <translation type="unfinished"></translation>
+        <translation>Perrašyti failą?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/MainUI.cpp" line="874"/>
         <source>An existing file with the same name will be replaced. Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esamas failas tokiu pačiu pavadinimu bus pakeistas. Ar tikrai norite tęsti?</translation>
     </message>
 </context>
 <context>
@@ -845,22 +845,22 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.ui" line="28"/>
         <source>Go To Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Pereiti prie kito</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.ui" line="107"/>
         <source>(No Running Video)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nėra paleisto vaizdo įrašo)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="124"/>
         <source>Playing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atkuriama:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="130"/>
@@ -870,7 +870,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="157"/>
         <source>Error Playing File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida atkuriant failą: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/MultimediaWidget.cpp" line="168"/>
@@ -883,7 +883,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="36"/>
@@ -938,7 +938,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="234"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Kairėn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="267"/>
@@ -953,7 +953,7 @@ Nauja vieta: %2</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="307"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Dešinėn</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-fm/widgets/SlideshowWidget.ui" line="317"/>
