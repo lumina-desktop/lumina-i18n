@@ -137,69 +137,69 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="186"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="192"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="187"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="193"/>
         <source>Audio Volume %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="200"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="201"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="210"/>
         <source>Screen Brightness %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="238"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="242"/>
         <source>Invalid file or URL: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="260"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="264"/>
         <source>File could not be opened: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="269"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="273"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="280"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="284"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="295"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="296"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="300"/>
         <source>Unknown type of shortcut : %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="362"/>
         <source>Binary Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="362"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="412"/>
         <source>Application Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="412"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation type="unfinished"></translation>
     </message>

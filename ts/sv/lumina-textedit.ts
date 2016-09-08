@@ -53,171 +53,172 @@
         <translation>Flik 1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="54"/>
-        <source>Find/Replace</source>
-        <translation>Hitta/Ersätt</translation>
-    </message>
-    <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="84"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="81"/>
         <source>Find the previous match</source>
         <translation>Hitta föregående träff</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="87"/>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="110"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="84"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="97"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="148"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="161"/>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="174"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="173"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="94"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="183"/>
         <source>Find:</source>
         <translation>Hitta:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="107"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="94"/>
         <source>Find the next match</source>
         <translation>Hitta nästa träff</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="117"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="104"/>
         <source>Replace:</source>
         <translation>Ersätt:</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="136"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="123"/>
         <source>Match case</source>
         <translation>Matcha skiftläge</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="158"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="145"/>
         <source>Replace next match</source>
         <translation>Ersätt nästa träff</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="171"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="158"/>
         <source>Replace all matches (to end of document)</source>
         <translation>Ersätt alla träffar (till slut av dokument)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="194"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="170"/>
+        <source>Hide the find/replace options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="208"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="207"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="221"/>
         <source>View</source>
         <translation>Visa</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="211"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="225"/>
         <source>Syntax Highlighting</source>
         <translation>Syntaxmarkering</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="224"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="238"/>
         <source>Edit</source>
         <translation>Redigera</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="239"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="253"/>
         <source>toolBar</source>
         <translation>Verktygsrad</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="265"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="279"/>
         <source>Show Line Numbers</source>
         <translation>Visa radnummer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="270"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="284"/>
         <source>None</source>
         <translation>Inget</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="275"/>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="128"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="130"/>
         <source>New File</source>
         <translation>Ny fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="278"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="292"/>
         <source>Ctrl+N</source>
         <translation>Ctrl+N</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="286"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="300"/>
         <source>Open File</source>
         <translation>Öppna fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="303"/>
         <source>Ctrl+O</source>
         <translation>Ctrl+O</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="297"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="311"/>
         <source>Save File</source>
         <translation>Spara fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="300"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="314"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="308"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="322"/>
         <source>Save File As</source>
         <translation>Spara fil som</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="313"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="327"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="316"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="330"/>
         <source>Ctrl+Q</source>
         <translation>Ctrl+Q</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="324"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="338"/>
         <source>Close File</source>
         <translation>Stäng fil</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="327"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="341"/>
         <source>Ctrl+W</source>
         <translation>Ctrl+W</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="335"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="349"/>
         <source>Customize Colors</source>
         <translation>Anpassa färger</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="346"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="360"/>
         <source>Wrap Lines</source>
         <translation>Radbryt linjer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="351"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="365"/>
         <source>Find</source>
         <translation>Sök</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="354"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="368"/>
         <source>Ctrl+F</source>
         <translation>Ctrl+F</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="362"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="376"/>
         <source>Replace</source>
         <translation>Ersätt</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="365"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="379"/>
         <source>Ctrl+R</source>
         <translation>Ctrl+R</translation>
     </message>
@@ -227,12 +228,12 @@
         <translation>Textredigerare</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="137"/>
         <source>Open File(s)</source>
         <translation>Öppna filer</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="135"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="137"/>
         <source>Text Files (*)</source>
         <translation>Text filer (*)</translation>
     </message>

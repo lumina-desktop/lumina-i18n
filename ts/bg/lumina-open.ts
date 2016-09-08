@@ -137,69 +137,69 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="50"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="51"/>
         <source>File Error</source>
         <translation>Грешка във файла</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="186"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="192"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="187"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="193"/>
         <source>Audio Volume %1%</source>
         <translation>Сила на звука %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="200"/>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="209"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="201"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="210"/>
         <source>Screen Brightness %1%</source>
         <translation>Яркост на екрана %1%</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="238"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="242"/>
         <source>Invalid file or URL: %1</source>
         <translation>Невалиден файл или адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="260"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="264"/>
         <source>File could not be opened: %1</source>
         <translation>Файлът не може да бъде отворен: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="269"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="273"/>
         <source>Application shortcut is missing the launching information (malformed shortcut): %1</source>
         <translation>Информацията за стартиране липсва от прекия път (повреден пряк път): %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="280"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="284"/>
         <source>URL shortcut is missing the URL: %1</source>
         <translation>Адресът липсва от прекия път към отдалечен адрес: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="295"/>
         <source>Directory shortcut is missing the path to the directory: %1</source>
         <translation>Пътят към директорията липсва от прекия път към директорията: %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="296"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="300"/>
         <source>Unknown type of shortcut : %1</source>
         <translation>Непознат тип пряк път : %1</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="362"/>
         <source>Binary Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="358"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="362"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="412"/>
         <source>Application Error</source>
         <translation>Грешка в програмата</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="408"/>
+        <location filename="../../lumina-git/src-qt5/core/lumina-open/main.cpp" line="412"/>
         <source>The following application experienced an error and needed to close:</source>
         <translation>Възникна грешка в програмата и трябваше да бъде затворена:</translation>
     </message>
