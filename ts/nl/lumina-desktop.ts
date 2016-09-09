@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="32"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik om een toepassing toe te wijzen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="38"/>
@@ -21,7 +21,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Select Application</source>
-        <translation>Toepassing selecteren</translation>
+        <translation>Applicatie selecteren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
@@ -40,7 +40,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
         <source>Select Application</source>
-        <translation>Toepassing selecteren</translation>
+        <translation>Applicatie selecteren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
@@ -53,12 +53,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="45"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="83"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicaties beheren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="88"/>
@@ -83,12 +83,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="101"/>
         <source>Games</source>
-        <translation>Spelletjes</translation>
+        <translation>Spellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="102"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="103"/>
@@ -98,42 +98,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="104"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="105"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Wetenschap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="106"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="107"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="108"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulpmiddel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="109"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="110"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongesorteerd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="37"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicaties</translation>
     </message>
 </context>
 <context>
@@ -141,57 +141,57 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="18"/>
         <source>Initializing Session …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met initialiseren van sessie...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="21"/>
         <source>Loading System Settings …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met laden van systeeminstellingen...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="24"/>
         <source>Loading User Preferences …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met laden van gebruikersvoorkeuren...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="27"/>
         <source>Preparing System Tray …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met voorbereiden van systeemvak...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="30"/>
         <source>Starting Window Manager …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met starten van vensterbeheerder...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="33"/>
         <source>Detecting Applications …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met analyseren van applicaties...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="36"/>
         <source>Preparing Menus …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met voorbereiden van menu&apos;s...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="39"/>
         <source>Preparing Workspace …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met voorbereiden van werkruimte...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="42"/>
         <source>Finalizing …</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met voltooien...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/BootSplash.cpp" line="45"/>
         <source>Starting App: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met starten van app: %1</translation>
     </message>
 </context>
 <context>
@@ -199,32 +199,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="28"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="30"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="31"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="33"/>
         <source>Increase Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictogrammen vergroten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="34"/>
         <source>Decrease Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Pictogrammen verkleinen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="36"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/desktopview/DesktopViewPlugin.cpp" line="39"/>
@@ -237,7 +237,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="39"/>
         <source>Go Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga terug</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="161"/>
@@ -247,22 +247,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="165"/>
         <source>Remove from Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit favorieten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="168"/>
         <source>Add to Favorites</source>
-        <translation>Aan favorieten toevoegen</translation>
+        <translation>Toevoegen aan favorieten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="172"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit snelstart</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="175"/>
         <source>Add to Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen aan snelstart</translation>
     </message>
 </context>
 <context>
@@ -270,7 +270,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/JsonMenu.h" line="60"/>
         <source>Error parsing script output: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden tijdens het verwerken van de script-uitvoer: %1</translation>
     </message>
 </context>
 <context>
@@ -278,97 +278,97 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="37"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Snel starten van applicaties of openen van bestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="38"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicaties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="69"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Door bestanden bladeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="74"/>
         <source>Install Applications</source>
-        <translation type="unfinished">Toepassingen installeren</translation>
+        <translation>Applicaties installeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="80"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Configuratiescherm</translation>
+        <translation>Configuratiescherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="91"/>
         <source>Multimedia</source>
-        <translation type="unfinished">Multimedia</translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="92"/>
         <source>Development</source>
-        <translation type="unfinished">Ontwikkeling</translation>
+        <translation>Ontwikkeling</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="93"/>
         <source>Education</source>
-        <translation type="unfinished">Onderwijs</translation>
+        <translation>Educatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="94"/>
         <source>Games</source>
-        <translation type="unfinished">Spelletjes</translation>
+        <translation>Spellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="95"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="96"/>
         <source>Network</source>
-        <translation type="unfinished">Netwerk</translation>
+        <translation>Netwerk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="97"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="98"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Wetenschap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="99"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="100"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="101"/>
         <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulpmiddel</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="102"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="103"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongesorteerd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="140"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlaten</translation>
     </message>
 </context>
 <context>
@@ -376,12 +376,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="83"/>
         <source>%1 % (Charging)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (Bezig met opladen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/battery/LBattery.cpp" line="84"/>
         <source>%1 % (%2 Remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 % (%2 resterend)</translation>
     </message>
 </context>
 <context>
@@ -389,12 +389,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/clock/LClock.cpp" line="121"/>
         <source>Time Zone (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijdzone (%1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/clock/LClock.cpp" line="143"/>
         <source>Use System Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemtijd gebruiken</translation>
     </message>
 </context>
 <context>
@@ -402,27 +402,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="36"/>
         <source>Start Moving Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten met verplaatsen van item</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="37"/>
         <source>Start Resizing Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten met herschalen van item</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="39"/>
         <source>Increase Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Itemgroottes vergroten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="40"/>
         <source>Decrease Item Sizes</source>
-        <translation type="unfinished"></translation>
+        <translation>Itemgroottes verkleinen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/LDPlugin.cpp" line="42"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item verwijderen</translation>
     </message>
 </context>
 <context>
@@ -430,42 +430,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="194"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete applicaties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="196"/>
         <source>Favorite Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete mappen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="197"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="199"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="201"/>
         <source>Pictures</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="203"/>
         <source>Other Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Overige bestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="205"/>
         <source>Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Documenten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="208"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete bestanden</translation>
     </message>
 </context>
 <context>
@@ -473,32 +473,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="198"/>
         <source>Window List</source>
-        <translation type="unfinished"></translation>
+        <translation>Vensterlijst</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="263"/>
         <source>Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina-bureaublad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="264"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkruimte %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="274"/>
         <source>Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminalvenster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="275"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Door bestanden bladeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LDesktop.cpp" line="305"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlaten</translation>
     </message>
 </context>
 <context>
@@ -507,7 +507,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="132"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopswitcher/LDesktopSwitcher.cpp" line="140"/>
         <source>Workspace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkruimte %1</translation>
     </message>
 </context>
 <context>
@@ -515,7 +515,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/LStartButton.h" line="51"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit snelstart</translation>
     </message>
 </context>
 <context>
@@ -524,7 +524,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="158"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/LSession.cpp" line="326"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad</translation>
     </message>
 </context>
 <context>
@@ -532,7 +532,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/LSysDashboard.cpp" line="43"/>
         <source>System Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemdashboard</translation>
     </message>
 </context>
 <context>
@@ -540,54 +540,54 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
         <source>System Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemvolume</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
         <source>Launch Audio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumeregelaar starten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
         <source>Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermhelderheid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="231"/>
         <source>Battery Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Accustatus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="296"/>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkruimte</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="344"/>
         <source>Locale</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="378"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitloggen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="102"/>
         <source>connected</source>
-        <translation type="unfinished"></translation>
+        <translation>verbonden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="120"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="167"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="176"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 van %2</translation>
     </message>
 </context>
 <context>
@@ -595,42 +595,42 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="149"/>
         <source>Activate Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster activeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="152"/>
         <source>Minimize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster minimaliseren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="154"/>
         <source>Restore Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster herstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="156"/>
         <source>Maximize Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster maximaliseren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="159"/>
         <source>Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Venster sluiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="162"/>
         <source>Show All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle vensters weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="163"/>
         <source>Minimize All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle vensters minimaliseren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/taskmanager/LTaskButton.cpp" line="164"/>
         <source>Close All Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle vensters sluiten</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="41"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Snel starten van applicaties of openen van bestanden</translation>
     </message>
 </context>
 <context>
@@ -646,32 +646,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="36"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Samenvatting</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU-temperatuur:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU-gebruik:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geheugengebruik:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>Schijf I/O</translation>
     </message>
 </context>
 <context>
@@ -679,52 +679,52 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="97"/>
         <source>Note Files (*.note)</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitiebestanden (*.note)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="97"/>
         <source>Text Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestanden (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="98"/>
         <source>Open a note file</source>
-        <translation type="unfinished"></translation>
+        <translation>Open een notitiebestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="135"/>
         <source>Name:</source>
-        <translation type="unfinished">Naam:</translation>
+        <translation>Naam:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="137"/>
         <source>Invalid Note Name: Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige notitienaam: probeer het opnieuw</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="138"/>
         <source>Select a Note Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer een notitienaam</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="165"/>
         <source>Open Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestand openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="166"/>
         <source>Create a Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitie creëren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="169"/>
         <source>Rename Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitienaam wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/notepad/NotepadPlugin.cpp" line="170"/>
         <source>Delete Note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notitie verwijderen</translation>
     </message>
 </context>
 <context>
@@ -732,57 +732,57 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
         <source>Clear Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspeellijst wissen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="68"/>
         <source>Shuffle Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspeellijst in willekeurige volgorde</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="70"/>
         <source>Add Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden toevoegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="71"/>
         <source>Add Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Map toevoegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="72"/>
         <source>Add URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL-adres toevoegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="100"/>
         <source>Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimediabestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="101"/>
         <source>Select Multimedia Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer multimediabestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="128"/>
         <source>Select Multimedia Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer multimediamap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="157"/>
         <source>Enter a valid URL for a multimedia file or stream:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een geldige URL in van een multimediabestand of -stream:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Mutlimedia-URL</translation>
     </message>
 </context>
 <context>
@@ -790,155 +790,155 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="62"/>
         <source>View Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergave-opties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="89"/>
         <source>Open Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="92"/>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="154"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="245"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="391"/>
         <source>Back to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Terug naar feeds</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="172"/>
         <source>Feed Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Feed-informatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="212"/>
         <source>Remove Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Feed verwijderen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="263"/>
         <source>New Feed Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw feed-abonnement</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="287"/>
         <source>RSS URL</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-URL</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="302"/>
         <source>Load a preset RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Laad een vooraf ingestelde RSS-feed</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="332"/>
         <source>Add to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen aan feeds</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="409"/>
         <source>Feed Reader Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedlezer-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="430"/>
         <source>Manual Sync Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen handmatige synchronisatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="437"/>
         <source>Some RSS feeds may request custom update intervals instead of using this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommige RSS-feeds kunnen aangepaste bijwerktussenposes aanvragen en daarmee deze instelling negeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="440"/>
         <source>Default Sync Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard synchronisatietussenpose</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="471"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="483"/>
         <source>Hour(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>uur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="478"/>
         <source>Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>minuten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="522"/>
         <source>Save Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="70"/>
         <source>Add RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-feed toevoegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="71"/>
         <source>View Feed Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Feed-details weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="72"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="74"/>
         <source>Update Feeds Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Feeds nu bijwerken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="78"/>
         <source>Lumina Desktop RSS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumina-bureaublad RSS</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="143"/>
         <source>Feed URL: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Feed-URL: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="144"/>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="145"/>
         <source>Description: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Omschrijving: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="146"/>
         <source>Website: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Website: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="147"/>
         <source>Last Build Date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Laaste bouwdatum: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="148"/>
         <source>Last Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Laatste synchronisatie: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="149"/>
         <source>Next Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende synchronisatie: %1</translation>
     </message>
 </context>
 <context>
@@ -946,32 +946,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="30"/>
         <source>Screensaver</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermbeveiliging</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="33"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="26"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkeuren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergave</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Configuratiescherm</translation>
+        <translation>Configuratiescherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="57"/>
         <source>About Lumina</source>
-        <translation type="unfinished"></translation>
+        <translation>Over Lumina</translation>
     </message>
 </context>
 <context>
@@ -979,114 +979,114 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="38"/>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ om te zoeken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="171"/>
         <source>Browse Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Door bestanden bladeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
         <source>Browse Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Door applicaties bladeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Configuratiescherm</translation>
+        <translation>Configuratiescherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlaten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
         <source>Manage Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicaties beheren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="408"/>
         <source>Show Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="488"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad instellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruiker uitloggen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem herstarten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkeuren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1017"/>
         <source>Power Off System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem uitschakelen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1036"/>
         <source>(System Performing Updates)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Systeem is bezig met uitvoeren van updates)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="924"/>
         <source>Suspend System</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauzestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1125"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Terug</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="267"/>
         <source>Apply Updates?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wilt u de updates toepassen?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="267"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn systeemupdates beschikbaar. Wilt u deze nu installeren?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="475"/>
         <source>%1% (Plugged In)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Oplaadkabel is verbonden)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="479"/>
         <source>%1% (%2 Estimated)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (%2 geschat)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="480"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% resterend</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="496"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="655"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="666"/>
         <source>Workspace %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Werkruimte %1/%2</translation>
     </message>
 </context>
 <context>
@@ -1094,47 +1094,47 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="14"/>
         <source>System Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeemopties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="55"/>
         <source>Log Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitloggen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="71"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Herstarten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="87"/>
         <source>Shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsluiten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="127"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="156"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergrendelen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauzestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>Apply Updates?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wilt u de updates toepassen?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er zijn systeemupdates beschikbaar! Wilt u deze nu installeren?</translation>
     </message>
 </context>
 <context>
@@ -1142,22 +1142,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="33"/>
         <source>Go Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga terug</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
         <source>Remove Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sneltoets verwijderen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand verwijderen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sneltoets creëren</translation>
     </message>
 </context>
 <context>
@@ -1165,180 +1165,180 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="14"/>
         <source>UserWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>GebruikersWidget</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="24"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="27"/>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Favorieten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="65"/>
         <source>Favorite Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete applicaties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="68"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="187"/>
         <source>Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicaties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="102"/>
         <source>Favorite Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete mappen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="105"/>
         <source>Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Locaties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="139"/>
         <source>Favorite FIles</source>
-        <translation type="unfinished"></translation>
+        <translation>Favoriete bestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="142"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Apps</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="330"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Thuis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
         <source>Home Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Persoonlijke map</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="322"/>
         <source>Search this Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze map doorzoeken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="375"/>
         <source>Go back to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga terug naar persoonlijke map</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="350"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Map openen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="458"/>
         <source>Config</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuratie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="461"/>
         <source>Desktop Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaubladvoorkeuren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="473"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Configuratiescherm</translation>
+        <translation>Configuratiescherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="495"/>
         <source>Desktop Appearance/Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaubladuiterlijk/Plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="517"/>
         <source>Screen Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermconfiguratie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="539"/>
         <source>Screensaver Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermbeveiliging-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="581"/>
         <source>About the Lumina Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Over de Lumina-werkomgeving</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="289"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="290"/>
         <source>Multimedia</source>
-        <translation type="unfinished">Multimedia</translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="291"/>
         <source>Development</source>
-        <translation type="unfinished">Ontwikkeling</translation>
+        <translation>Ontwikkeling</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="292"/>
         <source>Education</source>
-        <translation type="unfinished">Onderwijs</translation>
+        <translation>Educatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="293"/>
         <source>Games</source>
-        <translation type="unfinished">Spelletjes</translation>
+        <translation>Spellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="294"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="295"/>
         <source>Network</source>
-        <translation type="unfinished">Netwerk</translation>
+        <translation>Netwerk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="296"/>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="297"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Wetenschap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="298"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="299"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="300"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Hulpmiddelen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="301"/>
         <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <translation>Wine</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="302"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongesorteerd</translation>
     </message>
 </context>
 </TS>

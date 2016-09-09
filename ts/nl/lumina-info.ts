@@ -6,7 +6,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="14"/>
         <source>Lumina Desktop Information</source>
-        <translation>Lumina Desktop informatie</translation>
+        <translation>Lumina-werkomgevingsinformatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="60"/>
@@ -16,27 +16,27 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="89"/>
         <source>Source Repository</source>
-        <translation>Pakketbron</translation>
+        <translation>Broncode-pakketbron</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="124"/>
         <source>Lumina Website</source>
-        <translation>Lumina Website</translation>
+        <translation>Lumina-website</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="152"/>
         <source>Bug Reports</source>
-        <translation>Fout Raportages</translation>
+        <translation>Foutrapportages</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="179"/>
         <source>Desktop Version:</source>
-        <translation>Desktop Versie:</translation>
+        <translation>Bureaubladversie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="202"/>
         <source>OS Build:</source>
-        <translation type="unfinished"></translation>
+        <translation>OS-bouwsel:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="218"/>
@@ -46,12 +46,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="276"/>
         <source>Ask the Community</source>
-        <translation type="unfinished"></translation>
+        <translation>Vraag het aan de gemeenschap</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="233"/>
         <source>View Information</source>
-        <translation>Informatie tonen</translation>
+        <translation>Informatie weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="298"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="333"/>
         <source>Project Lead:</source>
-        <translation>Project beheerder:</translation>
+        <translation>Projectleider:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="340"/>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="353"/>
         <source>Contributors:</source>
-        <translation>Bijdragen van:</translation>
+        <translation>Bijdragers:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="366"/>
@@ -86,12 +86,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="428"/>
         <source>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Open in web browser&lt;a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://github.com/pcbsd/lumina/graphs/contributors&quot;&gt;Openen in webbrowser&lt;a&gt;</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-info/MainUI.ui" line="454"/>
         <source>Close</source>
-        <translation>Afsluiten</translation>
+        <translation>Sluiten</translation>
     </message>
 </context>
 </TS>

@@ -21,12 +21,12 @@
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="162"/>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="295"/>
         <source>Take Screenshot</source>
-        <translation>Schermafdruk Maken</translation>
+        <translation>Schermafdruk maken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="37"/>
         <source>New Screenshot</source>
-        <translation>Nieuwe Schermafdruk</translation>
+        <translation>Nieuwe schermafdruk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="43"/>
@@ -36,12 +36,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="124"/>
         <source>Include Borders</source>
-        <translation>Inclusief Vensterranden</translation>
+        <translation>Inclusief vensterranden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="149"/>
         <source> Seconds</source>
-        <translation> Seconden</translation>
+        <translation> seconden</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="152"/>
@@ -51,7 +51,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="172"/>
         <source>View/Edit</source>
-        <translation>Bekijk/Wijzig</translation>
+        <translation>Weergeven/Wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="212"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="222"/>
         <source>Launch Editor</source>
-        <translation>Bewerkingsprogramma starten</translation>
+        <translation>Bewerker starten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="245"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="255"/>
         <source>Resize</source>
-        <translation>Grootte wijzigen</translation>
+        <translation>Herschalen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="282"/>
@@ -97,22 +97,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="67"/>
         <source>Entire Session</source>
-        <translation>Volledige Sessie</translation>
+        <translation>Volledige sessie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="81"/>
         <source>Single Window</source>
-        <translation>Enkele Venster</translation>
+        <translation>Los venster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="74"/>
         <source>Single Screen</source>
-        <translation>Enkele Scherm</translation>
+        <translation>Los scherm</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>
         <source>Save Screenshot</source>
-        <translation>Schermafdruk Opslaan</translation>
+        <translation>Schermafdruk opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="309"/>
@@ -122,12 +122,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.ui" line="317"/>
         <source>Quick Save</source>
-        <translation>Gelijk opslaan</translation>
+        <translation>Snel opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-screenshot/MainUI.cpp" line="78"/>
         <source>PNG Files (*.png);;AllFiles (*)</source>
-        <translation>PNG Bestanden(*.png);;Alle Bestanden(*)</translation>
+        <translation>PNG-bestanden(*.png);;Alle bestanden(*)</translation>
     </message>
 </context>
 </TS>
