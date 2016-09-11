@@ -751,52 +751,52 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Desktop Icons and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaubladpictogrammen en -plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Desktop Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaubladplug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="36"/>
         <source>Change what icons or tools are embedded on the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig de pictogrammen en hulpmiddelen die zich bevinden op het bureaublad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Floating Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwevende panelen en plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Panels and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Panelen en plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="37"/>
         <source>Change any floating panels and what they show</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig elk zwevend paneel en wat hij laat zien</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Context Menu and Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtermuisknopmenu en plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Menu Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu-plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="38"/>
         <source>Change what options are shown on the desktop context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzig de opties die worden weergegeven in het rechtermuisknopmenu op het bureaublad</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
         <source>Localization Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Taalregio-opties</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/getPage.h" line="39"/>
@@ -850,27 +850,27 @@ Wilt u het overschrijven?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="54"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="87"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="126"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.ui" line="133"/>
         <source>Apply</source>
-        <translation type="unfinished">Toepassen</translation>
+        <translation>Toepassen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="57"/>
         <source>Select a menu script</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer een menu-script</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ScriptDialog.cpp" line="64"/>
         <source>Select an icon file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer een pictogrambestand</translation>
     </message>
 </context>
 <context>
@@ -893,12 +893,12 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="94"/>
         <source>Save</source>
-        <translation type="unfinished">Opslaan</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/ThemeDialog.ui" line="101"/>
@@ -924,12 +924,12 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>HoofdVenster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="23"/>
         <source>toolBar</source>
-        <translation type="unfinished">Werkbalk</translation>
+        <translation>werkBalk</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/mainWindow.ui" line="50"/>
@@ -984,47 +984,47 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="39"/>
         <source>Add New Startup Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe opstartdienst toevoegen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="75"/>
         <source>Application</source>
-        <translation type="unfinished">Applicatie</translation>
+        <translation>Applicatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="85"/>
         <source>Binary</source>
-        <translation type="unfinished">Uitvoerbaar bestand</translation>
+        <translation>Uitvoerbaar bestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.ui" line="95"/>
         <source>File</source>
-        <translation type="unfinished">Bestand</translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="63"/>
         <source>Startup Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Opstartdiensten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Select Binary</source>
-        <translation type="unfinished">Uitvoerbaar bestand selecteren</translation>
+        <translation>Uitvoerbaar bestand selecteren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="127"/>
         <source>Application Binaries (*)</source>
-        <translation type="unfinished">Applicatie uitvoerbare bestanden (*)</translation>
+        <translation>Applicatie uitvoerbare bestanden (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>Invalid Binary</source>
-        <translation type="unfinished">Ongeldig uitvoerbaar bestand</translation>
+        <translation>Ongeldig uitvoerbaar bestand</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="130"/>
         <source>The selected file is not executable!</source>
-        <translation type="unfinished">Het geselecteerde bestand is niet uitvoerbaar!</translation>
+        <translation>Het geselecteerde bestand is niet uitvoerbaar!</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_autostart.cpp" line="144"/>
@@ -1080,47 +1080,47 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="104"/>
         <source>Default Application</source>
-        <translation type="unfinished">Standaard applicatie</translation>
+        <translation>Standaardapplicatie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="109"/>
         <source>Description</source>
-        <translation type="unfinished">Omschrijving</translation>
+        <translation>Omschrijving</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="119"/>
         <source>Clear</source>
-        <translation type="unfinished">Wissen</translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="142"/>
         <source>Set App</source>
-        <translation type="unfinished">Applicatie instellen</translation>
+        <translation>Applicatie instellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="152"/>
         <source>Set Binary</source>
-        <translation type="unfinished">Uitvoerbaar bestand instellen</translation>
+        <translation>Uitvoerbaar bestand instellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="168"/>
         <source>Basic Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Basisinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="187"/>
         <source>Web Browser:</source>
-        <translation type="unfinished">Webbrowser:</translation>
+        <translation>Webbrowser:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="210"/>
         <source>E-Mail Client:</source>
-        <translation type="unfinished">E-mail-applicatie:</translation>
+        <translation>E-mail-applicatie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="237"/>
         <source>File Manager:</source>
-        <translation type="unfinished">Bestandsbeheerder:</translation>
+        <translation>Bestandsbeheerder:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_defaultapps.ui" line="250"/>
@@ -1181,47 +1181,47 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="34"/>
         <source>Basic Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Basisbewerker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="44"/>
         <source>Advanced Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Geavanceerde bewerker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="107"/>
         <source>Action</source>
-        <translation type="unfinished">Actie</translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="112"/>
         <source>Keyboard Shortcut</source>
-        <translation type="unfinished">Toetsenbord-sneltoets</translation>
+        <translation>Sneltoets</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="120"/>
         <source>Modify Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Sneltoets wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="141"/>
         <source>Clear Shortcut</source>
-        <translation type="unfinished">Sneltoets wissen</translation>
+        <translation>Sneltoets wissen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="151"/>
         <source>Apply Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijziging toepassen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="161"/>
         <source>Change Key Binding:</source>
-        <translation type="unfinished"></translation>
+        <translation>Toetstoewijzing wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="184"/>
         <source>Note: Current key bindings need to be cleared and saved before they can be re-used.</source>
-        <translation type="unfinished">Let op: de huidige toetstoewijzingen moeten worden gewist en opgeslagen voordat ze hergebruikt kunnen worden.</translation>
+        <translation>Let op: de huidige toetstoewijzingen moeten worden gewist en opgeslagen voordat ze hergebruikt kunnen worden.</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_keys.ui" line="220"/>
@@ -1278,48 +1278,48 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="34"/>
         <source>Simple Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Eenvoudige bewerker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="44"/>
         <source>Advanced Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Geavanceerde bewerker</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="81"/>
         <source>Number of Workspaces</source>
-        <translation type="unfinished">Aantal werkbladen</translation>
+        <translation>Aantal werkbladen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="98"/>
         <source>New Window Placement</source>
-        <translation type="unfinished">Plaatsing van nieuw venster</translation>
+        <translation>Plaatsing van nieuw venster</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="108"/>
         <source>Focus Policy</source>
-        <translation type="unfinished">Focusbeleid</translation>
+        <translation>Focusbeleid</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="118"/>
         <source>Window Theme</source>
-        <translation type="unfinished">Vensterthema</translation>
+        <translation>Vensterthema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="136"/>
         <source>Window Theme Preview</source>
-        <translation type="unfinished">Voorbeeld van vensterthema</translation>
+        <translation>Voorbeeld van vensterthema</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.ui" line="190"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="182"/>
         <source>No Preview Available</source>
-        <translation type="unfinished">Geen voorbeeld beschikbaar</translation>
+        <translation>Geen voorbeeld beschikbaar</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_fluxbox_settings.cpp" line="71"/>
@@ -1372,17 +1372,17 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="26"/>
         <source>Embedded Utilities</source>
-        <translation type="unfinished">Ingebedde hulpmiddelen</translation>
+        <translation>Ingebouwde hulpmiddelen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.ui" line="77"/>
         <source>Display Desktop Folder Contents</source>
-        <translation type="unfinished">Weergeef inhoud van de desktop folder</translation>
+        <translation>Inhoud van bureaubladmap weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_desktop.cpp" line="54"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Bureaubladinstellingen</translation>
+        <translation>Bureaubladinstellingen</translation>
     </message>
 </context>
 <context>
@@ -1390,17 +1390,17 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.ui" line="38"/>
         <source>Context Menu Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtermuisknopmenu-plug-ins</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_menu.cpp" line="47"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Bureaubladinstellingen</translation>
+        <translation>Bureaubladinstellingen</translation>
     </message>
 </context>
 <context>
@@ -1408,12 +1408,12 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_interface_panels.cpp" line="50"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Bureaubladinstellingen</translation>
+        <translation>Bureaubladinstellingen</translation>
     </message>
 </context>
 <context>
@@ -1421,7 +1421,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_main.ui" line="32"/>
@@ -1474,42 +1474,42 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="49"/>
         <source>Messages</source>
-        <translation type="unfinished">Berichten</translation>
+        <translation>Berichten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="59"/>
         <source>Time</source>
-        <translation type="unfinished">Tijd</translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="69"/>
         <source>Numeric</source>
-        <translation type="unfinished">Numeriek</translation>
+        <translation>Numeriek</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="79"/>
         <source>Monetary</source>
-        <translation type="unfinished">Valuta</translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="89"/>
         <source>Collate</source>
-        <translation type="unfinished">Vergelijken</translation>
+        <translation>Vergelijken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.ui" line="99"/>
         <source>CType</source>
-        <translation type="unfinished">CType</translation>
+        <translation>CType</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="48"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Bureaubladinstellingen</translation>
+        <translation>Bureaubladinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_locale.cpp" line="92"/>
         <source>System Default</source>
-        <translation type="unfinished">Systeemstandaard</translation>
+        <translation>Systeemstandaard</translation>
     </message>
 </context>
 <context>
@@ -1517,7 +1517,7 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="34"/>
@@ -1542,214 +1542,214 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="58"/>
         <source>Manage desktop app links</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad-applinks beheren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="67"/>
         <source>Change User Icon</source>
-        <translation type="unfinished">Gebruikersafbeelding wijzigen</translation>
+        <translation>Gebruikersafbeelding wijzigen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="105"/>
         <source>Time Format:</source>
-        <translation type="unfinished">Tijdopmaak:</translation>
+        <translation>Tijdopmaak:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="117"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="161"/>
         <source>View format codes</source>
-        <translation type="unfinished">Opmaakcodes weergeven</translation>
+        <translation>Opmaakcodes weergeven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="132"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="176"/>
         <source>Sample:</source>
-        <translation type="unfinished">Voorbeeld:</translation>
+        <translation>Voorbeeld:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="149"/>
         <source>Date Format:</source>
-        <translation type="unfinished">Datumopmaak:</translation>
+        <translation>Datumopmaak:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="196"/>
         <source>Display Format</source>
-        <translation type="unfinished">Weergave-opmaak</translation>
+        <translation>Weergave-opmaak</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="227"/>
         <source>Reset Desktop Settings</source>
-        <translation type="unfinished">Bureaublad-instellingen herstellen</translation>
+        <translation>Bureaublad-instellingen herstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="246"/>
         <source>Return to system defaults</source>
-        <translation type="unfinished">Herstellen naar standaardwaarden van het systeem</translation>
+        <translation>Herstellen naar standaardwaarden van het systeem</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.ui" line="253"/>
         <source>Return to Lumina defaults</source>
-        <translation type="unfinished">Herstellen naar standaardwaarden van Lumina</translation>
+        <translation>Herstellen naar standaardwaarden van Lumina</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="19"/>
         <source>Time (Date as tooltip)</source>
-        <translation type="unfinished">Tijd (datum als een zwevende ballon)</translation>
+        <translation>Tijd (datum in hulpballon)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="20"/>
         <source>Date (Time as tooltip)</source>
-        <translation type="unfinished">Datum (tijd als een zwevende ballon)</translation>
+        <translation>Datum (tijd in hulpballon)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="21"/>
         <source>Time first then Date</source>
-        <translation type="unfinished">Eerst de tijd, dan de datum</translation>
+        <translation>Eerst de tijd, dan de datum</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="22"/>
         <source>Date first then Time</source>
-        <translation type="unfinished">Eerst de datum, dan de tijd</translation>
+        <translation>Eerst de datum, dan de tijd</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="61"/>
         <source>Desktop Settings</source>
-        <translation type="unfinished">Bureaubladinstellingen</translation>
+        <translation>Bureaubladinstellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="101"/>
         <source>Select an image</source>
-        <translation type="unfinished">Een afbeelding selecteren</translation>
+        <translation>Selecteer een afbeelding</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="102"/>
         <source>Images</source>
-        <translation type="unfinished">Afbeeldingen</translation>
+        <translation>Afbeeldingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="106"/>
         <source>Reset User Image</source>
-        <translation type="unfinished">Gebruikersafbeelding herstellen</translation>
+        <translation>Gebruikersafbeelding herstellen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="106"/>
         <source>Would you like to reset the user image to the system default?</source>
-        <translation type="unfinished">Wilt u de gebruikersafbeelding herstellen naar de systeemstandaard?</translation>
+        <translation>Wilt u de gebruikersafbeelding herstellen naar de systeemstandaard?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="145"/>
         <source>Valid Time Codes:</source>
-        <translation type="unfinished">Geldige tijdcodes:</translation>
+        <translation>Geldige tijdcodes:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="146"/>
         <source>%1: Hour without leading zero (1)</source>
-        <translation type="unfinished">%1: uur zonder leidende nul (1)</translation>
+        <translation>%1: uur zonder leidende nul (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="147"/>
         <source>%1: Hour with leading zero (01)</source>
-        <translation type="unfinished">%1: uur met leidende nul (01)</translation>
+        <translation>%1: uur met leidende nul (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="148"/>
         <source>%1: Minutes without leading zero (2)</source>
-        <translation type="unfinished">%1: minuten zonder leidende nul (2)</translation>
+        <translation>%1: minuten zonder leidende nul (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="149"/>
         <source>%1: Minutes with leading zero (02)</source>
-        <translation type="unfinished">%1: minuten met leidende nul (02)</translation>
+        <translation>%1: minuten met leidende nul (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="150"/>
         <source>%1: Seconds without leading zero (3)</source>
-        <translation type="unfinished">%1: seconden zonder leidende nul (3)</translation>
+        <translation>%1: seconden zonder leidende nul (3)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="151"/>
         <source>%1: Seconds with leading zero (03)</source>
-        <translation type="unfinished">%1: seconden met leidende nul (03)</translation>
+        <translation>%1: seconden met leidende nul (03)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="152"/>
         <source>%1: AM/PM (12-hour) clock (upper or lower case)</source>
-        <translation type="unfinished">%1: AM/PM (12 uur) klok (met kleine of hoofdletter)</translation>
+        <translation>%1: AM/PM (12 uur) klok (met kleine of hoofdletter)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="153"/>
         <source>%1: Timezone</source>
-        <translation type="unfinished">%1: Tijdzone</translation>
+        <translation>%1: Tijdzone</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="154"/>
         <source>Time Codes</source>
-        <translation type="unfinished">Tijdcodes</translation>
+        <translation>Tijdcodes</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="168"/>
         <source>Valid Date Codes:</source>
-        <translation type="unfinished">Geldige datumcodes:</translation>
+        <translation>Geldige datumcodes:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="169"/>
         <source>%1: Numeric day without a leading zero (1)</source>
-        <translation type="unfinished">%1: Dag in numeriek formaat zonder voorgaande nul (1)</translation>
+        <translation>%1: dag in numeriek formaat zonder voorgaande nul (1)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="170"/>
         <source>%1: Numeric day with leading zero (01)</source>
-        <translation type="unfinished">%1: Dag in numeriek formaat met voorgaande nul (01)</translation>
+        <translation>%1: dag in numeriek formaat met voorgaande nul (01)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="171"/>
         <source>%1: Day as abbreviation (localized)</source>
-        <translation type="unfinished">%1: Dag in afgekort formaat (aangepast aan landinstellingen)</translation>
+        <translation>%1: dag in afgekort formaat (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="172"/>
         <source>%1: Day as full name (localized)</source>
-        <translation type="unfinished">%1: Dag voluit (aangepast aan landinstellingen)</translation>
+        <translation>%1: dag voluit (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="173"/>
         <source>%1: Numeric month without leading zero (2)</source>
-        <translation type="unfinished">%1: Maand in numeriek formaat zonder voorgaande nul (2)</translation>
+        <translation>%1: maand in numeriek formaat zonder voorgaande nul (2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="174"/>
         <source>%1: Numeric month with leading zero (02)</source>
-        <translation type="unfinished">%1: Maand in numeriek formaat met voorgaande nul (02)</translation>
+        <translation>%1: maand in numeriek formaat met voorgaande nul (02)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="175"/>
         <source>%1: Month as abbreviation (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: maand in afgekort formaat (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="176"/>
         <source>%1: Month as full name (localized)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: maand voluit (aangepast aan landinstellingen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="177"/>
         <source>%1: Year as 2-digit number (15)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: jaar geschreven als 2 getallen (15)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="178"/>
         <source>%1: Year as 4-digit number (2015)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: jaar geschreven als 4 getallen (2015)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="179"/>
         <source>Text may be contained within single-quotes to ignore replacements</source>
-        <translation type="unfinished"></translation>
+        <translation>De tekst kan worden geplaatst tussen enkele aanhalingstekens om vervanging te negeren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_session_options.cpp" line="180"/>
         <source>Date Codes</source>
-        <translation type="unfinished">Datumcodes</translation>
+        <translation>Datumcodes</translation>
     </message>
 </context>
 <context>
@@ -1757,63 +1757,63 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="32"/>
         <source>Font:</source>
-        <translation type="unfinished">Lettertype:</translation>
+        <translation>Lettertype:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="46"/>
         <source>Font Size:</source>
-        <translation type="unfinished">Lettertypegrootte:</translation>
+        <translation>Lettertypegrootte:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="53"/>
         <source> point</source>
-        <translation type="unfinished">punt</translation>
+        <translation> punt</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="60"/>
         <source>Theme Template:</source>
-        <translation type="unfinished">Thema-sjabloon:</translation>
+        <translation>Thema-sjabloon:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="76"/>
         <source>Create/Edit a theme template (Advanced)</source>
-        <translation type="unfinished">Een themasjabloon creëren/bewerken (Geavanceerd)</translation>
+        <translation>Een themasjabloon creëren/bewerken (Geavanceerd)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="82"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="116"/>
         <source>Edit</source>
-        <translation type="unfinished">Bewerken</translation>
+        <translation>Bewerken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="94"/>
         <source>Color Scheme:</source>
-        <translation type="unfinished">Kleurenschema:</translation>
+        <translation>Kleurenschema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="110"/>
         <source>Create/Edit a color scheme</source>
-        <translation type="unfinished">Een kleurenschema creëren/bewerken</translation>
+        <translation>Een kleurenschema creëren/bewerken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="128"/>
         <source>Icon Pack:</source>
-        <translation type="unfinished">Pictogram-themapakket:</translation>
+        <translation>Pictogram-themapakket:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.ui" line="138"/>
         <source>Mouse Cursors:</source>
-        <translation type="unfinished">Muis cursors:</translation>
+        <translation>Cursor-thema:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="52"/>
         <source>Theme Settings</source>
-        <translation type="unfinished">Thema-instellingen</translation>
+        <translation>Thema-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="67"/>
@@ -1821,7 +1821,7 @@ Wilt u het overschrijven?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="132"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="158"/>
         <source>Local</source>
-        <translation type="unfinished">Lokaal</translation>
+        <translation>Lokaal</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="74"/>
@@ -1829,7 +1829,7 @@ Wilt u het overschrijven?</translation>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="139"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_theme.cpp" line="165"/>
         <source>System</source>
-        <translation type="unfinished">Systeem</translation>
+        <translation>Systeem</translation>
     </message>
 </context>
 <context>
@@ -1837,150 +1837,150 @@ Wilt u het overschrijven?</translation>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Formulier</translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="90"/>
         <source>Single Background</source>
-        <translation type="unfinished">Eén achtergrond</translation>
+        <translation>Eén achtergrond</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="100"/>
         <source>Rotate Background</source>
-        <translation type="unfinished">Achtergrond draaien</translation>
+        <translation>Achtergrond draaien</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="107"/>
         <source> Minutes</source>
-        <translation type="unfinished">minuten</translation>
+        <translation> minuten</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="110"/>
         <source>Every </source>
-        <translation type="unfinished">Elke</translation>
+        <translation>Elke </translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.ui" line="133"/>
         <source>Layout:</source>
-        <translation type="unfinished">Layout:</translation>
+        <translation>Indeling:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="55"/>
         <source>Wallpaper Settings</source>
-        <translation type="unfinished">Achtergrondinstellingen</translation>
+        <translation>Bureaubladachtergrond-instellingen</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="64"/>
         <source>System Default</source>
-        <translation type="unfinished">Systeemstandaard</translation>
+        <translation>Systeemstandaard</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="65"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="220"/>
         <source>Solid Color: %1</source>
-        <translation type="unfinished">Vaste kleur: %1</translation>
+        <translation>Vaste kleur: %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="76"/>
         <source>Screen Resolution:</source>
-        <translation type="unfinished">Schermresolutie:</translation>
+        <translation>Schermresolutie:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="98"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="99"/>
         <source>Select Color</source>
-        <translation type="unfinished">Kleur kiezen</translation>
+        <translation>Selecteer kleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="118"/>
         <source>File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand(en)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="119"/>
         <source>Directory (Single)</source>
-        <translation type="unfinished"></translation>
+        <translation>Map (enkel)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="120"/>
         <source>Directory (Recursive)</source>
-        <translation type="unfinished"></translation>
+        <translation>Map (inclusief submappen)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="121"/>
         <source>Solid Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaste kleur</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="125"/>
         <source>Automatic</source>
-        <translation type="unfinished">Automatisch</translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="126"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermvullend</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="127"/>
         <source>Fit screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Passend</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="128"/>
         <source>Tile</source>
-        <translation type="unfinished">Tegel</translation>
+        <translation>Tegels</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="129"/>
         <source>Center</source>
-        <translation type="unfinished">Midden</translation>
+        <translation>Centreren</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="130"/>
         <source>Top Left</source>
-        <translation type="unfinished">Linksboven</translation>
+        <translation>Linksboven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="131"/>
         <source>Top Right</source>
-        <translation type="unfinished">Rechtsboven</translation>
+        <translation>Rechtsboven</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="132"/>
         <source>Bottom Left</source>
-        <translation type="unfinished">Links onderaan</translation>
+        <translation>Linksonder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="133"/>
         <source>Bottom Right</source>
-        <translation type="unfinished">Rechts Onderaan</translation>
+        <translation>Rechtsonder</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="141"/>
         <source>No Background</source>
-        <translation type="unfinished">Geen achtergrond</translation>
+        <translation>Geen achtergrond</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="141"/>
         <source>(use system default)</source>
-        <translation type="unfinished">(systeemstandaard gebruiken)</translation>
+        <translation>(systeemstandaard gebruiken)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="161"/>
         <source>File does not exist</source>
-        <translation type="unfinished">Het bestand bestaat niet</translation>
+        <translation>Het bestand bestaat niet</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="201"/>
         <source>Find Background Image(s)</source>
-        <translation type="unfinished">Achtergrondafbeelding(en) vinden</translation>
+        <translation>Achtergrondafbeelding(en) zoeken</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="232"/>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-config/pages/page_wallpaper.cpp" line="257"/>
         <source>Find Background Image Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrondafbeeldingsmap zoeken</translation>
     </message>
 </context>
 </TS>
