@@ -58,7 +58,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="83"/>
         <source>Manage Applications</source>
-        <translation type="unfinished">Tvarkyti programas</translation>
+        <translation>Tvarkyti programas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/AppMenu.cpp" line="88"/>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="172"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Šalinti iš sparčiojo paleidimo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/ItemWidget.cpp" line="175"/>
         <source>Add to Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti į spartųjį paleidimą</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="37"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparčiai paleisti programas ar atverti failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="38"/>
@@ -465,7 +465,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="208"/>
         <source>Favorite Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mėgstami failai</translation>
     </message>
 </context>
 <context>
@@ -515,7 +515,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/LStartButton.h" line="51"/>
         <source>Remove from Quicklaunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Šalinti iš sparčiojo paleidimo</translation>
     </message>
 </context>
 <context>
@@ -545,7 +545,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="50"/>
         <source>System Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemos garsis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="111"/>
@@ -555,12 +555,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="156"/>
         <source>Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrano ryškumas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="231"/>
         <source>Battery Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Baterijos būsena</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.ui" line="296"/>
@@ -580,7 +580,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="102"/>
         <source>connected</source>
-        <translation type="unfinished"></translation>
+        <translation>prijungta</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemdashboard/SysMenuQuick.cpp" line="120"/>
@@ -638,7 +638,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/LUserButton.cpp" line="41"/>
         <source>Quickly launch applications or open files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sparčiai paleisti programas ar atverti failus</translation>
     </message>
 </context>
 <context>
@@ -656,22 +656,22 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="42"/>
         <source>CPU Temp:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU temperatūra:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="56"/>
         <source>CPU Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU naudojimas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="70"/>
         <source>Mem Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atminties naudojimas:</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/systemmonitor/MonitorWidget.ui" line="85"/>
         <source>Disk I/O</source>
-        <translation type="unfinished"></translation>
+        <translation>Disko I/O</translation>
     </message>
 </context>
 <context>
@@ -782,7 +782,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="159"/>
         <source>Multimedia URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedijos URL</translation>
     </message>
 </context>
 <context>
@@ -837,12 +837,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="302"/>
         <source>Load a preset RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>Įkelti iš anksto nustatytą RSS kanalą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="332"/>
         <source>Add to Feeds</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridėti į kanalus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.ui" line="409"/>
@@ -938,7 +938,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/rssreader/RSSFeedPlugin.cpp" line="149"/>
         <source>Next Sync: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitas sinchronizavimas: %1</translation>
     </message>
 </context>
 <context>
@@ -1019,17 +1019,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="488"/>
         <source>Configure Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigūruoti darbalaukį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="1065"/>
         <source>Sign Out User</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjungti naudotoją</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="989"/>
         <source>Restart System</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleisti sistemą iš naujo</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="262"/>
@@ -1079,7 +1079,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="480"/>
         <source>%1% Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Liko %1%</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="496"/>
@@ -1124,7 +1124,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="172"/>
         <source>Suspend</source>
-        <translation type="unfinished"></translation>
+        <translation>Pristabdyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
@@ -1147,12 +1147,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
         <source>Remove Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Šalinti šaukinį</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="138"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ištrinti failą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="144"/>
@@ -1207,33 +1207,33 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="184"/>
         <source>Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="290"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="330"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Namai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="293"/>
         <source>Home Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Namų katalogas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="322"/>
         <source>Search this Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieškoti šiame kataloge</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="375"/>
         <source>Go back to home directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Grįžti į namų katalogą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="350"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Atverti katalogą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="458"/>
