@@ -138,7 +138,7 @@
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.ui" line="289"/>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="130"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="147"/>
         <source>New File</source>
         <translatorcomment>これ、メニューだけじゃなくて、新しいファイル作ったときのタブ名にもなる。</translatorcomment>
         <translation>新しいファイル</translation>
@@ -225,45 +225,72 @@
         <translation>Ctrl+R</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="25"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="40"/>
         <source>Text Editor</source>
         <translation>テキストエディター</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="137"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="154"/>
         <source>Open File(s)</source>
         <translation>ファイルを開く</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="137"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="154"/>
         <source>Text Files (*)</source>
         <translation>テキストファイル (*)</translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="283"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="380"/>
+        <source>Lose Unsaved Changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="283"/>
+        <source>This file has unsaved changes.
+Do you want to close it anyway?
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/MainUI.cpp" line="380"/>
+        <source>There are unsaved changes.
+Do you want to close the editor anyway?
+
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PlainTextEditor</name>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="94"/>
         <source>Save File</source>
         <translation>ファイルを保存</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="93"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="94"/>
         <source>Text File (*)</source>
         <translation>テキストファイル (*)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="289"/>
+        <source>Row Number: %1, Column Number: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="298"/>
         <source>The following file has been changed by some other utility. Do you want to re-load it?</source>
         <translation>以下のファイルは他のユーティリティーで変更されています。再度読み込みますか?</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="291"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="300"/>
         <source>(Note: You will lose all currently-unsaved changes)</source>
         <translation>(注意: 保存されていない変更は失われます)</translation>
     </message>
     <message>
-        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="295"/>
+        <location filename="../../lumina-git/src-qt5/desktop-utils/lumina-textedit/PlainTextEditor.cpp" line="304"/>
         <source>File Modified</source>
         <translation>ファイルが変更されています</translation>
     </message>

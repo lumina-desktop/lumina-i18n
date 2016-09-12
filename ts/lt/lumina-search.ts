@@ -49,7 +49,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="23"/>
         <source>Type to search</source>
-        <translation>Rašykite, kad ieškotumėte</translation>
+        <translation>Rašykite, norėdami ieškoti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core-utils/lumina-search/MainUI.ui" line="30"/>

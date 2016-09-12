@@ -6,12 +6,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="32"/>
         <source>Click to assign an application</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustelėkite, norėdami priskirti programą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="38"/>
         <source>Launch %1</source>
-        <translation>Paleisti %s</translation>
+        <translation>Paleisti %1</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="45"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/applauncher/AppLaunchButton.cpp" line="63"/>
         <source>Name:</source>
-        <translation type="unfinished">Pavadinimas:</translation>
+        <translation>Pavadinimas:</translation>
     </message>
 </context>
 <context>
@@ -35,17 +35,17 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="45"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="71"/>
         <source>Click to Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustelėkite, norėdami nustatyti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
         <source>Select Application</source>
-        <translation type="unfinished">Pasirinkti programą</translation>
+        <translation>Pasirinkti programą</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/applauncher/AppLauncherPlugin.cpp" line="132"/>
         <source>Name:</source>
-        <translation type="unfinished">Pavadinimas:</translation>
+        <translation>Pavadinimas:</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="38"/>
         <source>Applications</source>
-        <translation type="unfinished">Programos</translation>
+        <translation>Programos</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/appmenu/LAppMenuPlugin.cpp" line="69"/>
@@ -440,12 +440,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="197"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Garsas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="199"/>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaizdas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/desktopbar/LDeskBar.cpp" line="201"/>
@@ -732,7 +732,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/desktop-plugins/audioplayer/PlayerWidget.cpp" line="67"/>
@@ -951,7 +951,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="33"/>
         <source>Desktop</source>
-        <translation type="unfinished">Darbalaukis</translation>
+        <translation>Darbalaukis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="26"/>
@@ -961,12 +961,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="36"/>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekranas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="51"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Valdymo skydelis</translation>
+        <translation>Valdymo skydelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SettingsMenu.cpp" line="57"/>
@@ -989,7 +989,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="171"/>
         <source>Browse Files</source>
-        <translation type="unfinished">Naršyti failus</translation>
+        <translation>Naršyti failus</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="199"/>
@@ -999,12 +999,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="234"/>
         <source>Control Panel</source>
-        <translation type="unfinished">Valdymo skydelis</translation>
+        <translation>Valdymo skydelis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="305"/>
         <source>Leave</source>
-        <translation type="unfinished">Išeiti</translation>
+        <translation>Išeiti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.ui" line="379"/>
@@ -1064,17 +1064,17 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="267"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsų sistemoje yra laukiančių atnaujinimų! Ar norite įdiegti juos dabar?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="475"/>
         <source>%1% (Plugged In)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Įdėta)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="479"/>
         <source>%1% (%2 Estimated)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% (Apytikriai %2)</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="480"/>
@@ -1086,7 +1086,7 @@
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="655"/>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/systemstart/StartMenu.cpp" line="666"/>
         <source>Workspace %1/%2</source>
-        <translation type="unfinished">Darbo sritis %1/%2</translation>
+        <translation>Darbo sritis %1/%2</translation>
     </message>
 </context>
 <context>
@@ -1099,7 +1099,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="55"/>
         <source>Log Out</source>
-        <translation type="unfinished">Atsijungti</translation>
+        <translation>Atsijungti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.ui" line="71"/>
@@ -1129,12 +1129,12 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>Apply Updates?</source>
-        <translation type="unfinished">Taikyti atnaujinimus?</translation>
+        <translation>Taikyti atnaujinimus?</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/SystemWindow.cpp" line="57"/>
         <source>You have system updates waiting to be applied! Do you wish to install them now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsų sistemoje yra laukiančių atnaujinimų! Ar norite įdiegti juos dabar?</translation>
     </message>
 </context>
 <context>
@@ -1142,7 +1142,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="33"/>
         <source>Go Back</source>
-        <translation type="unfinished">Grįžti</translation>
+        <translation>Grįžti</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserItemWidget.cpp" line="133"/>
@@ -1165,7 +1165,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="14"/>
         <source>UserWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudotojo valdiklis</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.ui" line="24"/>
@@ -1283,7 +1283,7 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="291"/>
         <source>Development</source>
-        <translation type="unfinished">Programavimas</translation>
+        <translation>Programavimas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="292"/>
@@ -1293,32 +1293,32 @@
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="293"/>
         <source>Games</source>
-        <translation type="unfinished">Žaidimai</translation>
+        <translation>Žaidimai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="294"/>
         <source>Graphics</source>
-        <translation type="unfinished">Grafika</translation>
+        <translation>Grafika</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="295"/>
         <source>Network</source>
-        <translation type="unfinished">Tinklas</translation>
+        <translation>Tinklas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="296"/>
         <source>Office</source>
-        <translation type="unfinished">Raštinė</translation>
+        <translation>Raštinė</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="297"/>
         <source>Science</source>
-        <translation type="unfinished">Mokslas</translation>
+        <translation>Mokslas</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="298"/>
         <source>Settings</source>
-        <translation type="unfinished">Nustatymai</translation>
+        <translation>Nustatymai</translation>
     </message>
     <message>
         <location filename="../../lumina-git/src-qt5/core/lumina-desktop/panel-plugins/userbutton/UserWidget.cpp" line="299"/>
